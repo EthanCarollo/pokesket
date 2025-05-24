@@ -5,23 +5,17 @@ public class GameManager : MonoBehaviour
 {
         public static GameManager Instance;
         
-        [SerializeField]
-        private GameObject basketBallPrefab;
-        [SerializeField]
-        private GameObject pokePlayerPrefab;
+        [SerializeField] private GameObject basketBallPrefab;
+        [SerializeField] private GameObject pokePlayerPrefab;
 
-        [NonSerialized]
-        public BasketBall InstanciedBasketBall;
-        [NonSerialized]
-        public PokemonPlayer currentBasketBallHolder;
+        [NonSerialized] public BasketBall InstanciedBasketBall;
+        [NonSerialized] public PokemonPlayer currentBasketBallHolder;
         
         public BasketRim basketRimRed;
         public BasketRim basketRimBlue;
         
-        [NonSerialized]
-        public PokemonPlayer playedPokePlayerBlue;
-        [NonSerialized]
-        public PokemonPlayer playedPokePlayerRed;
+        [NonSerialized] public PokemonPlayer playedPokePlayerBlue;
+        [NonSerialized] public PokemonPlayer playedPokePlayerRed;
 
         public void Start()
         {
@@ -36,6 +30,8 @@ public class GameManager : MonoBehaviour
                 InstanciedBasketBall = Instantiate(basketBallPrefab).GetComponent<BasketBall>();
                 playedPokePlayerBlue = Instantiate(pokePlayerPrefab).GetComponent<PokemonPlayer>();
                 playedPokePlayerBlue.team = BasketTeam.Blue;
+                
+                
                 // Temporary just had one player for test
                 // playedPokePlayerRed = Instantiate(pokePlayerPrefab).GetComponent<PokemonPlayer>();
                 // playedPokePlayerBlue.team = BasketTeam.Red;

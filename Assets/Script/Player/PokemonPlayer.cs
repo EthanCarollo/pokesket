@@ -9,8 +9,7 @@ public class PokemonPlayer : MonoBehaviour
     public BasketTeam team;
     public float speed = 5f;
 
-    [NonSerialized]
-    Vector3 lastMoveDirection = Vector3.up;
+    [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
     public Vector3 Direction => lastMoveDirection;
 
     private IPokemonPlayerState currentState;

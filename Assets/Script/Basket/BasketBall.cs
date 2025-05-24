@@ -4,13 +4,8 @@ using UnityEngine;
 
 public class BasketBall : MonoBehaviour
 { 
-        private PokemonPlayer currentHolder
-        {
-                get
-                {
-                        return GameManager.Instance.currentBasketBallHolder;
-                }
-        }
+        private PokemonPlayer currentHolder => GameManager.Instance.currentBasketBallHolder;
+                
         public Rigidbody rb;
         
         public void Update()
