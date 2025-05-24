@@ -15,6 +15,9 @@ public class GameManager : MonoBehaviour
         [NonSerialized]
         public PokemonPlayer currentBasketBallHolder;
         
+        public BasketRim basketRimRed;
+        public BasketRim basketRimBlue;
+        
         [NonSerialized]
         public PokemonPlayer playedPokePlayerBlue;
         [NonSerialized]

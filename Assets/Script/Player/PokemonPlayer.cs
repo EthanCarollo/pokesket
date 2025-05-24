@@ -33,19 +33,20 @@ public class PokemonPlayer : MonoBehaviour
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
 
-        Vector3 move = new Vector3(h, v, 0);
+        Vector3 move = new Vector3(h, 0, v);
         if (move.sqrMagnitude > 0.01f)
             lastMoveDirection = move.normalized;
 
         transform.Translate(move * speed * Time.deltaTime);
     }
 
+
     public void UpdateState(IPokemonPlayerState newState)
     {
         currentState = newState;
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter(Collider other)
     {
         BasketBall ball = other.GetComponent<BasketBall>();
         if (ball != null)

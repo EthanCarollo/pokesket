@@ -18,5 +18,18 @@ public class AttackState : IPokemonPlayerState
         }
         
         _pokemonPlayer.HandleMovement();
+        if (Input.GetKeyDown(KeyCode.JoystickButton1)) // B on Xbox
+        {
+            LaunchBall();
+        }
+    }
+    
+    public void LaunchBall()
+    {
+        var rim = _pokemonPlayer.team == BasketTeam.Blue 
+            ? GameManager.Instance.basketRimRed.innerRim 
+            : GameManager.Instance.basketRimBlue.innerRim;
+        GameManager.Instance.InstanciedBasketBall.GoDirectlyIn(rim.transform.position);
+        GameManager.Instance.currentBasketBallHolder = null;
     }
 }

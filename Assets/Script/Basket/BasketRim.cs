@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class BasketRim
+public class BasketRim : MonoBehaviour
 {
         public GameObject innerRim;
 }
