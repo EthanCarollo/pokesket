@@ -8,6 +8,7 @@ public class PokemonPlayer : MonoBehaviour
 
     public BasketTeam Team;
     public float speed = 5f;
+    [SerializeField] private SpriteRenderer indicator;
 
     [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
     public Vector3 Direction => lastMoveDirection;
@@ -17,11 +18,14 @@ public class PokemonPlayer : MonoBehaviour
     private void Start()
     {
         currentState = new DefenseState(this);
+        indicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;
     }
 
     void Update()
     {
         currentState?.Update();
+        
+        indicator.gameObject.SetActive(IsControlled);
     }
 
     public void HandleMovement()

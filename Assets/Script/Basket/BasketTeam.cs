@@ -12,7 +12,7 @@ public class TeamRim
 
 public class BasketTeam : MonoBehaviour
 {
-    [SerializeField] private TeamName teamName;
+    [SerializeField] public TeamName teamName;
     [SerializeField] private Transform[] teamSpawnPoints;
     [SerializeField] private GameObject[] pokemonPrefabs;
 
@@ -38,7 +38,10 @@ public class BasketTeam : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.JoystickButton7)) // RB on Xbox
         {
-            SwitchControlledPlayer();
+            if (!controlledPlayer.HasBall)
+            {
+                SwitchControlledPlayer();
+            }
         }
     }
 
