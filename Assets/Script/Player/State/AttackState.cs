@@ -3,10 +3,12 @@
 public class AttackState : IPokemonPlayerState
 {
     private PokemonPlayer _pokemonPlayer;
-    
+    private float speed = 5f;
+
     public AttackState(PokemonPlayer pokemonPlayer)
     {
         _pokemonPlayer = pokemonPlayer;
+        _pokemonPlayer.speed = speed;
     }
 
     public void Update()

@@ -36,7 +36,7 @@ public class BasketTeam : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Joystick2Button5)) // RB on Xbox
+        if (Input.GetKeyDown(KeyCode.JoystickButton7)) // RB on Xbox
         {
             SwitchControlledPlayer();
         }
