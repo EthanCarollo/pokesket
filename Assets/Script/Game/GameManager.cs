@@ -1,45 +1,32 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-        public static GameManager Instance;
-        
-        [SerializeField] private GameObject basketBallPrefab;
-        [SerializeField] private GameObject pokePlayerPrefab;
+    public static GameManager Instance;
+    [SerializeField] private BasketTeam[] teams;
+    [SerializeField] private TeamRim[] teamRims;
 
-        [NonSerialized] public BasketBall InstanciedBasketBall;
-        [NonSerialized] public PokemonPlayer currentBasketBallHolder;
-        
-        public BasketRim basketRimRed;
-        public BasketRim basketRimBlue;
-        
-        [NonSerialized] public PokemonPlayer playedPokePlayerBlue;
-        [NonSerialized] public PokemonPlayer playedPokePlayerRed;
-
-        public void Start()
+    void Awake()
+    {
+        if (Instance != null && Instance != this)
         {
-                Instance = this;
-                StartMatch();
+            Destroy(gameObject);
+            return;
         }
+        Instance = this;
+    }
 
-        public void StartMatch()
+    void Start()
+    {
+        BasketBallManager.Instance.StartMatch();
+        foreach (BasketTeam team in teams)
         {
-                // Put this in another method cause we could maybe call it from a SceneTransitor and not
-                // on start of the whole script, shit is still temporary
-                InstanciedBasketBall = Instantiate(basketBallPrefab).GetComponent<BasketBall>();
-                playedPokePlayerBlue = Instantiate(pokePlayerPrefab).GetComponent<PokemonPlayer>();
-                playedPokePlayerBlue.team = BasketTeam.Blue;
-                
-                
-                // Temporary just had one player for test
-                // playedPokePlayerRed = Instantiate(pokePlayerPrefab).GetComponent<PokemonPlayer>();
-                // playedPokePlayerBlue.team = BasketTeam.Red;
+            team.StartMatch();
         }
-}
+    }
 
-public enum BasketTeam
-{
-        Blue,
-        Red
+    public TeamRim GetTeamRim(TeamName teamName)
+    {
+        return teamRims[(int)teamName];
+    }
 }

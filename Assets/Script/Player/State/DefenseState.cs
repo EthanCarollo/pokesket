@@ -10,11 +10,8 @@ public class DefenseState : IPokemonPlayerState
     }
 
     public void Update()
-    {
-        // Actually those functions are shitty cause we have nothing in it but I swear to god this shit is gonna be 
-        // usefull
-        
-        if(_pokemonPlayer.hasBall)
+    {   
+        if(_pokemonPlayer.HasBall)
         {
             _pokemonPlayer.UpdateState(new AttackState(_pokemonPlayer));
             return;

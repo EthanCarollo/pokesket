@@ -2,5 +2,5 @@
 
 public class BasketRim : MonoBehaviour
 {
-        public GameObject innerRim;
+    public GameObject innerRim;
 }

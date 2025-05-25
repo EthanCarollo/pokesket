@@ -11,25 +11,30 @@ public class AttackState : IPokemonPlayerState
 
     public void Update()
     {
-        if(!_pokemonPlayer.hasBall)
+        if (!_pokemonPlayer.HasBall)
         {
             _pokemonPlayer.UpdateState(new DefenseState(_pokemonPlayer));
             return;
         }
-        
+
         _pokemonPlayer.HandleMovement();
-        if (Input.GetKeyDown(KeyCode.JoystickButton1)) // B on Xbox
+
+        if (_pokemonPlayer.IsControlled)
         {
-            LaunchBall();
+            if (Input.GetKeyDown(KeyCode.JoystickButton1)) // B on Xbox
+            {
+                LaunchBall();
+            }
+        }
+        else
+        {
+            // AI Attack
         }
     }
     
     public void LaunchBall()
     {
-        var rim = _pokemonPlayer.team == BasketTeam.Blue 
-            ? GameManager.Instance.basketRimRed.innerRim 
-            : GameManager.Instance.basketRimBlue.innerRim;
-        GameManager.Instance.InstanciedBasketBall.GoDirectlyIn(rim.transform.position);
-        GameManager.Instance.currentBasketBallHolder = null;
+        var rim = _pokemonPlayer.Team.GetTargetRim();
+        BasketBallManager.Instance.ShootTo(rim);
     }
 }

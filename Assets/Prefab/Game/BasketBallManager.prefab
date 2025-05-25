@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3461000483807578196
+--- !u!1 &5675922159845769270
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,47 +8,41 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 756004766109720694}
-  - component: {fileID: 8711475477852889686}
+  - component: {fileID: 7152574819443990050}
+  - component: {fileID: 1664230892332603976}
   m_Layer: 0
-  m_Name: GameManager
+  m_Name: BasketBallManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &756004766109720694
+--- !u!4 &7152574819443990050
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3461000483807578196}
+  m_GameObject: {fileID: 5675922159845769270}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.4901308, y: 0.170805, z: 0.07150224}
+  m_LocalPosition: {x: 0.33276427, y: 2.5956953, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8711475477852889686
+--- !u!114 &1664230892332603976
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3461000483807578196}
+  m_GameObject: {fileID: 5675922159845769270}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec1e815bd29e4611a020e75eb381d45a, type: 3}
+  m_Script: {fileID: 11500000, guid: e57743a6cb8b447e4857379a37f8dd84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  teams:
-  - {fileID: 0}
-  - {fileID: 0}
-  teamRims:
-  - teamName: 0
-    ownerRim: {fileID: 0}
-  - teamName: 1
-    ownerRim: {fileID: 0}
+  ballPrefab: {fileID: 3676091004353209454, guid: 65c2ee872e14ddb4f9ae988a31ff9146, type: 3}
+  ballSpawnPoint: {fileID: 0}
