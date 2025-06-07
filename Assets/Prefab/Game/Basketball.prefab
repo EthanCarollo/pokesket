@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 3742742272518819067}
   m_Layer: 0
   m_Name: Basketball
-  m_TagString: Untagged
+  m_TagString: Ball
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1db17bb4debc432da43028ae5c545c61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
+  _isShooting: 0
 --- !u!54 &5689174674081526526
 Rigidbody:
   m_ObjectHideFlags: 0
