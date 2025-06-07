@@ -1,9 +1,13 @@
 ﻿using System.Collections;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody))]
 public class BasketBall : MonoBehaviour
 {
     private PokemonPlayer currentHolder => BasketBallManager.Instance.BallHolder;
+    private Rigidbody rb => GetComponent<Rigidbody>();
+    [SerializeField]private bool _isShooting = false;
+    public bool IsShooting => _isShooting;
 
     public void Update()
     {
@@ -14,50 +18,75 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    public void GoDirectlyIn(Vector3 target)
+    public void GoDirectlyIn(Vector3 target, float precision)
     {
-        StartCoroutine(WaitThenMoveToRim(target));
+        StartCoroutine(WaitThenMoveToRim(target, precision));
     }
 
-    private IEnumerator MoveToRim(Vector3 target)
+    private void OnCollisionEnter(Collision collision)
     {
-        float duration = 0.6f;
-        float time = 0f;
+        // On considère que le tir est terminé uniquement si on touche le sol ou l’anneau
+        if (collision.collider.CompareTag("Ground") || collision.collider.CompareTag("Ring"))
+        {
+            _isShooting = false;
+        }
+    }
+
+    private IEnumerator WaitThenMoveToRim(Vector3 target, float precision)
+    {
+        yield return null; // attendre une frame pour relâcher le "suivi"
+        ShootTowardsBasket(target, precision);
+    }
+
+    public void ShootTowardsBasket(Vector3 target, float precision)
+    {
+        rb.useGravity = true;
+        rb.isKinematic = false;
 
         Vector3 start = transform.position;
 
-        // On ajuste la cible pour viser légèrement au-dessus et devant l’arceau
-        Vector3 adjustedTarget = target + Vector3.up * 0.3f - transform.forward * 0.1f;
-
-        // Positions projetées au sol (XZ uniquement)
-        Vector3 horizontalStart = new Vector3(start.x, 0f, start.z);
-        Vector3 horizontalTarget = new Vector3(adjustedTarget.x, 0f, adjustedTarget.z);
-
-        float arcHeight = 2.5f;
-
-        while (time < duration)
+        // --- PRÉCISION ---
+        bool isSuccessful = Random.value <= Mathf.Clamp01(precision);
+        if (!isSuccessful)
         {
-            float t = time / duration;
+            // Ajoute une déviation de cible (max 1m) si le tir est raté
+            float missRadius = 1.0f * (1f - precision); // plus on est imprécis, plus la déviation est grande
 
-            // Interpolation linéaire en XZ
-            Vector3 horizontalPos = Vector3.Lerp(horizontalStart, horizontalTarget, t);
+            Vector2 offset2D = Random.insideUnitCircle.normalized * Random.Range(0.2f, missRadius);
+            Vector3 offset = new Vector3(offset2D.x, 0, offset2D.y); // décalage uniquement en XZ
 
-            // Calcul de la hauteur via une parabole (cloche)
-            float height = Mathf.Sin(Mathf.PI * t) * arcHeight;
-
-            // Position finale combinée
-            transform.position = new Vector3(horizontalPos.x, adjustedTarget.y + height, horizontalPos.z);
-
-            time += Time.deltaTime;
-            yield return null;
+            target += offset;
         }
 
-        transform.position = adjustedTarget;
+        Vector3 velocity = CalculateArcVelocity(start, target);
+
+        rb.linearVelocity = velocity;
+        _isShooting = true;
     }
-    
-    private IEnumerator WaitThenMoveToRim(Vector3 target)
+
+    private Vector3 CalculateArcVelocity(Vector3 start, Vector3 end)
     {
-        yield return null; // attendre une frame pour relâcher le "suivi"
-        yield return MoveToRim(target);
+        float gravity = Mathf.Abs(Physics.gravity.y);
+
+        Vector3 displacementXZ = new Vector3(end.x - start.x, 0, end.z - start.z);
+        float distance = displacementXZ.magnitude;
+
+        // Hauteur max = point le plus haut + arc en fonction de la distance
+        float arcFactor = 0.3f;               // Influence de la distance sur la hauteur de la cloche
+        float minArcExtra = 1.0f;             // Hauteur minimale ajoutée à l'apex
+        float maxArcExtra = 2.5f;             // Hauteur maximale ajoutée à l'apex
+        float arcExtra = Mathf.Clamp(distance * arcFactor, minArcExtra, maxArcExtra);
+
+        float apexHeight = Mathf.Max(start.y, end.y) + arcExtra;
+
+        // Temps vers le sommet
+        float timeToApex = Mathf.Sqrt(2 * (apexHeight - start.y) / gravity);
+        float timeFromApex = Mathf.Sqrt(2 * (apexHeight - end.y) / gravity);
+        float totalTime = timeToApex + timeFromApex;
+
+        Vector3 velocityXZ = displacementXZ / totalTime;
+        float velocityY = Mathf.Sqrt(2 * gravity * (apexHeight - start.y));
+
+        return velocityXZ + Vector3.up * velocityY;
     }
 }

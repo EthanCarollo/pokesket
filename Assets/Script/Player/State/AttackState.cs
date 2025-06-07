@@ -37,6 +37,6 @@ public class AttackState : IPokemonPlayerState
     public void LaunchBall()
     {
         var rim = _pokemonPlayer.Team.GetTargetRim();
-        BasketBallManager.Instance.ShootTo(rim);
+        BasketBallManager.Instance.ShootTo(rim, _pokemonPlayer.precision);
     }
 }

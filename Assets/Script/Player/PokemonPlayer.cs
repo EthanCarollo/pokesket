@@ -6,8 +6,11 @@ public class PokemonPlayer : MonoBehaviour
     public bool IsControlled => Team.IsControlled(this);
     public bool HasBall => BasketBallManager.Instance.IsPlayerHoldingBall(this);
 
-    public BasketTeam Team;
+    [Header("Stats")]
     public float speed = 5f;
+    [Range(0f, 1f)] public float precision = 0.5f;
+    [Header("References")]
+    public BasketTeam Team;
     [SerializeField] private SpriteRenderer indicator;
 
     [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
@@ -56,7 +59,7 @@ public class PokemonPlayer : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
         BasketBall ball = other.GetComponent<BasketBall>();
-        if (ball != null)
+        if (ball != null && !ball.IsShooting)
         {
             BasketBallManager.Instance.SetBallHolder(this);
         }

@@ -35,9 +35,9 @@ public class BasketBallManager : MonoBehaviour
         return ballHolder == player;
     }
 
-    public void ShootTo(Transform target)
+    public void ShootTo(Transform target, float precision)
     {
         SetBallHolder(null);
-        basketBall.GoDirectlyIn(target.position);
+        basketBall.GoDirectlyIn(target.position, precision);
     }
 }
