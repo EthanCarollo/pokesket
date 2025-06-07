@@ -5,7 +5,7 @@ using UnityEngine;
 public class BasketBall : MonoBehaviour
 {
     private PokemonPlayer currentHolder => BasketBallManager.Instance.BallHolder;
-    private Rigidbody rb => GetComponent<Rigidbody>();
+    public Rigidbody rb => GetComponent<Rigidbody>();
     [SerializeField]private bool _isShooting = false;
     public bool IsShooting => _isShooting;
 
@@ -18,11 +18,6 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    public void GoDirectlyIn(Vector3 target, float precision)
-    {
-        StartCoroutine(WaitThenMoveToRim(target, precision));
-    }
-
     private void OnCollisionEnter(Collision collision)
     {
         // On considère que le tir est terminé uniquement si on touche le sol ou l’anneau
@@ -32,36 +27,47 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    private IEnumerator WaitThenMoveToRim(Vector3 target, float precision)
-    {
-        yield return null; // attendre une frame pour relâcher le "suivi"
-        ShootTowardsBasket(target, precision);
-    }
-
     public void ShootTowardsBasket(Vector3 target, float precision)
     {
+        _isShooting = true;
+
         rb.useGravity = true;
         rb.isKinematic = false;
 
         Vector3 start = transform.position;
+        Vector3 originalTarget = target;
 
-        // --- PRÉCISION ---
+        // Distance entre le tireur et le panier
+        float distance = Vector3.Distance(start, target);
+
+        // --- PRÉCISION PRINCIPALE ---
         bool isSuccessful = Random.value <= Mathf.Clamp01(precision);
+
         if (!isSuccessful)
         {
-            // Ajoute une déviation de cible (max 1m) si le tir est raté
-            float missRadius = 1.0f * (1f - precision); // plus on est imprécis, plus la déviation est grande
-
+            // Tir raté complet → grosse déviation
+            float missRadius = 1.0f * (1f - precision);
             Vector2 offset2D = Random.insideUnitCircle.normalized * Random.Range(0.2f, missRadius);
-            Vector3 offset = new Vector3(offset2D.x, 0, offset2D.y); // décalage uniquement en XZ
-
+            Vector3 offset = new Vector3(offset2D.x, 0, offset2D.y);
             target += offset;
+        }
+        else
+        {
+            // Tir "réussi", mais potentiellement imprécis selon distance
+            float distancePenaltyFactor = 0.1f; // combien la distance impacte l'imprécision (ajustable)
+            float distancePenalty = distance * (1f - precision) * distancePenaltyFactor;
+
+            if (distancePenalty > 0.01f)
+            {
+                // Ajoute une déviation mineure malgré réussite
+                Vector2 microOffset2D = Random.insideUnitCircle.normalized * Random.Range(0f, distancePenalty);
+                Vector3 microOffset = new Vector3(microOffset2D.x, 0, microOffset2D.y);
+                target += microOffset;
+            }
         }
 
         Vector3 velocity = CalculateArcVelocity(start, target);
-
         rb.linearVelocity = velocity;
-        _isShooting = true;
     }
 
     private Vector3 CalculateArcVelocity(Vector3 start, Vector3 end)
