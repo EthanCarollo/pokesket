@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
-  m_Name: Darkrai
+  m_Name: Gengar
   m_EditorClassIdentifier: 
-  id: 1
-  pokemonName: Darkrai
+  id: 2
+  pokemonName: Ectoplasma
   speed: 5
-  pokemonPortrait: {fileID: 703279585, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
-  pokemonSprite: {fileID: 5800153149764636962, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  pokemonPortrait: {fileID: 1891422494, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: 6316223085579692144, guid: f817b3128b31a534b9c609c606690e61, type: 3}

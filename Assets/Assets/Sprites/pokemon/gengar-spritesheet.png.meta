@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: f817b3128b31a534b9c609c606690e61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6316223085579692144
+    second: gengar-spritesheet_0
+  - first:
+      213: 6510394683697567538
+    second: gengar-spritesheet_1
+  - first:
+      213: -6979786736605963485
+    second: gengar-spritesheet_2
+  - first:
+      213: -319757435870456670
+    second: gengar-spritesheet_3
+  - first:
+      213: 4326183496736720003
+    second: gengar-spritesheet_4
+  - first:
+      213: 2962292593555476505
+    second: gengar-spritesheet_5
+  - first:
+      213: 2947400326472762013
+    second: gengar-spritesheet_6
+  - first:
+      213: -3405629430842347597
+    second: gengar-spritesheet_7
+  - first:
+      213: -3809580108031886830
+    second: gengar-spritesheet_8
+  - first:
+      213: 5823515475257757442
+    second: gengar-spritesheet_9
+  - first:
+      213: 7466103285816724940
+    second: gengar-spritesheet_10
+  - first:
+      213: 4901296336262156212
+    second: gengar-spritesheet_11
+  - first:
+      213: 396137865910579027
+    second: gengar-spritesheet_12
+  - first:
+      213: 3717920916728459048
+    second: gengar-spritesheet_13
+  - first:
+      213: -3034993057621589678
+    second: gengar-spritesheet_14
+  - first:
+      213: 6617509722826033198
+    second: gengar-spritesheet_15
+  - first:
+      213: -8359407487188113939
+    second: gengar-spritesheet_16
+  - first:
+      213: -2093051099612280966
+    second: gengar-spritesheet_17
+  - first:
+      213: -7574014540248397465
+    second: gengar-spritesheet_18
+  - first:
+      213: 6621463668748521032
+    second: gengar-spritesheet_19
+  - first:
+      213: 4241197338369442612
+    second: gengar-spritesheet_20
+  - first:
+      213: -3574823381033329802
+    second: gengar-spritesheet_21
+  - first:
+      213: 7052865695461867619
+    second: gengar-spritesheet_22
+  - first:
+      213: -5693869744414840099
+    second: gengar-spritesheet_23
+  - first:
+      213: -8633781947386214371
+    second: gengar-spritesheet_24
+  - first:
+      213: 119464726468354412
+    second: gengar-spritesheet_25
+  - first:
+      213: 7819836389955590240
+    second: gengar-spritesheet_26
+  - first:
+      213: -5621943584782860627
+    second: gengar-spritesheet_27
+  - first:
+      213: 2921946072713396200
+    second: gengar-spritesheet_28
+  - first:
+      213: -8076506515823711908
+    second: gengar-spritesheet_29
+  - first:
+      213: -7716440757796819656
+    second: gengar-spritesheet_30
+  - first:
+      213: -7834008255349972108
+    second: gengar-spritesheet_31
+  - first:
+      213: 6516483439468089137
+    second: gengar-spritesheet_32
+  - first:
+      213: 1380354080246905577
+    second: gengar-spritesheet_33
+  - first:
+      213: -8427614611902877457
+    second: gengar-spritesheet_34
+  - first:
+      213: 6165887797949225780
+    second: gengar-spritesheet_35
+  - first:
+      213: -4937422301182900640
+    second: gengar-spritesheet_36
+  - first:
+      213: 963040613428890632
+    second: gengar-spritesheet_37
+  - first:
+      213: -848110534023165446
+    second: gengar-spritesheet_38
+  - first:
+      213: -5699171569771325516
+    second: gengar-spritesheet_39
+  - first:
+      213: -280707056434919936
+    second: gengar-spritesheet_40
+  - first:
+      213: -1731964754763678169
+    second: gengar-spritesheet_41
+  - first:
+      213: -5663023199397560089
+    second: gengar-spritesheet_42
+  - first:
+      213: -8092556875363787125
+    second: gengar-spritesheet_43
+  - first:
+      213: -1128749511278079537
+    second: gengar-spritesheet_44
+  - first:
+      213: 687533574132218742
+    second: gengar-spritesheet_45
+  - first:
+      213: -1275821045300630963
+    second: gengar-spritesheet_46
+  - first:
+      213: -8862013560140297149
+    second: gengar-spritesheet_47
+  - first:
+      213: -5245716534726822543
+    second: gengar-spritesheet_48
+  - first:
+      213: -5373941530646148904
+    second: gengar-spritesheet_49
+  - first:
+      213: -3224443507236887782
+    second: gengar-spritesheet_50
+  - first:
+      213: -6370324430754924716
+    second: gengar-spritesheet_51
+  - first:
+      213: -544379885840333664
+    second: gengar-spritesheet_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gengar-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 174
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078691a7e6bb7a750800000000000000
+      internalID: 6316223085579692144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 172
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2379265a871995a50800000000000000
+      internalID: 6510394683697567538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 196
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b5e9c81f0d22f90800000000000000
+      internalID: -6979786736605963485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 196
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d6a46e4eff8bf0800000000000000
+      internalID: -319757435870456670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 196
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384462c18f0b90c30800000000000000
+      internalID: 4326183496736720003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91015af3b6d2c1920800000000000000
+      internalID: 2962292593555476505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 186
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92874e1bf447e820800000000000000
+      internalID: 2947400326472762013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 186
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfa6029316ccb0d0800000000000000
+      internalID: -3405629430842347597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a7d556317a12bc0800000000000000
+      internalID: -3809580108031886830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 148
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f8abe687841d050800000000000000
+      internalID: 5823515475257757442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 173
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd8b7f916dec9760800000000000000
+      internalID: 7466103285816724940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 170
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf44d5bc07e40440800000000000000
+      internalID: 4901296336262156212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 171
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f6eab4a4d5f7500800000000000000
+      internalID: 396137865910579027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 170
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f28981065b89330800000000000000
+      internalID: 3717920916728459048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 155
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25140b8e4e981e5d0800000000000000
+      internalID: -3034993057621589678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 152
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e284db6280e16db50800000000000000
+      internalID: 6617509722826033198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 153
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de569613e2b6dfb80800000000000000
+      internalID: -8359407487188113939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 148
+        width: 25
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a778ed64d1df3f2e0800000000000000
+      internalID: -2093051099612280966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 148
+        width: 27
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769c9dc87e1b3e690800000000000000
+      internalID: -7574014540248397465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e09ecef1a24eb50800000000000000
+      internalID: 6621463668748521032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 143
+        width: 20
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433c7d72282cbda30800000000000000
+      internalID: 4241197338369442612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 144
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b5fbe331da36ec0800000000000000
+      internalID: -3574823381033329802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 144
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3600b8a7bffc0e160800000000000000
+      internalID: 7052865695461867619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 125
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2fc682af4bf0b0800000000000000
+      internalID: -5693869744414840099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 126
+        width: 37
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d184dd50015ae2880800000000000000
+      internalID: -8633781947386214371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 121
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e558298c68a100800000000000000
+      internalID: 119464726468354412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 121
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068d9f0f3c3a58c60800000000000000
+      internalID: 7819836389955590240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 121
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3bb19818daf1b0800000000000000
+      internalID: -5621943584782860627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 118
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8effde4d876dc8820800000000000000
+      internalID: 2921946072713396200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 117
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5923327d1c7aef80800000000000000
+      internalID: -8076506515823711908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 118
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dac25a302b9e490800000000000000
+      internalID: -7716440757796819656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 126
+        width: 36
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47323648ff2084390800000000000000
+      internalID: -7834008255349972108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 94
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f063299233f6a50800000000000000
+      internalID: 6516483439468089137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eab069f8b0082310800000000000000
+      internalID: 1380354080246905577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 94
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe033a179291b0b80800000000000000
+      internalID: -8427614611902877457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 95
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bdda1b842a19550800000000000000
+      internalID: 6165887797949225780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 93
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c6ef9390ca7bb0800000000000000
+      internalID: -4937422301182900640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 91
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c04b3e5586d5d00800000000000000
+      internalID: 963040613428890632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 91
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9484976f7ea34f0800000000000000
+      internalID: -848110534023165446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 92
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b756cd17a978e0b0800000000000000
+      internalID: -5699171569771325516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 97
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006404f5b6aba1cf0800000000000000
+      internalID: -280707056434919936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 96
+        width: 33
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e70dc5b33d6f7e0800000000000000
+      internalID: -1731964754763678169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 98
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0cc157766e861b0800000000000000
+      internalID: -5663023199397560089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8edb47e56671bf80800000000000000
+      internalID: -8092556875363787125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 68
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1dfd3cc40e550f0800000000000000
+      internalID: -1128749511278079537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 68
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b3e49942c9a8900800000000000000
+      internalID: 687533574132218742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 67
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a63e5d48f5b4ee0800000000000000
+      internalID: -1275821045300630963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 21
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c8429be9dc30580800000000000000
+      internalID: -8862013560140297149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 64
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175f63bca987337b0800000000000000
+      internalID: -5245716534726822543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 65
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d80e1676aceb65b0800000000000000
+      internalID: -5373941530646148904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 32
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a4d8c6b97043d0800000000000000
+      internalID: -3224443507236887782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 55
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4573cd08eaf0897a0800000000000000
+      internalID: -6370324430754924716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gengar-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48e99c069f178f0800000000000000
+      internalID: -544379885840333664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44ffe77eb90a3164a9e1094a7be1ff38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gengar-spritesheet_0: 6316223085579692144
+      gengar-spritesheet_1: 6510394683697567538
+      gengar-spritesheet_10: 7466103285816724940
+      gengar-spritesheet_11: 4901296336262156212
+      gengar-spritesheet_12: 396137865910579027
+      gengar-spritesheet_13: 3717920916728459048
+      gengar-spritesheet_14: -3034993057621589678
+      gengar-spritesheet_15: 6617509722826033198
+      gengar-spritesheet_16: -8359407487188113939
+      gengar-spritesheet_17: -2093051099612280966
+      gengar-spritesheet_18: -7574014540248397465
+      gengar-spritesheet_19: 6621463668748521032
+      gengar-spritesheet_2: -6979786736605963485
+      gengar-spritesheet_20: 4241197338369442612
+      gengar-spritesheet_21: -3574823381033329802
+      gengar-spritesheet_22: 7052865695461867619
+      gengar-spritesheet_23: -5693869744414840099
+      gengar-spritesheet_24: -8633781947386214371
+      gengar-spritesheet_25: 119464726468354412
+      gengar-spritesheet_26: 7819836389955590240
+      gengar-spritesheet_27: -5621943584782860627
+      gengar-spritesheet_28: 2921946072713396200
+      gengar-spritesheet_29: -8076506515823711908
+      gengar-spritesheet_3: -319757435870456670
+      gengar-spritesheet_30: -7716440757796819656
+      gengar-spritesheet_31: -7834008255349972108
+      gengar-spritesheet_32: 6516483439468089137
+      gengar-spritesheet_33: 1380354080246905577
+      gengar-spritesheet_34: -8427614611902877457
+      gengar-spritesheet_35: 6165887797949225780
+      gengar-spritesheet_36: -4937422301182900640
+      gengar-spritesheet_37: 963040613428890632
+      gengar-spritesheet_38: -848110534023165446
+      gengar-spritesheet_39: -5699171569771325516
+      gengar-spritesheet_4: 4326183496736720003
+      gengar-spritesheet_40: -280707056434919936
+      gengar-spritesheet_41: -1731964754763678169
+      gengar-spritesheet_42: -5663023199397560089
+      gengar-spritesheet_43: -8092556875363787125
+      gengar-spritesheet_44: -1128749511278079537
+      gengar-spritesheet_45: 687533574132218742
+      gengar-spritesheet_46: -1275821045300630963
+      gengar-spritesheet_47: -8862013560140297149
+      gengar-spritesheet_48: -5245716534726822543
+      gengar-spritesheet_49: -5373941530646148904
+      gengar-spritesheet_5: 2962292593555476505
+      gengar-spritesheet_50: -3224443507236887782
+      gengar-spritesheet_51: -6370324430754924716
+      gengar-spritesheet_52: -544379885840333664
+      gengar-spritesheet_6: 2947400326472762013
+      gengar-spritesheet_7: -3405629430842347597
+      gengar-spritesheet_8: -3809580108031886830
+      gengar-spritesheet_9: 5823515475257757442
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

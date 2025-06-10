@@ -1,17 +1,19 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SelectablePokemonPanel : MonoBehaviour
 {
     public GameObject selectablePokemonPrefab;
     
-    // Selected player Characters prefab
     public Pokemon[] selectedPlayer1Characters;
     public Pokemon[] selectedPlayer2Characters;
     
-    // Player Characters preview prefab
     public GameObject[] selectedPlayer1CharactersPreview;
     public GameObject[] selectedPlayer2CharactersPreview;
+    
+    public Button startButton;
+    private int gameSceneIndex = 2;
 
     public void Start()
     {
@@ -19,7 +21,6 @@ public class SelectablePokemonPanel : MonoBehaviour
         {
             Destroy(child.gameObject);
         }
-        
         
         Pokemon[] pokemons = PokemonDatabase.Instance.pokemons;
 
@@ -31,6 +32,12 @@ public class SelectablePokemonPanel : MonoBehaviour
         }
         
         UpdateCharacterPreviews();
+        CheckButtonState();
+    }
+
+    private void Update()
+    {
+        RefreshPreviews();
     }
 
     private void UpdateCharacterPreviews()
@@ -64,9 +71,49 @@ public class SelectablePokemonPanel : MonoBehaviour
         }
     }
     
+    private void CheckButtonState()
+    {
+        if (startButton != null)
+            startButton.interactable = EveryoneSelected();
+    }
+
+    public bool EveryoneSelected()
+    {
+        bool allSelected = true;
+        
+        if(selectedPlayer1Characters.Length < 3)
+        {
+            allSelected = false;
+        }
+        foreach (Pokemon pokemon in selectedPlayer1Characters)
+        {
+            if (pokemon == null) allSelected = false;
+        }
+        
+        
+        if(selectedPlayer2Characters.Length < 3)
+        {
+            allSelected = false;
+        }
+        foreach (Pokemon pokemon in selectedPlayer2Characters)
+        {
+            if (pokemon == null) allSelected = false;
+        }
+        return allSelected;
+    }
+    
     public void RefreshPreviews()
     {
         UpdateCharacterPreviews();
+        CheckButtonState();
+    }
+
+    public void LaunchGame()
+    {
+        if (EveryoneSelected())
+        {
+            SceneTransitor.Instance.LoadScene(gameSceneIndex);
+        }
     }
     
     public void SelectPokemonForPlayer1(int slot, Pokemon pokemon)
@@ -75,6 +122,7 @@ public class SelectablePokemonPanel : MonoBehaviour
         {
             selectedPlayer1Characters[slot] = pokemon;
             UpdateCharacterPreviews();
+            CheckButtonState();
         }
     }
     
@@ -84,6 +132,7 @@ public class SelectablePokemonPanel : MonoBehaviour
         {
             selectedPlayer2Characters[slot] = pokemon;
             UpdateCharacterPreviews();
+            CheckButtonState();
         }
     }
 }

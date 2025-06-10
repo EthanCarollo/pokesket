@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: 713d4cfdb27e1e94a8dffa99e46521e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2646207721991759615
+    second: raikou-spritesheet_0
+  - first:
+      213: -1983845965241193678
+    second: raikou-spritesheet_1
+  - first:
+      213: -5679091985391787227
+    second: raikou-spritesheet_2
+  - first:
+      213: 5789652803769220065
+    second: raikou-spritesheet_3
+  - first:
+      213: -6422376197734458976
+    second: raikou-spritesheet_4
+  - first:
+      213: 6879285967671427711
+    second: raikou-spritesheet_5
+  - first:
+      213: 3894123199433306612
+    second: raikou-spritesheet_6
+  - first:
+      213: 828839291935167071
+    second: raikou-spritesheet_7
+  - first:
+      213: 2044090331788632640
+    second: raikou-spritesheet_8
+  - first:
+      213: 8235660897380557708
+    second: raikou-spritesheet_9
+  - first:
+      213: -599679057071560619
+    second: raikou-spritesheet_10
+  - first:
+      213: -6521287441531341029
+    second: raikou-spritesheet_11
+  - first:
+      213: -1486109126740751476
+    second: raikou-spritesheet_12
+  - first:
+      213: 2054660316641710967
+    second: raikou-spritesheet_13
+  - first:
+      213: 6642131407817193947
+    second: raikou-spritesheet_14
+  - first:
+      213: 1283064331180566979
+    second: raikou-spritesheet_15
+  - first:
+      213: -3901579331254966647
+    second: raikou-spritesheet_16
+  - first:
+      213: -3067552417538191708
+    second: raikou-spritesheet_17
+  - first:
+      213: 1113343775395205710
+    second: raikou-spritesheet_18
+  - first:
+      213: 7627009172862601345
+    second: raikou-spritesheet_19
+  - first:
+      213: -4964628800914933661
+    second: raikou-spritesheet_20
+  - first:
+      213: -8223882622230861286
+    second: raikou-spritesheet_21
+  - first:
+      213: 3333755020055233353
+    second: raikou-spritesheet_22
+  - first:
+      213: -1032417671033112036
+    second: raikou-spritesheet_23
+  - first:
+      213: -1535012388461905472
+    second: raikou-spritesheet_24
+  - first:
+      213: -4510183597445243396
+    second: raikou-spritesheet_25
+  - first:
+      213: 4764721656187188694
+    second: raikou-spritesheet_26
+  - first:
+      213: -7952916949896931895
+    second: raikou-spritesheet_27
+  - first:
+      213: 7674941274920720531
+    second: raikou-spritesheet_28
+  - first:
+      213: -783371643884736561
+    second: raikou-spritesheet_29
+  - first:
+      213: -8300308946845284086
+    second: raikou-spritesheet_30
+  - first:
+      213: -7444750533844809390
+    second: raikou-spritesheet_31
+  - first:
+      213: -6903999347895758756
+    second: raikou-spritesheet_32
+  - first:
+      213: -4180601961705751221
+    second: raikou-spritesheet_33
+  - first:
+      213: 7776851740067292162
+    second: raikou-spritesheet_34
+  - first:
+      213: -541506738440312459
+    second: raikou-spritesheet_35
+  - first:
+      213: 5592085413466367629
+    second: raikou-spritesheet_36
+  - first:
+      213: -6123297566247912858
+    second: raikou-spritesheet_37
+  - first:
+      213: 629553859145910781
+    second: raikou-spritesheet_38
+  - first:
+      213: -8578162219053905233
+    second: raikou-spritesheet_39
+  - first:
+      213: -6197569829639620807
+    second: raikou-spritesheet_40
+  - first:
+      213: -3701952004529914088
+    second: raikou-spritesheet_41
+  - first:
+      213: -6009322272876883384
+    second: raikou-spritesheet_42
+  - first:
+      213: 6579652961283559675
+    second: raikou-spritesheet_43
+  - first:
+      213: -2783726335674133134
+    second: raikou-spritesheet_44
+  - first:
+      213: -2367654714971147343
+    second: raikou-spritesheet_45
+  - first:
+      213: 25668576931669729
+    second: raikou-spritesheet_46
+  - first:
+      213: 9203524642694690653
+    second: raikou-spritesheet_47
+  - first:
+      213: 3484822706056825938
+    second: raikou-spritesheet_48
+  - first:
+      213: -6108276980192933595
+    second: raikou-spritesheet_49
+  - first:
+      213: -7494082717208952541
+    second: raikou-spritesheet_50
+  - first:
+      213: -928908095130451495
+    second: raikou-spritesheet_51
+  - first:
+      213: 1186585448599647736
+    second: raikou-spritesheet_52
+  - first:
+      213: -1842727148108790523
+    second: raikou-spritesheet_53
+  - first:
+      213: 5791828435455380163
+    second: raikou-spritesheet_54
+  - first:
+      213: -24150966701893615
+    second: raikou-spritesheet_55
+  - first:
+      213: -2899518219990761029
+    second: raikou-spritesheet_56
+  - first:
+      213: 4284235463308255486
+    second: raikou-spritesheet_57
+  - first:
+      213: 6170597496493849623
+    second: raikou-spritesheet_58
+  - first:
+      213: -6453982555885068505
+    second: raikou-spritesheet_59
+  - first:
+      213: -639639074301628858
+    second: raikou-spritesheet_60
+  - first:
+      213: -879734222881693830
+    second: raikou-spritesheet_61
+  - first:
+      213: 2619795573438764118
+    second: raikou-spritesheet_62
+  - first:
+      213: -4958512968436444365
+    second: raikou-spritesheet_63
+  - first:
+      213: 8327216143966818080
+    second: raikou-spritesheet_64
+  - first:
+      213: 4059279596384905307
+    second: raikou-spritesheet_65
+  - first:
+      213: 1042840163561408927
+    second: raikou-spritesheet_66
+  - first:
+      213: 5825495880939550583
+    second: raikou-spritesheet_67
+  - first:
+      213: 1036555886114279409
+    second: raikou-spritesheet_68
+  - first:
+      213: 5659651164945856493
+    second: raikou-spritesheet_69
+  - first:
+      213: 6536325234500629857
+    second: raikou-spritesheet_70
+  - first:
+      213: 7189452429423243695
+    second: raikou-spritesheet_71
+  - first:
+      213: -4639174948831342390
+    second: raikou-spritesheet_72
+  - first:
+      213: -150837132719929033
+    second: raikou-spritesheet_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raikou-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 282
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10919c8d818c64bd0800000000000000
+      internalID: -2646207721991759615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 281
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23be4b00b96f774e0800000000000000
+      internalID: -1983845965241193678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 285
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52364fbadefcf21b0800000000000000
+      internalID: -5679091985391787227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 285
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb3285dc8af85050800000000000000
+      internalID: 5789652803769220065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 287
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a91d1810e22fd6a0800000000000000
+      internalID: -6422376197734458976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 287
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72826bb322287f50800000000000000
+      internalID: 6879285967671427711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 287
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f174ddfa64ba0630800000000000000
+      internalID: 3894123199433306612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 286
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f529ea3d1f0a08b00800000000000000
+      internalID: 828839291935167071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0426213a3511e5c10800000000000000
+      internalID: 2044090331788632640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 230
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8361f6a3f1fa4270800000000000000
+      internalID: 8235660897380557708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558220823138da7f0800000000000000
+      internalID: -599679057071560619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 241
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17fe498f9bbf75a0800000000000000
+      internalID: -6521287441531341029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 247
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bc62b7f97406be0800000000000000
+      internalID: -1486109126740751476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 248
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77355830cae938c10800000000000000
+      internalID: 2054660316641710967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 253
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9b86ae2579d2c50800000000000000
+      internalID: 6642131407817193947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 253
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9edf3163c5ec110800000000000000
+      internalID: 1283064331180566979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 248
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986aa89054ecad9c0800000000000000
+      internalID: -3901579331254966647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 248
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aecebe245ddd65d0800000000000000
+      internalID: -3067552417538191708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 204
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42d255d344637f00800000000000000
+      internalID: 1113343775395205710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 205
+        width: 46
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1880f1fde6498d960800000000000000
+      internalID: 7627009172862601345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 210
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368bac7c8681a1bb0800000000000000
+      internalID: -4964628800914933661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 211
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aeb6bb356eedd80800000000000000
+      internalID: -8223882622230861286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 217
+        width: 43
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943419a1780e34e20800000000000000
+      internalID: 3333755020055233353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 218
+        width: 37
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3c32299d1ca1f0800000000000000
+      internalID: -1032417671033112036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 212
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c977e39d5a82bae0800000000000000
+      internalID: -1535012388461905472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 214
+        width: 46
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd9b720aeb9861c0800000000000000
+      internalID: -4510183597445243396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 166
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5f5aa0a11bf1240800000000000000
+      internalID: 4764721656187188694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 46
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5d531ab2091a190800000000000000
+      internalID: -7952916949896931895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 174
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39812ab0d6ed28a60800000000000000
+      internalID: 7674941274920720531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 172
+        width: 33
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfe22fe3a7e025f0800000000000000
+      internalID: -783371643884736561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 184
+        width: 43
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a094a416df06fcc80800000000000000
+      internalID: -8300308946845284086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 185
+        width: 37
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c7cc55deeea890800000000000000
+      internalID: -7444750533844809390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 173
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50152b0c211030a0800000000000000
+      internalID: -6903999347895758756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 179
+        width: 46
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d3a356aa48bf5c0800000000000000
+      internalID: -4180601961705751221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 147
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204e69d347deceb60800000000000000
+      internalID: 7776851740067292162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 146
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579e8cb8d7e2c78f0800000000000000
+      internalID: -541506738440312459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 127
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866e4f2e041b9d40800000000000000
+      internalID: 5592085413466367629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 125
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a77cd5e4da50ba0800000000000000
+      internalID: -6123297566247912858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 134
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94e5d36ef9cb800800000000000000
+      internalID: 629553859145910781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 131
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa8d9b29ee34f880800000000000000
+      internalID: -8578162219053905233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 145
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937f6a9731fcdf9a0800000000000000
+      internalID: -6197569829639620807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 146
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ff272044600acc0800000000000000
+      internalID: -3701952004529914088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 130
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84294584b399a9ca0800000000000000
+      internalID: -6009322272876883384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 133
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf057aef18f9f4b50800000000000000
+      internalID: 6579652961283559675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755e3285a73e59d0800000000000000
+      internalID: -2783726335674133134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 112
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3bd53c496642fd0800000000000000
+      internalID: -2367654714971147343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 86
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e6e94f613b5000800000000000000
+      internalID: 25668576931669729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 87
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57fe5176ec79bf70800000000000000
+      internalID: 9203524642694690653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 94
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c8bbba9c39c5030800000000000000
+      internalID: 3484822706056825938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 91
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52987e5137a0b3ba0800000000000000
+      internalID: -6108276980192933595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 105
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321cd5b597baff790800000000000000
+      internalID: -7494082717208952541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 109
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c3c0520bdb13f0800000000000000
+      internalID: -928908095130451495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 89
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5fd6fbd29977010800000000000000
+      internalID: 1186585448599647736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 93
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c1070c615d66e0800000000000000
+      internalID: -1842727148108790523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca035f8645b06050800000000000000
+      internalID: 5791828435455380163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 74
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11850c0e2d23aaff0800000000000000
+      internalID: -24150966701893615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb18dad8a87d2c7d0800000000000000
+      internalID: -2899518219990761029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 56
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ae9c7479a47b30800000000000000
+      internalID: 4284235463308255486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 52
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c3e66dabd52a550800000000000000
+      internalID: 6170597496493849623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 66
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f17e16f09de66a0800000000000000
+      internalID: -6453982555885068505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 71
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eaacf96ab8f17f0800000000000000
+      internalID: -639639074301628858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 51
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fd164a26e8ac3f0800000000000000
+      internalID: -879734222881693830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 52
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65455fa91326b5420800000000000000
+      internalID: 2619795573438764118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 36
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3339d2ef9b2df2bb0800000000000000
+      internalID: -4958512968436444365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f4a05a6f6309370800000000000000
+      internalID: 8327216143966818080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 46
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5863823945755830800000000000000
+      internalID: 4059279596384905307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 27
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9986928a99e87e00800000000000000
+      internalID: 1042840163561408927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 34
+        width: 30
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77737ef83a158d050800000000000000
+      internalID: 5825495880939550583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff8ea52616926e00800000000000000
+      internalID: 1036555886114279409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de739379fbe1b8e40800000000000000
+      internalID: 5659651164945856493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165f4da7b21b5ba50800000000000000
+      internalID: 6536325234500629857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 14
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17759a4e016c360800000000000000
+      internalID: 7189452429423243695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 10
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac05404a6f65e9fb0800000000000000
+      internalID: -4639174948831342390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raikou-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 13
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7394a4d4d6e18edf0800000000000000
+      internalID: -150837132719929033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 631cc01700faf7e47a3d51794cecf619
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      raikou-spritesheet_0: -2646207721991759615
+      raikou-spritesheet_1: -1983845965241193678
+      raikou-spritesheet_10: -599679057071560619
+      raikou-spritesheet_11: -6521287441531341029
+      raikou-spritesheet_12: -1486109126740751476
+      raikou-spritesheet_13: 2054660316641710967
+      raikou-spritesheet_14: 6642131407817193947
+      raikou-spritesheet_15: 1283064331180566979
+      raikou-spritesheet_16: -3901579331254966647
+      raikou-spritesheet_17: -3067552417538191708
+      raikou-spritesheet_18: 1113343775395205710
+      raikou-spritesheet_19: 7627009172862601345
+      raikou-spritesheet_2: -5679091985391787227
+      raikou-spritesheet_20: -4964628800914933661
+      raikou-spritesheet_21: -8223882622230861286
+      raikou-spritesheet_22: 3333755020055233353
+      raikou-spritesheet_23: -1032417671033112036
+      raikou-spritesheet_24: -1535012388461905472
+      raikou-spritesheet_25: -4510183597445243396
+      raikou-spritesheet_26: 4764721656187188694
+      raikou-spritesheet_27: -7952916949896931895
+      raikou-spritesheet_28: 7674941274920720531
+      raikou-spritesheet_29: -783371643884736561
+      raikou-spritesheet_3: 5789652803769220065
+      raikou-spritesheet_30: -8300308946845284086
+      raikou-spritesheet_31: -7444750533844809390
+      raikou-spritesheet_32: -6903999347895758756
+      raikou-spritesheet_33: -4180601961705751221
+      raikou-spritesheet_34: 7776851740067292162
+      raikou-spritesheet_35: -541506738440312459
+      raikou-spritesheet_36: 5592085413466367629
+      raikou-spritesheet_37: -6123297566247912858
+      raikou-spritesheet_38: 629553859145910781
+      raikou-spritesheet_39: -8578162219053905233
+      raikou-spritesheet_4: -6422376197734458976
+      raikou-spritesheet_40: -6197569829639620807
+      raikou-spritesheet_41: -3701952004529914088
+      raikou-spritesheet_42: -6009322272876883384
+      raikou-spritesheet_43: 6579652961283559675
+      raikou-spritesheet_44: -2783726335674133134
+      raikou-spritesheet_45: -2367654714971147343
+      raikou-spritesheet_46: 25668576931669729
+      raikou-spritesheet_47: 9203524642694690653
+      raikou-spritesheet_48: 3484822706056825938
+      raikou-spritesheet_49: -6108276980192933595
+      raikou-spritesheet_5: 6879285967671427711
+      raikou-spritesheet_50: -7494082717208952541
+      raikou-spritesheet_51: -928908095130451495
+      raikou-spritesheet_52: 1186585448599647736
+      raikou-spritesheet_53: -1842727148108790523
+      raikou-spritesheet_54: 5791828435455380163
+      raikou-spritesheet_55: -24150966701893615
+      raikou-spritesheet_56: -2899518219990761029
+      raikou-spritesheet_57: 4284235463308255486
+      raikou-spritesheet_58: 6170597496493849623
+      raikou-spritesheet_59: -6453982555885068505
+      raikou-spritesheet_6: 3894123199433306612
+      raikou-spritesheet_60: -639639074301628858
+      raikou-spritesheet_61: -879734222881693830
+      raikou-spritesheet_62: 2619795573438764118
+      raikou-spritesheet_63: -4958512968436444365
+      raikou-spritesheet_64: 8327216143966818080
+      raikou-spritesheet_65: 4059279596384905307
+      raikou-spritesheet_66: 1042840163561408927
+      raikou-spritesheet_67: 5825495880939550583
+      raikou-spritesheet_68: 1036555886114279409
+      raikou-spritesheet_69: 5659651164945856493
+      raikou-spritesheet_7: 828839291935167071
+      raikou-spritesheet_70: 6536325234500629857
+      raikou-spritesheet_71: 7189452429423243695
+      raikou-spritesheet_72: -4639174948831342390
+      raikou-spritesheet_73: -150837132719929033
+      raikou-spritesheet_8: 2044090331788632640
+      raikou-spritesheet_9: 8235660897380557708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2470 @@
+fileFormatVersion: 2
+guid: 49c9395fb0dc4aa448d57d6e8661f2ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7413016194714210656
+    second: rondoudou-spritesheet_0
+  - first:
+      213: 8089720008000641578
+    second: rondoudou-spritesheet_1
+  - first:
+      213: 7142166716645448676
+    second: rondoudou-spritesheet_2
+  - first:
+      213: -4674417199582881933
+    second: rondoudou-spritesheet_3
+  - first:
+      213: -6402028692332396793
+    second: rondoudou-spritesheet_4
+  - first:
+      213: 7330947973365649475
+    second: rondoudou-spritesheet_5
+  - first:
+      213: 5347998120863871932
+    second: rondoudou-spritesheet_6
+  - first:
+      213: 517471456814584325
+    second: rondoudou-spritesheet_7
+  - first:
+      213: 4667455055999872746
+    second: rondoudou-spritesheet_8
+  - first:
+      213: -3196886087227993944
+    second: rondoudou-spritesheet_9
+  - first:
+      213: -3556983866067966481
+    second: rondoudou-spritesheet_10
+  - first:
+      213: -5307610676749263036
+    second: rondoudou-spritesheet_11
+  - first:
+      213: -653289783330873427
+    second: rondoudou-spritesheet_12
+  - first:
+      213: -877553091139046872
+    second: rondoudou-spritesheet_13
+  - first:
+      213: -2023775294547284362
+    second: rondoudou-spritesheet_14
+  - first:
+      213: -1732743094006031789
+    second: rondoudou-spritesheet_15
+  - first:
+      213: 8165018191590702485
+    second: rondoudou-spritesheet_16
+  - first:
+      213: -5437906938190007011
+    second: rondoudou-spritesheet_17
+  - first:
+      213: -7951535795648102297
+    second: rondoudou-spritesheet_18
+  - first:
+      213: 4621854999681070368
+    second: rondoudou-spritesheet_19
+  - first:
+      213: -347778069062803455
+    second: rondoudou-spritesheet_20
+  - first:
+      213: -3312749794924614192
+    second: rondoudou-spritesheet_21
+  - first:
+      213: -6344852242740888095
+    second: rondoudou-spritesheet_22
+  - first:
+      213: -2352494899584665239
+    second: rondoudou-spritesheet_23
+  - first:
+      213: 8400023124466740928
+    second: rondoudou-spritesheet_24
+  - first:
+      213: -7003557223687357452
+    second: rondoudou-spritesheet_25
+  - first:
+      213: -3118347226587280682
+    second: rondoudou-spritesheet_26
+  - first:
+      213: -6057599883829763378
+    second: rondoudou-spritesheet_27
+  - first:
+      213: -5960032882591415479
+    second: rondoudou-spritesheet_28
+  - first:
+      213: 328865531362233371
+    second: rondoudou-spritesheet_29
+  - first:
+      213: -8230821641354401983
+    second: rondoudou-spritesheet_30
+  - first:
+      213: 2229022956794479886
+    second: rondoudou-spritesheet_31
+  - first:
+      213: 1021629704758886697
+    second: rondoudou-spritesheet_32
+  - first:
+      213: 4930440472740741388
+    second: rondoudou-spritesheet_33
+  - first:
+      213: -6995793775998508449
+    second: rondoudou-spritesheet_34
+  - first:
+      213: 6126703722287312787
+    second: rondoudou-spritesheet_35
+  - first:
+      213: -5589814838409037268
+    second: rondoudou-spritesheet_36
+  - first:
+      213: 5045959878440632781
+    second: rondoudou-spritesheet_37
+  - first:
+      213: -2048012134467423365
+    second: rondoudou-spritesheet_38
+  - first:
+      213: 2011666759495388015
+    second: rondoudou-spritesheet_39
+  - first:
+      213: 4486800259854050416
+    second: rondoudou-spritesheet_40
+  - first:
+      213: -2485566121720321182
+    second: rondoudou-spritesheet_41
+  - first:
+      213: 4048915395704152742
+    second: rondoudou-spritesheet_42
+  - first:
+      213: 3362247145218691544
+    second: rondoudou-spritesheet_43
+  - first:
+      213: -2968440622302487426
+    second: rondoudou-spritesheet_44
+  - first:
+      213: -5967083940435411441
+    second: rondoudou-spritesheet_45
+  - first:
+      213: 3022834596177533478
+    second: rondoudou-spritesheet_46
+  - first:
+      213: 3284832041429089770
+    second: rondoudou-spritesheet_47
+  - first:
+      213: -6605134993101551815
+    second: rondoudou-spritesheet_48
+  - first:
+      213: -6050900970679203954
+    second: rondoudou-spritesheet_49
+  - first:
+      213: 1392514906220809541
+    second: rondoudou-spritesheet_50
+  - first:
+      213: -2268166177733804623
+    second: rondoudou-spritesheet_51
+  - first:
+      213: -2462390285384887265
+    second: rondoudou-spritesheet_52
+  - first:
+      213: -5543421203831333394
+    second: rondoudou-spritesheet_53
+  - first:
+      213: -3866837189802139076
+    second: rondoudou-spritesheet_54
+  - first:
+      213: -6910555535855806721
+    second: rondoudou-spritesheet_55
+  - first:
+      213: -2737573509353693058
+    second: rondoudou-spritesheet_56
+  - first:
+      213: 2645566994688257491
+    second: rondoudou-spritesheet_57
+  - first:
+      213: 931417574798195682
+    second: rondoudou-spritesheet_58
+  - first:
+      213: 5687313003805732843
+    second: rondoudou-spritesheet_59
+  - first:
+      213: 7635429914597614053
+    second: rondoudou-spritesheet_60
+  - first:
+      213: 8286849101831575135
+    second: rondoudou-spritesheet_61
+  - first:
+      213: -8831445072169180283
+    second: rondoudou-spritesheet_62
+  - first:
+      213: 4083933992598750574
+    second: rondoudou-spritesheet_63
+  - first:
+      213: 3534814127874824559
+    second: rondoudou-spritesheet_64
+  - first:
+      213: -1276002101966665192
+    second: rondoudou-spritesheet_65
+  - first:
+      213: -2149493028834159489
+    second: rondoudou-spritesheet_66
+  - first:
+      213: 5539292955937939389
+    second: rondoudou-spritesheet_67
+  - first:
+      213: -1727571032345748389
+    second: rondoudou-spritesheet_68
+  - first:
+      213: -359056469965930362
+    second: rondoudou-spritesheet_69
+  - first:
+      213: 571646186206154573
+    second: rondoudou-spritesheet_70
+  - first:
+      213: 3106692048183199543
+    second: rondoudou-spritesheet_71
+  - first:
+      213: -3221291520990318695
+    second: rondoudou-spritesheet_72
+  - first:
+      213: 5990261347364358971
+    second: rondoudou-spritesheet_73
+  - first:
+      213: 7307944012752080613
+    second: rondoudou-spritesheet_74
+  - first:
+      213: -6206446784147158320
+    second: rondoudou-spritesheet_75
+  - first:
+      213: -8581921252930280998
+    second: rondoudou-spritesheet_76
+  - first:
+      213: -8861918581079104609
+    second: rondoudou-spritesheet_77
+  - first:
+      213: -6165379434339140201
+    second: rondoudou-spritesheet_78
+  - first:
+      213: 8624000839366783938
+    second: rondoudou-spritesheet_79
+  - first:
+      213: 6998003346502477634
+    second: rondoudou-spritesheet_80
+  - first:
+      213: -1553422687450955548
+    second: rondoudou-spritesheet_81
+  - first:
+      213: 2387944221330147100
+    second: rondoudou-spritesheet_82
+  - first:
+      213: 5540291175670389581
+    second: rondoudou-spritesheet_83
+  - first:
+      213: 3801617397119261950
+    second: rondoudou-spritesheet_84
+  - first:
+      213: -9133904890448873847
+    second: rondoudou-spritesheet_85
+  - first:
+      213: -2678631159574134543
+    second: rondoudou-spritesheet_86
+  - first:
+      213: -920560354436718153
+    second: rondoudou-spritesheet_87
+  - first:
+      213: 2430541782117739581
+    second: rondoudou-spritesheet_88
+  - first:
+      213: -8021859525432966096
+    second: rondoudou-spritesheet_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 186
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061982804f250e660800000000000000
+      internalID: 7413016194714210656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 186
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9f317c75744070800000000000000
+      internalID: 8089720008000641578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 188
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb1548b9c21e1360800000000000000
+      internalID: 7142166716645448676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 190
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377d2e6b252212fb0800000000000000
+      internalID: -4674417199582881933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 190
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f3bafd2dc6727a0800000000000000
+      internalID: -6402028692332396793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 189
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340545b3752ccb560800000000000000
+      internalID: 7330947973365649475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 190
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb33c8db4f7e73a40800000000000000
+      internalID: 5347998120863871932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 184
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50256dc5c8d6e2700800000000000000
+      internalID: 517471456814584325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 184
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee29f9e4a126c040800000000000000
+      internalID: 4667455055999872746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 185
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0136f9a0162a3d0800000000000000
+      internalID: -3196886087227993944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 145
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5293ff40e03aec0800000000000000
+      internalID: -3556983866067966481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 162
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f1a4ed5349756b0800000000000000
+      internalID: -5307610676749263036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafdb21476c0fe6f0800000000000000
+      internalID: -653289783330873427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 161
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8227c13fc1e42d3f0800000000000000
+      internalID: -877553091139046872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 164
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e2c4f871b1ae3e0800000000000000
+      internalID: -2023775294547284362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 165
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a52c2265f04f7e0800000000000000
+      internalID: -1732743094006031789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 164
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dbd5ef8c8ff4170800000000000000
+      internalID: 8165018191590702485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 165
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157d83737ca884b0800000000000000
+      internalID: -5437906938190007011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 162
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7608799a25876a190800000000000000
+      internalID: -7951535795648102297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 161
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0257a5372a0242040800000000000000
+      internalID: 4621854999681070368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 162
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10027d450b17c2bf0800000000000000
+      internalID: -347778069062803455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd25cbfc9fb602d0800000000000000
+      internalID: -3312749794924614192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 133
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb61f608e82f7a0800000000000000
+      internalID: -6344852242740888095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 134
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96976565a524a5fd0800000000000000
+      internalID: -2352494899584665239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 134
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce28e6c680e29470800000000000000
+      internalID: 8400023124466740928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 136
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb7efdbfcd5ece90800000000000000
+      internalID: -7003557223687357452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 135
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dac0f818b769b4d0800000000000000
+      internalID: -3118347226587280682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 138
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec221ec00051feba0800000000000000
+      internalID: -6057599883829763378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 140
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943cd7fbba5b94da0800000000000000
+      internalID: -5960032882591415479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 135
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c47b7557d509400800000000000000
+      internalID: 328865531362233371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 134
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1472971735f36cd80800000000000000
+      internalID: -8230821641354401983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 135
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e050defb1941fee10800000000000000
+      internalID: 2229022956794479886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921042cbdce8d2e00800000000000000
+      internalID: 1021629704758886697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 108
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01cbe3cc717c6440800000000000000
+      internalID: 4930440472740741388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 106
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5268b340a2f9ee90800000000000000
+      internalID: -6995793775998508449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 108
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39faff2239c660550800000000000000
+      internalID: 6126703722287312787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 108
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2afb64450dfc62b0800000000000000
+      internalID: -5589814838409037268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1c35956c9d60640800000000000000
+      internalID: 5045959878440632781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 115
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73316580dff393e0800000000000000
+      internalID: -2048012134467423365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 107
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0f2e6240eaeb10800000000000000
+      internalID: 2011666759495388015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 107
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0742bb27011544e30800000000000000
+      internalID: 4486800259854050416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 109
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b6d1908ce718dd0800000000000000
+      internalID: -2485566121720321182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 101
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a26e8ea913a03830800000000000000
+      internalID: 4048915395704152742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 99
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1d4d1f6f919ae20800000000000000
+      internalID: 3362247145218691544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 84
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c12d24bfafdc6d0800000000000000
+      internalID: -2968440622302487426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 82
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb86965c8a03da0800000000000000
+      internalID: -5967083940435411441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 82
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5cefac0443f920800000000000000
+      internalID: 3022834596177533478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedb3308651169d20800000000000000
+      internalID: 3284832041429089770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 81
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9370ea228b8d554a0800000000000000
+      internalID: -6605134993101551815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 88
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87899f40a1e60ca0800000000000000
+      internalID: -6050900970679203954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 90
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d4ab9ede4335310800000000000000
+      internalID: 1392514906220809541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 80
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdfe9ce0ead580e0800000000000000
+      internalID: -2268166177733804623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 82
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14d24de415d3ddd0800000000000000
+      internalID: -2462390285384887265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd34119cfc113b0800000000000000
+      internalID: -5543421203831333394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 23
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e291301c365ac0800000000000000
+      internalID: -3866837189802139076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 62
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff694b49a56c810a0800000000000000
+      internalID: -6910555535855806721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 82
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702474c56f220ad0800000000000000
+      internalID: -2737573509353693058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd24e33a21f6b420800000000000000
+      internalID: 2645566994688257491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf663795f0dec00800000000000000
+      internalID: 931417574798195682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 58
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befec465b056dee40800000000000000
+      internalID: 5687313003805732843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 57
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e16bf69d0f76f960800000000000000
+      internalID: 7635429914597614053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 54
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f569fed3a5dc00370800000000000000
+      internalID: 8286849101831575135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 56
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836bf37f77607580800000000000000
+      internalID: -8831445072169180283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 54
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65cdf2245c0da830800000000000000
+      internalID: 4083933992598750574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 64
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d20798be2e0130800000000000000
+      internalID: 3534814127874824559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 53
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a00ab49daba4ee0800000000000000
+      internalID: -1276002101966665192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 56
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7459219a777b22e0800000000000000
+      internalID: -2149493028834159489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 57
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf118158958fdc40800000000000000
+      internalID: 5539292955937939389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cd6c49c4f6608e0800000000000000
+      internalID: -1727571032345748389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 35
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680006dfa00640bf0800000000000000
+      internalID: -359056469965930362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f460a7d25eee700800000000000000
+      internalID: 571646186206154573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 31
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7378d7635ff2d1b20800000000000000
+      internalID: 3106692048183199543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 26
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe465cd6cab43d0800000000000000
+      internalID: -3221291520990318695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 27
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bc76925fea12350800000000000000
+      internalID: 5990261347364358971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 29
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eec7864c580b6560800000000000000
+      internalID: 7307944012752080613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 35
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da0b8178854ed9a0800000000000000
+      internalID: -6206446784147158320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 35
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad127b4e614e6e880800000000000000
+      internalID: -8581921252930280998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 28
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93a852c004240580800000000000000
+      internalID: -8861918581079104609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 28
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d77bee11c207aa0800000000000000
+      internalID: -6165379434339140201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 29
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b02d421b9ea770800000000000000
+      internalID: 8624000839366783938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247664577f6ed1160800000000000000
+      internalID: 6998003346502477634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 5
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e00470db42217ae0800000000000000
+      internalID: -1553422687450955548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1784df0e9ea32120800000000000000
+      internalID: 2387944221330147100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b9016787113ec40800000000000000
+      internalID: 5540291175670389581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc1d3f71ee02c430800000000000000
+      internalID: 3801617397119261950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986779845e9dd3180800000000000000
+      internalID: -9133904890448873847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f08a41072793dad0800000000000000
+      internalID: -2678631159574134543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ed772c338933f0800000000000000
+      internalID: -920560354436718153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c6fde8fd40bb120800000000000000
+      internalID: 2430541782117739581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rondoudou-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0340c746341aca090800000000000000
+      internalID: -8021859525432966096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ac2abe03abc9e84e98bdb32f2eb852f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rondoudou-spritesheet_0: 7413016194714210656
+      rondoudou-spritesheet_1: 8089720008000641578
+      rondoudou-spritesheet_10: -3556983866067966481
+      rondoudou-spritesheet_11: -5307610676749263036
+      rondoudou-spritesheet_12: -653289783330873427
+      rondoudou-spritesheet_13: -877553091139046872
+      rondoudou-spritesheet_14: -2023775294547284362
+      rondoudou-spritesheet_15: -1732743094006031789
+      rondoudou-spritesheet_16: 8165018191590702485
+      rondoudou-spritesheet_17: -5437906938190007011
+      rondoudou-spritesheet_18: -7951535795648102297
+      rondoudou-spritesheet_19: 4621854999681070368
+      rondoudou-spritesheet_2: 7142166716645448676
+      rondoudou-spritesheet_20: -347778069062803455
+      rondoudou-spritesheet_21: -3312749794924614192
+      rondoudou-spritesheet_22: -6344852242740888095
+      rondoudou-spritesheet_23: -2352494899584665239
+      rondoudou-spritesheet_24: 8400023124466740928
+      rondoudou-spritesheet_25: -7003557223687357452
+      rondoudou-spritesheet_26: -3118347226587280682
+      rondoudou-spritesheet_27: -6057599883829763378
+      rondoudou-spritesheet_28: -5960032882591415479
+      rondoudou-spritesheet_29: 328865531362233371
+      rondoudou-spritesheet_3: -4674417199582881933
+      rondoudou-spritesheet_30: -8230821641354401983
+      rondoudou-spritesheet_31: 2229022956794479886
+      rondoudou-spritesheet_32: 1021629704758886697
+      rondoudou-spritesheet_33: 4930440472740741388
+      rondoudou-spritesheet_34: -6995793775998508449
+      rondoudou-spritesheet_35: 6126703722287312787
+      rondoudou-spritesheet_36: -5589814838409037268
+      rondoudou-spritesheet_37: 5045959878440632781
+      rondoudou-spritesheet_38: -2048012134467423365
+      rondoudou-spritesheet_39: 2011666759495388015
+      rondoudou-spritesheet_4: -6402028692332396793
+      rondoudou-spritesheet_40: 4486800259854050416
+      rondoudou-spritesheet_41: -2485566121720321182
+      rondoudou-spritesheet_42: 4048915395704152742
+      rondoudou-spritesheet_43: 3362247145218691544
+      rondoudou-spritesheet_44: -2968440622302487426
+      rondoudou-spritesheet_45: -5967083940435411441
+      rondoudou-spritesheet_46: 3022834596177533478
+      rondoudou-spritesheet_47: 3284832041429089770
+      rondoudou-spritesheet_48: -6605134993101551815
+      rondoudou-spritesheet_49: -6050900970679203954
+      rondoudou-spritesheet_5: 7330947973365649475
+      rondoudou-spritesheet_50: 1392514906220809541
+      rondoudou-spritesheet_51: -2268166177733804623
+      rondoudou-spritesheet_52: -2462390285384887265
+      rondoudou-spritesheet_53: -5543421203831333394
+      rondoudou-spritesheet_54: -3866837189802139076
+      rondoudou-spritesheet_55: -6910555535855806721
+      rondoudou-spritesheet_56: -2737573509353693058
+      rondoudou-spritesheet_57: 2645566994688257491
+      rondoudou-spritesheet_58: 931417574798195682
+      rondoudou-spritesheet_59: 5687313003805732843
+      rondoudou-spritesheet_6: 5347998120863871932
+      rondoudou-spritesheet_60: 7635429914597614053
+      rondoudou-spritesheet_61: 8286849101831575135
+      rondoudou-spritesheet_62: -8831445072169180283
+      rondoudou-spritesheet_63: 4083933992598750574
+      rondoudou-spritesheet_64: 3534814127874824559
+      rondoudou-spritesheet_65: -1276002101966665192
+      rondoudou-spritesheet_66: -2149493028834159489
+      rondoudou-spritesheet_67: 5539292955937939389
+      rondoudou-spritesheet_68: -1727571032345748389
+      rondoudou-spritesheet_69: -359056469965930362
+      rondoudou-spritesheet_7: 517471456814584325
+      rondoudou-spritesheet_70: 571646186206154573
+      rondoudou-spritesheet_71: 3106692048183199543
+      rondoudou-spritesheet_72: -3221291520990318695
+      rondoudou-spritesheet_73: 5990261347364358971
+      rondoudou-spritesheet_74: 7307944012752080613
+      rondoudou-spritesheet_75: -6206446784147158320
+      rondoudou-spritesheet_76: -8581921252930280998
+      rondoudou-spritesheet_77: -8861918581079104609
+      rondoudou-spritesheet_78: -6165379434339140201
+      rondoudou-spritesheet_79: 8624000839366783938
+      rondoudou-spritesheet_8: 4667455055999872746
+      rondoudou-spritesheet_80: 6998003346502477634
+      rondoudou-spritesheet_81: -1553422687450955548
+      rondoudou-spritesheet_82: 2387944221330147100
+      rondoudou-spritesheet_83: 5540291175670389581
+      rondoudou-spritesheet_84: 3801617397119261950
+      rondoudou-spritesheet_85: -9133904890448873847
+      rondoudou-spritesheet_86: -2678631159574134543
+      rondoudou-spritesheet_87: -920560354436718153
+      rondoudou-spritesheet_88: 2430541782117739581
+      rondoudou-spritesheet_89: -8021859525432966096
+      rondoudou-spritesheet_9: -3196886087227993944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
