@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemons:
   - {fileID: 11400000, guid: 6015862a7a04e444b8ec9974ec28919a, type: 2}
+  - {fileID: 11400000, guid: 7a5c3eb7a1c3a0c47b95b98d2182978d, type: 2}
+  - {fileID: 11400000, guid: 15c2d86bfd0fba4409e22eabb021eb36, type: 2}

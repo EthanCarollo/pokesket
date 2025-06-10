@@ -7,5 +7,5 @@ public class Pokemon : ScriptableObject
     public string pokemonName;
     public float speed;
     public Sprite pokemonPortrait;
-    public Sprite image;
+    public Sprite pokemonSprite;
 }

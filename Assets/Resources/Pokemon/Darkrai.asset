@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Darkrai
+  m_EditorClassIdentifier: 
+  id: 1
+  pokemonName: Darkrai
+  speed: 5
+  pokemonPortrait: {fileID: 703279585, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  image: {fileID: -3738630312165449551, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}

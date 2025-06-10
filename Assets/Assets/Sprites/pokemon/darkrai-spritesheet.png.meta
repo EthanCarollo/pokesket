@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: c227b8086abe7a74ab80f4932e1a2c46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9071750579231588876
+    second: darkrai-spritesheet_0
+  - first:
+      213: 5800153149764636962
+    second: darkrai-spritesheet_1
+  - first:
+      213: -5912558628978690426
+    second: darkrai-spritesheet_2
+  - first:
+      213: -3738630312165449551
+    second: darkrai-spritesheet_3
+  - first:
+      213: 7164585779502120821
+    second: darkrai-spritesheet_4
+  - first:
+      213: 2306488444904353371
+    second: darkrai-spritesheet_5
+  - first:
+      213: 7889318529594810560
+    second: darkrai-spritesheet_6
+  - first:
+      213: 5798679292052900105
+    second: darkrai-spritesheet_7
+  - first:
+      213: -9214593142759187136
+    second: darkrai-spritesheet_8
+  - first:
+      213: 6286407111106187585
+    second: darkrai-spritesheet_9
+  - first:
+      213: 1495604360060125902
+    second: darkrai-spritesheet_10
+  - first:
+      213: 5481036225586933549
+    second: darkrai-spritesheet_11
+  - first:
+      213: -7442713774346100689
+    second: darkrai-spritesheet_12
+  - first:
+      213: -5642629030538436421
+    second: darkrai-spritesheet_13
+  - first:
+      213: 3755260723344686567
+    second: darkrai-spritesheet_14
+  - first:
+      213: -4693301774403514807
+    second: darkrai-spritesheet_15
+  - first:
+      213: -2711785328471112608
+    second: darkrai-spritesheet_16
+  - first:
+      213: 8065558450311657577
+    second: darkrai-spritesheet_17
+  - first:
+      213: -7747337534240854502
+    second: darkrai-spritesheet_18
+  - first:
+      213: 3172865887569773940
+    second: darkrai-spritesheet_19
+  - first:
+      213: -7753411655431742298
+    second: darkrai-spritesheet_20
+  - first:
+      213: -6875645663123408195
+    second: darkrai-spritesheet_21
+  - first:
+      213: 5773815671147157326
+    second: darkrai-spritesheet_22
+  - first:
+      213: 1970791174362253543
+    second: darkrai-spritesheet_23
+  - first:
+      213: 2809872443136404168
+    second: darkrai-spritesheet_24
+  - first:
+      213: 5707673163385337235
+    second: darkrai-spritesheet_25
+  - first:
+      213: -5807315484845661275
+    second: darkrai-spritesheet_26
+  - first:
+      213: 3058988415213528104
+    second: darkrai-spritesheet_27
+  - first:
+      213: -7637853483676572071
+    second: darkrai-spritesheet_28
+  - first:
+      213: 9077832791939721264
+    second: darkrai-spritesheet_29
+  - first:
+      213: -3853772847082634363
+    second: darkrai-spritesheet_30
+  - first:
+      213: -5754412235972738767
+    second: darkrai-spritesheet_31
+  - first:
+      213: -7905137842231109679
+    second: darkrai-spritesheet_32
+  - first:
+      213: -2920697231114063710
+    second: darkrai-spritesheet_33
+  - first:
+      213: 936362469668076764
+    second: darkrai-spritesheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkrai-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 201
+        width: 29
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c020b0e661555ed70800000000000000
+      internalID: 9071750579231588876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 210
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22195962f884e7050800000000000000
+      internalID: 5800153149764636962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 210
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686fd06c04f52fda0800000000000000
+      internalID: -5912558628978690426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 210
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0eed80a87bd1cc0800000000000000
+      internalID: -3738630312165449551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ff90e8ec8bd6360800000000000000
+      internalID: 7164585779502120821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 209
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e2115350b420020800000000000000
+      internalID: 2306488444904353371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 205
+        width: 28
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0e76c376d7c7d60800000000000000
+      internalID: 7889318529594810560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 151
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9090a39e71c097050800000000000000
+      internalID: 5798679292052900105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 161
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d96109b503f1080800000000000000
+      internalID: -9214593142759187136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 161
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14159f2f5fdcd3750800000000000000
+      internalID: 6286407111106187585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 161
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c8edcd3471c410800000000000000
+      internalID: 1495604360060125902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f282b486d801c40800000000000000
+      internalID: 5481036225586933549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 160
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a133614b26b890800000000000000
+      internalID: -7442713774346100689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 162
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0237beaca51b1b0800000000000000
+      internalID: -5642629030538436421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edbfed4bbd5d1430800000000000000
+      internalID: 3755260723344686567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 113
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ec7f007ea0edeb0800000000000000
+      internalID: -4693301774403514807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0640d558c9dcd5ad0800000000000000
+      internalID: -2711785328471112608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 113
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f9f96dae9eef60800000000000000
+      internalID: 8065558450311657577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 115
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ee58c4f8deb7490800000000000000
+      internalID: -7747337534240854502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 109
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4750d84d6b8480c20800000000000000
+      internalID: 3172865887569773940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 109
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1e90cd29566490800000000000000
+      internalID: -7753411655431742298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 24
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf218b2bcc490a0800000000000000
+      internalID: -6875645663123408195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e475f4d03c6b02050800000000000000
+      internalID: 5773815671147157326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 64
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e84652a128a95b10800000000000000
+      internalID: 1970791174362253543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 64
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caed45891caef620800000000000000
+      internalID: 2809872443136404168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395fc95608ab53f40800000000000000
+      internalID: 5707673163385337235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 63
+        width: 39
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a32623c555486fa0800000000000000
+      internalID: -5807315484845661275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 63
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82466d4a1c5b37a20800000000000000
+      internalID: 3058988415213528104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9566af249b4e00690800000000000000
+      internalID: -7637853483676572071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038a5fde3d0fafd70800000000000000
+      internalID: 9077832791939721264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58308948306a48ac0800000000000000
+      internalID: -3853772847082634363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 16
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1310faf3f883420b0800000000000000
+      internalID: -5754412235972738767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d71155040f4b4290800000000000000
+      internalID: -7905137842231109679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 6
+        width: 26
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0baf2c7599777d0800000000000000
+      internalID: -2920697231114063710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkrai-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb29184b0aefc00800000000000000
+      internalID: 936362469668076764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35c6c57e558b015408809c124b55d443
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkrai-spritesheet_0: 9071750579231588876
+      darkrai-spritesheet_1: 5800153149764636962
+      darkrai-spritesheet_10: 1495604360060125902
+      darkrai-spritesheet_11: 5481036225586933549
+      darkrai-spritesheet_12: -7442713774346100689
+      darkrai-spritesheet_13: -5642629030538436421
+      darkrai-spritesheet_14: 3755260723344686567
+      darkrai-spritesheet_15: -4693301774403514807
+      darkrai-spritesheet_16: -2711785328471112608
+      darkrai-spritesheet_17: 8065558450311657577
+      darkrai-spritesheet_18: -7747337534240854502
+      darkrai-spritesheet_19: 3172865887569773940
+      darkrai-spritesheet_2: -5912558628978690426
+      darkrai-spritesheet_20: -7753411655431742298
+      darkrai-spritesheet_21: -6875645663123408195
+      darkrai-spritesheet_22: 5773815671147157326
+      darkrai-spritesheet_23: 1970791174362253543
+      darkrai-spritesheet_24: 2809872443136404168
+      darkrai-spritesheet_25: 5707673163385337235
+      darkrai-spritesheet_26: -5807315484845661275
+      darkrai-spritesheet_27: 3058988415213528104
+      darkrai-spritesheet_28: -7637853483676572071
+      darkrai-spritesheet_29: 9077832791939721264
+      darkrai-spritesheet_3: -3738630312165449551
+      darkrai-spritesheet_30: -3853772847082634363
+      darkrai-spritesheet_31: -5754412235972738767
+      darkrai-spritesheet_32: -7905137842231109679
+      darkrai-spritesheet_33: -2920697231114063710
+      darkrai-spritesheet_34: 936362469668076764
+      darkrai-spritesheet_4: 7164585779502120821
+      darkrai-spritesheet_5: 2306488444904353371
+      darkrai-spritesheet_6: 7889318529594810560
+      darkrai-spritesheet_7: 5798679292052900105
+      darkrai-spritesheet_8: -9214593142759187136
+      darkrai-spritesheet_9: 6286407111106187585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
