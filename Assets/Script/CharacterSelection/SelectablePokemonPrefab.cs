@@ -1,39 +1,33 @@
-﻿using UnityEngine;
+﻿using System.Linq;
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class SelectablePokemonPrefab : MonoBehaviour, ISelectHandler, IDeselectHandler
+public class SelectablePokemonPrefab : MonoBehaviour
 {
     public Image pokemonImage;
-    public GameObject selectedButtonIndicator;
     private Pokemon pokemon;
-    private bool isSelected = false;
+    SelectablePokemonPanel _selectablePokemonPanel;
     
-    public void Setup(Pokemon pokemon)
+    public void Setup(Pokemon pokemon, SelectablePokemonPanel selectablePokemonPanel)
     {
         pokemonImage.sprite = pokemon.pokemonPortrait;
         this.pokemon = pokemon;
+        _selectablePokemonPanel = selectablePokemonPanel;
     }
 
-    public void ShowSelectedButtonIndicator(bool showSelectedButtonIndicator)
+    public void SelectPokemon(int playerIndex)
     {
-        selectedButtonIndicator.SetActive(showSelectedButtonIndicator);
-        isSelected = showSelectedButtonIndicator;
+        if (playerIndex == 0)
+        {
+            int slotToFill = _selectablePokemonPanel.selectedPlayer1Characters.ToList().FindAll(_pokemon => _pokemon != null).Count;
+            _selectablePokemonPanel.SelectPokemonForPlayer1(slotToFill, pokemon);
+        }
+        else
+        {
+            int slotToFill = _selectablePokemonPanel.selectedPlayer2Characters.ToList().FindAll(_pokemon => _pokemon != null).Count;
+            _selectablePokemonPanel.SelectPokemonForPlayer2(slotToFill, pokemon);
+        }
     }
 
-    public void OnSelect(BaseEventData eventData)
-    {
-        isSelected = true;
-        ShowSelectedButtonIndicator(true);
-        gameObject.SetActive(true);
-        
-        Debug.Log($"Pokemon {pokemon?.name} est sélectionné");
-    }
-    
-    public void OnDeselect(BaseEventData eventData)
-    {
-        isSelected = false;
-        ShowSelectedButtonIndicator(false);
-        Debug.Log($"Pokemon {pokemon?.name} est désélectionné");
-    }
 }
