@@ -6,7 +6,7 @@ public class BasketBall : MonoBehaviour
 {
     private PokemonPlayer currentHolder => BasketBallManager.Instance.BallHolder;
     public Rigidbody rb => GetComponent<Rigidbody>();
-    [SerializeField]private bool _isShooting = false;
+    [SerializeField] private bool _isShooting = false;
     public bool IsShooting => _isShooting;
 
     public void Update()
@@ -86,6 +86,42 @@ public class BasketBall : MonoBehaviour
         float apexHeight = Mathf.Max(start.y, end.y) + arcExtra;
 
         // Temps vers le sommet
+        float timeToApex = Mathf.Sqrt(2 * (apexHeight - start.y) / gravity);
+        float timeFromApex = Mathf.Sqrt(2 * (apexHeight - end.y) / gravity);
+        float totalTime = timeToApex + timeFromApex;
+
+        Vector3 velocityXZ = displacementXZ / totalTime;
+        float velocityY = Mathf.Sqrt(2 * gravity * (apexHeight - start.y));
+
+        return velocityXZ + Vector3.up * velocityY;
+    }
+
+    public void PassTo(Vector3 target)
+    {
+        rb.useGravity = true;
+        rb.isKinematic = false;
+
+        Vector3 start = transform.position;
+        Vector3 velocity = CalculatePassVelocity(start, target);
+
+        rb.linearVelocity = velocity;
+    }
+
+    private Vector3 CalculatePassVelocity(Vector3 start, Vector3 end)
+    {
+        float gravity = Mathf.Abs(Physics.gravity.y);
+
+        Vector3 displacementXZ = new Vector3(end.x - start.x, 0, end.z - start.z);
+        float horizontalDistance = displacementXZ.magnitude;
+
+        // On force une passe tendue : apex très bas
+        float arcFactor = 0.05f;             // Influence de la distance sur la hauteur de l’arc de passe
+        float minArcHeight = 0.5f;          // Hauteur minimale de l’arc (pour les passes très courtes)
+        float maxArcHeight = 1.2f;          // Hauteur maximale de l’arc (même pour les longues passes)
+        float arcExtra = Mathf.Clamp(horizontalDistance * arcFactor, minArcHeight, maxArcHeight);
+
+        float apexHeight = Mathf.Max(start.y, end.y) + arcExtra;
+
         float timeToApex = Mathf.Sqrt(2 * (apexHeight - start.y) / gravity);
         float timeFromApex = Mathf.Sqrt(2 * (apexHeight - end.y) / gravity);
         float totalTime = timeToApex + timeFromApex;

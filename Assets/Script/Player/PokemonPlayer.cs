@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
 
 public class PokemonPlayer : MonoBehaviour
@@ -15,6 +16,7 @@ public class PokemonPlayer : MonoBehaviour
 
     [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
     public Vector3 Direction => lastMoveDirection;
+    private bool _isPassing = false;
 
     private IPokemonPlayerState currentState;
 
@@ -63,11 +65,23 @@ public class PokemonPlayer : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        BasketBall ball = other.GetComponent<BasketBall>();
-        if (ball != null && !ball.IsShooting)
+        bool isHolded = BasketBallManager.Instance.IsBallHolded();
+        if (!HasBall && !isHolded && !_isPassing)
         {
-            BasketBallManager.Instance.SetBallHolder(this);
+            BasketBall ball = other.GetComponent<BasketBall>();
+            if (ball != null && !ball.IsShooting)
+            {
+                BasketBallManager.Instance.SetBallHolder(this);
+                Team.SetControlledPlayer(this);
+            }
         }
+    }
+
+    public IEnumerator Pass()
+    {
+        _isPassing = true;
+        yield return new WaitForSeconds(0.5f);
+        _isPassing = false;
     }
     
     void OnDrawGizmos()
