@@ -17,6 +17,7 @@ public class BasketTeam : MonoBehaviour
     [SerializeField] private GameObject[] pokemonPrefabs;
 
     private List<PokemonPlayer> pokeTeam = new();
+    public List<PokemonPlayer> PokeTeam { get => pokeTeam; }
     private PokemonPlayer controlledPlayer;
 
     public void StartMatch()
@@ -38,7 +39,7 @@ public class BasketTeam : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.JoystickButton7)) // RB on Xbox
         {
-            if (!controlledPlayer.HasBall)
+            if (!controlledPlayer?.HasBall ?? false)
             {
                 SwitchControlledPlayer();
             }
@@ -52,7 +53,7 @@ public class BasketTeam : MonoBehaviour
         SetControlledPlayer(pokeTeam[nextIndex]);
     }
 
-    void SetControlledPlayer(PokemonPlayer newControlled)
+    public void SetControlledPlayer(PokemonPlayer newControlled)
     {
         controlledPlayer = newControlled;
     }

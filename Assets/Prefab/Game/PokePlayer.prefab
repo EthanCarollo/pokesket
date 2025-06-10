@@ -103,8 +103,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1810cdc8ab5a407a9addc2668cd5e2a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Team: {fileID: 0}
   speed: 5
+  precision: 0.5
+  Team: {fileID: 0}
   indicator: {fileID: 5401643234495709758}
 --- !u!54 &1908281221417520592
 Rigidbody:

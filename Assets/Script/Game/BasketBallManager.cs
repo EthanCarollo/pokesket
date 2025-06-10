@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class BasketBallManager : MonoBehaviour
@@ -54,6 +53,11 @@ public class BasketBallManager : MonoBehaviour
         ballHolder = holder;
     }
 
+    public bool IsBallHolded()
+    {
+        return ballHolder != null;
+    }
+
     public bool IsPlayerHoldingBall(PokemonPlayer player)
     {
         return ballHolder == player;
@@ -63,5 +67,11 @@ public class BasketBallManager : MonoBehaviour
     {
         SetBallHolder(null);
         basketBall.ShootTowardsBasket(target.position, precision);
+    }
+
+    public void PassTo(Transform target)
+    {
+        SetBallHolder(null);
+        basketBall.PassTo(target.position);
     }
 }
