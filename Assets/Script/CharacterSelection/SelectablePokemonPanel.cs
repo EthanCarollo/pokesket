@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.UI;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class SelectablePokemonPanel : MonoBehaviour
 {
@@ -14,6 +18,8 @@ public class SelectablePokemonPanel : MonoBehaviour
     
     public Button startButton;
     private int gameSceneIndex = 2;
+    
+    private Button firstPokemonButton; // Référence au premier bouton créé
 
     public void Start()
     {
@@ -23,16 +29,41 @@ public class SelectablePokemonPanel : MonoBehaviour
         }
         
         Pokemon[] pokemons = PokemonDatabase.Instance.pokemons;
+        bool isFirstPokemon = true;
 
         foreach (Pokemon pokemon in pokemons)
         {
             GameObject pokePrefab = Instantiate(selectablePokemonPrefab, this.transform);
             pokePrefab.name = "Selectable pokemon : " + pokemon.name;
-            pokePrefab.GetComponent<SelectablePokemonPrefab>().Setup(pokemon);
+            pokePrefab.GetComponentInChildren<SelectablePokemonPrefab>().Setup(pokemon);
+            
+            // Garder une référence au premier bouton créé
+            if (isFirstPokemon)
+            {
+                firstPokemonButton = pokePrefab.GetComponentInChildren<Button>();
+                isFirstPokemon = false;
+            }
         }
         
         UpdateCharacterPreviews();
         CheckButtonState();
+        
+        // Select the first pokemon for a better UX
+        StartCoroutine(SelectFirstPokemonAfterFrame());
+    }
+    
+    private IEnumerator SelectFirstPokemonAfterFrame()
+    {
+        yield return new WaitForEndOfFrame();
+        
+        if (firstPokemonButton != null)
+        {
+            EventSystem eventSystem = EventSystem.current;
+            if (eventSystem != null)
+            {
+                eventSystem.SetSelectedGameObject(firstPokemonButton.gameObject);
+            }
+        }
     }
 
     private void Update()
