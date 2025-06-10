@@ -107,6 +107,11 @@ public class SelectablePokemonPanel : MonoBehaviour
         UpdateCharacterPreviews();
         CheckButtonState();
     }
+    
+    public void LaunchGameTest()
+    {
+        SceneTransitor.Instance.LoadScene(gameSceneIndex);
+    }
 
     public void LaunchGame()
     {

@@ -15,5 +15,7 @@ MonoBehaviour:
   pokemons:
   - {fileID: 11400000, guid: 6015862a7a04e444b8ec9974ec28919a, type: 2}
   - {fileID: 11400000, guid: 7a5c3eb7a1c3a0c47b95b98d2182978d, type: 2}
+  - {fileID: 11400000, guid: 5c7517b1cfbd3df40b12b3162ea10f9e, type: 2}
   - {fileID: 11400000, guid: 15c2d86bfd0fba4409e22eabb021eb36, type: 2}
   - {fileID: 11400000, guid: 5ed0f7db2004f2f4a878ec7f9035af78, type: 2}
+  - {fileID: 11400000, guid: c863218c374220843ba1fd66c6b8ba65, type: 2}
