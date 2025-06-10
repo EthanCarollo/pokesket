@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: 4476c25e58ae22948a794d8c3ceeaf78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2850496765709918325
+    second: introscene_0
+  - first:
+      213: -957161007847891811
+    second: introscene_1
+  - first:
+      213: 310362684930996556
+    second: introscene_2
+  - first:
+      213: 4896175402271205942
+    second: introscene_3
+  - first:
+      213: -3133316083431141870
+    second: introscene_4
+  - first:
+      213: -6060141212702828819
+    second: introscene_5
+  - first:
+      213: 6199535004604021737
+    second: introscene_6
+  - first:
+      213: 5912504353188926164
+    second: introscene_7
+  - first:
+      213: -4049558991923287221
+    second: introscene_8
+  - first:
+      213: -4627213651797437935
+    second: introscene_9
+  - first:
+      213: -3163683739079458735
+    second: introscene_10
+  - first:
+      213: -7148358576280450572
+    second: introscene_11
+  - first:
+      213: -7146214816676770847
+    second: introscene_12
+  - first:
+      213: -2468210309410070811
+    second: introscene_13
+  - first:
+      213: 2675647330773855506
+    second: introscene_14
+  - first:
+      213: 7286914896296696555
+    second: introscene_15
+  - first:
+      213: -2943905847467870472
+    second: introscene_16
+  - first:
+      213: -4742173021728945070
+    second: introscene_17
+  - first:
+      213: -1768479243157098171
+    second: introscene_18
+  - first:
+      213: 1678068273176487298
+    second: introscene_19
+  - first:
+      213: 529559926316356845
+    second: introscene_20
+  - first:
+      213: 6094738081481893925
+    second: introscene_21
+  - first:
+      213: 2686990420088229604
+    second: introscene_22
+  - first:
+      213: -9203534481128680930
+    second: introscene_23
+  - first:
+      213: -7281498924227792444
+    second: introscene_24
+  - first:
+      213: -1279880889804268535
+    second: introscene_25
+  - first:
+      213: 772874029531054848
+    second: introscene_26
+  - first:
+      213: 1475070393443293096
+    second: introscene_27
+  - first:
+      213: 8982211241315459772
+    second: introscene_28
+  - first:
+      213: -1542255402558405279
+    second: introscene_29
+  - first:
+      213: -5019648772837211750
+    second: introscene_30
+  - first:
+      213: -6470238363011687927
+    second: introscene_31
+  - first:
+      213: -4147876296978704095
+    second: introscene_32
+  - first:
+      213: 2128197269006729565
+    second: introscene_33
+  - first:
+      213: 7809248137547728141
+    second: introscene_34
+  - first:
+      213: -6915488893829588421
+    second: introscene_35
+  - first:
+      213: -7121135331607673569
+    second: introscene_36
+  - first:
+      213: 990819937442756640
+    second: introscene_37
+  - first:
+      213: 8419785615281708059
+    second: introscene_38
+  - first:
+      213: 945389022990527609
+    second: introscene_39
+  - first:
+      213: 7638955019133458534
+    second: introscene_40
+  - first:
+      213: -5808223681444875421
+    second: introscene_41
+  - first:
+      213: -266235937429676773
+    second: introscene_42
+  - first:
+      213: -8314502327978690938
+    second: introscene_43
+  - first:
+      213: 8343155241114698632
+    second: introscene_44
+  - first:
+      213: 9033621312864016443
+    second: introscene_45
+  - first:
+      213: -7465656678683195122
+    second: introscene_46
+  - first:
+      213: -5794444207535635950
+    second: introscene_47
+  - first:
+      213: -4047141242449668999
+    second: introscene_48
+  - first:
+      213: 321199144981743878
+    second: introscene_49
+  - first:
+      213: -7497652970233681295
+    second: introscene_50
+  - first:
+      213: -3249582713872939308
+    second: introscene_51
+  - first:
+      213: -346292079678091606
+    second: introscene_52
+  - first:
+      213: 4663613650239201588
+    second: introscene_53
+  - first:
+      213: -7185820536110012202
+    second: introscene_54
+  - first:
+      213: -7721744201052904263
+    second: introscene_55
+  - first:
+      213: -3273134414540089655
+    second: introscene_56
+  - first:
+      213: 1076532225411955447
+    second: introscene_57
+  - first:
+      213: -8372334442711636579
+    second: introscene_58
+  - first:
+      213: -7976644300947049549
+    second: introscene_59
+  - first:
+      213: 578235282630992288
+    second: introscene_60
+  - first:
+      213: -1939927377857312017
+    second: introscene_61
+  - first:
+      213: -8375403534400932145
+    second: introscene_62
+  - first:
+      213: 3325154965044499537
+    second: introscene_63
+  - first:
+      213: 5517798895491446676
+    second: introscene_64
+  - first:
+      213: 835754135425074244
+    second: introscene_65
+  - first:
+      213: 2435390177284174604
+    second: introscene_66
+  - first:
+      213: 4199771836093163850
+    second: introscene_67
+  - first:
+      213: 5595107623372265484
+    second: introscene_68
+  - first:
+      213: 5574999305201974480
+    second: introscene_69
+  - first:
+      213: -8720977715696556759
+    second: introscene_70
+  - first:
+      213: -2001387094306637851
+    second: introscene_71
+  - first:
+      213: 2823334224225326601
+    second: introscene_72
+  - first:
+      213: 4305421429550211152
+    second: introscene_73
+  - first:
+      213: -4871244862029747908
+    second: introscene_74
+  - first:
+      213: 8905342500967800203
+    second: introscene_75
+  - first:
+      213: -5537229395971906135
+    second: introscene_76
+  - first:
+      213: -7784147867730282545
+    second: introscene_77
+  - first:
+      213: -4131448074000788066
+    second: introscene_78
+  - first:
+      213: -4924041057104399288
+    second: introscene_79
+  - first:
+      213: -943486565778657290
+    second: introscene_80
+  - first:
+      213: 214854346252152603
+    second: introscene_81
+  - first:
+      213: -3733742143083820203
+    second: introscene_82
+  - first:
+      213: 1505601762783922320
+    second: introscene_83
+  - first:
+      213: 1143784297610568209
+    second: introscene_84
+  - first:
+      213: 8342577885969701943
+    second: introscene_85
+  - first:
+      213: -8195012959674941187
+    second: introscene_86
+  - first:
+      213: -564341844622824038
+    second: introscene_87
+  - first:
+      213: -6167341732095959836
+    second: introscene_88
+  - first:
+      213: 5533530072057941172
+    second: introscene_89
+  - first:
+      213: 3061845261124986141
+    second: introscene_90
+  - first:
+      213: -936645875788237316
+    second: introscene_91
+  - first:
+      213: 8122674199262114518
+    second: introscene_92
+  - first:
+      213: 4629883563782086325
+    second: introscene_93
+  - first:
+      213: -4958612029885147938
+    second: introscene_94
+  - first:
+      213: -8858988471790545832
+    second: introscene_95
+  - first:
+      213: -4089316372084975413
+    second: introscene_96
+  - first:
+      213: 1466053856840101444
+    second: introscene_97
+  - first:
+      213: -7807745725604106290
+    second: introscene_98
+  - first:
+      213: -3614605102913398234
+    second: introscene_99
+  - first:
+      213: -6409304620881317365
+    second: introscene_100
+  - first:
+      213: 9194557800900951922
+    second: introscene_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: introscene_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1055
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5702a81b4bffe8720800000000000000
+      internalID: 2850496765709918325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1053
+        width: 255
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c1f56722b77b2f0800000000000000
+      internalID: -957161007847891811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 682
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4939d2b731ae4400800000000000000
+      internalID: 310362684930996556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_3
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 860
+        width: 255
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a616a5695b2f340800000000000000
+      internalID: 4896175402271205942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 854
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e81168f993484d0800000000000000
+      internalID: -3133316083431141870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 854
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de69420dcad06eba0800000000000000
+      internalID: -6060141212702828819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 852
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebb50a7d3c290650800000000000000
+      internalID: 6199535004604021737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 853
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d6c8226f6d0250800000000000000
+      internalID: 5912504353188926164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 853
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b6c656d831dc7c0800000000000000
+      internalID: -4049558991923287221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_9
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 820
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11296c023b5d8cfb0800000000000000
+      internalID: -4627213651797437935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1504d76b6665814d0800000000000000
+      internalID: -3163683739079458735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_11
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 695
+        width: 51
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9cfad9fbdebcc90800000000000000
+      internalID: -7148358576280450572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 625
+        width: 123
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb095b8c7b83dc90800000000000000
+      internalID: -7146214816676770847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 569
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed7acfcc72fbdd0800000000000000
+      internalID: -2468210309410070811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 573
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d6ff6321fc12520800000000000000
+      internalID: 2675647330773855506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 557
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea544e8d72502560800000000000000
+      internalID: 7286914896296696555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 474
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f67b7daa352527d0800000000000000
+      internalID: -2943905847467870472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_17
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 442
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc76803ca603eb0800000000000000
+      internalID: -4742173021728945070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 428
+        width: 96
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54138f68f791577e0800000000000000
+      internalID: -1768479243157098171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 432
+        width: 113
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a9832432b94710800000000000000
+      internalID: 1678068273176487298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 249
+        width: 255
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de45e5f72ff595700800000000000000
+      internalID: 529559926316356845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 364
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52826c96efbd49450800000000000000
+      internalID: 6094738081481893925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 219
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee8c300d8b1a4520800000000000000
+      internalID: 2686990420088229604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 319
+        width: 73
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12144ed62a764080800000000000000
+      internalID: -9203534481128680930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c17305be4be2fa90800000000000000
+      internalID: -7281498924227792444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 251
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cd760ac13fc3ee0800000000000000
+      internalID: -1279880889804268535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 86
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003c252c5dcc9ba00800000000000000
+      internalID: 772874029531054848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 186
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a712e325b0887410800000000000000
+      internalID: 1475070393443293096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2e020c88937ac70800000000000000
+      internalID: 8982211241315459772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 118
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1654491f1eec89ae0800000000000000
+      internalID: -1542255402558405279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: introscene_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 800
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9100dd4900a65ab0800000000000000
+      internalID: -5019648772837211750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e01a0e241ccbc154abacd6a11dc6f308
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      introscene_0: 2850496765709918325
+      introscene_1: -957161007847891811
+      introscene_10: -3163683739079458735
+      introscene_11: -7148358576280450572
+      introscene_12: -7146214816676770847
+      introscene_13: -2468210309410070811
+      introscene_14: 2675647330773855506
+      introscene_15: 7286914896296696555
+      introscene_16: -2943905847467870472
+      introscene_17: -4742173021728945070
+      introscene_18: -1768479243157098171
+      introscene_19: 1678068273176487298
+      introscene_2: 310362684930996556
+      introscene_20: 529559926316356845
+      introscene_21: 6094738081481893925
+      introscene_22: 2686990420088229604
+      introscene_23: -9203534481128680930
+      introscene_24: -7281498924227792444
+      introscene_25: -1279880889804268535
+      introscene_26: 772874029531054848
+      introscene_27: 1475070393443293096
+      introscene_28: 8982211241315459772
+      introscene_29: -1542255402558405279
+      introscene_3: 4896175402271205942
+      introscene_30: -5019648772837211750
+      introscene_4: -3133316083431141870
+      introscene_5: -6060141212702828819
+      introscene_6: 6199535004604021737
+      introscene_7: 5912504353188926164
+      introscene_8: -4049558991923287221
+      introscene_9: -4627213651797437935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

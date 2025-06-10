@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ef8947fe305cf4aaba9a5b790e0bae38
+guid: 5ca93a9299762e749ab74c18339ace56
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2726007724895168523
-    second: 20105_0
+      213: 5274919422435448525
+    second: pokemon-video-games-pixel-art-pixels-wallpaper-preview_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20105_0
+      name: pokemon-video-games-pixel-art-pixels-wallpaper-preview_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 192
-        height: 52
+        width: 728
+        height: 455
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b08e8513599b4d520800000000000000
-      internalID: 2726007724895168523
+      spriteID: dc6d2195447443940800000000000000
+      internalID: 5274919422435448525
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      20105_0: 2726007724895168523
+      pokemon-video-games-pixel-art-pixels-wallpaper-preview_0: 5274919422435448525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

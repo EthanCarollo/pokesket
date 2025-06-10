@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ef8947fe305cf4aaba9a5b790e0bae38
+guid: c0967fe98440f254eb97ed07c678c75f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2726007724895168523
-    second: 20105_0
+      213: -7545002560122657090
+    second: pokesket_title_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20105_0
+      name: pokesket_title_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 192
-        height: 52
+        width: 1066
+        height: 318
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b08e8513599b4d520800000000000000
-      internalID: 2726007724895168523
+      spriteID: eb6e97e8524ca4790800000000000000
+      internalID: -7545002560122657090
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      20105_0: 2726007724895168523
+      pokesket_title_0: -7545002560122657090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ef8947fe305cf4aaba9a5b790e0bae38
+guid: 80993e91810c12d4a8f5a29e582fa5e6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2726007724895168523
-    second: 20105_0
+      213: -3726528445313663683
+    second: lava-background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 20105_0
+      name: lava-background_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 192
-        height: 52
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b08e8513599b4d520800000000000000
-      internalID: 2726007724895168523
+      spriteID: d3db0bb7f16b84cc0800000000000000
+      internalID: -3726528445313663683
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      20105_0: 2726007724895168523
+      lava-background_0: -3726528445313663683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
