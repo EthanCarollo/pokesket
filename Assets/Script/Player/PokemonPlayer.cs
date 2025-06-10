@@ -18,6 +18,11 @@ public class PokemonPlayer : MonoBehaviour
 
     private IPokemonPlayerState currentState;
 
+    public void Setup(Pokemon pokemon)
+    {
+        speed = pokemon.speed;
+    }
+
     private void Start()
     {
         currentState = new DefenseState(this);
