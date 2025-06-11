@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 using System.Collections.Generic;
+using TMPro;
 
 public class VirtualCursor : MonoBehaviour
 {
@@ -15,7 +16,12 @@ public class VirtualCursor : MonoBehaviour
     [SerializeField] private Sprite hoverSprite;
     [SerializeField] private Sprite clickSprite;
     
+    [SerializeField] private Sprite outlineNormalSprite;
+    [SerializeField] private Sprite outlineHoverSprite;
+    [SerializeField] private Sprite outlineClickSprite;
+    
     // Components
+    [SerializeField] private Image outlineImage;
     private RectTransform rectTransform;
     private Image image;
     private PlayerInput playerInput;
@@ -31,6 +37,8 @@ public class VirtualCursor : MonoBehaviour
     private GameObject currentHoveredObject;
     private GameObject lastHoveredObject;
     private List<RaycastResult> raycastResults = new List<RaycastResult>();
+
+    public TextMeshProUGUI playerNumberIndicationText;
     
     void Start()
     {
@@ -41,6 +49,19 @@ public class VirtualCursor : MonoBehaviour
         {
             Debug.LogError("VirtualCursor: PlayerInput is set to use Unity Events. " +
                            "Please change to 'Send Messages' or 'Invoke C# Events' in the PlayerInput component.");
+        }
+        playerNumberIndicationText.text = (playerInput.playerIndex+1).ToString();
+        
+        playerNumberIndicationText.fontMaterial = new Material(playerNumberIndicationText.fontMaterial);
+        if (playerInput.playerIndex == 0)
+        {
+            outlineImage.color = new Color(0f, 0.5f, 1, 1);
+            playerNumberIndicationText.fontMaterial.SetColor("_GlowColor", new Color(0f, 0.5f, 0.7f, 1));
+        }
+        else
+        {
+            outlineImage.color = new Color(1, 0.2f, 0.2f, 1);
+            playerNumberIndicationText.fontMaterial.SetColor("_GlowColor", new Color(0.7f, 0.2f, 0.2f, 1));
         }
     }
     
@@ -214,14 +235,17 @@ public class VirtualCursor : MonoBehaviour
         if (isPressed && clickSprite != null)
         {
             image.sprite = clickSprite;
+            outlineImage.sprite = outlineClickSprite;
         }
         else if (currentHoveredObject != null && hoverSprite != null)
         {
             image.sprite = hoverSprite;
+            outlineImage.sprite = outlineHoverSprite;
         }
         else if (normalSprite != null)
         {
             image.sprite = normalSprite;
+            outlineImage.sprite = outlineNormalSprite;
         }
     }
     
