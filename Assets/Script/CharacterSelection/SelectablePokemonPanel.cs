@@ -140,6 +140,7 @@ public class SelectablePokemonPanel : MonoBehaviour
             {
                 GameManager gameManager = GameManager.Instance;
                 if (gameManager == null) Debug.LogWarning("Error getting game manager");
+                // TODO : Use pokemon player from here
                 // gameManager.StartMatch();
             });
         }

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -20,8 +21,34 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        // StartMatch();
+#if UNITY_EDITOR
+        if (IsLaunchedDirectly())
+        {
+            Debug.Log("==== Scène lancée directement depuis l'éditeur ! Lancement du match avec des paramètres prédéfinis.");
+            StartMatch(
+                new List<Pokemon>()
+                {
+                    PokemonDatabase.Instance.pokemons[0],
+                    PokemonDatabase.Instance.pokemons[1],
+                    PokemonDatabase.Instance.pokemons[2],
+                },
+                new List<Pokemon>()
+                {
+                    PokemonDatabase.Instance.pokemons[3],
+                    PokemonDatabase.Instance.pokemons[4],
+                    PokemonDatabase.Instance.pokemons[5],
+                }
+                );
+        }
+#endif
     }
+    
+#if UNITY_EDITOR
+    private bool IsLaunchedDirectly()
+    {
+        return SceneManager.sceneCount == 1;
+    }
+#endif
 
     public void StartMatch(List<Pokemon> pokeTeamBlue, List<Pokemon> pokeTeamRed)
     {
