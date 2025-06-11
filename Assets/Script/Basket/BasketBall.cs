@@ -6,8 +6,6 @@ public class BasketBall : MonoBehaviour
 {
     private PokemonPlayer currentHolder => BasketBallManager.Instance.BallHolder;
     public Rigidbody rb => GetComponent<Rigidbody>();
-    [SerializeField] private bool _isShooting = false;
-    public bool IsShooting => _isShooting;
 
     public void Update()
     {
@@ -18,24 +16,12 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        // On considère que le tir est terminé uniquement si on touche le sol ou l’anneau
-        if (collision.collider.CompareTag("Ground") || collision.collider.CompareTag("Ring"))
-        {
-            _isShooting = false;
-        }
-    }
-
     public void ShootTowardsBasket(Vector3 target, float precision)
     {
-        _isShooting = true;
-
         rb.useGravity = true;
         rb.isKinematic = false;
 
         Vector3 start = transform.position;
-        Vector3 originalTarget = target;
 
         // Distance entre le tireur et le panier
         float distance = Vector3.Distance(start, target);

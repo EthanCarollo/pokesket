@@ -17,7 +17,7 @@ public class PokemonPlayer : MonoBehaviour
 
     [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
     public Vector3 Direction => lastMoveDirection;
-    private bool _isPassing = false;
+    private bool _canHold = true;
 
     private IPokemonPlayerState currentState;
 
@@ -65,10 +65,10 @@ public class PokemonPlayer : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
         bool isHolded = BasketBallManager.Instance.IsBallHolded();
-        if (!HasBall && !isHolded && !_isPassing)
+        if (!HasBall && !isHolded && _canHold)
         {
             BasketBall ball = other.GetComponent<BasketBall>();
-            if (ball != null && !ball.IsShooting)
+            if (ball != null)
             {
                 BasketBallManager.Instance.SetBallHolder(this);
                 Team.SetControlledPlayer(this);
@@ -76,11 +76,16 @@ public class PokemonPlayer : MonoBehaviour
         }
     }
 
-    public IEnumerator Pass()
+    public void LoseBall()
     {
-        _isPassing = true;
+        StartCoroutine(LoseBallCoroutine());
+    }
+
+    IEnumerator LoseBallCoroutine()
+    {
+        _canHold = false;
         yield return new WaitForSeconds(0.5f);
-        _isPassing = false;
+        _canHold = true;
     }
     
     void OnDrawGizmos()

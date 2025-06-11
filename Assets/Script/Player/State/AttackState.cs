@@ -35,19 +35,30 @@ public class AttackState : IPokemonPlayerState
                 PassBall();
             }
         }
-        else
-        {
-            // AI Attack
-        }
     }
 
     public void LaunchBall()
     {
         var rim = _pokemonPlayer.Team.GetTargetRim();
+        _pokemonPlayer.LoseBall();
         BasketBallManager.Instance.ShootTo(rim, _pokemonPlayer.precision);
     }
 
     public void PassBall()
+    {
+        PokemonPlayer target = GetTargetAllie();
+
+        if (target == null)
+        {
+            Debug.LogWarning("Aucun coéquipier autre que soi");
+            return;
+        }
+
+        _pokemonPlayer.LoseBall();
+        BasketBallManager.Instance.PassTo(target.transform);
+    }
+
+    private PokemonPlayer GetTargetAllie()
     {
         Vector2 inputDir = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         Vector3 myPosition = _pokemonPlayer.transform.position;
@@ -65,7 +76,6 @@ public class AttackState : IPokemonPlayerState
         float closestDistance = float.MaxValue;
 
         float maxAngle = 60f;
-
         int teammateCount = 0;
 
         foreach (var ally in _pokemonPlayer.Team.pokeTeam)
@@ -76,12 +86,14 @@ public class AttackState : IPokemonPlayerState
             Vector3 toAlly = ally.transform.position - myPosition;
             float distance = toAlly.sqrMagnitude;
 
+            // Meilleur au global
             if (distance < closestDistance)
             {
                 closestDistance = distance;
                 closestAlly = ally;
             }
 
+            // Meilleur dans la direction donnée
             if (direction.HasValue)
             {
                 float angle = Vector3.Angle(direction.Value, toAlly);
@@ -96,15 +108,8 @@ public class AttackState : IPokemonPlayerState
         }
 
         if (teammateCount == 0)
-        {
-            Debug.LogWarning("Aucun coéquipier autre que soi");
-            return;
-        }
+            return null;
 
-        PokemonPlayer finalTarget = bestTargetInDirection ?? closestAlly;
-
-        BasketBallManager.Instance.PassTo(finalTarget.transform);
-
-        _pokemonPlayer.StartCoroutine(_pokemonPlayer.Pass());
+        return bestTargetInDirection ?? closestAlly;
     }
 }
