@@ -25,12 +25,12 @@ public class AttackState : IPokemonPlayerState
 
         if (_pokemonPlayer.IsControlled)
         {
-            if (Input.GetKeyDown(KeyCode.JoystickButton1) || Input.GetKeyDown(KeyCode.B)) // B on Xbox
+            if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button1 : KeyCode.Joystick2Button1)) // B on Xbox
             {
                 LaunchBall();
             }
 
-            if (Input.GetKeyDown(KeyCode.JoystickButton3) || Input.GetKeyDown(KeyCode.X)) // X on Xbox
+            if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button3 : KeyCode.Joystick2Button3)) // X on Xbox
             {
                 PassBall();
             }

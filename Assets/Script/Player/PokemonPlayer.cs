@@ -12,6 +12,10 @@ public class PokemonPlayer : MonoBehaviour
     [Range(0f, 1f)] public float precision = 0.5f;
     [Header("References")]
     public BasketTeam Team;
+    public bool ControlledByPlayer1
+    {
+        get { return Team.teamName == TeamName.Blue; }
+    }
     [SerializeField] private SpriteRenderer indicator;
     [SerializeField] private SpriteRenderer pokemonSpriteRenderer;
 
@@ -41,8 +45,8 @@ public class PokemonPlayer : MonoBehaviour
     {
         if (IsControlled)
         {
-            float h = Input.GetAxis("Horizontal");
-            float v = Input.GetAxis("Vertical");
+            float h = ControlledByPlayer1 ? Input.GetAxis("HorizontalJoystick1") : Input.GetAxis("HorizontalJoystick2");
+            float v = ControlledByPlayer1 ? Input.GetAxis("VerticalJoystick1") : Input.GetAxis("VerticalJoystick2");
 
             Vector3 move = new Vector3(h, 0, v);
             if (move.sqrMagnitude > 0.01f)

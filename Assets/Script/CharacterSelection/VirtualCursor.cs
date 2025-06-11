@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
-using UnityEngine.InputSystem;
 using System.Collections.Generic;
 using TMPro;
 
@@ -10,50 +9,47 @@ public class VirtualCursor : MonoBehaviour
     [Header("Cursor Settings")]
     [SerializeField] private float cursorSpeed = 800f;
     [SerializeField] private bool constrainToScreen = true;
-    
+
     [Header("Cursor Sprites")]
     [SerializeField] private Sprite normalSprite;
     [SerializeField] private Sprite hoverSprite;
     [SerializeField] private Sprite clickSprite;
-    
+
     [SerializeField] private Sprite outlineNormalSprite;
     [SerializeField] private Sprite outlineHoverSprite;
     [SerializeField] private Sprite outlineClickSprite;
-    
-    // Components
+
     [SerializeField] private Image outlineImage;
+
     private RectTransform rectTransform;
     private Image image;
-    private PlayerInput playerInput;
     private Canvas canvas;
     private GraphicRaycaster graphicRaycaster;
     private EventSystem eventSystem;
-    
-    // Input
-    private Vector2 moveInput;
-    private bool isPressed = false;
-    
-    // UI Interaction
+
     private GameObject currentHoveredObject;
     private GameObject lastHoveredObject;
     private List<RaycastResult> raycastResults = new List<RaycastResult>();
 
     public TextMeshProUGUI playerNumberIndicationText;
-    
+    public int actualControllerIndex = 1;
+
+    private bool ControlledByPlayer1
+    {
+        get { return actualControllerIndex == 1; }
+    }
+
+    private bool isPressed = false;
+
     void Start()
     {
         InitializeComponents();
-        SetupInputCallbacks();
         InitializeCursor();
-        if (playerInput != null && playerInput.notificationBehavior == PlayerNotifications.InvokeUnityEvents)
-        {
-            Debug.LogError("VirtualCursor: PlayerInput is set to use Unity Events. " +
-                           "Please change to 'Send Messages' or 'Invoke C# Events' in the PlayerInput component.");
-        }
-        playerNumberIndicationText.text = (playerInput.playerIndex+1).ToString();
-        
+
+        playerNumberIndicationText.text = actualControllerIndex.ToString();
         playerNumberIndicationText.fontMaterial = new Material(playerNumberIndicationText.fontMaterial);
-        if (playerInput.playerIndex == 0)
+
+        if (actualControllerIndex == 1)
         {
             outlineImage.color = new Color(0f, 0.5f, 1, 1);
             playerNumberIndicationText.fontMaterial.SetColor("_GlowColor", new Color(0f, 0.5f, 0.7f, 1));
@@ -64,174 +60,113 @@ public class VirtualCursor : MonoBehaviour
             playerNumberIndicationText.fontMaterial.SetColor("_GlowColor", new Color(0.7f, 0.2f, 0.2f, 1));
         }
     }
-    
+
     void InitializeComponents()
     {
-        // Get this object's components
         rectTransform = GetComponent<RectTransform>();
         image = GetComponent<Image>();
-        
-        // Make sure this object doesn't block raycasts
+
         if (image != null)
-        {
             image.raycastTarget = false;
-        }
-        
-        // Find PlayerInput (can be on this object or parent)
-        playerInput = GetComponentInParent<PlayerInput>();
-        if (playerInput == null)
-        {
-            Debug.LogError("VirtualCursor: PlayerInput component not found on this object or parent!");
-            return;
-        }
-        
-        // Find Canvas (parent of this UI element)
+
         canvas = FindAnyObjectByType<Canvas>();
         if (canvas != null)
         {
             graphicRaycaster = canvas.GetComponent<GraphicRaycaster>();
-            this.transform.SetParent(canvas.transform, false);
         }
-        
-        // Find EventSystem
-        eventSystem = GetComponent<EventSystem>();
+
+        eventSystem = EventSystem.current;
         if (eventSystem == null)
-        {
             Debug.LogError("VirtualCursor: No EventSystem found in scene!");
-        }
     }
-    
-    void SetupInputCallbacks()
-    {
-        // Only setup callbacks if PlayerInput is NOT using Unity Events
-        if (playerInput != null && playerInput.notificationBehavior != PlayerNotifications.InvokeUnityEvents)
-        {
-            if (playerInput.actions != null)
-            {
-                Debug.LogWarning("Set different actionss");
-                // Movement
-                var moveAction = playerInput.actions.FindAction("Move");
-                if (moveAction != null)
-                {
-                    moveAction.performed += OnMove;
-                    moveAction.canceled += OnMove;
-                }
-                else
-                {
-                    Debug.LogWarning("Move action doesn't exist!");
-                }
-                
-                // Click/Submit
-                var submitAction = playerInput.actions.FindAction("Interact");
-                if (submitAction != null)
-                {
-                    submitAction.performed += OnSubmit;
-                    submitAction.canceled += OnSubmitRelease;
-                }
-                else
-                {
-                    Debug.LogWarning("Submit action doesn't exist!");
-                }
-            }
-        }
-    }
-    
+
     void InitializeCursor()
     {
-        if (rectTransform != null)
-        {
-            // Move this GameObject to be direct child of Canvas
-            if (canvas != null)
-            {
-                rectTransform.SetParent(canvas.transform, false);
-            }
-            
-            // Position cursor at center of screen initially
-            rectTransform.position = new Vector3(Screen.width * 0.5f, Screen.height * 0.5f, 0);
-            
-            // Make sure cursor is on top
-            rectTransform.SetAsLastSibling();
-        }
-        
-        // Set initial sprite
         if (image != null && normalSprite != null)
-        {
             image.sprite = normalSprite;
-        }
     }
-    
+
     void Update()
     {
         if (rectTransform == null) return;
-        
+
+        ReadInput();
         MoveCursor();
         HandleUIInteraction();
         UpdateVisuals();
     }
-    
-    void MoveCursor()
+
+    void ReadInput()
     {
-        if (moveInput == Vector2.zero) return;
-        
-        // Calculate movement
-        Vector2 movement = moveInput * cursorSpeed * Time.unscaledDeltaTime;
-        Vector3 newPosition = rectTransform.position + (Vector3)movement;
-        
-        // Constrain to screen bounds if enabled
-        if (constrainToScreen)
+        float h = ControlledByPlayer1 ? Input.GetAxis("HorizontalJoystick1") : Input.GetAxis("HorizontalJoystick2");
+        float v = ControlledByPlayer1 ? Input.GetAxis("VerticalJoystick1") : Input.GetAxis("VerticalJoystick2");
+
+        Vector2 moveInput = new Vector2(h, v);
+
+        if (moveInput.sqrMagnitude > 0.01f)
         {
-            newPosition.x = Mathf.Clamp(newPosition.x, 0, Screen.width);
-            newPosition.y = Mathf.Clamp(newPosition.y, 0, Screen.height);
+            Vector2 movement = moveInput.normalized * cursorSpeed * Time.unscaledDeltaTime;
+            Vector3 newPosition = rectTransform.position + (Vector3)movement;
+
+            if (constrainToScreen)
+            {
+                newPosition.x = Mathf.Clamp(newPosition.x, 0, Screen.width);
+                newPosition.y = Mathf.Clamp(newPosition.y, 0, Screen.height);
+            }
+
+            rectTransform.position = newPosition;
         }
-        
-        rectTransform.position = newPosition;
+
+        // Read button press
+        KeyCode button = ControlledByPlayer1 ? KeyCode.Joystick1Button0 : KeyCode.Joystick2Button0;
+
+        if (Input.GetKeyDown(button))
+        {
+            isPressed = true;
+            PerformClick();
+        }
+        else if (Input.GetKeyUp(button))
+        {
+            isPressed = false;
+        }
     }
-    
+
+    void MoveCursor() { /* Already handled in ReadInput */ }
+
     void HandleUIInteraction()
     {
         if (graphicRaycaster == null || eventSystem == null) return;
-        
-        // Create pointer event data
+
         PointerEventData pointerData = new PointerEventData(eventSystem)
         {
             position = rectTransform.position
         };
-        
-        // Perform raycast
+
         raycastResults.Clear();
         graphicRaycaster.Raycast(pointerData, raycastResults);
-        
-        // Update hovered object
+
         lastHoveredObject = currentHoveredObject;
         currentHoveredObject = null;
-        
+
         if (raycastResults.Count > 0)
         {
             currentHoveredObject = raycastResults[0].gameObject;
         }
-        
-        // Handle hover enter/exit
+
         if (currentHoveredObject != lastHoveredObject)
         {
-            // Exit previous object
             if (lastHoveredObject != null)
-            {
                 ExecuteEvents.Execute(lastHoveredObject, pointerData, ExecuteEvents.pointerExitHandler);
-            }
-            
-            // Enter new object
+
             if (currentHoveredObject != null)
-            {
                 ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.pointerEnterHandler);
-            }
         }
     }
-    
+
     void UpdateVisuals()
     {
         if (image == null) return;
-        
-        // Update cursor sprite based on state
+
         if (isPressed && clickSprite != null)
         {
             image.sprite = clickSprite;
@@ -248,44 +183,24 @@ public class VirtualCursor : MonoBehaviour
             outlineImage.sprite = outlineNormalSprite;
         }
     }
-    
-    public void OnMove(InputAction.CallbackContext context)
-    {
-        Debug.Log($"OnMove called: {context.ReadValue<Vector2>()}");
-        moveInput = context.ReadValue<Vector2>();
-    }
-    
-    public void OnSubmit(InputAction.CallbackContext context)
-    {
-        Debug.Log("OnSubmit called");
-        isPressed = true;
-        PerformClick();
-    }
-    
-    public void OnSubmitRelease(InputAction.CallbackContext context)
-    {
-        Debug.Log("OnSubmitRelease called");
-        isPressed = false;
-    }
-    
+
     void PerformClick()
     {
         if (eventSystem == null) return;
-        
-        // Create pointer event data
+
         PointerEventData pointerData = new PointerEventData(eventSystem)
         {
             position = rectTransform.position,
             button = PointerEventData.InputButton.Left
         };
-        
+
         if (currentHoveredObject != null)
         {
             if (currentHoveredObject.GetComponent<SelectablePokemonPrefab>() != null)
             {
-                currentHoveredObject.GetComponent<SelectablePokemonPrefab>().SelectPokemon(playerInput.playerIndex);
+                currentHoveredObject.GetComponent<SelectablePokemonPrefab>().SelectPokemon(actualControllerIndex - 1);
             }
-            else 
+            else
             {
                 ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.pointerDownHandler);
                 ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.pointerClickHandler);
