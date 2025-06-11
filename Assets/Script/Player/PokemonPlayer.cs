@@ -11,7 +11,14 @@ public class PokemonPlayer : MonoBehaviour
 
     [Header("Stats")]
     public float speed = 5f;
-    [Range(0f, 100f)] public float precision = 0.5f;
+
+    [NonSerialized]
+    public Pokemon actualPokemon;
+    public float shootPrecision
+    {
+        get => actualPokemon.shootPrecision;
+    }
+
     [Header("References")]
     public BasketTeam Team;
     public bool ControlledByPlayer1
@@ -39,6 +46,7 @@ public class PokemonPlayer : MonoBehaviour
 
     public void Setup(Pokemon pokemon)
     {
+        actualPokemon = pokemon;
         pokemonSpriteRenderer.sprite = pokemon.pokemonSprite;
         speed = pokemon.speed;
         currentState = new DefenseState(this);

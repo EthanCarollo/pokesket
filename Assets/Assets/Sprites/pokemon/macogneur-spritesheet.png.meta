@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 83cc61b3f1c27b84ab90bd499c1efdb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6112181415019389223
+    second: macogneur-spritesheet_0
+  - first:
+      213: 6164269865649437078
+    second: macogneur-spritesheet_1
+  - first:
+      213: 3235511416984489085
+    second: macogneur-spritesheet_2
+  - first:
+      213: -2082969219040883329
+    second: macogneur-spritesheet_3
+  - first:
+      213: -3779929539423166331
+    second: macogneur-spritesheet_4
+  - first:
+      213: 5248760463903436297
+    second: macogneur-spritesheet_5
+  - first:
+      213: 7684575919633084686
+    second: macogneur-spritesheet_6
+  - first:
+      213: -4061961424543141520
+    second: macogneur-spritesheet_7
+  - first:
+      213: 1271447796962301620
+    second: macogneur-spritesheet_8
+  - first:
+      213: -6016076900472086279
+    second: macogneur-spritesheet_9
+  - first:
+      213: -7572021863517574166
+    second: macogneur-spritesheet_10
+  - first:
+      213: -2048300574708986849
+    second: macogneur-spritesheet_11
+  - first:
+      213: -8577649972051530011
+    second: macogneur-spritesheet_12
+  - first:
+      213: 7880581988677965520
+    second: macogneur-spritesheet_13
+  - first:
+      213: -2142762819485685888
+    second: macogneur-spritesheet_14
+  - first:
+      213: -6985030283838458310
+    second: macogneur-spritesheet_15
+  - first:
+      213: 5459403684019346909
+    second: macogneur-spritesheet_16
+  - first:
+      213: 4441018527487254391
+    second: macogneur-spritesheet_17
+  - first:
+      213: -992933496279309044
+    second: macogneur-spritesheet_18
+  - first:
+      213: 589130476594978240
+    second: macogneur-spritesheet_19
+  - first:
+      213: -8562061659098488020
+    second: macogneur-spritesheet_20
+  - first:
+      213: -7590413008723713737
+    second: macogneur-spritesheet_21
+  - first:
+      213: -344291574016505534
+    second: macogneur-spritesheet_22
+  - first:
+      213: -7161305663692944155
+    second: macogneur-spritesheet_23
+  - first:
+      213: 4588959629641347517
+    second: macogneur-spritesheet_24
+  - first:
+      213: 1648811596533888855
+    second: macogneur-spritesheet_25
+  - first:
+      213: -8874350432408168630
+    second: macogneur-spritesheet_26
+  - first:
+      213: -5755752630104514998
+    second: macogneur-spritesheet_27
+  - first:
+      213: -8243356450300851408
+    second: macogneur-spritesheet_28
+  - first:
+      213: -7473261732458293462
+    second: macogneur-spritesheet_29
+  - first:
+      213: -5149213771125031060
+    second: macogneur-spritesheet_30
+  - first:
+      213: -1683121600777140325
+    second: macogneur-spritesheet_31
+  - first:
+      213: -7022286558610863808
+    second: macogneur-spritesheet_32
+  - first:
+      213: 7534726054244061824
+    second: macogneur-spritesheet_33
+  - first:
+      213: 6366610649797979807
+    second: macogneur-spritesheet_34
+  - first:
+      213: -704946494046142975
+    second: macogneur-spritesheet_35
+  - first:
+      213: 2950592900546288623
+    second: macogneur-spritesheet_36
+  - first:
+      213: 4599235993189851665
+    second: macogneur-spritesheet_37
+  - first:
+      213: 5013177480090496976
+    second: macogneur-spritesheet_38
+  - first:
+      213: 4745766375111195399
+    second: macogneur-spritesheet_39
+  - first:
+      213: -7021438576196306062
+    second: macogneur-spritesheet_40
+  - first:
+      213: -5463900386743346614
+    second: macogneur-spritesheet_41
+  - first:
+      213: 7194871162963195818
+    second: macogneur-spritesheet_42
+  - first:
+      213: -1404006756916104637
+    second: macogneur-spritesheet_43
+  - first:
+      213: -7770204241294688165
+    second: macogneur-spritesheet_44
+  - first:
+      213: 764302680668023550
+    second: macogneur-spritesheet_45
+  - first:
+      213: 3643256803118470308
+    second: macogneur-spritesheet_46
+  - first:
+      213: 5344688737526419429
+    second: macogneur-spritesheet_47
+  - first:
+      213: 2174066542281843789
+    second: macogneur-spritesheet_48
+  - first:
+      213: 2510273760020061972
+    second: macogneur-spritesheet_49
+  - first:
+      213: -637447095992493616
+    second: macogneur-spritesheet_50
+  - first:
+      213: -8596133321977367957
+    second: macogneur-spritesheet_51
+  - first:
+      213: 8746533279408003737
+    second: macogneur-spritesheet_52
+  - first:
+      213: -5879718930935467777
+    second: macogneur-spritesheet_53
+  - first:
+      213: 6277761141680935818
+    second: macogneur-spritesheet_54
+  - first:
+      213: 6693523533963433925
+    second: macogneur-spritesheet_55
+  - first:
+      213: -9141310335809998419
+    second: macogneur-spritesheet_56
+  - first:
+      213: 8497885747801085384
+    second: macogneur-spritesheet_57
+  - first:
+      213: -539237931383839962
+    second: macogneur-spritesheet_58
+  - first:
+      213: 4378219778255524954
+    second: macogneur-spritesheet_59
+  - first:
+      213: -8316525379722475435
+    second: macogneur-spritesheet_60
+  - first:
+      213: -2811099550048138418
+    second: macogneur-spritesheet_61
+  - first:
+      213: 2481613295557916161
+    second: macogneur-spritesheet_62
+  - first:
+      213: -4669583606439955912
+    second: macogneur-spritesheet_63
+  - first:
+      213: -7613147063896793537
+    second: macogneur-spritesheet_64
+  - first:
+      213: 5934295732587841912
+    second: macogneur-spritesheet_65
+  - first:
+      213: -5768391684593369745
+    second: macogneur-spritesheet_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: macogneur-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 179
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de5603036b2d2ba0800000000000000
+      internalID: -6112181415019389223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 179
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699fda978c2eb8550800000000000000
+      internalID: 6164269865649437078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 192
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc414cd78d6ec20800000000000000
+      internalID: 3235511416984489085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dcef4088ec713e0800000000000000
+      internalID: -2082969219040883329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5802dae5c1efa8bc0800000000000000
+      internalID: -3779929539423166331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 191
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e241235d757d840800000000000000
+      internalID: 5248760463903436297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 191
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e013043951915aa60800000000000000
+      internalID: 7684575919633084686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07134c60b9301a7c0800000000000000
+      internalID: -4061961424543141520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 191
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b61460f80715a110800000000000000
+      internalID: 1271447796962301620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 190
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0adedfee9928ca0800000000000000
+      internalID: -6016076900472086279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 190
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb2b81cb36cae690800000000000000
+      internalID: -7572021863517574166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 190
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c0e3bca79f293e0800000000000000
+      internalID: -2048300574708986849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeaa38fbc016f880800000000000000
+      internalID: -8577649972051530011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 153
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6dd7ac0937d5d60800000000000000
+      internalID: 7880581988677965520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 149
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08724aa81906342e0800000000000000
+      internalID: -2142762819485685888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 149
+        width: 31
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36767217ff201f90800000000000000
+      internalID: -6985030283838458310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 158
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd9e67b9b2b3cb40800000000000000
+      internalID: 5459403684019346909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 158
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f5ecb32daa1ad30800000000000000
+      internalID: 4441018527487254391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 158
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056fa4fe346832f0800000000000000
+      internalID: -992933496279309044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 153
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddccf0c030d2800800000000000000
+      internalID: 589130476594978240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 153
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c236178e8427d2980800000000000000
+      internalID: -8562061659098488020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 153
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731e484959f69a690800000000000000
+      internalID: -7590413008723713737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 153
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249069733a4d83bf0800000000000000
+      internalID: -344291574016505534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 148
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc69be07eed9c90800000000000000
+      internalID: -7161305663692944155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 148
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1716548724faf30800000000000000
+      internalID: 4588959629641347517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 148
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75772f84961c1e610800000000000000
+      internalID: 1648811596533888855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a471affcc49f7d480800000000000000
+      internalID: -8874350432408168630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 100
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e999b6a757f10b0800000000000000
+      internalID: -5755752630104514998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 116
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b84eecbf6b99d80800000000000000
+      internalID: -8243356450300851408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 116
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a279d43ac04a94890800000000000000
+      internalID: -7473261732458293462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 125
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ffa8b5b515a88b0800000000000000
+      internalID: -5149213771125031060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 125
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9744e752d954a8e0800000000000000
+      internalID: -1683121600777140325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 125
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049cff2a493db8e90800000000000000
+      internalID: -7022286558610863808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 119
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821917fc69b09860800000000000000
+      internalID: 7534726054244061824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 119
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e6d6c77aeba5850800000000000000
+      internalID: 6366610649797979807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 119
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ef8bc06e68736f0800000000000000
+      internalID: -704946494046142975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 119
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd9d13c9c92f820800000000000000
+      internalID: 2950592900546288623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 113
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112a54c94c4c3df30800000000000000
+      internalID: 4599235993189851665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 113
+        width: 34
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df28c07b52629540800000000000000
+      internalID: 5013177480090496976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 113
+        width: 36
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bfe7fbf595cd140800000000000000
+      internalID: 4745766375111195399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 66
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b389de0d6de8e90800000000000000
+      internalID: -7021438576196306062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 83
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a1b081c835c24b0800000000000000
+      internalID: -5463900386743346614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa77f11e33159d360800000000000000
+      internalID: 7194871162963195818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 91
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34274c71b47f38ce0800000000000000
+      internalID: -1404006756916104637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 91
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50856d2960ba2490800000000000000
+      internalID: -7770204241294688165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 91
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa8161d395b9a00800000000000000
+      internalID: 764302680668023550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 85
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d66772c27f8230800000000000000
+      internalID: 3643256803118470308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 85
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef0b43e6162c2a40800000000000000
+      internalID: 5344688737526419429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 85
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4465c26006db2e10800000000000000
+      internalID: 2174066542281843789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 85
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fdafa4fa846d220800000000000000
+      internalID: 2510273760020061972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 75
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d953485e355727f0800000000000000
+      internalID: -637447095992493616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 75
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62f3a5b94664b880800000000000000
+      internalID: -8596133321977367957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 75
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a1f3f2dade16970800000000000000
+      internalID: 8746533279408003737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0b37ec8ca076ea0800000000000000
+      internalID: -5879718930935467777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 51
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8394a25f761f1750800000000000000
+      internalID: 6277761141680935818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 51
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79b99b03c24ec50800000000000000
+      internalID: 6693523533963433925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 58
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1307caeaa832180800000000000000
+      internalID: -9141310335809998419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 58
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5d98b501e8ee570800000000000000
+      internalID: 8497885747801085384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 58
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623237a55fd3488f0800000000000000
+      internalID: -539237931383839962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 50
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54928701bf82cc30800000000000000
+      internalID: 4378219778255524954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 50
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5580f10ea34c59c80800000000000000
+      internalID: -8316525379722475435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 50
+        width: 32
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bce136ad7fcf8d0800000000000000
+      internalID: -2811099550048138418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 50
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106bd97e426707220800000000000000
+      internalID: 2481613295557916161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 37
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832b821537e423fb0800000000000000
+      internalID: -4669583606439955912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 37
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e9f91e41ba85690800000000000000
+      internalID: -7613147063896793537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 37
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879c30d078ada5250800000000000000
+      internalID: 5934295732587841912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dbe7a335e82ffa0800000000000000
+      internalID: -5768391684593369745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 441b864dceedacd41aecfce35c38bcac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      macogneur-spritesheet_0: -6112181415019389223
+      macogneur-spritesheet_1: 6164269865649437078
+      macogneur-spritesheet_10: -7572021863517574166
+      macogneur-spritesheet_11: -2048300574708986849
+      macogneur-spritesheet_12: -8577649972051530011
+      macogneur-spritesheet_13: 7880581988677965520
+      macogneur-spritesheet_14: -2142762819485685888
+      macogneur-spritesheet_15: -6985030283838458310
+      macogneur-spritesheet_16: 5459403684019346909
+      macogneur-spritesheet_17: 4441018527487254391
+      macogneur-spritesheet_18: -992933496279309044
+      macogneur-spritesheet_19: 589130476594978240
+      macogneur-spritesheet_2: 3235511416984489085
+      macogneur-spritesheet_20: -8562061659098488020
+      macogneur-spritesheet_21: -7590413008723713737
+      macogneur-spritesheet_22: -344291574016505534
+      macogneur-spritesheet_23: -7161305663692944155
+      macogneur-spritesheet_24: 4588959629641347517
+      macogneur-spritesheet_25: 1648811596533888855
+      macogneur-spritesheet_26: -8874350432408168630
+      macogneur-spritesheet_27: -5755752630104514998
+      macogneur-spritesheet_28: -8243356450300851408
+      macogneur-spritesheet_29: -7473261732458293462
+      macogneur-spritesheet_3: -2082969219040883329
+      macogneur-spritesheet_30: -5149213771125031060
+      macogneur-spritesheet_31: -1683121600777140325
+      macogneur-spritesheet_32: -7022286558610863808
+      macogneur-spritesheet_33: 7534726054244061824
+      macogneur-spritesheet_34: 6366610649797979807
+      macogneur-spritesheet_35: -704946494046142975
+      macogneur-spritesheet_36: 2950592900546288623
+      macogneur-spritesheet_37: 4599235993189851665
+      macogneur-spritesheet_38: 5013177480090496976
+      macogneur-spritesheet_39: 4745766375111195399
+      macogneur-spritesheet_4: -3779929539423166331
+      macogneur-spritesheet_40: -7021438576196306062
+      macogneur-spritesheet_41: -5463900386743346614
+      macogneur-spritesheet_42: 7194871162963195818
+      macogneur-spritesheet_43: -1404006756916104637
+      macogneur-spritesheet_44: -7770204241294688165
+      macogneur-spritesheet_45: 764302680668023550
+      macogneur-spritesheet_46: 3643256803118470308
+      macogneur-spritesheet_47: 5344688737526419429
+      macogneur-spritesheet_48: 2174066542281843789
+      macogneur-spritesheet_49: 2510273760020061972
+      macogneur-spritesheet_5: 5248760463903436297
+      macogneur-spritesheet_50: -637447095992493616
+      macogneur-spritesheet_51: -8596133321977367957
+      macogneur-spritesheet_52: 8746533279408003737
+      macogneur-spritesheet_53: -5879718930935467777
+      macogneur-spritesheet_54: 6277761141680935818
+      macogneur-spritesheet_55: 6693523533963433925
+      macogneur-spritesheet_56: -9141310335809998419
+      macogneur-spritesheet_57: 8497885747801085384
+      macogneur-spritesheet_58: -539237931383839962
+      macogneur-spritesheet_59: 4378219778255524954
+      macogneur-spritesheet_6: 7684575919633084686
+      macogneur-spritesheet_60: -8316525379722475435
+      macogneur-spritesheet_61: -2811099550048138418
+      macogneur-spritesheet_62: 2481613295557916161
+      macogneur-spritesheet_63: -4669583606439955912
+      macogneur-spritesheet_64: -7613147063896793537
+      macogneur-spritesheet_65: 5934295732587841912
+      macogneur-spritesheet_66: -5768391684593369745
+      macogneur-spritesheet_7: -4061961424543141520
+      macogneur-spritesheet_8: 1271447796962301620
+      macogneur-spritesheet_9: -6016076900472086279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

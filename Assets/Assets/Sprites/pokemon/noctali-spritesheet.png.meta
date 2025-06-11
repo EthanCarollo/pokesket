@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: d9dd43cfa5ba23b42b7486fc688226c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2075052385525674817
+    second: noctali-spritesheet_0
+  - first:
+      213: -2589741847442276077
+    second: noctali-spritesheet_1
+  - first:
+      213: 4718106257518733572
+    second: noctali-spritesheet_2
+  - first:
+      213: -1034551848142719785
+    second: noctali-spritesheet_3
+  - first:
+      213: 4822206617554263307
+    second: noctali-spritesheet_4
+  - first:
+      213: -3970887761338686004
+    second: noctali-spritesheet_5
+  - first:
+      213: 3430392957229726141
+    second: noctali-spritesheet_6
+  - first:
+      213: -4681429144131227644
+    second: noctali-spritesheet_7
+  - first:
+      213: 6447031417692827558
+    second: noctali-spritesheet_8
+  - first:
+      213: 6394377162607282372
+    second: noctali-spritesheet_9
+  - first:
+      213: 4064164086773559867
+    second: noctali-spritesheet_10
+  - first:
+      213: 6962132970130265859
+    second: noctali-spritesheet_11
+  - first:
+      213: 3089150967391276757
+    second: noctali-spritesheet_12
+  - first:
+      213: 2046554460386907162
+    second: noctali-spritesheet_13
+  - first:
+      213: -9085776222290537349
+    second: noctali-spritesheet_14
+  - first:
+      213: 8494555261666841701
+    second: noctali-spritesheet_15
+  - first:
+      213: 8801797491944045900
+    second: noctali-spritesheet_16
+  - first:
+      213: 4541890314861502578
+    second: noctali-spritesheet_17
+  - first:
+      213: 5443624234389481304
+    second: noctali-spritesheet_18
+  - first:
+      213: -7191333528150868725
+    second: noctali-spritesheet_19
+  - first:
+      213: 4315003895548496257
+    second: noctali-spritesheet_20
+  - first:
+      213: -5650742658377047354
+    second: noctali-spritesheet_21
+  - first:
+      213: 3039288882266097560
+    second: noctali-spritesheet_22
+  - first:
+      213: -1456584444338095181
+    second: noctali-spritesheet_23
+  - first:
+      213: -8980402541629385652
+    second: noctali-spritesheet_24
+  - first:
+      213: -1516855437224904825
+    second: noctali-spritesheet_25
+  - first:
+      213: -5522861388856746066
+    second: noctali-spritesheet_26
+  - first:
+      213: -6406587963769761527
+    second: noctali-spritesheet_27
+  - first:
+      213: -479876301627748875
+    second: noctali-spritesheet_28
+  - first:
+      213: -6924400073923494039
+    second: noctali-spritesheet_29
+  - first:
+      213: -1242744490521553968
+    second: noctali-spritesheet_30
+  - first:
+      213: 7269586898654665106
+    second: noctali-spritesheet_31
+  - first:
+      213: 4801239508708577094
+    second: noctali-spritesheet_32
+  - first:
+      213: -727771047945062270
+    second: noctali-spritesheet_33
+  - first:
+      213: 8312313251615125292
+    second: noctali-spritesheet_34
+  - first:
+      213: 6864536519272864780
+    second: noctali-spritesheet_35
+  - first:
+      213: 9066079567104663560
+    second: noctali-spritesheet_36
+  - first:
+      213: -1088498017408380559
+    second: noctali-spritesheet_37
+  - first:
+      213: -8953770732836500480
+    second: noctali-spritesheet_38
+  - first:
+      213: -5104936354634412182
+    second: noctali-spritesheet_39
+  - first:
+      213: 1743531193758771639
+    second: noctali-spritesheet_40
+  - first:
+      213: 6434774864524892083
+    second: noctali-spritesheet_41
+  - first:
+      213: -6367188526730041531
+    second: noctali-spritesheet_42
+  - first:
+      213: -1762314367990421335
+    second: noctali-spritesheet_43
+  - first:
+      213: 8981259334261937916
+    second: noctali-spritesheet_44
+  - first:
+      213: 4139857651778946818
+    second: noctali-spritesheet_45
+  - first:
+      213: -903018971045698251
+    second: noctali-spritesheet_46
+  - first:
+      213: -2291667611689667862
+    second: noctali-spritesheet_47
+  - first:
+      213: 6168853640792854725
+    second: noctali-spritesheet_48
+  - first:
+      213: -2806567285295550298
+    second: noctali-spritesheet_49
+  - first:
+      213: 1041665178438166197
+    second: noctali-spritesheet_50
+  - first:
+      213: 4238112453177605804
+    second: noctali-spritesheet_51
+  - first:
+      213: -560623428432428433
+    second: noctali-spritesheet_52
+  - first:
+      213: 2506085784430085275
+    second: noctali-spritesheet_53
+  - first:
+      213: -977547510401617542
+    second: noctali-spritesheet_54
+  - first:
+      213: -7244418600726957428
+    second: noctali-spritesheet_55
+  - first:
+      213: -4949869754805436709
+    second: noctali-spritesheet_56
+  - first:
+      213: 7538887335143737749
+    second: noctali-spritesheet_57
+  - first:
+      213: -6959902458137648936
+    second: noctali-spritesheet_58
+  - first:
+      213: -8965650710844865900
+    second: noctali-spritesheet_59
+  - first:
+      213: 1195935621236016107
+    second: noctali-spritesheet_60
+  - first:
+      213: -7916851673400946065
+    second: noctali-spritesheet_61
+  - first:
+      213: 3370286783286017963
+    second: noctali-spritesheet_62
+  - first:
+      213: 5817085728217771925
+    second: noctali-spritesheet_63
+  - first:
+      213: -2156628093424177475
+    second: noctali-spritesheet_64
+  - first:
+      213: -4917879870892620518
+    second: noctali-spritesheet_65
+  - first:
+      213: -9002417881696648834
+    second: noctali-spritesheet_66
+  - first:
+      213: 5737748529482643113
+    second: noctali-spritesheet_67
+  - first:
+      213: -4194742616103139570
+    second: noctali-spritesheet_68
+  - first:
+      213: 3491825262078136756
+    second: noctali-spritesheet_69
+  - first:
+      213: -4235775543957545290
+    second: noctali-spritesheet_70
+  - first:
+      213: 2788441619269141199
+    second: noctali-spritesheet_71
+  - first:
+      213: 989732641394219354
+    second: noctali-spritesheet_72
+  - first:
+      213: -3641121983972719070
+    second: noctali-spritesheet_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noctali-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 232
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143b59986211ccc10800000000000000
+      internalID: 2075052385525674817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 231
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3114d33c2836f0cd0800000000000000
+      internalID: -2589741847442276077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 232
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a3f3c4a41a7140800000000000000
+      internalID: 4718106257518733572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 233
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4babd439884a1f0800000000000000
+      internalID: -1034551848142719785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 232
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d1cd89e5bebe240800000000000000
+      internalID: 4822206617554263307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 230
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc52676ae9294e8c0800000000000000
+      internalID: -3970887761338686004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 230
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9fda738343b9f20800000000000000
+      internalID: 3430392957229726141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 229
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400b5e62ff8380fb0800000000000000
+      internalID: -4681429144131227644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 231
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af2d53aae4787950800000000000000
+      internalID: 6447031417692827558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 200
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c31986246db850800000000000000
+      internalID: 6394377162607282372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 200
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32b90d34bfc66830800000000000000
+      internalID: 4064164086773559867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 196
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30756a3ac077e9060800000000000000
+      internalID: 6962132970130265859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 201
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de49e4107ededa20800000000000000
+      internalID: 3089150967391276757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 196
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a145ad84072d66c10800000000000000
+      internalID: 2046554460386907162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 199
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b749ea11aa6d8e180800000000000000
+      internalID: -9085776222290537349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 196
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564d3902109b2e570800000000000000
+      internalID: 8494555261666841701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 200
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dbf3c5f24462a70800000000000000
+      internalID: 8801797491944045900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 202
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2706b1a6d29080f30800000000000000
+      internalID: 4541890314861502578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572e7d4663ab8b40800000000000000
+      internalID: 5443624234389481304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df539e140433c90800000000000000
+      internalID: -7191333528150868725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189489e5e29f1eb30800000000000000
+      internalID: 4315003895548496257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c22a4abd778491b0800000000000000
+      internalID: -5650742658377047354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 166
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897c345b229bd2a20800000000000000
+      internalID: 3039288882266097560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb3ed94a2c29cbe0800000000000000
+      internalID: -1456584444338095181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 167
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c445a26f7733f5380800000000000000
+      internalID: -8980402541629385652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 168
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787f698340c03fae0800000000000000
+      internalID: -1516855437224904825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 167
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf197504dada53b0800000000000000
+      internalID: -5522861388856746066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 169
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901d535c03a3717a0800000000000000
+      internalID: -6406587963769761527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 170
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd8951db032759f0800000000000000
+      internalID: -479876301627748875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 138
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ff91fd1d697ef90800000000000000
+      internalID: -6924400073923494039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 138
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d393ef5872e0cee0800000000000000
+      internalID: -1242744490521553968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 137
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2991526b4c2c2e460800000000000000
+      internalID: 7269586898654665106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 139
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f452625ed61a240800000000000000
+      internalID: 4801239508708577094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 138
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288bb69761076e5f0800000000000000
+      internalID: -727771047945062270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 137
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2faa40acd44b5370800000000000000
+      internalID: 8312313251615125292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 139
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c94fa289bb34f50800000000000000
+      internalID: 6864536519272864780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 137
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80063b6055f21dd70800000000000000
+      internalID: 9066079567104663560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 139
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17118adf1d0e4e0f0800000000000000
+      internalID: -1088498017408380559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ccdf425f0ddb380800000000000000
+      internalID: -8953770732836500480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 109
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc90dbe6f9729b0800000000000000
+      internalID: -5104936354634412182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 102
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9edc21264423810800000000000000
+      internalID: 1743531193758771639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 101
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b75e9975a9ec4950800000000000000
+      internalID: 6434774864524892083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 103
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547205e05c333a7a0800000000000000
+      internalID: -6367188526730041531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 103
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a82d516b600b87e0800000000000000
+      internalID: -1762314367990421335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 105
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6185e97c7d3ac70800000000000000
+      internalID: 8981259334261937916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 105
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20787f2b99ab37930800000000000000
+      internalID: 4139857651778946818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 107
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535e16db705d773f0800000000000000
+      internalID: -903018971045698251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 75
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae238fde27c5230e0800000000000000
+      internalID: -2291667611689667862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c055dac3bb2c9550800000000000000
+      internalID: 6168853640792854725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 71
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0f9b18ce11d09d0800000000000000
+      internalID: -2806567285295550298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 70
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b663b7f5fcb47e00800000000000000
+      internalID: 1041665178438166197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae7fc952dcc0da30800000000000000
+      internalID: 4238112453177605804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 72
+        width: 18
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62068f46f34838f0800000000000000
+      internalID: -560623428432428433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 74
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b948c9d3eb767c220800000000000000
+      internalID: 2506085784430085275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 73
+        width: 17
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b173f7bd0f62f0800000000000000
+      internalID: -977547510401617542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 75
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82ff6b4aa7a67b90800000000000000
+      internalID: -7244418600726957428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde3f5cfea78e4bb0800000000000000
+      internalID: -4949869754805436709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990feca6128f9860800000000000000
+      internalID: 7538887335143737749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 37
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d06657e695796f90800000000000000
+      internalID: -6959902458137648936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 40
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4920dd73e2c939380800000000000000
+      internalID: -8965650710844865900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 40
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be342067c11d89010800000000000000
+      internalID: 1195935621236016107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 38
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62da7b2951b12290800000000000000
+      internalID: -7916851673400946065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 39
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baff4fc09f9a5ce20800000000000000
+      internalID: 3370286783286017963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 45
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f2a6a46a07ab050800000000000000
+      internalID: 5817085728217771925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 46
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbee2d2ec2e1212e0800000000000000
+      internalID: -2156628093424177475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c66f305e20cbb0800000000000000
+      internalID: -4917879870892620518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 10
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c8d922acf01380800000000000000
+      internalID: -9002417881696648834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6355e33e390af40800000000000000
+      internalID: 5737748529482643113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07cafab0d749c5c0800000000000000
+      internalID: -4194742616103139570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b117eb4394757030800000000000000
+      internalID: 3491825262078136756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be9f1ab5908735c0800000000000000
+      internalID: -4235775543957545290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 8
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2c37101e882b620800000000000000
+      internalID: 2788441619269141199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5959e0f79c3cbd00800000000000000
+      internalID: 989732641394219354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noctali-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 17
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c079d8d2287dc0800000000000000
+      internalID: -3641121983972719070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3bcdd350722bfcf4fb2a701d57a9880d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noctali-spritesheet_0: 2075052385525674817
+      noctali-spritesheet_1: -2589741847442276077
+      noctali-spritesheet_10: 4064164086773559867
+      noctali-spritesheet_11: 6962132970130265859
+      noctali-spritesheet_12: 3089150967391276757
+      noctali-spritesheet_13: 2046554460386907162
+      noctali-spritesheet_14: -9085776222290537349
+      noctali-spritesheet_15: 8494555261666841701
+      noctali-spritesheet_16: 8801797491944045900
+      noctali-spritesheet_17: 4541890314861502578
+      noctali-spritesheet_18: 5443624234389481304
+      noctali-spritesheet_19: -7191333528150868725
+      noctali-spritesheet_2: 4718106257518733572
+      noctali-spritesheet_20: 4315003895548496257
+      noctali-spritesheet_21: -5650742658377047354
+      noctali-spritesheet_22: 3039288882266097560
+      noctali-spritesheet_23: -1456584444338095181
+      noctali-spritesheet_24: -8980402541629385652
+      noctali-spritesheet_25: -1516855437224904825
+      noctali-spritesheet_26: -5522861388856746066
+      noctali-spritesheet_27: -6406587963769761527
+      noctali-spritesheet_28: -479876301627748875
+      noctali-spritesheet_29: -6924400073923494039
+      noctali-spritesheet_3: -1034551848142719785
+      noctali-spritesheet_30: -1242744490521553968
+      noctali-spritesheet_31: 7269586898654665106
+      noctali-spritesheet_32: 4801239508708577094
+      noctali-spritesheet_33: -727771047945062270
+      noctali-spritesheet_34: 8312313251615125292
+      noctali-spritesheet_35: 6864536519272864780
+      noctali-spritesheet_36: 9066079567104663560
+      noctali-spritesheet_37: -1088498017408380559
+      noctali-spritesheet_38: -8953770732836500480
+      noctali-spritesheet_39: -5104936354634412182
+      noctali-spritesheet_4: 4822206617554263307
+      noctali-spritesheet_40: 1743531193758771639
+      noctali-spritesheet_41: 6434774864524892083
+      noctali-spritesheet_42: -6367188526730041531
+      noctali-spritesheet_43: -1762314367990421335
+      noctali-spritesheet_44: 8981259334261937916
+      noctali-spritesheet_45: 4139857651778946818
+      noctali-spritesheet_46: -903018971045698251
+      noctali-spritesheet_47: -2291667611689667862
+      noctali-spritesheet_48: 6168853640792854725
+      noctali-spritesheet_49: -2806567285295550298
+      noctali-spritesheet_5: -3970887761338686004
+      noctali-spritesheet_50: 1041665178438166197
+      noctali-spritesheet_51: 4238112453177605804
+      noctali-spritesheet_52: -560623428432428433
+      noctali-spritesheet_53: 2506085784430085275
+      noctali-spritesheet_54: -977547510401617542
+      noctali-spritesheet_55: -7244418600726957428
+      noctali-spritesheet_56: -4949869754805436709
+      noctali-spritesheet_57: 7538887335143737749
+      noctali-spritesheet_58: -6959902458137648936
+      noctali-spritesheet_59: -8965650710844865900
+      noctali-spritesheet_6: 3430392957229726141
+      noctali-spritesheet_60: 1195935621236016107
+      noctali-spritesheet_61: -7916851673400946065
+      noctali-spritesheet_62: 3370286783286017963
+      noctali-spritesheet_63: 5817085728217771925
+      noctali-spritesheet_64: -2156628093424177475
+      noctali-spritesheet_65: -4917879870892620518
+      noctali-spritesheet_66: -9002417881696648834
+      noctali-spritesheet_67: 5737748529482643113
+      noctali-spritesheet_68: -4194742616103139570
+      noctali-spritesheet_69: 3491825262078136756
+      noctali-spritesheet_7: -4681429144131227644
+      noctali-spritesheet_70: -4235775543957545290
+      noctali-spritesheet_71: 2788441619269141199
+      noctali-spritesheet_72: 989732641394219354
+      noctali-spritesheet_73: -3641121983972719070
+      noctali-spritesheet_8: 6447031417692827558
+      noctali-spritesheet_9: 6394377162607282372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

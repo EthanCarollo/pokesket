@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 2
   pokemonName: Ectoplasma
-  speed: 5
   pokemonPortrait: {fileID: 1891422494, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 6316223085579692144, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  speed: 5
+  defence: 80
+  shootPrecision: 80
+  passPrecision: 80

@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 913c47e5eb971f247973a4e3b0c53b38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4306467038255770746
+    second: tiplouf-spritesheet_0
+  - first:
+      213: 7312974534545682319
+    second: tiplouf-spritesheet_1
+  - first:
+      213: 1428573187002604961
+    second: tiplouf-spritesheet_2
+  - first:
+      213: 386138433600038386
+    second: tiplouf-spritesheet_3
+  - first:
+      213: -3470341452660891526
+    second: tiplouf-spritesheet_4
+  - first:
+      213: 71682404101859102
+    second: tiplouf-spritesheet_5
+  - first:
+      213: -2558922825818502684
+    second: tiplouf-spritesheet_6
+  - first:
+      213: -6505940389874155946
+    second: tiplouf-spritesheet_7
+  - first:
+      213: -2671295048040155693
+    second: tiplouf-spritesheet_8
+  - first:
+      213: 8966269840355895018
+    second: tiplouf-spritesheet_9
+  - first:
+      213: -1413798815421640400
+    second: tiplouf-spritesheet_10
+  - first:
+      213: 5855493057586825130
+    second: tiplouf-spritesheet_11
+  - first:
+      213: -4073776506431258459
+    second: tiplouf-spritesheet_12
+  - first:
+      213: 2019670085663666759
+    second: tiplouf-spritesheet_13
+  - first:
+      213: -4153345415568990518
+    second: tiplouf-spritesheet_14
+  - first:
+      213: -7102627629761743645
+    second: tiplouf-spritesheet_15
+  - first:
+      213: -363626406621190396
+    second: tiplouf-spritesheet_16
+  - first:
+      213: 6555110930866040583
+    second: tiplouf-spritesheet_17
+  - first:
+      213: 1292561647048421049
+    second: tiplouf-spritesheet_18
+  - first:
+      213: -6985688012422522353
+    second: tiplouf-spritesheet_19
+  - first:
+      213: 1339123810594027125
+    second: tiplouf-spritesheet_20
+  - first:
+      213: 1170931127742887248
+    second: tiplouf-spritesheet_21
+  - first:
+      213: -8385420575339240308
+    second: tiplouf-spritesheet_22
+  - first:
+      213: 4089611518271565074
+    second: tiplouf-spritesheet_23
+  - first:
+      213: -8389773702061858852
+    second: tiplouf-spritesheet_24
+  - first:
+      213: 5986458937005413037
+    second: tiplouf-spritesheet_25
+  - first:
+      213: 4961403510646387921
+    second: tiplouf-spritesheet_26
+  - first:
+      213: 9102034606386058678
+    second: tiplouf-spritesheet_27
+  - first:
+      213: -2342304149524459995
+    second: tiplouf-spritesheet_28
+  - first:
+      213: -951079225677653532
+    second: tiplouf-spritesheet_29
+  - first:
+      213: 5102435853909504855
+    second: tiplouf-spritesheet_30
+  - first:
+      213: 3931310744340781961
+    second: tiplouf-spritesheet_31
+  - first:
+      213: 5910080816412491184
+    second: tiplouf-spritesheet_32
+  - first:
+      213: -8180316708347370434
+    second: tiplouf-spritesheet_33
+  - first:
+      213: 7178559031906496502
+    second: tiplouf-spritesheet_34
+  - first:
+      213: -441567815116484059
+    second: tiplouf-spritesheet_35
+  - first:
+      213: 2785216773612029336
+    second: tiplouf-spritesheet_36
+  - first:
+      213: -22793796176271789
+    second: tiplouf-spritesheet_37
+  - first:
+      213: 7937466619811502357
+    second: tiplouf-spritesheet_38
+  - first:
+      213: 8035940336338206818
+    second: tiplouf-spritesheet_39
+  - first:
+      213: -8999044039676040455
+    second: tiplouf-spritesheet_40
+  - first:
+      213: 636212656914026362
+    second: tiplouf-spritesheet_41
+  - first:
+      213: 6411668926849150335
+    second: tiplouf-spritesheet_42
+  - first:
+      213: 4785124702980866978
+    second: tiplouf-spritesheet_43
+  - first:
+      213: -1525685571600854692
+    second: tiplouf-spritesheet_44
+  - first:
+      213: -9222681658433865648
+    second: tiplouf-spritesheet_45
+  - first:
+      213: 8712729636058144797
+    second: tiplouf-spritesheet_46
+  - first:
+      213: 4463770931111343186
+    second: tiplouf-spritesheet_47
+  - first:
+      213: -36524237959724473
+    second: tiplouf-spritesheet_48
+  - first:
+      213: -1236956972390645129
+    second: tiplouf-spritesheet_49
+  - first:
+      213: 2546383437392086661
+    second: tiplouf-spritesheet_50
+  - first:
+      213: -979214619769790161
+    second: tiplouf-spritesheet_51
+  - first:
+      213: 3607126187564411901
+    second: tiplouf-spritesheet_52
+  - first:
+      213: -2275904419539074196
+    second: tiplouf-spritesheet_53
+  - first:
+      213: -1394714578563818782
+    second: tiplouf-spritesheet_54
+  - first:
+      213: 5461556393410949338
+    second: tiplouf-spritesheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 133
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce92464f4a3cb30800000000000000
+      internalID: 4306467038255770746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 133
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fa217e797ec7560800000000000000
+      internalID: 7312974534545682319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 129
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad10f2aebf43d310800000000000000
+      internalID: 1428573187002604961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 148
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f52bd80cd6db5500800000000000000
+      internalID: 386138433600038386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 145
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a5d0e5ded6dfc0800000000000000
+      internalID: -3470341452660891526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17232944caaef000800000000000000
+      internalID: 71682404101859102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 126
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e903776f31ec7cd0800000000000000
+      internalID: -2558922825818502684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e3fa37fa146b5a0800000000000000
+      internalID: -6505940389874155946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 129
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d57e439e47adead0800000000000000
+      internalID: -2671295048040155693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 125
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae626ba1ae69e6c70800000000000000
+      internalID: 8966269840355895018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 125
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031dceec77d216ce0800000000000000
+      internalID: -1413798815421640400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa78a3289e3e24150800000000000000
+      internalID: 5855493057586825130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 103
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a045d7e9d90777c0800000000000000
+      internalID: -4073776506431258459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74237730e3f470c10800000000000000
+      internalID: 2019670085663666759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 104
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace5383995a5c56c0800000000000000
+      internalID: -4153345415568990518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 104
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43d245dc56e6d90800000000000000
+      internalID: -7102627629761743645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 98
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4076462b5b324faf0800000000000000
+      internalID: -363626406621190396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 118
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fec8149ae68fa50800000000000000
+      internalID: 6555110930866040583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 114
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6d9e38f910f110800000000000000
+      internalID: 1292561647048421049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 98
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ad9d3b3c9dd0f90800000000000000
+      internalID: -6985688012422522353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 98
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57679b0c206859210800000000000000
+      internalID: 1339123810594027125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 98
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ff8528abff3010800000000000000
+      internalID: 1170931127742887248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8427a22a6001ab80800000000000000
+      internalID: -8385420575339240308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 100
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d2ce7120831c830800000000000000
+      internalID: 4089611518271565074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 81
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf50b6d449819b80800000000000000
+      internalID: -8389773702061858852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29ba28fac241350800000000000000
+      internalID: 5986458937005413037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 77
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4347fc4327ad440800000000000000
+      internalID: 4961403510646387921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 77
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b514f6ff3ce05e70800000000000000
+      internalID: 9102034606386058678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ecbab39c67e7fd0800000000000000
+      internalID: -2342304149524459995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 68
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9da38bb761dc2f0800000000000000
+      internalID: -951079225677653532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 88
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7533e71106e7fc640800000000000000
+      internalID: 5102435853909504855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 70
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bdb120b42de8630800000000000000
+      internalID: 3931310744340781961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 70
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdfd188033d40250800000000000000
+      internalID: 5910080816412491184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 70
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3423c08b4da97e80800000000000000
+      internalID: -8180316708347370434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff65f7e76d5f9360800000000000000
+      internalID: 7178559031906496502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229cb3696c3fd9f0800000000000000
+      internalID: -441567815116484059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 58
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895ca9d16e317a620800000000000000
+      internalID: 2785216773612029336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 70
+        width: 21
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356a4d3c9250faff0800000000000000
+      internalID: -22793796176271789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 70
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519926216db872e60800000000000000
+      internalID: 7937466619811502357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2600cafd825658f60800000000000000
+      internalID: 8035940336338206818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa6309ff19fc1380800000000000000
+      internalID: -8999044039676040455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 44
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc7f86a0844d800800000000000000
+      internalID: 636212656914026362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 58
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de0422be2daf850800000000000000
+      internalID: 6411668926849150335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 58
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a30f1f809d286240800000000000000
+      internalID: 4785124702980866978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51dac95e0da3dae0800000000000000
+      internalID: -1525685571600854692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 34
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058f98045e3720080800000000000000
+      internalID: -9222681658433865648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a3452175d9e870800000000000000
+      internalID: 8712729636058144797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2543b93030082fd30800000000000000
+      internalID: 4463770931111343186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 53
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74208ba266d3e7ff0800000000000000
+      internalID: -36524237959724473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7728632ff2275dee0800000000000000
+      internalID: -1236956972390645129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58681b7be32965320800000000000000
+      internalID: 2546383437392086661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 17
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21a0cdcd712962f0800000000000000
+      internalID: -979214619769790161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 26
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb29cdf7261f0230800000000000000
+      internalID: 3607126187564411901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 27
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63c1aa1dfc5a60e0800000000000000
+      internalID: -2275904419539074196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 26
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea15a5fa7af4ace0800000000000000
+      internalID: -1394714578563818782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0f50e6a985bcb40800000000000000
+      internalID: 5461556393410949338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70c74b874f7fde649a9e935534f9efef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tiplouf-spritesheet_0: 4306467038255770746
+      tiplouf-spritesheet_1: 7312974534545682319
+      tiplouf-spritesheet_10: -1413798815421640400
+      tiplouf-spritesheet_11: 5855493057586825130
+      tiplouf-spritesheet_12: -4073776506431258459
+      tiplouf-spritesheet_13: 2019670085663666759
+      tiplouf-spritesheet_14: -4153345415568990518
+      tiplouf-spritesheet_15: -7102627629761743645
+      tiplouf-spritesheet_16: -363626406621190396
+      tiplouf-spritesheet_17: 6555110930866040583
+      tiplouf-spritesheet_18: 1292561647048421049
+      tiplouf-spritesheet_19: -6985688012422522353
+      tiplouf-spritesheet_2: 1428573187002604961
+      tiplouf-spritesheet_20: 1339123810594027125
+      tiplouf-spritesheet_21: 1170931127742887248
+      tiplouf-spritesheet_22: -8385420575339240308
+      tiplouf-spritesheet_23: 4089611518271565074
+      tiplouf-spritesheet_24: -8389773702061858852
+      tiplouf-spritesheet_25: 5986458937005413037
+      tiplouf-spritesheet_26: 4961403510646387921
+      tiplouf-spritesheet_27: 9102034606386058678
+      tiplouf-spritesheet_28: -2342304149524459995
+      tiplouf-spritesheet_29: -951079225677653532
+      tiplouf-spritesheet_3: 386138433600038386
+      tiplouf-spritesheet_30: 5102435853909504855
+      tiplouf-spritesheet_31: 3931310744340781961
+      tiplouf-spritesheet_32: 5910080816412491184
+      tiplouf-spritesheet_33: -8180316708347370434
+      tiplouf-spritesheet_34: 7178559031906496502
+      tiplouf-spritesheet_35: -441567815116484059
+      tiplouf-spritesheet_36: 2785216773612029336
+      tiplouf-spritesheet_37: -22793796176271789
+      tiplouf-spritesheet_38: 7937466619811502357
+      tiplouf-spritesheet_39: 8035940336338206818
+      tiplouf-spritesheet_4: -3470341452660891526
+      tiplouf-spritesheet_40: -8999044039676040455
+      tiplouf-spritesheet_41: 636212656914026362
+      tiplouf-spritesheet_42: 6411668926849150335
+      tiplouf-spritesheet_43: 4785124702980866978
+      tiplouf-spritesheet_44: -1525685571600854692
+      tiplouf-spritesheet_45: -9222681658433865648
+      tiplouf-spritesheet_46: 8712729636058144797
+      tiplouf-spritesheet_47: 4463770931111343186
+      tiplouf-spritesheet_48: -36524237959724473
+      tiplouf-spritesheet_49: -1236956972390645129
+      tiplouf-spritesheet_5: 71682404101859102
+      tiplouf-spritesheet_50: 2546383437392086661
+      tiplouf-spritesheet_51: -979214619769790161
+      tiplouf-spritesheet_52: 3607126187564411901
+      tiplouf-spritesheet_53: -2275904419539074196
+      tiplouf-spritesheet_54: -1394714578563818782
+      tiplouf-spritesheet_55: 5461556393410949338
+      tiplouf-spritesheet_6: -2558922825818502684
+      tiplouf-spritesheet_7: -6505940389874155946
+      tiplouf-spritesheet_8: -2671295048040155693
+      tiplouf-spritesheet_9: 8966269840355895018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

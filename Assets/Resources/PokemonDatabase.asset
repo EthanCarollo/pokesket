@@ -14,8 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemons:
   - {fileID: 11400000, guid: 6015862a7a04e444b8ec9974ec28919a, type: 2}
+  - {fileID: 11400000, guid: 1277a995b1e84854d94ebfc875e8c9e6, type: 2}
   - {fileID: 11400000, guid: 7a5c3eb7a1c3a0c47b95b98d2182978d, type: 2}
+  - {fileID: 11400000, guid: 4725686524c18384cbd47a958fe377eb, type: 2}
   - {fileID: 11400000, guid: 5c7517b1cfbd3df40b12b3162ea10f9e, type: 2}
+  - {fileID: 11400000, guid: 3ad97a4620d1e8746935135d283f461c, type: 2}
+  - {fileID: 11400000, guid: b0ed3200a4bfeb449b7ad875a38785cb, type: 2}
+  - {fileID: 11400000, guid: 60708346bed437c418bfaac41d8c55e0, type: 2}
   - {fileID: 11400000, guid: 15c2d86bfd0fba4409e22eabb021eb36, type: 2}
   - {fileID: 11400000, guid: 5ed0f7db2004f2f4a878ec7f9035af78, type: 2}
   - {fileID: 11400000, guid: c863218c374220843ba1fd66c6b8ba65, type: 2}
+  - {fileID: 11400000, guid: b668861192c98134e99c5ab74f19b5dd, type: 2}

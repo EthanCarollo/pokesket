@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 8ff1b01443ca391498d9396ddf92ea22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6181563716806933207
+    second: eevee-spritesheet_0
+  - first:
+      213: -4066072955386553521
+    second: eevee-spritesheet_1
+  - first:
+      213: -5492100936629405242
+    second: eevee-spritesheet_2
+  - first:
+      213: -8430589639540836839
+    second: eevee-spritesheet_3
+  - first:
+      213: -4916985891630091895
+    second: eevee-spritesheet_4
+  - first:
+      213: -6999499458819277141
+    second: eevee-spritesheet_5
+  - first:
+      213: -3804889582345520080
+    second: eevee-spritesheet_6
+  - first:
+      213: 7303978915866291470
+    second: eevee-spritesheet_7
+  - first:
+      213: 8547215174113451861
+    second: eevee-spritesheet_8
+  - first:
+      213: -8219003837596321515
+    second: eevee-spritesheet_9
+  - first:
+      213: -6902947979935419471
+    second: eevee-spritesheet_10
+  - first:
+      213: 8837258757177161651
+    second: eevee-spritesheet_11
+  - first:
+      213: 4541457971875927411
+    second: eevee-spritesheet_12
+  - first:
+      213: -5723419774795329547
+    second: eevee-spritesheet_13
+  - first:
+      213: 2231443291066835579
+    second: eevee-spritesheet_14
+  - first:
+      213: 2117646733073868881
+    second: eevee-spritesheet_15
+  - first:
+      213: -590408963843551743
+    second: eevee-spritesheet_16
+  - first:
+      213: -3314539383704409894
+    second: eevee-spritesheet_17
+  - first:
+      213: 7724191749420327462
+    second: eevee-spritesheet_18
+  - first:
+      213: -3765539625637583729
+    second: eevee-spritesheet_19
+  - first:
+      213: -4373832380422592806
+    second: eevee-spritesheet_20
+  - first:
+      213: -1642002054111123699
+    second: eevee-spritesheet_21
+  - first:
+      213: 181048921112463190
+    second: eevee-spritesheet_22
+  - first:
+      213: 1976566009715997042
+    second: eevee-spritesheet_23
+  - first:
+      213: 6180770705069572870
+    second: eevee-spritesheet_24
+  - first:
+      213: -9203914676509008953
+    second: eevee-spritesheet_25
+  - first:
+      213: 5408339104230319419
+    second: eevee-spritesheet_26
+  - first:
+      213: 9026063881837380707
+    second: eevee-spritesheet_27
+  - first:
+      213: 823806264911448092
+    second: eevee-spritesheet_28
+  - first:
+      213: 4177605615598597972
+    second: eevee-spritesheet_29
+  - first:
+      213: -3751885867726155628
+    second: eevee-spritesheet_30
+  - first:
+      213: 6256569065403747102
+    second: eevee-spritesheet_31
+  - first:
+      213: -528740644496190458
+    second: eevee-spritesheet_32
+  - first:
+      213: -4347904390569062858
+    second: eevee-spritesheet_33
+  - first:
+      213: -1372785642198862421
+    second: eevee-spritesheet_34
+  - first:
+      213: -1801613819101562103
+    second: eevee-spritesheet_35
+  - first:
+      213: -1018473368940722905
+    second: eevee-spritesheet_36
+  - first:
+      213: 4484649423205461096
+    second: eevee-spritesheet_37
+  - first:
+      213: -3313595729021066515
+    second: eevee-spritesheet_38
+  - first:
+      213: -7572592462948499292
+    second: eevee-spritesheet_39
+  - first:
+      213: -2984697679166276897
+    second: eevee-spritesheet_40
+  - first:
+      213: -4475598211698168766
+    second: eevee-spritesheet_41
+  - first:
+      213: 4433212102404085134
+    second: eevee-spritesheet_42
+  - first:
+      213: 2215278203959271502
+    second: eevee-spritesheet_43
+  - first:
+      213: 5748732505287064972
+    second: eevee-spritesheet_44
+  - first:
+      213: 9029245958545938889
+    second: eevee-spritesheet_45
+  - first:
+      213: -1991001118034921130
+    second: eevee-spritesheet_46
+  - first:
+      213: 3530740460200297576
+    second: eevee-spritesheet_47
+  - first:
+      213: 8231013591422956686
+    second: eevee-spritesheet_48
+  - first:
+      213: 4195124037352133814
+    second: eevee-spritesheet_49
+  - first:
+      213: -900157072678994059
+    second: eevee-spritesheet_50
+  - first:
+      213: 4599251499257768213
+    second: eevee-spritesheet_51
+  - first:
+      213: 3519732527744172393
+    second: eevee-spritesheet_52
+  - first:
+      213: -2023777030453203663
+    second: eevee-spritesheet_53
+  - first:
+      213: -5334532878530712414
+    second: eevee-spritesheet_54
+  - first:
+      213: 92630012555256388
+    second: eevee-spritesheet_55
+  - first:
+      213: -4841648417835856536
+    second: eevee-spritesheet_56
+  - first:
+      213: 496960333806580604
+    second: eevee-spritesheet_57
+  - first:
+      213: 2348567464476442564
+    second: eevee-spritesheet_58
+  - first:
+      213: -6363979106110210348
+    second: eevee-spritesheet_59
+  - first:
+      213: -8510502597331882682
+    second: eevee-spritesheet_60
+  - first:
+      213: -7459342721201727910
+    second: eevee-spritesheet_61
+  - first:
+      213: -8937002750886650105
+    second: eevee-spritesheet_62
+  - first:
+      213: 2812290419115850816
+    second: eevee-spritesheet_63
+  - first:
+      213: -3582321273282775531
+    second: eevee-spritesheet_64
+  - first:
+      213: -153367959680587970
+    second: eevee-spritesheet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eevee-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 216
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92587470d8ca63aa0800000000000000
+      internalID: -6181563716806933207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 216
+        width: 19
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b9c57a0386297c0800000000000000
+      internalID: -4066072955386553521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 203
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c93d99eb4328c3b0800000000000000
+      internalID: -5492100936629405242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 208
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9167418d367800b80800000000000000
+      internalID: -8430589639540836839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981f7c3026b53cbb0800000000000000
+      internalID: -4916985891630091895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 214
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeb98fb358ccde90800000000000000
+      internalID: -6999499458819277141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 214
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cf5b28511523bc0800000000000000
+      internalID: -3804889582345520080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 172
+        width: 25
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d27273022fc5560800000000000000
+      internalID: 7303978915866291470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 173
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5cdf6aeecd9670800000000000000
+      internalID: 8547215174113451861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 188
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519bf7c4e8b30fd80800000000000000
+      internalID: -8219003837596321515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 188
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f2f8b26dc330a0800000000000000
+      internalID: -6902947979935419471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b731c1940044aa70800000000000000
+      internalID: 8837258757177161651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375d708b6ff760f30800000000000000
+      internalID: 4541457971875927411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 177
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffc0eee9045290b0800000000000000
+      internalID: -5723419774795329547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 188
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a77cb9dda7fe10800000000000000
+      internalID: 2231443291066835579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 188
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15862a4eb74636d10800000000000000
+      internalID: 2117646733073868881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e06edec227ec7f0800000000000000
+      internalID: -590408963843551743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 163
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8a140edf36002d0800000000000000
+      internalID: -3314539383704409894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 146
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622a339b877d13b60800000000000000
+      internalID: 7724191749420327462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 147
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e63249ad1ebbc0800000000000000
+      internalID: -3765539625637583729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 146
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad66fc1af960d43c0800000000000000
+      internalID: -4373832380422592806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 160
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ae3cd4df6639e0800000000000000
+      internalID: -1642002054111123699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 161
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65740e5d807338200800000000000000
+      internalID: 181048921112463190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279bb34405c2e6b10800000000000000
+      internalID: 1976566009715997042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 138
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60300d9853286c550800000000000000
+      internalID: 6180770705069572870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb1dabbd50254080800000000000000
+      internalID: -9203914676509008953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 119
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35a08cb2c74e0b40800000000000000
+      internalID: 5408339104230319419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 121
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36486e44745034d70800000000000000
+      internalID: 9026063881837380707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 118
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c9c7ee6fbe6b00800000000000000
+      internalID: 823806264911448092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 134
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4577e696c26d9f930800000000000000
+      internalID: 4177605615598597972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 135
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490df508eaf9eebc0800000000000000
+      internalID: -3751885867726155628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 119
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b86109a6cc3d650800000000000000
+      internalID: 6256569065403747102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 114
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6045e7a6f2989a8f0800000000000000
+      internalID: -528740644496190458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e05c23ef329a3c0800000000000000
+      internalID: -4347904390569062858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 108
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5faf35bb2e2fce0800000000000000
+      internalID: -1372785642198862421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 109
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b3402e6c16ff6e0800000000000000
+      internalID: -1801613819101562103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 26
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725c717fdd7add1f0800000000000000
+      internalID: -1018473368940722905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 93
+        width: 26
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c6254c3ecac3e30800000000000000
+      internalID: 4484649423205461096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 88
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2a27a9d3eb302d0800000000000000
+      internalID: -3313595729021066515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 89
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a08729b64fb8e690800000000000000
+      internalID: -7572592462948499292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 90
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7c5f36493496d0800000000000000
+      internalID: -2984697679166276897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 93
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6b52a32b73e1c0800000000000000
+      internalID: -4475598211698168766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 91
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8512c14beee58d30800000000000000
+      internalID: 4433212102404085134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 84
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4068a91acf3ebe10800000000000000
+      internalID: 2215278203959271502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 84
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d706661c997cf40800000000000000
+      internalID: 5748732505287064972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c913cc3c535e4d70800000000000000
+      internalID: 9029245958545938889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 64
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6597f1c280b8e54e0800000000000000
+      internalID: -1991001118034921130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 61
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864865cedb5bff030800000000000000
+      internalID: 3530740460200297576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e847d2a604f6a3270800000000000000
+      internalID: 8231013591422956686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 62
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49313d513183a30800000000000000
+      internalID: 4195124037352133814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fb9e069eff183f0800000000000000
+      internalID: -900157072678994059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 65
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51921f5eed2d3df30800000000000000
+      internalID: 4599251499257768213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961449ce51a98d030800000000000000
+      internalID: 3519732527744172393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 58
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ded3363891ae3e0800000000000000
+      internalID: -2023777030453203663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 38
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ace88c4c9ee7f5b0800000000000000
+      internalID: -5334532878530712414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44265e17186194100800000000000000
+      internalID: 92630012555256388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dcf878a620fccb0800000000000000
+      internalID: -4841648417835856536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7330046ace85e600800000000000000
+      internalID: 496960333806580604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 34
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf782b6aa9c79020800000000000000
+      internalID: 2348567464476442564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 36
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4defa4688ba9ea7a0800000000000000
+      internalID: -6363979106110210348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 39
+        width: 27
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d6ef17afe94e980800000000000000
+      internalID: -8510502597331882682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5610ecf0571b7890800000000000000
+      internalID: -7459342721201727910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 32
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f56bc295369f380800000000000000
+      internalID: -8937002750886650105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c72ac6c33470720800000000000000
+      internalID: 2812290419115850816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b7aa28c9094ec0800000000000000
+      internalID: -3582321273282775531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eevee-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 27
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37ef4b37a02fddf0800000000000000
+      internalID: -153367959680587970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: db94011fe67fa6a4f8e141d96ccca0a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eevee-spritesheet_0: -6181563716806933207
+      eevee-spritesheet_1: -4066072955386553521
+      eevee-spritesheet_10: -6902947979935419471
+      eevee-spritesheet_11: 8837258757177161651
+      eevee-spritesheet_12: 4541457971875927411
+      eevee-spritesheet_13: -5723419774795329547
+      eevee-spritesheet_14: 2231443291066835579
+      eevee-spritesheet_15: 2117646733073868881
+      eevee-spritesheet_16: -590408963843551743
+      eevee-spritesheet_17: -3314539383704409894
+      eevee-spritesheet_18: 7724191749420327462
+      eevee-spritesheet_19: -3765539625637583729
+      eevee-spritesheet_2: -5492100936629405242
+      eevee-spritesheet_20: -4373832380422592806
+      eevee-spritesheet_21: -1642002054111123699
+      eevee-spritesheet_22: 181048921112463190
+      eevee-spritesheet_23: 1976566009715997042
+      eevee-spritesheet_24: 6180770705069572870
+      eevee-spritesheet_25: -9203914676509008953
+      eevee-spritesheet_26: 5408339104230319419
+      eevee-spritesheet_27: 9026063881837380707
+      eevee-spritesheet_28: 823806264911448092
+      eevee-spritesheet_29: 4177605615598597972
+      eevee-spritesheet_3: -8430589639540836839
+      eevee-spritesheet_30: -3751885867726155628
+      eevee-spritesheet_31: 6256569065403747102
+      eevee-spritesheet_32: -528740644496190458
+      eevee-spritesheet_33: -4347904390569062858
+      eevee-spritesheet_34: -1372785642198862421
+      eevee-spritesheet_35: -1801613819101562103
+      eevee-spritesheet_36: -1018473368940722905
+      eevee-spritesheet_37: 4484649423205461096
+      eevee-spritesheet_38: -3313595729021066515
+      eevee-spritesheet_39: -7572592462948499292
+      eevee-spritesheet_4: -4916985891630091895
+      eevee-spritesheet_40: -2984697679166276897
+      eevee-spritesheet_41: -4475598211698168766
+      eevee-spritesheet_42: 4433212102404085134
+      eevee-spritesheet_43: 2215278203959271502
+      eevee-spritesheet_44: 5748732505287064972
+      eevee-spritesheet_45: 9029245958545938889
+      eevee-spritesheet_46: -1991001118034921130
+      eevee-spritesheet_47: 3530740460200297576
+      eevee-spritesheet_48: 8231013591422956686
+      eevee-spritesheet_49: 4195124037352133814
+      eevee-spritesheet_5: -6999499458819277141
+      eevee-spritesheet_50: -900157072678994059
+      eevee-spritesheet_51: 4599251499257768213
+      eevee-spritesheet_52: 3519732527744172393
+      eevee-spritesheet_53: -2023777030453203663
+      eevee-spritesheet_54: -5334532878530712414
+      eevee-spritesheet_55: 92630012555256388
+      eevee-spritesheet_56: -4841648417835856536
+      eevee-spritesheet_57: 496960333806580604
+      eevee-spritesheet_58: 2348567464476442564
+      eevee-spritesheet_59: -6363979106110210348
+      eevee-spritesheet_6: -3804889582345520080
+      eevee-spritesheet_60: -8510502597331882682
+      eevee-spritesheet_61: -7459342721201727910
+      eevee-spritesheet_62: -8937002750886650105
+      eevee-spritesheet_63: 2812290419115850816
+      eevee-spritesheet_64: -3582321273282775531
+      eevee-spritesheet_65: -153367959680587970
+      eevee-spritesheet_7: 7303978915866291470
+      eevee-spritesheet_8: 8547215174113451861
+      eevee-spritesheet_9: -8219003837596321515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

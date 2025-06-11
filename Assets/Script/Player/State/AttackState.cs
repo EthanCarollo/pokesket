@@ -82,7 +82,7 @@ public class AttackState : IPokemonPlayerState
         _timeAt100Percent = 0f;
         
         // Calculer la difficulté selon la précision (0-100)
-        float precisionFactor = _pokemonPlayer.precision / 100f; // Normaliser entre 0 et 1
+        float precisionFactor = _pokemonPlayer.shootPrecision / 100f; // Normaliser entre 0 et 1
         
         // Plus la précision est faible, plus c'est difficile
         // Précision 100 = fenêtre de 1.5s, Précision 0 = fenêtre de 0.6s (plus rapide)
@@ -100,7 +100,7 @@ public class AttackState : IPokemonPlayerState
         // Fade in rapide avec un petit bounce
         _pokemonPlayer.StartCoroutine(FadeInSlider());
         
-        Debug.Log($"Shooting started - Precision: {_pokemonPlayer.precision}, Window: {currentShootingWindow:F2}s");
+        Debug.Log($"Shooting started - Precision: {_pokemonPlayer.shootPrecision}, Window: {currentShootingWindow:F2}s");
     }
 
     private void UpdateShootingMode()
@@ -170,7 +170,7 @@ public class AttackState : IPokemonPlayerState
         }
         
         // La précision finale combine la précision du joueur et la qualité du timing
-        float finalPrecision = _pokemonPlayer.precision * shootingQuality;
+        float finalPrecision = _pokemonPlayer.shootPrecision * shootingQuality;
         
         var rim = _pokemonPlayer.Team.GetTargetRim();
         _pokemonPlayer.LoseBall();
@@ -251,7 +251,7 @@ public class AttackState : IPokemonPlayerState
             feedbackColor = Color.red;
         }
         
-        Debug.Log($"Shot Result: {feedbackText} | Quality: {quality:F2} | Cursor Position: {cursorPosition:P1} | Final Precision: {_pokemonPlayer.precision * quality:F1}");
+        Debug.Log($"Shot Result: {feedbackText} | Quality: {quality:F2} | Cursor Position: {cursorPosition:P1} | Final Precision: {_pokemonPlayer.shootPrecision * quality:F1}");
     }
 
     private void CancelShootingMode()

@@ -14,6 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 2
   pokemonName: Rondoudou
-  speed: 5
   pokemonPortrait: {fileID: 1305095736, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 7413016194714210656, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  speed: 5
+  defence: 80
+  shootPrecision: 80
+  passPrecision: 80
