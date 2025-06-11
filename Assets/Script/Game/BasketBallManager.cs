@@ -23,6 +23,7 @@ public class BasketBallManager : MonoBehaviour
 
     void Update()
     {
+        if (GameManager.Instance.matchPlaying == false) return;
         if (basketBall.rb.linearVelocity == Vector3.zero && basketBall.transform.position.y > 0.1f)
         {
             if (lastTimeBlocked == -1f)

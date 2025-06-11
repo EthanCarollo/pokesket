@@ -257,13 +257,11 @@ public class VirtualCursor : MonoBehaviour
         
         if (currentHoveredObject != null)
         {
-            // Execute click events
-            Debug.Log("Found an hovered object");
             if (currentHoveredObject.GetComponent<SelectablePokemonPrefab>() != null)
             {
                 currentHoveredObject.GetComponent<SelectablePokemonPrefab>().SelectPokemon(playerInput.playerIndex);
             }
-            else
+            else 
             {
                 ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.pointerDownHandler);
                 ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.pointerClickHandler);

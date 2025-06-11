@@ -68,7 +68,7 @@ public class AttackState : IPokemonPlayerState
 
         int teammateCount = 0;
 
-        foreach (var ally in _pokemonPlayer.Team.PokeTeam)
+        foreach (var ally in _pokemonPlayer.Team.pokeTeam)
         {
             if (ally == _pokemonPlayer) continue;
             teammateCount++;

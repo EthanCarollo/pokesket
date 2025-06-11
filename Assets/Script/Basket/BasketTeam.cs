@@ -13,26 +13,13 @@ public class TeamRim
 public class BasketTeam : MonoBehaviour
 {
     [SerializeField] public TeamName teamName;
-    [SerializeField] private Transform[] teamSpawnPoints;
-    [SerializeField] private GameObject[] pokemonPrefabs;
 
-    private List<PokemonPlayer> pokeTeam = new();
-    public List<PokemonPlayer> PokeTeam { get => pokeTeam; }
+    public List<PokemonPlayer> pokeTeam;
     private PokemonPlayer controlledPlayer;
 
     public void StartMatch()
     {
-        for (int i = 0; i < teamSpawnPoints.Length; i++)
-        {
-            GameObject pokemon = Instantiate(pokemonPrefabs[i % pokemonPrefabs.Length], teamSpawnPoints[i].position, teamSpawnPoints[i].rotation);
-            PokemonPlayer pokemonPlayer = pokemon.GetComponent<PokemonPlayer>();
-            pokemonPlayer.Team = this;
-            pokeTeam.Add(pokemonPlayer);
-            if (i == 0)
-            {
-                SetControlledPlayer(pokemonPlayer);
-            }
-        }
+        SetControlledPlayer(pokeTeam[0]);
     }
 
     void Update()

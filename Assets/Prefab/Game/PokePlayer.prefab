@@ -80,7 +80,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8123241321789339922, guid: 7ca7039bbbcc7ad479e356ee23ae1506, type: 3}
+  m_Sprite: {fileID: -8123241321789339922, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -107,6 +107,7 @@ MonoBehaviour:
   precision: 0.5
   Team: {fileID: 0}
   indicator: {fileID: 5401643234495709758}
+  pokemonSpriteRenderer: {fileID: 1204358011298399045}
 --- !u!54 &1908281221417520592
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -13,6 +13,7 @@ public class PokemonPlayer : MonoBehaviour
     [Header("References")]
     public BasketTeam Team;
     [SerializeField] private SpriteRenderer indicator;
+    [SerializeField] private SpriteRenderer pokemonSpriteRenderer;
 
     [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
     public Vector3 Direction => lastMoveDirection;
@@ -22,17 +23,15 @@ public class PokemonPlayer : MonoBehaviour
 
     public void Setup(Pokemon pokemon)
     {
+        pokemonSpriteRenderer.sprite = pokemon.pokemonSprite;
         speed = pokemon.speed;
-    }
-
-    private void Start()
-    {
         currentState = new DefenseState(this);
         indicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;
     }
 
     void Update()
     {
+        if (GameManager.Instance.matchPlaying == false) return;
         currentState?.Update();
         
         indicator.gameObject.SetActive(IsControlled);
