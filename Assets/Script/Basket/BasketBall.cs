@@ -16,7 +16,7 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    public void ShootTowardsBasket(Vector3 target, float precision)
+    public void ShootTowardsBasket(Vector3 target, float precision, float shootingQuality)
     {
         rb.useGravity = true;
         rb.isKinematic = false;
@@ -26,22 +26,28 @@ public class BasketBall : MonoBehaviour
         // Distance entre le tireur et le panier
         float distance = Vector3.Distance(start, target);
 
-        // --- PRÉCISION PRINCIPALE ---
-        bool isSuccessful = Random.value <= Mathf.Clamp01(precision);
+        // Appliquer la qualité du timing à la précision
+        float effectivePrecision = precision * shootingQuality / 100;
 
+        // --- PRÉCISION PRINCIPALE ---
+        bool isSuccessful = Random.value <= Mathf.Clamp01(effectivePrecision);
+        
+        Debug.LogWarning("Is shoot successfull" + isSuccessful);
+        
         if (!isSuccessful)
         {
             // Tir raté complet → grosse déviation
-            float missRadius = 1.0f * (1f - precision);
+            // Plus le timing est mauvais, plus la déviation est grande
+            float missRadius = 1.0f * (1f - effectivePrecision) * (2f - shootingQuality);
             Vector2 offset2D = Random.insideUnitCircle.normalized * Random.Range(0.2f, missRadius);
             Vector3 offset = new Vector3(offset2D.x, 0, offset2D.y);
             target += offset;
         }
         else
         {
-            // Tir "réussi", mais potentiellement imprécis selon distance
-            float distancePenaltyFactor = 0.1f; // combien la distance impacte l'imprécision (ajustable)
-            float distancePenalty = distance * (1f - precision) * distancePenaltyFactor;
+            // Tir "réussi", mais potentiellement imprécis selon distance et timing
+            float distancePenaltyFactor = 0.1f;
+            float distancePenalty = distance * (1f - effectivePrecision) * distancePenaltyFactor;
 
             if (distancePenalty > 0.01f)
             {
@@ -52,7 +58,14 @@ public class BasketBall : MonoBehaviour
             }
         }
 
-        Vector3 velocity = CalculateArcVelocity(start, target);
+        // Bonus de force pour les tirs parfaits
+        float velocityMultiplier = 1f;
+        if (shootingQuality >= 1.2f)
+        {
+            velocityMultiplier = 1.05f; // 5% de force en plus pour les tirs parfaits
+        }
+
+        Vector3 velocity = CalculateArcVelocity(start, target) * velocityMultiplier;
         rb.linearVelocity = velocity;
     }
 

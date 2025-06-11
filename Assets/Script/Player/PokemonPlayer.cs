@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PokemonPlayer : MonoBehaviour
 {
@@ -9,7 +11,7 @@ public class PokemonPlayer : MonoBehaviour
 
     [Header("Stats")]
     public float speed = 5f;
-    [Range(0f, 1f)] public float precision = 0.5f;
+    [Range(0f, 100f)] public float precision = 0.5f;
     [Header("References")]
     public BasketTeam Team;
     public bool ControlledByPlayer1
@@ -24,6 +26,16 @@ public class PokemonPlayer : MonoBehaviour
     private bool _canHold = true;
 
     private IPokemonPlayerState currentState;
+    
+    public GameObject shootingUi;
+    public Slider shootingSlider;
+    public Image shootingSliderFill;
+    public TextMeshProUGUI feedbackShootingText;
+
+    public void Start()
+    {
+        shootingUi.gameObject.SetActive(false);
+    }
 
     public void Setup(Pokemon pokemon)
     {

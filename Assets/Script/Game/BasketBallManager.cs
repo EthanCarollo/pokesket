@@ -64,10 +64,10 @@ public class BasketBallManager : MonoBehaviour
         return ballHolder == player;
     }
 
-    public void ShootTo(Transform target, float precision)
+    public void ShootTo(Transform target, float precision, float shootingQuality)
     {
         SetBallHolder(null);
-        basketBall.ShootTowardsBasket(target.position, precision);
+        basketBall.ShootTowardsBasket(target.position, precision, shootingQuality);
     }
 
     public void PassTo(Transform target)
