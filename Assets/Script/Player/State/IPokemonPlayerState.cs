@@ -1,4 +1,5 @@
 ﻿public interface IPokemonPlayerState
 {
-    void Update();
+    public void Update();
+    public void HandleMovement();
 }

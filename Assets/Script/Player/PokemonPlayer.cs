@@ -8,6 +8,7 @@ public class PokemonPlayer : MonoBehaviour
 {
     public bool IsControlled => Team.IsControlled(this);
     public bool HasBall => BasketBallManager.Instance.IsPlayerHoldingBall(this);
+    public bool TeamHasBall => BasketBallManager.Instance.IsTeamHoldingBall(Team);
 
     [Header("Stats")]
     public float speed = 5f;
@@ -52,37 +53,27 @@ public class PokemonPlayer : MonoBehaviour
         actualPokemon = pokemon;
         pokemonSpriteRenderer.sprite = pokemon.pokemonSprite;
         speed = pokemon.speed;
-        currentState = new DefenseState(this);
+        currentState = new AIDefenseState(this);
         indicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;
     }
 
     void Update()
     {
         if (GameManager.Instance.matchPlaying == false) return;
+
         currentState?.Update();
+        currentState?.HandleMovement();
         
         indicator.gameObject.SetActive(IsControlled);
     }
 
-    public void HandleMovement()
+    public void ApplyMovement(Vector3 move)
     {
-        Vector3 move = new Vector3(0f, 0f, 0f);
-        if (IsControlled)
-        {
-            float h = ControlledByPlayer1 ? Input.GetAxis("HorizontalJoystick1") : Input.GetAxis("HorizontalJoystick2");
-            float v = ControlledByPlayer1 ? Input.GetAxis("VerticalJoystick1") : Input.GetAxis("VerticalJoystick2");
+        if (move.sqrMagnitude > 0.01f)
+            lastMoveDirection = move.normalized;
 
-            move = new Vector3(h, 0, v);
-            if (move.sqrMagnitude > 0.01f)
-                lastMoveDirection = move.normalized;
-
-            transform.Translate(move * speed * Time.deltaTime);
-        }
-        else
-        {
-            // AI Movement
-        }
-
+        transform.Translate(move * speed * Time.deltaTime);
+        
         try
         {
             pokemonPlayerAnimator.HandleAnimation(move, actualPokemon);

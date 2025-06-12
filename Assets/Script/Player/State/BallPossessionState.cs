@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-public class AttackState : IPokemonPlayerState
+public class BallPossessionState : IPokemonPlayerState
 {
     private PokemonPlayer _pokemonPlayer;
     private float speed = 5f;
@@ -25,7 +25,7 @@ public class AttackState : IPokemonPlayerState
     private Vector3 _originalSliderPosition;
     private CanvasGroup _sliderCanvasGroup;
 
-    public AttackState(PokemonPlayer pokemonPlayer)
+    public BallPossessionState(PokemonPlayer pokemonPlayer)
     {
         _pokemonPlayer = pokemonPlayer;
         _pokemonPlayer.speed = speed;
@@ -35,44 +35,48 @@ public class AttackState : IPokemonPlayerState
     {
         if (!_pokemonPlayer.HasBall)
         {
-            _pokemonPlayer.UpdateState(new DefenseState(_pokemonPlayer));
+            _pokemonPlayer.UpdateState(new PlayerAttackState(_pokemonPlayer));
             return;
         }
 
-        _pokemonPlayer.HandleMovement();
-
-        if (_pokemonPlayer.IsControlled)
+        if (Input.GetKey(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button1 : KeyCode.Joystick2Button1))
         {
-            if (Input.GetKey(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button1 : KeyCode.Joystick2Button1))
+            if (!isShootingMode)
             {
-                if (!isShootingMode)
-                {
-                    StartShootingMode();
-                }
-                else
-                {
-                    UpdateShootingMode();
-                }
+                StartShootingMode();
             }
-            // Relâcher pour tirer
-            else if (isShootingMode && Input.GetKeyUp(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button1 : KeyCode.Joystick2Button1))
+            else
             {
-                ExecuteShot();
-            }
-
-            // Passe (X)
-            if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button3 : KeyCode.Joystick2Button3))
-            {
-                if (isShootingMode)
-                {
-                    CancelShootingMode();
-                }
-                else
-                {
-                    PassBall();
-                }
+                UpdateShootingMode();
             }
         }
+        // Relâcher pour tirer
+        else if (isShootingMode && Input.GetKeyUp(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button1 : KeyCode.Joystick2Button1))
+        {
+            ExecuteShot();
+        }
+
+        // Passe (X)
+        if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button3 : KeyCode.Joystick2Button3))
+        {
+            if (isShootingMode)
+            {
+                CancelShootingMode();
+            }
+            else
+            {
+                PassBall();
+            }
+        }
+    }
+
+    public void HandleMovement()
+    {
+        float h = _pokemonPlayer.ControlledByPlayer1 ? Input.GetAxis("HorizontalJoystick1") : Input.GetAxis("HorizontalJoystick2");
+        float v = _pokemonPlayer.ControlledByPlayer1 ? Input.GetAxis("VerticalJoystick1") : Input.GetAxis("VerticalJoystick2");
+
+        Vector3 move = new Vector3(h, 0, v);
+        _pokemonPlayer.ApplyMovement(move);
     }
 
     private void StartShootingMode()
@@ -80,26 +84,26 @@ public class AttackState : IPokemonPlayerState
         isShootingMode = true;
         shootingTimer = 0f;
         _timeAt100Percent = 0f;
-        
+
         // Calculer la difficulté selon la précision (0-100)
         float precisionFactor = _pokemonPlayer.shootPrecision / 100f; // Normaliser entre 0 et 1
-        
+
         // Plus la précision est faible, plus c'est difficile
         // Précision 100 = fenêtre de 1.5s, Précision 0 = fenêtre de 0.6s (plus rapide)
         currentShootingWindow = Mathf.Lerp(0.6f, 1.5f, precisionFactor);
-        
+
         // Setup juice effects
         SetupJuiceEffects();
-        
+
         _pokemonPlayer.shootingUi.SetActive(true);
         _pokemonPlayer.shootingSlider.value = 0f;
-        
+
         // Le joueur ralentit quand il vise
         _pokemonPlayer.speed = speed * 0.3f;
-        
+
         // Fade in rapide avec un petit bounce
         _pokemonPlayer.StartCoroutine(FadeInSlider());
-        
+
         Debug.Log($"Shooting started - Precision: {_pokemonPlayer.shootPrecision}, Window: {currentShootingWindow:F2}s");
     }
 
@@ -467,6 +471,8 @@ public class AttackState : IPokemonPlayerState
             Debug.LogWarning("Aucun coéquipier autre que soi");
             return;
         }
+
+        _pokemonPlayer.Team.SetControlledPlayer(target);
 
         _pokemonPlayer.LoseBall();
         BasketBallManager.Instance.PassTo(target.transform);

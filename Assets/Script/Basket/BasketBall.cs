@@ -16,6 +16,17 @@ public class BasketBall : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            if (currentHolder == null)
+            {
+                BasketBallManager.Instance.ResetTeamHolder();
+            }
+        }
+    }
+
     public void ShootTowardsBasket(Vector3 target, float precision, float shootingQuality)
     {
         rb.useGravity = true;
@@ -31,9 +42,9 @@ public class BasketBall : MonoBehaviour
 
         // --- PRÉCISION PRINCIPALE ---
         bool isSuccessful = Random.value <= Mathf.Clamp01(effectivePrecision);
-        
+
         Debug.LogWarning("Is shoot successfull" + isSuccessful);
-        
+
         if (!isSuccessful)
         {
             // Tir raté complet → grosse déviation

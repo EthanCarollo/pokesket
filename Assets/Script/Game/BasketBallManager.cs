@@ -1,3 +1,4 @@
+using Unity.VisualScripting.Dependencies.NCalc;
 using UnityEngine;
 
 public class BasketBallManager : MonoBehaviour
@@ -7,7 +8,8 @@ public class BasketBallManager : MonoBehaviour
     [SerializeField] private Transform ballSpawnPoint;
     [SerializeField] private float timeBeforeReset = 3f;
     private BasketBall basketBall;
-    private PokemonPlayer ballHolder;
+    private BasketTeam lastTeamHolder = null;
+    private PokemonPlayer ballHolder = null;
     public PokemonPlayer BallHolder => ballHolder;
     private float lastTimeBlocked = -1f;
 
@@ -52,11 +54,25 @@ public class BasketBallManager : MonoBehaviour
     public void SetBallHolder(PokemonPlayer holder)
     {
         ballHolder = holder;
+        if (holder != null)
+        {
+            lastTeamHolder = holder.Team;
+        }
+    }
+
+    public void ResetTeamHolder()
+    {
+        lastTeamHolder = null;
     }
 
     public bool IsBallHolded()
     {
         return ballHolder != null;
+    }
+
+    public bool IsTeamHoldingBall(BasketTeam team)
+    {
+        return lastTeamHolder == team;
     }
 
     public bool IsPlayerHoldingBall(PokemonPlayer player)
