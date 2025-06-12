@@ -16,7 +16,7 @@ MonoBehaviour:
   pokemonName: Rondoudou
   pokemonPortrait: {fileID: 1305095736, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 7413016194714210656, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
-  pokemonType: 0
+  pokemonType: {fileID: 11400000, guid: 10617dcf72b56724cb73f9d0044b7797, type: 2}
   speed: 5
   defence: 80
   shootPrecision: 80
@@ -39,3 +39,11 @@ MonoBehaviour:
   - {fileID: -6206446784147158320, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
   - {fileID: -8581921252930280998, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
   - {fileID: -8861918581079104609, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  shootTopLeftAnimation:
+  - {fileID: -5543421203831333394, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  shootTopRightAnimation:
+  - {fileID: -3866837189802139076, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  shootBottomRightAnimation:
+  - {fileID: 931417574798195682, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  shootBottomLeftAnimation:
+  - {fileID: 2645566994688257491, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}

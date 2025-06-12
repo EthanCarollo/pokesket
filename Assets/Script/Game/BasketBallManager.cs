@@ -1,3 +1,4 @@
+using System;
 using Unity.VisualScripting.Dependencies.NCalc;
 using UnityEngine;
 
@@ -12,6 +13,9 @@ public class BasketBallManager : MonoBehaviour
     private PokemonPlayer ballHolder = null;
     public PokemonPlayer BallHolder => ballHolder;
     private float lastTimeBlocked = -1f;
+    
+    [NonSerialized]
+    public PokemonType lastPokemonTypeHolder;
 
     void Awake()
     {
@@ -56,6 +60,7 @@ public class BasketBallManager : MonoBehaviour
         ballHolder = holder;
         if (holder != null)
         {
+            lastPokemonTypeHolder = holder.actualPokemon.pokemonType; 
             lastTeamHolder = holder.Team;
         }
     }

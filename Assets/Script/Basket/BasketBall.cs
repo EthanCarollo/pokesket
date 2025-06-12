@@ -1,11 +1,34 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 [RequireComponent(typeof(Rigidbody))]
 public class BasketBall : MonoBehaviour
 {
     private PokemonPlayer currentHolder => BasketBallManager.Instance.BallHolder;
+    
+    public ParticleSystem particle;
+    public TrailRenderer trailRenderer;
+    
     public Rigidbody rb => GetComponent<Rigidbody>();
+
+    public void Start()
+    {
+        StopEmitTrail();
+    }
+
+    public void StopEmitTrail()
+    {
+        particle.emissionRate = 0;
+        trailRenderer.emitting = false;
+    }
+
+    public void StartEmitTrail()
+    {
+        particle.emissionRate = 12;
+        trailRenderer.emitting = true;
+    }
 
     public void Update()
     {
@@ -23,6 +46,7 @@ public class BasketBall : MonoBehaviour
             if (currentHolder == null)
             {
                 BasketBallManager.Instance.ResetTeamHolder();
+                StopEmitTrail();
             }
         }
     }
@@ -34,13 +58,14 @@ public class BasketBall : MonoBehaviour
 
         Vector3 start = transform.position;
 
-        // Distance entre le tireur et le panier
+        if (shootingQuality > 0.8f)
+        {
+            StartEmitTrail();
+            LeanTween.delayedCall(2.5f, () => StopEmitTrail());
+        }
+        
         float distance = Vector3.Distance(start, target);
-
-        // Appliquer la qualité du timing à la précision
         float effectivePrecision = precision * shootingQuality / 100;
-
-        // --- PRÉCISION PRINCIPALE ---
         bool isSuccessful = Random.value <= Mathf.Clamp01(effectivePrecision);
 
         Debug.LogWarning("Is shoot successfull" + isSuccessful);

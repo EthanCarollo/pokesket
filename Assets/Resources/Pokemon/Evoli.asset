@@ -16,7 +16,7 @@ MonoBehaviour:
   pokemonName: Evoli
   pokemonPortrait: {fileID: 342477132, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -4066072955386553521, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
-  pokemonType: 0
+  pokemonType: {fileID: 11400000, guid: fe58d75f5b566e64c89e32f488435736, type: 2}
   speed: 5
   defence: 80
   shootPrecision: 80
@@ -37,3 +37,7 @@ MonoBehaviour:
   - {fileID: 2348567464476442564, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
   - {fileID: -6363979106110210348, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
   - {fileID: -8510502597331882682, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

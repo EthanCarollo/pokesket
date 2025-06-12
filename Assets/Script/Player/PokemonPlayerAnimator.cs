@@ -6,17 +6,41 @@ public class PokemonPlayerAnimator
 {
     public SpriteRenderer pokemonSpriteRenderer;
 
-    public float animationSpeed = 0.1f; // Temps entre chaque frame
+    public float animationSpeed = 0.1f;
     private float animationTimer = 0f;
     private int currentFrame = 0;
 
     private Sprite[] currentAnimation;
 
+    // Animation temporaire (One-shot)
+    private Sprite[] oneShotAnimation = null;
+    private Action onOneShotComplete;
+
+    public void PlayOneShotAnimation(Sprite[] animation, Action onComplete = null)
+    {
+        if (animation == null || animation.Length == 0)
+        {
+            Debug.LogWarning("Animation is null or empty.");
+            return;
+        }
+
+        oneShotAnimation = animation;
+        onOneShotComplete = onComplete;
+        animationTimer = 0f;
+        currentFrame = 0;
+    }
+
     public void HandleAnimation(Vector3 move, Pokemon actualPokemon)
     {
+        // Si une animation temporaire est en cours, on la joue en priorité
+        if (oneShotAnimation != null)
+        {
+            AnimateOneShot();
+            return;
+        }
+
         if (move.magnitude == 0)
         {
-            // Si le joueur ne bouge pas, afficher le sprite de base
             pokemonSpriteRenderer.sprite = actualPokemon.pokemonSprite;
             animationTimer = 0f;
             currentFrame = 0;
@@ -44,7 +68,6 @@ public class PokemonPlayerAnimator
             }
         }
 
-        // Jouer l'animation
         AnimateCurrentSprite();
     }
 
@@ -59,5 +82,26 @@ public class PokemonPlayerAnimator
         }
 
         pokemonSpriteRenderer.sprite = currentAnimation[currentFrame];
+    }
+
+    private void AnimateOneShot()
+    {
+        animationTimer += Time.deltaTime;
+
+        if (animationTimer >= animationSpeed)
+        {
+            animationTimer = 0f;
+            currentFrame++;
+
+            if (currentFrame >= oneShotAnimation.Length)
+            {
+                // Fin de l'animation temporaire
+                oneShotAnimation = null;
+                onOneShotComplete?.Invoke();
+                return;
+            }
+        }
+
+        pokemonSpriteRenderer.sprite = oneShotAnimation[currentFrame];
     }
 }

@@ -41,7 +41,7 @@ public class PokemonPlayer : MonoBehaviour
     public TextMeshProUGUI feedbackShootingText;
 
     [SerializeField]
-    private PokemonPlayerAnimator pokemonPlayerAnimator;
+    public PokemonPlayerAnimator pokemonPlayerAnimator;
 
     public void Start()
     {

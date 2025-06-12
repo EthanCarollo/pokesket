@@ -16,6 +16,7 @@ MonoBehaviour:
   pokemonName: Tiplouf
   pokemonPortrait: {fileID: -1147715369, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 71682404101859102, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  pokemonType: {fileID: 11400000, guid: bbfa48c4f64b21644b3a4fc69bfa5bd0, type: 2}
   speed: 5
   defence: 80
   shootPrecision: 80
@@ -36,3 +37,7 @@ MonoBehaviour:
   - {fileID: 7178559031906496502, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
   - {fileID: -441567815116484059, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
   - {fileID: 2785216773612029336, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

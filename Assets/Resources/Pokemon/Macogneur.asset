@@ -16,7 +16,7 @@ MonoBehaviour:
   pokemonName: Macogneur
   pokemonPortrait: {fileID: -944435399, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -6112181415019389223, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
-  pokemonType: 0
+  pokemonType: {fileID: 11400000, guid: d2374f397a8a5854484cc4565fb57ec6, type: 2}
   speed: 5
   defence: 80
   shootPrecision: 80
@@ -37,3 +37,7 @@ MonoBehaviour:
   - {fileID: -9141310335809998419, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
   - {fileID: 8497885747801085384, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
   - {fileID: -539237931383839962, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

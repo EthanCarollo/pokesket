@@ -451,7 +451,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 310650194}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -1505,7 +1505,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 778772353}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -1753,7 +1753,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 894931680}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -2636,7 +2636,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1214948875}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -3144,7 +3144,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1733788864}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -3370,7 +3370,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1860112059}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -3956,14 +3956,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 924083911}
     m_Modifications:
-    - target: {fileID: 353717094769069789, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_Size.x
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 353717094769069789, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_Size.z
-      value: 0.4
-      objectReference: {fileID: 0}
     - target: {fileID: 454956420337040986, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.332765
@@ -4008,26 +4000,6 @@ PrefabInstance:
       propertyPath: opponentScore
       value: 
       objectReference: {fileID: 536848395}
-    - target: {fileID: 6539158765002058367, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_Size.x
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6539158765002058367, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_Size.y
-      value: 0.07
-      objectReference: {fileID: 0}
-    - target: {fileID: 6539158765002058367, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_Size.z
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7727761249718059116, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 8853182333098696770, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.75
-      objectReference: {fileID: 0}
     - target: {fileID: 8985376451038794899, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
       propertyPath: m_Name
       value: BlueBasketRim
@@ -4045,37 +4017,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1150549136}
     m_Modifications:
-    - target: {fileID: 194959516675329823, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_Size.x
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 194959516675329823, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_Size.y
-      value: 0.07
-      objectReference: {fileID: 0}
-    - target: {fileID: 194959516675329823, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_Size.z
-      value: 0.5
-      objectReference: {fileID: 0}
     - target: {fileID: 825086758326940677, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: m_Name
       value: RedBasketballRim
-      objectReference: {fileID: 0}
-    - target: {fileID: 3196191207361706520, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_Size.x
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 3196191207361706520, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_Size.z
-      value: 0.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4179650563455656589, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6620658022761574248, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.75
       objectReference: {fileID: 0}
     - target: {fileID: 7531721002477398295, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: opponentScore

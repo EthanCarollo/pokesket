@@ -28,9 +28,9 @@ public class GameManager : MonoBehaviour
             StartMatch(
                 new List<Pokemon>()
                 {
+                    PokemonDatabase.Instance.pokemons[4],
+                    PokemonDatabase.Instance.pokemons[9],
                     PokemonDatabase.Instance.pokemons[10],
-                    PokemonDatabase.Instance.pokemons[1],
-                    PokemonDatabase.Instance.pokemons[0],
                 },
                 new List<Pokemon>()
                 {

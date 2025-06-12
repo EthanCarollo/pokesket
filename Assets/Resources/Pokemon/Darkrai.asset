@@ -16,6 +16,7 @@ MonoBehaviour:
   pokemonName: Darkrai
   pokemonPortrait: {fileID: 703279585, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 5800153149764636962, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  pokemonType: {fileID: 11400000, guid: 7d2bc8b13260c124a8db305eb2ea681a, type: 2}
   speed: 5
   defence: 80
   shootPrecision: 80
@@ -36,3 +37,19 @@ MonoBehaviour:
   - {fileID: 5773815671147157326, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
   - {fileID: 1970791174362253543, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
   - {fileID: 2809872443136404168, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  shootTopLeftAnimation:
+  - {fileID: 5707673163385337235, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: -5807315484845661275, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: 3058988415213528104, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  shootTopRightAnimation:
+  - {fileID: -1564735926, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: -1024386153, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: 1204796786, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  shootBottomRightAnimation:
+  - {fileID: -1835384562, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: 243533217, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: 551094576, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  shootBottomLeftAnimation:
+  - {fileID: -7747337534240854502, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: 3172865887569773940, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}
+  - {fileID: -7753411655431742298, guid: c227b8086abe7a74ab80f4932e1a2c46, type: 3}

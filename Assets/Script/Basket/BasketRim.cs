@@ -7,6 +7,8 @@ public class BasketRim : MonoBehaviour
 
     private bool hasEnteredFromTop = false;
     private bool hasScored = false;
+    // When we hit the balls
+    public GameObject particleParent;
 
     public void OnBallEnter(RimTrigger.TriggerType trigger)
     {
@@ -21,6 +23,10 @@ public class BasketRim : MonoBehaviour
             // Si la balle est bien passée par le haut d’abord
             if (hasEnteredFromTop && !hasScored)
             {
+                // if(particleParent.)
+                Debug.LogWarning("Ball entered top");
+                Debug.LogWarning(BasketBallManager.Instance.lastPokemonTypeHolder);
+                Instantiate(BasketBallManager.Instance.lastPokemonTypeHolder.particlePointPrefab, particleParent.transform);
                 Goal();
                 hasScored = true; // Évite les scores multiples
             }

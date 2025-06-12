@@ -1,21 +1,8 @@
-public enum PokemonType
+using UnityEngine;
+
+[CreateAssetMenu(fileName = "PokemonType", menuName = "Pokemon/PokemonType")]
+public class PokemonType : ScriptableObject
 {
-    Normal,
-    Fire,
-    Water,
-    Grass,
-    Electric,
-    Ice,
-    Fighting,
-    Poison,
-    Ground,
-    Flying,
-    Psychic,
-    Bug,
-    Rock,
-    Ghost,
-    Dragon,
-    Dark,
-    Steel,
-    Fairy
+    public string typeName;
+    public GameObject particlePointPrefab;
 }

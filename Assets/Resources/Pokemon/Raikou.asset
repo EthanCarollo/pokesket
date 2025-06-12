@@ -16,7 +16,7 @@ MonoBehaviour:
   pokemonName: Raikou
   pokemonPortrait: {fileID: 921670561, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -2646207721991759615, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
-  pokemonType: 0
+  pokemonType: {fileID: 11400000, guid: f4f2b8beaff9b51429896ab14b5c21f5, type: 2}
   speed: 5
   defence: 80
   shootPrecision: 80
@@ -37,3 +37,7 @@ MonoBehaviour:
   - {fileID: 4284235463308255486, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
   - {fileID: -2899518219990761029, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
   - {fileID: 6170597496493849623, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

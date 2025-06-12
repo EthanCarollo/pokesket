@@ -16,6 +16,7 @@ MonoBehaviour:
   pokemonName: Abra
   pokemonPortrait: {fileID: 976560283, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -8123241321789339922, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  pokemonType: {fileID: 11400000, guid: 534bc0d3bf970e84aafacdc26bd02b48, type: 2}
   speed: 5
   defence: 80
   shootPrecision: 80
@@ -36,3 +37,7 @@ MonoBehaviour:
   - {fileID: 1366204852, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
   - {fileID: 1037643553, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
   - {fileID: -41549482, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

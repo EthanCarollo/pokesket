@@ -178,7 +178,8 @@ public class BallPossessionState : IPokemonPlayerState
         
         var rim = _pokemonPlayer.Team.GetTargetRim();
         _pokemonPlayer.LoseBall();
-        
+
+        PlayShootAnimation();
         BasketBallManager.Instance.ShootTo(rim, finalPrecision, shootingQuality);
         
         // Feedback visuel avec juice !
@@ -186,6 +187,57 @@ public class BallPossessionState : IPokemonPlayerState
         
         // Shake + Fade out selon la qualité
         _pokemonPlayer.StartCoroutine(ShakeAndFadeOut(shootingQuality));
+    }
+
+    private void PlayShootAnimation()
+    {
+        var move = _pokemonPlayer.Direction;
+        
+        if (move.magnitude == 0)
+        {
+            this._pokemonPlayer.pokemonPlayerAnimator.PlayOneShotAnimation(this._pokemonPlayer.actualPokemon.shootTopRightAnimation);
+            return;
+        }
+
+        // Sélectionner l'animation en fonction de la direction
+        if (move.x > 0)
+        {
+            if (move.z > 0)
+            {
+                this._pokemonPlayer.pokemonPlayerAnimator.PlayOneShotAnimation(this._pokemonPlayer.actualPokemon.shootTopRightAnimation);
+                
+            }
+            else
+            {
+                this._pokemonPlayer.pokemonPlayerAnimator.PlayOneShotAnimation(this._pokemonPlayer.actualPokemon.shootBottomRightAnimation);
+                
+            }
+        }
+        else if (move.x < 0)
+        {
+            if (move.z > 0)
+            {
+                this._pokemonPlayer.pokemonPlayerAnimator.PlayOneShotAnimation(this._pokemonPlayer.actualPokemon.shootTopLeftAnimation);
+                
+            }
+            else
+            {
+                this._pokemonPlayer.pokemonPlayerAnimator.PlayOneShotAnimation(this._pokemonPlayer.actualPokemon.shootBottomLeftAnimation);
+                
+            }
+        }
+        else
+        {
+            if (move.z > 0)
+            {
+                this._pokemonPlayer.pokemonPlayerAnimator.PlayOneShotAnimation(this._pokemonPlayer.actualPokemon.shootTopLeftAnimation);
+            }
+            else if (move.z < 0)
+            {
+                this._pokemonPlayer.pokemonPlayerAnimator.PlayOneShotAnimation(this._pokemonPlayer.actualPokemon.bottomLeftAnimation);
+            }
+        }
+
     }
 
     private float CalculateShootingQuality(float cursorPosition)
