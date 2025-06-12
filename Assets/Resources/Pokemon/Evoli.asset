@@ -12,11 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
   m_Name: Evoli
   m_EditorClassIdentifier: 
-  id: 2
+  id: 3
   pokemonName: Evoli
   pokemonPortrait: {fileID: 342477132, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -4066072955386553521, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  pokemonType: 0
   speed: 5
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: 2215278203959271502, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: 5748732505287064972, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: 4195124037352133814, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  bottomLeftAnimation:
+  - {fileID: -4347904390569062858, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: -1372785642198862421, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: -1801613819101562103, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  topRightAnimation:
+  - {fileID: 2812290419115850816, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: -3582321273282775531, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: -153367959680587970, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  topLeftAnimation:
+  - {fileID: 2348567464476442564, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: -6363979106110210348, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}
+  - {fileID: -8510502597331882682, guid: 8ff1b01443ca391498d9396ddf92ea22, type: 3}

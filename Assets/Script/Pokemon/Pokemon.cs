@@ -17,4 +17,9 @@ public class Pokemon : ScriptableObject
     public float shootPrecision;
     [Range(0, 100f)]
     public float passPrecision;
+
+    public Sprite[] bottomRightAnimation;
+    public Sprite[] bottomLeftAnimation;
+    public Sprite[] topRightAnimation;
+    public Sprite[] topLeftAnimation;
 }

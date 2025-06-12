@@ -28,13 +28,13 @@ public class GameManager : MonoBehaviour
             StartMatch(
                 new List<Pokemon>()
                 {
-                    PokemonDatabase.Instance.pokemons[0],
+                    PokemonDatabase.Instance.pokemons[3],
                     PokemonDatabase.Instance.pokemons[1],
-                    PokemonDatabase.Instance.pokemons[2],
+                    PokemonDatabase.Instance.pokemons[0],
                 },
                 new List<Pokemon>()
                 {
-                    PokemonDatabase.Instance.pokemons[3],
+                    PokemonDatabase.Instance.pokemons[1],
                     PokemonDatabase.Instance.pokemons[4],
                     PokemonDatabase.Instance.pokemons[5],
                 }

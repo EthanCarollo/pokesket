@@ -283,10 +283,10 @@ TextureImporter:
       name: abra-spritesheet_5
       rect:
         serializedVersion: 2
-        x: 18
-        y: 208
-        width: 20
-        height: 23
+        x: 156
+        y: 232
+        width: 21
+        height: 22
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,10 +305,10 @@ TextureImporter:
       name: abra-spritesheet_6
       rect:
         serializedVersion: 2
-        x: 65
-        y: 206
-        width: 19
-        height: 24
+        x: 179
+        y: 232
+        width: 21
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,10 +327,10 @@ TextureImporter:
       name: abra-spritesheet_7
       rect:
         serializedVersion: 2
-        x: 86
-        y: 206
+        x: 202
+        y: 232
         width: 20
-        height: 20
+        height: 22
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,10 +349,10 @@ TextureImporter:
       name: abra-spritesheet_8
       rect:
         serializedVersion: 2
-        x: 108
-        y: 206
-        width: 19
-        height: 24
+        x: 18
+        y: 208
+        width: 20
+        height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,10 +371,10 @@ TextureImporter:
       name: abra-spritesheet_9
       rect:
         serializedVersion: 2
-        x: 17
-        y: 184
-        width: 22
-        height: 22
+        x: 65
+        y: 206
+        width: 19
+        height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,10 +393,10 @@ TextureImporter:
       name: abra-spritesheet_10
       rect:
         serializedVersion: 2
-        x: 63
-        y: 179
-        width: 19
-        height: 25
+        x: 86
+        y: 206
+        width: 20
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: abra-spritesheet_11
       rect:
         serializedVersion: 2
-        x: 84
-        y: 179
-        width: 20
-        height: 23
+        x: 108
+        y: 206
+        width: 19
+        height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,10 +437,10 @@ TextureImporter:
       name: abra-spritesheet_12
       rect:
         serializedVersion: 2
-        x: 106
-        y: 179
-        width: 22
-        height: 25
+        x: 158
+        y: 206
+        width: 19
+        height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,10 +459,10 @@ TextureImporter:
       name: abra-spritesheet_13
       rect:
         serializedVersion: 2
-        x: 18
-        y: 160
+        x: 179
+        y: 206
         width: 20
-        height: 22
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,10 +481,10 @@ TextureImporter:
       name: abra-spritesheet_14
       rect:
         serializedVersion: 2
-        x: 62
-        y: 154
+        x: 201
+        y: 206
         width: 19
-        height: 21
+        height: 24
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -503,8 +503,8 @@ TextureImporter:
       name: abra-spritesheet_15
       rect:
         serializedVersion: 2
-        x: 83
-        y: 154
+        x: 17
+        y: 184
         width: 22
         height: 22
       alignment: 7
@@ -525,10 +525,10 @@ TextureImporter:
       name: abra-spritesheet_16
       rect:
         serializedVersion: 2
-        x: 107
-        y: 154
-        width: 23
-        height: 23
+        x: 63
+        y: 179
+        width: 19
+        height: 25
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -547,10 +547,10 @@ TextureImporter:
       name: abra-spritesheet_17
       rect:
         serializedVersion: 2
-        x: 64
-        y: 127
-        width: 22
-        height: 25
+        x: 84
+        y: 179
+        width: 20
+        height: 23
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,10 +569,10 @@ TextureImporter:
       name: abra-spritesheet_18
       rect:
         serializedVersion: 2
-        x: 88
-        y: 127
-        width: 20
-        height: 22
+        x: 106
+        y: 179
+        width: 22
+        height: 25
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -591,10 +591,10 @@ TextureImporter:
       name: abra-spritesheet_19
       rect:
         serializedVersion: 2
-        x: 110
-        y: 127
-        width: 18
-        height: 22
+        x: 157
+        y: 179
+        width: 22
+        height: 25
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,6 +605,336 @@ TextureImporter:
       bones: []
       spriteID: 8476bf9d1932611b0800000000000000
       internalID: -5686318370174310584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 179
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16180a14102ea474f996bc90b01315e8
+      internalID: -534550516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 179
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9162453a071634d919e0c627483d6791
+      internalID: -590258396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515927e79e98b4179baf1bcb90eecc98
+      internalID: -1004982364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 154
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c08dd15c71443e4802dfe233668b65
+      internalID: -197510838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 154
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaf6e548d7814881ab3b0f4f2d5bf5e
+      internalID: -1858569373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 154
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e32fa4afcd46af9d82cb502dccf21
+      internalID: 625934098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 154
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50391629f9f124528b70055bbe87f8c9
+      internalID: 82317453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 154
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186a30437fc546e2904af1779752d76
+      internalID: 146925667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 154
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564434da99b142918988a678486dadf
+      internalID: 752244130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862330a33718f47dc97618ac3b396e46
+      internalID: 1366204852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b344b038ffb4eaa9fbab8f1130127f
+      internalID: 1037643553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 127
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6574fbd60efb840548eb9c07cee82d41
+      internalID: -41549482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 127
+        width: 18
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f080a0c430f9f4f80a027bbf1d1e9891
+      internalID: 704480177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 127
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54aa551e3c84614907c8440c51a428
+      internalID: -1900682552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abra-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41fc29b6cf044b1894d45533f524c3d
+      internalID: -1945685300
       vertices: []
       indices: 
       edges: []
@@ -636,7 +966,22 @@ TextureImporter:
       abra-spritesheet_18: -6996207349616668185
       abra-spritesheet_19: -5686318370174310584
       abra-spritesheet_2: 970049795058193975
+      abra-spritesheet_20: -534550516
+      abra-spritesheet_21: -590258396
+      abra-spritesheet_22: -1004982364
+      abra-spritesheet_23: -197510838
+      abra-spritesheet_24: -1858569373
+      abra-spritesheet_25: 625934098
+      abra-spritesheet_26: 82317453
+      abra-spritesheet_27: 146925667
+      abra-spritesheet_28: 752244130
+      abra-spritesheet_29: 1366204852
       abra-spritesheet_3: -1556395656233430831
+      abra-spritesheet_30: 1037643553
+      abra-spritesheet_31: -41549482
+      abra-spritesheet_32: 704480177
+      abra-spritesheet_33: -1900682552
+      abra-spritesheet_34: -1945685300
       abra-spritesheet_4: -8213687819752304527
       abra-spritesheet_5: 1043932919466700237
       abra-spritesheet_6: 1708308809178556604

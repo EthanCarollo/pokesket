@@ -20,3 +20,19 @@ MonoBehaviour:
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: 82317453, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: 146925667, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: 752244130, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  bottomLeftAnimation:
+  - {fileID: -197510838, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: -1858569373, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: 625934098, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  topRightAnimation:
+  - {fileID: 704480177, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: -1900682552, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: -1945685300, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  topLeftAnimation:
+  - {fileID: 1366204852, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: 1037643553, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}
+  - {fileID: -41549482, guid: 5fd0b1e5116321144b700bdfd723b259, type: 3}

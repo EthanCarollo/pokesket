@@ -1509,6 +1509,138 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d3556746184bef972f7512644fd8c
+      internalID: 1540383203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 177
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73b15502f18b4bc4aa34532c9a299de
+      internalID: -561168237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 177
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566343505d40142d9a17a5d85c5afc1e
+      internalID: -1256555860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 190
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eec754c4e856454991ae1a971f3a0a8
+      internalID: 1264092975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 189
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d185f7da85624df9a81911e61716dcd
+      internalID: 1422524831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiplouf-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 190
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a2e4c3c86da479ba3a1717d869dc82
+      internalID: 1820065471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -1575,7 +1707,13 @@ TextureImporter:
       tiplouf-spritesheet_53: -2275904419539074196
       tiplouf-spritesheet_54: -1394714578563818782
       tiplouf-spritesheet_55: 5461556393410949338
+      tiplouf-spritesheet_56: 1540383203
+      tiplouf-spritesheet_57: -561168237
+      tiplouf-spritesheet_58: -1256555860
+      tiplouf-spritesheet_59: 1264092975
       tiplouf-spritesheet_6: -2558922825818502684
+      tiplouf-spritesheet_60: 1422524831
+      tiplouf-spritesheet_61: 1820065471
       tiplouf-spritesheet_7: -6505940389874155946
       tiplouf-spritesheet_8: -2671295048040155693
       tiplouf-spritesheet_9: 8966269840355895018

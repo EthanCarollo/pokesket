@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
   m_Name: Tiplouf
   m_EditorClassIdentifier: 
-  id: 2
+  id: 11
   pokemonName: Tiplouf
   pokemonPortrait: {fileID: -1147715369, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 71682404101859102, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
@@ -20,3 +20,19 @@ MonoBehaviour:
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: 1540383203, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: -561168237, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: -1256555860, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 5855493057586825130, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: -4073776506431258459, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: 2019670085663666759, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  topRightAnimation:
+  - {fileID: 1264092975, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: 1422524831, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: 1820065471, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  topLeftAnimation:
+  - {fileID: 7178559031906496502, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: -441567815116484059, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}
+  - {fileID: 2785216773612029336, guid: 913c47e5eb971f247973a4e3b0c53b38, type: 3}

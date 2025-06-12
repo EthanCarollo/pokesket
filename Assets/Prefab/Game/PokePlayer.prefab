@@ -105,7 +105,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  precision: 80
   Team: {fileID: 0}
   indicator: {fileID: 5401643234495709758}
   pokemonSpriteRenderer: {fileID: 1204358011298399045}
@@ -113,6 +112,10 @@ MonoBehaviour:
   shootingSlider: {fileID: 1894018030987802377}
   shootingSliderFill: {fileID: 1442564013683092233}
   feedbackShootingText: {fileID: 999230938834586683}
+  pokemonPlayerAnimator:
+    spriteRenderer: {fileID: 0}
+    pokemonSpriteRenderer: {fileID: 1204358011298399045}
+    animationSpeed: 0.1
 --- !u!54 &1908281221417520592
 Rigidbody:
   m_ObjectHideFlags: 0

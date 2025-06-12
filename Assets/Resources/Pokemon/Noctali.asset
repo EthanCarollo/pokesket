@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
   m_Name: Noctali
   m_EditorClassIdentifier: 
-  id: 2
+  id: 7
   pokemonName: Noctali
   pokemonPortrait: {fileID: -1503668245, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -2589741847442276077, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
@@ -20,3 +20,19 @@ MonoBehaviour:
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: 2506085784430085275, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: -560623428432428433, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: -7244418600726957428, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 8981259334261937916, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: -1762314367990421335, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: -903018971045698251, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  topRightAnimation:
+  - {fileID: 3491825262078136756, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: -4235775543957545290, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: 2788441619269141199, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  topLeftAnimation:
+  - {fileID: 1195935621236016107, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: -7916851673400946065, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
+  - {fileID: 3370286783286017963, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}

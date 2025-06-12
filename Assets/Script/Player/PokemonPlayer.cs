@@ -39,6 +39,9 @@ public class PokemonPlayer : MonoBehaviour
     public Image shootingSliderFill;
     public TextMeshProUGUI feedbackShootingText;
 
+    [SerializeField]
+    private PokemonPlayerAnimator pokemonPlayerAnimator;
+
     public void Start()
     {
         shootingUi.gameObject.SetActive(false);
@@ -63,12 +66,13 @@ public class PokemonPlayer : MonoBehaviour
 
     public void HandleMovement()
     {
+        Vector3 move = new Vector3(0f, 0f, 0f);
         if (IsControlled)
         {
             float h = ControlledByPlayer1 ? Input.GetAxis("HorizontalJoystick1") : Input.GetAxis("HorizontalJoystick2");
             float v = ControlledByPlayer1 ? Input.GetAxis("VerticalJoystick1") : Input.GetAxis("VerticalJoystick2");
 
-            Vector3 move = new Vector3(h, 0, v);
+            move = new Vector3(h, 0, v);
             if (move.sqrMagnitude > 0.01f)
                 lastMoveDirection = move.normalized;
 
@@ -78,8 +82,8 @@ public class PokemonPlayer : MonoBehaviour
         {
             // AI Movement
         }
+        pokemonPlayerAnimator.HandleAnimation(move, actualPokemon);
     }
-
 
     public void UpdateState(IPokemonPlayerState newState)
     {

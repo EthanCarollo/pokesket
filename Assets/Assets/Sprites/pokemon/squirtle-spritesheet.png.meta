@@ -1509,6 +1509,138 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: squirtle-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7327b896641e04b068971f72171b264a
+      internalID: -964262126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 45
+        width: 21
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45408b2b0617f4ba99555a1d69b3f9cf
+      internalID: 65726975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 45
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8871525572143ca9382e2c04762fd2
+      internalID: 394688150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 24
+        width: 23
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649cbcfb9893c4d53adb9da85289ce3d
+      internalID: 574207293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 24
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cd8d94abe2b469eb068cf7730dcd33
+      internalID: 494508244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squirtle-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 24
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317b7703355d4ed78de4a2f701fa032
+      internalID: 2006969520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -1575,7 +1707,13 @@ TextureImporter:
       squirtle-spritesheet_53: -5438117422683450884
       squirtle-spritesheet_54: -1166370256633194658
       squirtle-spritesheet_55: -5443330026910137619
+      squirtle-spritesheet_56: -964262126
+      squirtle-spritesheet_57: 65726975
+      squirtle-spritesheet_58: 394688150
+      squirtle-spritesheet_59: 574207293
       squirtle-spritesheet_6: 1789593840482606065
+      squirtle-spritesheet_60: 494508244
+      squirtle-spritesheet_61: 2006969520
       squirtle-spritesheet_7: -5990142485704186946
       squirtle-spritesheet_8: 1726328356766297874
       squirtle-spritesheet_9: -6071605760534091816
