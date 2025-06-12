@@ -12,11 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
   m_Name: Noctunoir
   m_EditorClassIdentifier: 
-  id: 2
+  id: 8
   pokemonName: Noctunoir
   pokemonPortrait: {fileID: 1323366346, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 7891686876568692435, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  pokemonType: 0
   speed: 5
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: 8549047586695043881, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: -5586406742979780729, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: 5261371150013153275, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  bottomLeftAnimation:
+  - {fileID: -7043811299123518778, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: -3446965101399578700, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: 2323079305812846814, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  topRightAnimation:
+  - {fileID: 5587061824733901640, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: 5587061824733901640, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: -8007825887320938163, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  topLeftAnimation:
+  - {fileID: -2033091380321981443, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: -8631143763004459036, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}
+  - {fileID: 6306968071935374851, guid: 5cff2561c8d88bf48b3edf0dccca38c7, type: 3}

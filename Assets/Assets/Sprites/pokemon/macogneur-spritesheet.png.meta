@@ -1784,6 +1784,138 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 274
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6741aafa616bfa49a8ab74d697798ab
+      internalID: -815617317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 274
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3de31caa09bf04b91d9ec3e0015849
+      internalID: 841347911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 274
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a7613e5d6b1bc4eb24ad8dc29ace09
+      internalID: 11647173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 241
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86235565902eb444bad2b66625500688
+      internalID: -962836612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 241
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf553cfc460d9f949b11631f3e976b90
+      internalID: -1494697331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: macogneur-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 241
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf929c0dcb76011458657434657ec03b
+      internalID: -1244683668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -1862,7 +1994,13 @@ TextureImporter:
       macogneur-spritesheet_64: -7613147063896793537
       macogneur-spritesheet_65: 5934295732587841912
       macogneur-spritesheet_66: -5768391684593369745
+      macogneur-spritesheet_67: -815617317
+      macogneur-spritesheet_68: 841347911
+      macogneur-spritesheet_69: 11647173
       macogneur-spritesheet_7: -4061961424543141520
+      macogneur-spritesheet_70: -962836612
+      macogneur-spritesheet_71: -1494697331
+      macogneur-spritesheet_72: -1244683668
       macogneur-spritesheet_8: 1271447796962301620
       macogneur-spritesheet_9: -6016076900472086279
   mipmapLimitGroupName: 

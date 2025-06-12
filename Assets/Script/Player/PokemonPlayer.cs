@@ -82,7 +82,15 @@ public class PokemonPlayer : MonoBehaviour
         {
             // AI Movement
         }
-        pokemonPlayerAnimator.HandleAnimation(move, actualPokemon);
+
+        try
+        {
+            pokemonPlayerAnimator.HandleAnimation(move, actualPokemon);
+        }
+        catch (Exception e)
+        {
+            Debug.LogWarning("Error animating pokemon : " + actualPokemon.pokemonName + " : " + e);
+        }
     }
 
     public void UpdateState(IPokemonPlayerState newState)

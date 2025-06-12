@@ -16,7 +16,24 @@ MonoBehaviour:
   pokemonName: Ectoplasma
   pokemonPortrait: {fileID: 1891422494, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 6316223085579692144, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  pokemonType: 0
   speed: 5
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: -1923140727, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: -1400565262, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: 1387399697, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 2921946072713396200, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: -8076506515823711908, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: -7716440757796819656, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  topRightAnimation:
+  - {fileID: 1715610132, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: 1820326136, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: -1985096360, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  topLeftAnimation:
+  - {fileID: 963040613428890632, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: -848110534023165446, guid: f817b3128b31a534b9c609c606690e61, type: 3}
+  - {fileID: -5699171569771325516, guid: f817b3128b31a534b9c609c606690e61, type: 3}

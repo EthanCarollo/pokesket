@@ -16,7 +16,24 @@ MonoBehaviour:
   pokemonName: Macogneur
   pokemonPortrait: {fileID: -944435399, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -6112181415019389223, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  pokemonType: 0
   speed: 5
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: -815617317, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: 841347911, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: 11647173, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  bottomLeftAnimation:
+  - {fileID: -1404006756916104637, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: -7770204241294688165, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: 764302680668023550, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  topRightAnimation:
+  - {fileID: -962836612, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: -1494697331, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: -1244683668, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  topLeftAnimation:
+  - {fileID: -9141310335809998419, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: 8497885747801085384, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}
+  - {fileID: -539237931383839962, guid: 83cc61b3f1c27b84ab90bd499c1efdb5, type: 3}

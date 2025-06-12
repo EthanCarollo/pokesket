@@ -12,11 +12,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
   m_Name: Rondoudou
   m_EditorClassIdentifier: 
-  id: 2
+  id: 10
   pokemonName: Rondoudou
   pokemonPortrait: {fileID: 1305095736, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: 7413016194714210656, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  pokemonType: 0
   speed: 5
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: 7635429914597614053, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: 8286849101831575135, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: -8831445072169180283, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  bottomLeftAnimation:
+  - {fileID: -5967083940435411441, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: 3022834596177533478, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: 3284832041429089770, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  topRightAnimation:
+  - {fileID: 3801617397119261950, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: -9133904890448873847, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: -2678631159574134543, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: -920560354436718153, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  topLeftAnimation:
+  - {fileID: 7307944012752080613, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: -6206446784147158320, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: -8581921252930280998, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}
+  - {fileID: -8861918581079104609, guid: 49c9395fb0dc4aa448d57d6e8661f2ab, type: 3}

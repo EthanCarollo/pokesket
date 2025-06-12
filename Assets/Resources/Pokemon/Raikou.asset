@@ -12,11 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
   m_Name: Raikou
   m_EditorClassIdentifier: 
-  id: 2
+  id: 9
   pokemonName: Raikou
   pokemonPortrait: {fileID: 921670561, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -2646207721991759615, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  pokemonType: 0
   speed: 5
   defence: 80
   shootPrecision: 80
   passPrecision: 80
+  bottomRightAnimation:
+  - {fileID: -6108276980192933595, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: 9203524642694690653, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: 3484822706056825938, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 629553859145910781, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: -6123297566247912858, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: -8578162219053905233, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  topRightAnimation:
+  - {fileID: 6536325234500629857, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: 5659651164945856493, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: 7189452429423243695, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  topLeftAnimation:
+  - {fileID: 4284235463308255486, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: -2899518219990761029, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}
+  - {fileID: 6170597496493849623, guid: 713d4cfdb27e1e94a8dffa99e46521e6, type: 3}

@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public enum TeamName { Blue, Red }
 [Serializable]
@@ -15,11 +16,16 @@ public class BasketTeam : MonoBehaviour
     [SerializeField] public TeamName teamName;
 
     public List<PokemonPlayer> pokeTeam;
+    public Image[] pokemonImages;
     private PokemonPlayer controlledPlayer;
 
     public void StartMatch()
     {
         SetControlledPlayer(pokeTeam[0]);
+        for (int i = 0; i < pokeTeam.Count; i++)
+        {
+            pokemonImages[i].sprite = pokeTeam[i].actualPokemon.pokemonPortrait;
+        }
     }
 
     void Update()
