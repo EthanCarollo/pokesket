@@ -480,7 +480,9 @@ public class BallPossessionState : IPokemonPlayerState
 
     private PokemonPlayer GetTargetAllie()
     {
-        Vector2 inputDir = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+        float h = _pokemonPlayer.ControlledByPlayer1 ? Input.GetAxis("HorizontalJoystick1") : Input.GetAxis("HorizontalJoystick2");
+        float v = _pokemonPlayer.ControlledByPlayer1 ? Input.GetAxis("VerticalJoystick1") : Input.GetAxis("VerticalJoystick2");
+        Vector2 inputDir = new Vector2(h, v);
         Vector3 myPosition = _pokemonPlayer.transform.position;
 
         Vector3? direction = null;

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -30,11 +31,14 @@ public class BasketTeam : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.JoystickButton7)) // RB on Xbox
+        if (controlledPlayer != null)
         {
-            if (!controlledPlayer?.HasBall ?? false)
+            if (Input.GetKeyDown(controlledPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button7 : KeyCode.Joystick2Button7)) // RB on Xbox
             {
-                SwitchControlledPlayer();
+                if (!controlledPlayer?.HasBall ?? false)
+                {
+                    SwitchControlledPlayer();
+                }
             }
         }
     }
