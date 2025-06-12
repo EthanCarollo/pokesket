@@ -7,6 +7,7 @@ public class Pokemon : ScriptableObject
     public string pokemonName;
     public Sprite pokemonPortrait;
     public Sprite pokemonSprite;
+    public PokemonType pokemonType;
     
     [Range(0, 15f)]
     public float speed;
