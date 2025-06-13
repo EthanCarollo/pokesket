@@ -33,6 +33,8 @@ public class VirtualCursor : MonoBehaviour
 
     public TextMeshProUGUI playerNumberIndicationText;
     public int actualControllerIndex = 1;
+    [SerializeField]
+    private HoverCharacterPreview hoverCharacterPreview;
 
     private bool ControlledByPlayer1
     {
@@ -168,6 +170,14 @@ public class VirtualCursor : MonoBehaviour
         }
         else if (currentHoveredObject != null && hoverSprite != null)
         {
+            if (currentHoveredObject.GetComponent<SelectablePokemonPrefab>() != null)
+            {
+                hoverCharacterPreview.Show(currentHoveredObject.GetComponent<SelectablePokemonPrefab>().pokemon);
+            }
+            else
+            {
+                hoverCharacterPreview.Hide();   
+            }
             image.sprite = hoverSprite;
             outlineImage.sprite = outlineHoverSprite;
         }

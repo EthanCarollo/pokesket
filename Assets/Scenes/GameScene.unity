@@ -7025,18 +7025,6 @@ PrefabInstance:
       propertyPath: opponentScore
       value: 
       objectReference: {fileID: 536848395}
-    - target: {fileID: 5682056928202768423, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_Name
-      value: Blue2ptsZone
-      objectReference: {fileID: 0}
-    - target: {fileID: 6837016960903082788, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_TagString
-      value: 2pts
-      objectReference: {fileID: 0}
-    - target: {fileID: 7246333346426045060, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
-      propertyPath: m_TagString
-      value: 2pts
-      objectReference: {fileID: 0}
     - target: {fileID: 8985376451038794899, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
       propertyPath: m_Name
       value: BlueBasketRim
@@ -7054,21 +7042,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1150549136}
     m_Modifications:
-    - target: {fileID: 715268322621142827, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_TagString
-      value: 2pts
-      objectReference: {fileID: 0}
     - target: {fileID: 825086758326940677, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: m_Name
       value: RedBasketballRim
-      objectReference: {fileID: 0}
-    - target: {fileID: 5277284455836870196, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_Name
-      value: Red2ptsZone
-      objectReference: {fileID: 0}
-    - target: {fileID: 5782030680901501744, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-      propertyPath: m_TagString
-      value: 2pts
       objectReference: {fileID: 0}
     - target: {fileID: 7531721002477398295, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: opponentScore
