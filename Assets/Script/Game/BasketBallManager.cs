@@ -85,10 +85,10 @@ public class BasketBallManager : MonoBehaviour
         return ballHolder == player;
     }
 
-    public void ShootTo(Transform target, float precision, float shootingQuality)
+    public void ShootTo(Transform target, bool isSuccessful, float force)
     {
         SetBallHolder(null);
-        basketBall.ShootTowardsBasket(target.position, precision, shootingQuality);
+        basketBall.ShootTowardsBasket(target.position, isSuccessful, force);
     }
 
     public void PassTo(Transform target)

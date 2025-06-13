@@ -1133,6 +1133,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedPokePlayer2
       objectReference: {fileID: 0}
+    - target: {fileID: 633635538767368209, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: Team
+      value: 
+      objectReference: {fileID: 1535679439}
+    - target: {fileID: 2838961658842173157, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3101534598991205647, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.29
@@ -1420,6 +1428,14 @@ PrefabInstance:
     - target: {fileID: 125487268693408016, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_Name
       value: BluePokePlayer1
+      objectReference: {fileID: 0}
+    - target: {fileID: 633635538767368209, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: Team
+      value: 
+      objectReference: {fileID: 1308429235}
+    - target: {fileID: 2838961658842173157, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3101534598991205647, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3025,6 +3041,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: BluePokePlayer2
       objectReference: {fileID: 0}
+    - target: {fileID: 125487268693408016, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 633635538767368209, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: Team
+      value: 
+      objectReference: {fileID: 1308429235}
+    - target: {fileID: 2838961658842173157, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3101534598991205647, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.43
@@ -3538,6 +3566,18 @@ PrefabInstance:
     - target: {fileID: 125487268693408016, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_Name
       value: BluePokePlayer3
+      objectReference: {fileID: 0}
+    - target: {fileID: 125487268693408016, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 633635538767368209, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: Team
+      value: 
+      objectReference: {fileID: 1308429235}
+    - target: {fileID: 2838961658842173157, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3101534598991205647, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4722,6 +4762,14 @@ PrefabInstance:
     - target: {fileID: 125487268693408016, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_Name
       value: RedPokePlayer1
+      objectReference: {fileID: 0}
+    - target: {fileID: 633635538767368209, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: Team
+      value: 
+      objectReference: {fileID: 1535679439}
+    - target: {fileID: 2838961658842173157, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3101534598991205647, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6493,6 +6541,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedPokePlayer3
       objectReference: {fileID: 0}
+    - target: {fileID: 633635538767368209, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: Team
+      value: 
+      objectReference: {fileID: 1535679439}
+    - target: {fileID: 2838961658842173157, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3101534598991205647, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7
@@ -7380,6 +7436,10 @@ PrefabInstance:
     - target: {fileID: 2016882000527183541, guid: 6f5cbd4c43bf14e20a6466af1aaffe15, type: 3}
       propertyPath: m_Name
       value: DetectRemoteInput
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016882000527183541, guid: 6f5cbd4c43bf14e20a6466af1aaffe15, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8032001860825265995, guid: 6f5cbd4c43bf14e20a6466af1aaffe15, type: 3}
       propertyPath: m_LocalPosition.x

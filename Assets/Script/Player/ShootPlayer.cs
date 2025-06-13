@@ -24,9 +24,10 @@ public class ShootPlayer : MonoBehaviour
     private float _timeAt100Percent = 0f;
     private const float MAX_TIME_AT_100 = 0.2f;
 
-    private const float OK_THRESHOLD = 0.7f;
-    private const float GOOD_THRESHOLD = 0.8f;
-    private const float PERFECT_THRESHOLD = 0.95f;
+    private float perfectThreshold => Mathf.Lerp(0.90f, 0.70f, _pokemonPlayer.shootPrecision / 100f);
+    float goodThreshold => perfectThreshold - 0.10f; // -10% en dessous du perfect
+    float okThreshold => goodThreshold - 0.10f; // -10% en dessous du good
+
 
     private Vector3 _originalSliderPosition;
     private CanvasGroup _sliderCanvasGroup;
@@ -37,7 +38,6 @@ public class ShootPlayer : MonoBehaviour
         shootingUi.gameObject.SetActive(false);
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKey(_pokemonPlayer.ControlledByPlayer1 ? XboxInput.B1 : XboxInput.B2))
@@ -72,7 +72,10 @@ public class ShootPlayer : MonoBehaviour
         _timeAt100Percent = 0f;
 
         float precisionFactor = _pokemonPlayer.shootPrecision / 100f;
+        float distance = Vector3.Distance(_pokemonPlayer.transform.position, _pokemonPlayer.Team.GetTargetRim().position);
+
         currentShootingWindow = Mathf.Lerp(0.6f, 1.5f, precisionFactor);
+        currentShootingWindow /= Mathf.Clamp(distance / 5f, 1f, 2f);
 
         SetupJuiceEffects();
 
@@ -88,7 +91,7 @@ public class ShootPlayer : MonoBehaviour
     {
         shootingTimer += Time.deltaTime;
         float cycleSpeed = 2f / currentShootingWindow;
-        float cursorPosition = (shootingTimer * cycleSpeed);
+        float cursorPosition = shootingTimer * cycleSpeed;
 
         if (cursorPosition >= 1f)
         {
@@ -107,16 +110,27 @@ public class ShootPlayer : MonoBehaviour
         shootingSlider.value = Mathf.Min(1f, cursorPosition);
         overLoadSlider.value = Mathf.Max(0f, cursorPosition - 1f);
 
+        // Détermination de la couleur du curseur selon les seuils dynamiques
         if (cursorPosition > 1f)
-            shootingSliderFill.color = Color.red;
-        else if (cursorPosition >= PERFECT_THRESHOLD)
-            shootingSliderFill.color = Color.green;
-        else if (cursorPosition >= GOOD_THRESHOLD)
-            shootingSliderFill.color = Color.yellow;
-        else if (cursorPosition >= OK_THRESHOLD)
-            shootingSliderFill.color = new Color(1f, 0.5f, 0f); // orange
+        {
+            shootingSliderFill.color = Color.red; // Trop fort
+        }
+        else if (cursorPosition >= perfectThreshold && cursorPosition <= 1f)
+        {
+            shootingSliderFill.color = Color.green; // Parfait
+        }
+        else if (cursorPosition >= goodThreshold)
+        {
+            shootingSliderFill.color = Color.yellow; // Bon
+        }
+        else if (cursorPosition >= okThreshold)
+        {
+            shootingSliderFill.color = new Color(1f, 0.5f, 0f); // OK (orange)
+        }
         else
-            shootingSliderFill.color = Color.red;
+        {
+            shootingSliderFill.color = Color.red; // Mauvais
+        }
 
         _currentCursorPosition = cursorPosition;
     }
@@ -127,12 +141,29 @@ public class ShootPlayer : MonoBehaviour
         if (_timeAt100Percent >= MAX_TIME_AT_100)
             shootingQuality = 0f;
 
-        float finalPrecision = _pokemonPlayer.shootPrecision * shootingQuality;
         var rim = _pokemonPlayer.Team.GetTargetRim();
         _pokemonPlayer.LoseBall();
 
         PlayShootAnimation();
-        BasketBallManager.Instance.ShootTo(rim, finalPrecision, shootingQuality);
+
+        bool guaranteedHit = _currentCursorPosition >= perfectThreshold && _currentCursorPosition <= 1f;
+
+        float force;
+        if (guaranteedHit)
+        {
+            force = 1f; // Parfait, force exacte
+        }
+        else if (_currentCursorPosition < perfectThreshold)
+        {
+            force = Mathf.Lerp(0.5f, 0.9f, _currentCursorPosition / perfectThreshold); // Pas assez fort
+        }
+        else // cursor > 1f (trop fort)
+        {
+            force = Mathf.Lerp(1.1f, 1.5f, Mathf.Clamp((_currentCursorPosition - 1f), 0f, 1f)); // Trop fort
+        }
+
+        BasketBallManager.Instance.ShootTo(rim, guaranteedHit, force);
+
         ShowShotFeedback(shootingQuality, _currentCursorPosition);
         StartCoroutine(ShakeAndFadeOut(shootingQuality));
     }
@@ -155,24 +186,24 @@ public class ShootPlayer : MonoBehaviour
 
     private float CalculateShootingQuality(float cursorPosition)
     {
-        if (cursorPosition >= PERFECT_THRESHOLD)
+        if (cursorPosition >= perfectThreshold)
         {
             float distanceFrom100 = Mathf.Abs(1f - cursorPosition);
             return Mathf.Lerp(1.3f, 1.2f, distanceFrom100 * 20f);
         }
-        else if (cursorPosition >= GOOD_THRESHOLD)
+        else if (cursorPosition >= goodThreshold)
         {
-            float normalizedInRange = (cursorPosition - GOOD_THRESHOLD) / (PERFECT_THRESHOLD - GOOD_THRESHOLD);
+            float normalizedInRange = (cursorPosition - goodThreshold) / (perfectThreshold - goodThreshold);
             return Mathf.Lerp(1.0f, 1.2f, normalizedInRange);
         }
-        else if (cursorPosition >= OK_THRESHOLD)
+        else if (cursorPosition >= okThreshold)
         {
-            float normalizedInRange = (cursorPosition - OK_THRESHOLD) / (GOOD_THRESHOLD - OK_THRESHOLD);
+            float normalizedInRange = (cursorPosition - okThreshold) / (goodThreshold - okThreshold);
             return Mathf.Lerp(0.7f, 1.0f, normalizedInRange);
         }
         else
         {
-            float normalizedPosition = cursorPosition / OK_THRESHOLD;
+            float normalizedPosition = cursorPosition / okThreshold;
             return Mathf.Lerp(0.1f, 0.7f, normalizedPosition);
         }
     }
