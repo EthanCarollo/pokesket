@@ -133,7 +133,6 @@ MonoBehaviour:
   shootingSliderFill: {fileID: 1442564013683092233}
   overLoadSlider: {fileID: 2700986027237522555}
   feedbackShootingText: {fileID: 999230938834586683}
-<<<<<<< Updated upstream
 --- !u!114 &8872840438879938650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -146,11 +145,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ceb6374d9e7c64fe0a9be1e1a260b465, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-=======
   pokemonPlayerAnimator:
     pokemonSpriteRenderer: {fileID: 1204358011298399045}
     animationSpeed: 0.1
->>>>>>> Stashed changes
 --- !u!54 &1908281221417520592
 Rigidbody:
   m_ObjectHideFlags: 0
