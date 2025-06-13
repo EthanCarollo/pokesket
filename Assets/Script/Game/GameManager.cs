@@ -28,9 +28,9 @@ public class GameManager : MonoBehaviour
             StartMatch(
                 new List<Pokemon>()
                 {
-                    PokemonDatabase.Instance.pokemons[4],
                     PokemonDatabase.Instance.pokemons[9],
                     PokemonDatabase.Instance.pokemons[10],
+                    PokemonDatabase.Instance.pokemons[11],
                 },
                 new List<Pokemon>()
                 {
@@ -38,7 +38,7 @@ public class GameManager : MonoBehaviour
                     PokemonDatabase.Instance.pokemons[4],
                     PokemonDatabase.Instance.pokemons[5],
                 }
-                );
+            );
         }
 #endif
     }
@@ -52,6 +52,7 @@ public class GameManager : MonoBehaviour
 
     public void StartMatch(List<Pokemon> pokeTeamBlue, List<Pokemon> pokeTeamRed)
     {
+        if (matchPlaying == true) return;
         BasketBallManager.Instance.StartMatch();
         for (int i = 0; i < pokeTeamBlue.Count; i++)
         {

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -140,8 +141,19 @@ public class SelectablePokemonPanel : MonoBehaviour
             {
                 GameManager gameManager = GameManager.Instance;
                 if (gameManager == null) Debug.LogWarning("Error getting game manager");
-                // TODO : Use pokemon player from here
-                // gameManager.StartMatch();
+                if (selectedPlayer1Characters.Length == 3 && selectedPlayer2Characters.Length == 3)
+                {
+                    gameManager.StartMatch(
+                        selectedPlayer1Characters.ToList(),
+                        selectedPlayer2Characters.ToList()
+                    );
+                }
+                else
+                {
+                    Debug.LogWarning("Count of different selected characters isn't good : 3");
+                    Debug.LogWarning("Length player 1 character : " + selectedPlayer1Characters.Length.ToString());
+                    Debug.LogWarning("Length player 2 character : " + selectedPlayer2Characters.Length.ToString());
+                }
             });
         }
     }
