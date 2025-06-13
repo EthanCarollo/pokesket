@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeName: Fairy
   particlePointPrefab: {fileID: 106676, guid: f8232d266ed6c8043a5353ca283993ea, type: 3}
+  typeIcon: {fileID: -7608118024899489849, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 15.560784, g: 5.521569, b: 8.533334, a: 0}

@@ -1,14 +1,17 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class FadeSprite : MonoBehaviour
 {
     public SpriteRenderer spriteRenderer;
+    public Image typeImage;
     public float fadeSpeed = 5f;
 
     private float targetFade = 1f;
     private float currentFade = 0f;
 
     private bool isActive = false;
+    private Pokemon _pokemon;
 
     private void Awake()
     {
@@ -35,15 +38,22 @@ public class FadeSprite : MonoBehaviour
         }
     }
 
-    public void Show(Sprite sprite)
+    public void Show(Pokemon pokemon)
     {
-        spriteRenderer.sprite = sprite;
+        _pokemon = pokemon;
+        spriteRenderer.sprite = pokemon.pokemonSprite;
+        spriteRenderer.material.SetColor("_GlowColor" ,pokemon.pokemonType.typeColor);
+        typeImage.sprite = pokemon.pokemonType.typeIcon;
+        typeImage.color = new Color(1f, 1f, 1f, 1f);
         targetFade = 1f;
         isActive = true;
     }
 
     public void Hide()
     {
+        _pokemon = null;
+        typeImage.sprite = null;
+        typeImage.color = new Color(1f, 1f, 1f, 0f);
         targetFade = 0f;
         isActive = false;
     }

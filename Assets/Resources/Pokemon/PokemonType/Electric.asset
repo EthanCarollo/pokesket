@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeName: Electric
   particlePointPrefab: {fileID: 134696, guid: b7e5be8cde65c7c42915ee6e2273d19b, type: 3}
+  typeIcon: {fileID: -179637647, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 15.560784, g: 13.050981, b: 3.0117648, a: 0}

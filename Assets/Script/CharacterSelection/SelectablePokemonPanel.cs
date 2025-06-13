@@ -86,7 +86,7 @@ public class SelectablePokemonPanel : MonoBehaviour
                         FadeSprite fadeSprite = previewObjects[i].GetComponent<FadeSprite>();
                         if (fadeSprite != null)
                         {
-                            fadeSprite.Show(selectedCharacters[i].pokemonSprite);
+                            fadeSprite.Show(selectedCharacters[i]);
                         }
                     }
                     else

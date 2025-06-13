@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeName: Ghost
   particlePointPrefab: {fileID: 1631042304284920, guid: 94c74d51bcada5249a6520831c0f6e9b, type: 3}
+  typeIcon: {fileID: -9211045673505915523, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 7.027451, g: 5.521569, b: 9.537255, a: 0}

@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeName: Water
   particlePointPrefab: {fileID: 1892333751805388, guid: 452f8c6f5b6d23b4e966a40a9e4720c1, type: 3}
+  typeIcon: {fileID: -1930651006, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 6.462745, g: 9.035295, b: 15.058824, a: 0}

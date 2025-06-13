@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeName: Normal
   particlePointPrefab: {fileID: 188560, guid: 9c3b7f4ace8832b40abe6afe89fbcd91, type: 3}
+  typeIcon: {fileID: -3079902591297759917, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 10.541177, g: 10.541177, b: 7.529412, a: 0}

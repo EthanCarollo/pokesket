@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   typeName: Combat
   particlePointPrefab: {fileID: 131758, guid: 22a3c27ab34258343b98aa08ed0f7835, type: 3}
+  typeIcon: {fileID: -328685886, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 15.058824, g: 8.031373, b: 3.0117648, a: 0}

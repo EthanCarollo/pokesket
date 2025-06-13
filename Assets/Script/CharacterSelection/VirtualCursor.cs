@@ -21,10 +21,10 @@ public class VirtualCursor : MonoBehaviour
 
     [SerializeField] private Image outlineImage;
 
+    [SerializeField] private Canvas canvas;
+    [SerializeField] private GraphicRaycaster graphicRaycaster;
     private RectTransform rectTransform;
     private Image image;
-    private Canvas canvas;
-    private GraphicRaycaster graphicRaycaster;
     private EventSystem eventSystem;
 
     private GameObject currentHoveredObject;
@@ -68,12 +68,6 @@ public class VirtualCursor : MonoBehaviour
 
         if (image != null)
             image.raycastTarget = false;
-
-        canvas = FindAnyObjectByType<Canvas>();
-        if (canvas != null)
-        {
-            graphicRaycaster = canvas.GetComponent<GraphicRaycaster>();
-        }
 
         eventSystem = EventSystem.current;
         if (eventSystem == null)

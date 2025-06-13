@@ -5,4 +5,8 @@ public class PokemonType : ScriptableObject
 {
     public string typeName;
     public GameObject particlePointPrefab;
+    public Sprite typeIcon;
+    // For HDR color
+    [ColorUsage(true, true)]
+    public Color typeColor;
 }
