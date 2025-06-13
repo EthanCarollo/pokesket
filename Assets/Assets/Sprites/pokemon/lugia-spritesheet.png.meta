@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: ebcabae17c2b64e469ca5e18dd2a4517
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4537881822995320569
+    second: lugia-spritesheet_0
+  - first:
+      213: -3372297195669315995
+    second: lugia-spritesheet_1
+  - first:
+      213: -3136084459296930491
+    second: lugia-spritesheet_2
+  - first:
+      213: 3613926844452001888
+    second: lugia-spritesheet_3
+  - first:
+      213: 3419892078132901054
+    second: lugia-spritesheet_4
+  - first:
+      213: -457822214302581778
+    second: lugia-spritesheet_5
+  - first:
+      213: 100962619982200928
+    second: lugia-spritesheet_6
+  - first:
+      213: -3848335215663460220
+    second: lugia-spritesheet_7
+  - first:
+      213: 5170016970254152301
+    second: lugia-spritesheet_8
+  - first:
+      213: -3413204835265882003
+    second: lugia-spritesheet_9
+  - first:
+      213: 7737471870357743408
+    second: lugia-spritesheet_10
+  - first:
+      213: 7236042430877094927
+    second: lugia-spritesheet_11
+  - first:
+      213: -8756409916323635162
+    second: lugia-spritesheet_12
+  - first:
+      213: 7307268818094405681
+    second: lugia-spritesheet_13
+  - first:
+      213: -4817486665871058371
+    second: lugia-spritesheet_14
+  - first:
+      213: -5210103025042883638
+    second: lugia-spritesheet_15
+  - first:
+      213: 1987532142892737280
+    second: lugia-spritesheet_16
+  - first:
+      213: 1075681659512894944
+    second: lugia-spritesheet_17
+  - first:
+      213: -2913447057451615557
+    second: lugia-spritesheet_18
+  - first:
+      213: -3211560514050634268
+    second: lugia-spritesheet_19
+  - first:
+      213: -9182187494755087409
+    second: lugia-spritesheet_20
+  - first:
+      213: 2254047681524641199
+    second: lugia-spritesheet_21
+  - first:
+      213: -811681703864464243
+    second: lugia-spritesheet_22
+  - first:
+      213: -8589262933498620203
+    second: lugia-spritesheet_23
+  - first:
+      213: 5990395495745222568
+    second: lugia-spritesheet_24
+  - first:
+      213: 6661928848903989986
+    second: lugia-spritesheet_25
+  - first:
+      213: 2870278790435684749
+    second: lugia-spritesheet_26
+  - first:
+      213: -7584781813170932403
+    second: lugia-spritesheet_27
+  - first:
+      213: 8508096289953398941
+    second: lugia-spritesheet_28
+  - first:
+      213: 1902451895509602423
+    second: lugia-spritesheet_29
+  - first:
+      213: 1845123117368216528
+    second: lugia-spritesheet_30
+  - first:
+      213: -6027382274309314795
+    second: lugia-spritesheet_31
+  - first:
+      213: 503489057869834854
+    second: lugia-spritesheet_32
+  - first:
+      213: 5314422412999244533
+    second: lugia-spritesheet_33
+  - first:
+      213: 2138454521057636512
+    second: lugia-spritesheet_34
+  - first:
+      213: 5700093673333583277
+    second: lugia-spritesheet_35
+  - first:
+      213: -5774889206204727667
+    second: lugia-spritesheet_36
+  - first:
+      213: -3766066319209045869
+    second: lugia-spritesheet_37
+  - first:
+      213: 2079091384902037121
+    second: lugia-spritesheet_38
+  - first:
+      213: -3718224448682674009
+    second: lugia-spritesheet_39
+  - first:
+      213: 8047148168531924713
+    second: lugia-spritesheet_40
+  - first:
+      213: 189679944659522049
+    second: lugia-spritesheet_41
+  - first:
+      213: -4400624982613240579
+    second: lugia-spritesheet_42
+  - first:
+      213: 8892145251386797043
+    second: lugia-spritesheet_43
+  - first:
+      213: -5571194199400352003
+    second: lugia-spritesheet_44
+  - first:
+      213: 8266106520502327436
+    second: lugia-spritesheet_45
+  - first:
+      213: -3299568638582252254
+    second: lugia-spritesheet_46
+  - first:
+      213: -4957525463775274386
+    second: lugia-spritesheet_47
+  - first:
+      213: -4016597139708975851
+    second: lugia-spritesheet_48
+  - first:
+      213: -8872470966322150698
+    second: lugia-spritesheet_49
+  - first:
+      213: -7617509046504619494
+    second: lugia-spritesheet_50
+  - first:
+      213: 8980628498634705115
+    second: lugia-spritesheet_51
+  - first:
+      213: -3711161811952099594
+    second: lugia-spritesheet_52
+  - first:
+      213: -1263906538478450184
+    second: lugia-spritesheet_53
+  - first:
+      213: 7121578095796749905
+    second: lugia-spritesheet_54
+  - first:
+      213: -1425999353876106121
+    second: lugia-spritesheet_55
+  - first:
+      213: -1100958154926259484
+    second: lugia-spritesheet_56
+  - first:
+      213: -6797200852834707433
+    second: lugia-spritesheet_57
+  - first:
+      213: 1358582085168851986
+    second: lugia-spritesheet_58
+  - first:
+      213: -5999787543647360858
+    second: lugia-spritesheet_59
+  - first:
+      213: -6447137439368664659
+    second: lugia-spritesheet_60
+  - first:
+      213: -6757115060900840561
+    second: lugia-spritesheet_61
+  - first:
+      213: -7828952292064936780
+    second: lugia-spritesheet_62
+  - first:
+      213: 6033458439739050059
+    second: lugia-spritesheet_63
+  - first:
+      213: 7014910422273728316
+    second: lugia-spritesheet_64
+  - first:
+      213: 3406017564509365696
+    second: lugia-spritesheet_65
+  - first:
+      213: 7357659765063635494
+    second: lugia-spritesheet_66
+  - first:
+      213: -4596854039219851280
+    second: lugia-spritesheet_67
+  - first:
+      213: 1900309224731799186
+    second: lugia-spritesheet_68
+  - first:
+      213: -6458791079714950262
+    second: lugia-spritesheet_69
+  - first:
+      213: -9039293563386375479
+    second: lugia-spritesheet_70
+  - first:
+      213: -78621607534018081
+    second: lugia-spritesheet_71
+  - first:
+      213: -6210403564277155132
+    second: lugia-spritesheet_72
+  - first:
+      213: -2042342867511311506
+    second: lugia-spritesheet_73
+  - first:
+      213: 1390808315622229743
+    second: lugia-spritesheet_74
+  - first:
+      213: 7776284035064836620
+    second: lugia-spritesheet_75
+  - first:
+      213: 7507363582800809245
+    second: lugia-spritesheet_76
+  - first:
+      213: 5819198769162372213
+    second: lugia-spritesheet_77
+  - first:
+      213: 1788087127558259633
+    second: lugia-spritesheet_78
+  - first:
+      213: -5540235243515193673
+    second: lugia-spritesheet_79
+  - first:
+      213: -1555575973890264527
+    second: lugia-spritesheet_80
+  - first:
+      213: 5874837390389326310
+    second: lugia-spritesheet_81
+  - first:
+      213: 2932836702939295254
+    second: lugia-spritesheet_82
+  - first:
+      213: 9174889914589726046
+    second: lugia-spritesheet_83
+  - first:
+      213: 154461169138805923
+    second: lugia-spritesheet_84
+  - first:
+      213: 8916116351339849865
+    second: lugia-spritesheet_85
+  - first:
+      213: -5670084608076742141
+    second: lugia-spritesheet_86
+  - first:
+      213: -8808825285512303883
+    second: lugia-spritesheet_87
+  - first:
+      213: 5883167359287479961
+    second: lugia-spritesheet_88
+  - first:
+      213: 3546262593609429231
+    second: lugia-spritesheet_89
+  - first:
+      213: 485598468121184228
+    second: lugia-spritesheet_90
+  - first:
+      213: 6096733869525031750
+    second: lugia-spritesheet_91
+  - first:
+      213: 7137933207180511552
+    second: lugia-spritesheet_92
+  - first:
+      213: 7395735088138706757
+    second: lugia-spritesheet_93
+  - first:
+      213: 5170959269516730893
+    second: lugia-spritesheet_94
+  - first:
+      213: 3304926566551110467
+    second: lugia-spritesheet_95
+  - first:
+      213: -6394459240595236105
+    second: lugia-spritesheet_96
+  - first:
+      213: -6534546257438910775
+    second: lugia-spritesheet_97
+  - first:
+      213: 5931082903944424479
+    second: lugia-spritesheet_98
+  - first:
+      213: -2611190297118264703
+    second: lugia-spritesheet_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lugia-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 588
+        width: 19
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70179a356843601c0800000000000000
+      internalID: -4537881822995320569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 589
+        width: 27
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e951751913331d0800000000000000
+      internalID: -3372297195669315995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 589
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545cbf9ccc36a74d0800000000000000
+      internalID: -3136084459296930491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 589
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0685fcf415f372230800000000000000
+      internalID: 3613926844452001888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 589
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b847c9b5e57f20800000000000000
+      internalID: 3419892078132901054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 584
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb363a2f1d75a9f0800000000000000
+      internalID: -457822214302581778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 587
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060c1abc7f0b66100800000000000000
+      internalID: 100962619982200928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 587
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480d0cdb287f79ac0800000000000000
+      internalID: -3848335215663460220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 587
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d627db2ea079fb740800000000000000
+      internalID: 5170016970254152301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 587
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d458494cd1a0d0800000000000000
+      internalID: -3413204835265882003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 587
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372044dba5016b60800000000000000
+      internalID: 7737471870357743408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 587
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f045510b0469b6460800000000000000
+      internalID: 7236042430877094927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 592
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62062d5139bfa7680800000000000000
+      internalID: -8756409916323635162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 592
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1383ec44642a86560800000000000000
+      internalID: 7307268818094405681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 523
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a139ac669d42db0800000000000000
+      internalID: -4817486665871058371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 523
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb712d27eef1b7b0800000000000000
+      internalID: -5210103025042883638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 574
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eacc14f1259b10800000000000000
+      internalID: 1987532142892737280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 574
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e53ba625c69dee00800000000000000
+      internalID: 1075681659512894944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 574
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba70bc565b5197d0800000000000000
+      internalID: -2913447057451615557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 516
+        width: 33
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed47516abe3e63d0800000000000000
+      internalID: -3211560514050634268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 522
+        width: 70
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc6127f11529080800000000000000
+      internalID: -9182187494755087409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 517
+        width: 65
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada1148c6cf74f10800000000000000
+      internalID: 2254047681524641199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 522
+        width: 79
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c89727ac35cb4f0800000000000000
+      internalID: -811681703864464243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 523
+        width: 79
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6926eaedeccc880800000000000000
+      internalID: -8589262933498620203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 522
+        width: 69
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77ef307f8222350800000000000000
+      internalID: 5990395495745222568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 442
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea69ddddfce37c50800000000000000
+      internalID: 6661928848903989986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 441
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81c14e3a5745d720800000000000000
+      internalID: 2870278790435684749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 445
+        width: 73
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d457a1770217db690800000000000000
+      internalID: -7584781813170932403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 446
+        width: 73
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90cd757f74d21670800000000000000
+      internalID: 8508096289953398941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 445
+        width: 30
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705e1a5bedd66a10800000000000000
+      internalID: 1902451895509602423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 442
+        width: 69
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db089903b13b9910800000000000000
+      internalID: 1845123117368216528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 449
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517ae4681cf6a5ca0800000000000000
+      internalID: -6027382274309314795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 450
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa0aa61a0ccf600800000000000000
+      internalID: 503489057869834854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 373
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fab131170f90c940800000000000000
+      internalID: 5314422412999244533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 373
+        width: 52
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f7ff8e015dad10800000000000000
+      internalID: 2138454521057636512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 386
+        width: 71
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadef79defcca1f40800000000000000
+      internalID: 5700093673333583277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 386
+        width: 71
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8efde61dd87bdfa0800000000000000
+      internalID: -5774889206204727667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 377
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906bfad2ae3cbbc0800000000000000
+      internalID: -3766066319209045869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 381
+        width: 70
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e29ac599a6adc10800000000000000
+      internalID: 2079091384902037121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 374
+        width: 65
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8b81d5096366cc0800000000000000
+      internalID: -3718224448682674009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 374
+        width: 65
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d748af963daf60800000000000000
+      internalID: 8047148168531924713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 306
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102527a97e0e1a200800000000000000
+      internalID: 189679944659522049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 302
+        width: 52
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4d0a1d4e6dde2c0800000000000000
+      internalID: -4400624982613240579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 333
+        width: 71
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb26185efe376b70800000000000000
+      internalID: 8892145251386797043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 331
+        width: 71
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67602a4642fa2b0800000000000000
+      internalID: -5571194199400352003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 317
+        width: 49
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88d41ea51c17b270800000000000000
+      internalID: 8266106520502327436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 312
+        width: 70
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d19491ec39532d0800000000000000
+      internalID: -3299568638582252254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 306
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a98b65bd4533bb0800000000000000
+      internalID: -4957525463775274386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 304
+        width: 56
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ebc9ae2e2248c0800000000000000
+      internalID: -4016597139708975851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 233
+        width: 45
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2c66c1aa6aed480800000000000000
+      internalID: -8872470966322150698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 230
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1284c9a1eb294690800000000000000
+      internalID: -7617509046504619494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 276
+        width: 63
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd80fd0c90a91ac70800000000000000
+      internalID: 8980628498634705115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 274
+        width: 63
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe999e9efd4f7cc0800000000000000
+      internalID: -3711161811952099594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 250
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9c2b023b3b57ee0800000000000000
+      internalID: -1263906538478450184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 253
+        width: 60
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1560b20eb8de4d260800000000000000
+      internalID: 7121578095796749905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 247
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77437469425d53ce0800000000000000
+      internalID: -1425999353876106121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 220
+        width: 63
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e20d07246c98b0f0800000000000000
+      internalID: -1100958154926259484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 219
+        width: 63
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7181ec366dd7ba1a0800000000000000
+      internalID: -6797200852834707433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 181
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ce2b85537aad210800000000000000
+      internalID: 1358582085168851986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 183
+        width: 60
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e51d64097cbca0800000000000000
+      internalID: -5999787543647360858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 215
+        width: 24
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da92f4448aa2786a0800000000000000
+      internalID: -6447137439368664659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 218
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b309027a7e932a0800000000000000
+      internalID: -6757115060900840561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 218
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc3df3be59f95390800000000000000
+      internalID: -7828952292064936780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 218
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b488abbfb762bb350800000000000000
+      internalID: 6033458439739050059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 215
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f9fcaccd7f95160800000000000000
+      internalID: 7014910422273728316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 218
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c56257ddea944f20800000000000000
+      internalID: 3406017564509365696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 218
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6225dc2e298ab1660800000000000000
+      internalID: 7357659765063635494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 218
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff2bf34b91b430c0800000000000000
+      internalID: -4596854039219851280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 218
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e698feb214f5a10800000000000000
+      internalID: 1900309224731799186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 215
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83f02fabb3cd56a0800000000000000
+      internalID: -6458791079714950262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 218
+        width: 25
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c251e5756afd8280800000000000000
+      internalID: -9039293563386375479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 159
+        width: 45
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1c343801ea8eef0800000000000000
+      internalID: -78621607534018081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 44
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cab077ccd630d9a0800000000000000
+      internalID: -6210403564277155132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 153
+        width: 67
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638f689bf328a3e0800000000000000
+      internalID: -2042342867511311506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 154
+        width: 67
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe682535bc42d4310800000000000000
+      internalID: 1390808315622229743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 203
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02b49e1129eaeb60800000000000000
+      internalID: 7776284035064836620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 203
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dcb8027638f2860800000000000000
+      internalID: 7507363582800809245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 203
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5744059f272f1c050800000000000000
+      internalID: 5819198769162372213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 203
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b30f81d4cf80d810800000000000000
+      internalID: 1788087127558259633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 203
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b65d2246612d13b0800000000000000
+      internalID: -5540235243515193673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 203
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132732fb4eb796ae0800000000000000
+      internalID: -1555575973890264527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 203
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b657fa7d978150800000000000000
+      internalID: 5874837390389326310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 203
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eace6417783b820800000000000000
+      internalID: 2932836702939295254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 203
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e554f6444c1c35f70800000000000000
+      internalID: 9174889914589726046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 203
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac2c1e6d91c42200800000000000000
+      internalID: 154461169138805923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 87
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988e9a9f4986cbb70800000000000000
+      internalID: 8916116351339849865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 88
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3020d212710df41b0800000000000000
+      internalID: -5670084608076742141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 86
+        width: 67
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6f80f214c0c580800000000000000
+      internalID: -8808825285512303883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 80
+        width: 67
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec08cfa8535a150800000000000000
+      internalID: 5883167359287479961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 111
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0785c3a0bd63130800000000000000
+      internalID: 3546262593609429231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 116
+        width: 67
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e746d3eb313db600800000000000000
+      internalID: 485598468121184228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 50
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bd1270723fb9450800000000000000
+      internalID: 6096733869525031750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 12
+        width: 52
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049857cfe680f0360800000000000000
+      internalID: 7137933207180511552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 66
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f566dd0ede2a660800000000000000
+      internalID: 7395735088138706757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 66
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02ee870f00f2c740800000000000000
+      internalID: 5170959269516730893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 63
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343c708b3357ddd20800000000000000
+      internalID: 3304926566551110467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 47
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa5b9133315247a0800000000000000
+      internalID: -6394459240595236105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 50
+        width: 67
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6def4ecc0a055a0800000000000000
+      internalID: -6534546257438910775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ceff61a707f4250800000000000000
+      internalID: 5931082903944424479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lugia-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 48
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182b15b624033cbd0800000000000000
+      internalID: -2611190297118264703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fb311834eabd4c5d8cc7fa8c94aa2a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lugia-spritesheet_0: -4537881822995320569
+      lugia-spritesheet_1: -3372297195669315995
+      lugia-spritesheet_10: 7737471870357743408
+      lugia-spritesheet_11: 7236042430877094927
+      lugia-spritesheet_12: -8756409916323635162
+      lugia-spritesheet_13: 7307268818094405681
+      lugia-spritesheet_14: -4817486665871058371
+      lugia-spritesheet_15: -5210103025042883638
+      lugia-spritesheet_16: 1987532142892737280
+      lugia-spritesheet_17: 1075681659512894944
+      lugia-spritesheet_18: -2913447057451615557
+      lugia-spritesheet_19: -3211560514050634268
+      lugia-spritesheet_2: -3136084459296930491
+      lugia-spritesheet_20: -9182187494755087409
+      lugia-spritesheet_21: 2254047681524641199
+      lugia-spritesheet_22: -811681703864464243
+      lugia-spritesheet_23: -8589262933498620203
+      lugia-spritesheet_24: 5990395495745222568
+      lugia-spritesheet_25: 6661928848903989986
+      lugia-spritesheet_26: 2870278790435684749
+      lugia-spritesheet_27: -7584781813170932403
+      lugia-spritesheet_28: 8508096289953398941
+      lugia-spritesheet_29: 1902451895509602423
+      lugia-spritesheet_3: 3613926844452001888
+      lugia-spritesheet_30: 1845123117368216528
+      lugia-spritesheet_31: -6027382274309314795
+      lugia-spritesheet_32: 503489057869834854
+      lugia-spritesheet_33: 5314422412999244533
+      lugia-spritesheet_34: 2138454521057636512
+      lugia-spritesheet_35: 5700093673333583277
+      lugia-spritesheet_36: -5774889206204727667
+      lugia-spritesheet_37: -3766066319209045869
+      lugia-spritesheet_38: 2079091384902037121
+      lugia-spritesheet_39: -3718224448682674009
+      lugia-spritesheet_4: 3419892078132901054
+      lugia-spritesheet_40: 8047148168531924713
+      lugia-spritesheet_41: 189679944659522049
+      lugia-spritesheet_42: -4400624982613240579
+      lugia-spritesheet_43: 8892145251386797043
+      lugia-spritesheet_44: -5571194199400352003
+      lugia-spritesheet_45: 8266106520502327436
+      lugia-spritesheet_46: -3299568638582252254
+      lugia-spritesheet_47: -4957525463775274386
+      lugia-spritesheet_48: -4016597139708975851
+      lugia-spritesheet_49: -8872470966322150698
+      lugia-spritesheet_5: -457822214302581778
+      lugia-spritesheet_50: -7617509046504619494
+      lugia-spritesheet_51: 8980628498634705115
+      lugia-spritesheet_52: -3711161811952099594
+      lugia-spritesheet_53: -1263906538478450184
+      lugia-spritesheet_54: 7121578095796749905
+      lugia-spritesheet_55: -1425999353876106121
+      lugia-spritesheet_56: -1100958154926259484
+      lugia-spritesheet_57: -6797200852834707433
+      lugia-spritesheet_58: 1358582085168851986
+      lugia-spritesheet_59: -5999787543647360858
+      lugia-spritesheet_6: 100962619982200928
+      lugia-spritesheet_60: -6447137439368664659
+      lugia-spritesheet_61: -6757115060900840561
+      lugia-spritesheet_62: -7828952292064936780
+      lugia-spritesheet_63: 6033458439739050059
+      lugia-spritesheet_64: 7014910422273728316
+      lugia-spritesheet_65: 3406017564509365696
+      lugia-spritesheet_66: 7357659765063635494
+      lugia-spritesheet_67: -4596854039219851280
+      lugia-spritesheet_68: 1900309224731799186
+      lugia-spritesheet_69: -6458791079714950262
+      lugia-spritesheet_7: -3848335215663460220
+      lugia-spritesheet_70: -9039293563386375479
+      lugia-spritesheet_71: -78621607534018081
+      lugia-spritesheet_72: -6210403564277155132
+      lugia-spritesheet_73: -2042342867511311506
+      lugia-spritesheet_74: 1390808315622229743
+      lugia-spritesheet_75: 7776284035064836620
+      lugia-spritesheet_76: 7507363582800809245
+      lugia-spritesheet_77: 5819198769162372213
+      lugia-spritesheet_78: 1788087127558259633
+      lugia-spritesheet_79: -5540235243515193673
+      lugia-spritesheet_8: 5170016970254152301
+      lugia-spritesheet_80: -1555575973890264527
+      lugia-spritesheet_81: 5874837390389326310
+      lugia-spritesheet_82: 2932836702939295254
+      lugia-spritesheet_83: 9174889914589726046
+      lugia-spritesheet_84: 154461169138805923
+      lugia-spritesheet_85: 8916116351339849865
+      lugia-spritesheet_86: -5670084608076742141
+      lugia-spritesheet_87: -8808825285512303883
+      lugia-spritesheet_88: 5883167359287479961
+      lugia-spritesheet_89: 3546262593609429231
+      lugia-spritesheet_9: -3413204835265882003
+      lugia-spritesheet_90: 485598468121184228
+      lugia-spritesheet_91: 6096733869525031750
+      lugia-spritesheet_92: 7137933207180511552
+      lugia-spritesheet_93: 7395735088138706757
+      lugia-spritesheet_94: 5170959269516730893
+      lugia-spritesheet_95: 3304926566551110467
+      lugia-spritesheet_96: -6394459240595236105
+      lugia-spritesheet_97: -6534546257438910775
+      lugia-spritesheet_98: 5931082903944424479
+      lugia-spritesheet_99: -2611190297118264703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

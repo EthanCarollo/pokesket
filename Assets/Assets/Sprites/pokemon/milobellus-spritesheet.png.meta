@@ -1,0 +1,2318 @@
+fileFormatVersion: 2
+guid: 86632a1122f5c408eb8f0403b9f50897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2014912338526599019
+    second: milobellus-spritesheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: milobellus-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 474
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67fd6fa81866fb10800000000000000
+      internalID: 2014912338526599019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 503
+        width: 19
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3fa1d2b37fa456c8d77907a160484d
+      internalID: 56170539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 505
+        width: 27
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97337aa83bea146acb5eb5b38d09fcf5
+      internalID: -1298982174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 505
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c1f692f6c94d12a8b01d9143c0cc0
+      internalID: -261210697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 505
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1abf586f2de04bf4bab8866b3c9928d
+      internalID: -95010727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 505
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31c2222ac29f4ea5a99539430aadcdd
+      internalID: 1945690842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 504
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba0ebacb915478282a19cc02667ae0
+      internalID: -1807954824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 504
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d714b41d66e744537a32ed45e4dab1d9
+      internalID: -1520105014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 504
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1796651ff74222ae4e44a881eb7a4
+      internalID: 756234051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 499
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf29c91e8bfa48da8515ef34155a31c
+      internalID: -1281081020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 502
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c64de7373f6415c868ad35c5b42b37
+      internalID: 1870144814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 502
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41975e5edf1493882216bd6d00bf2a
+      internalID: 390934349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 502
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e73029e73174df08e7833338632439
+      internalID: 339461339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 502
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed1e7777d794bfba483b010573f546
+      internalID: 1242830465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 502
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a97f0d80de5495a819a178151720d8
+      internalID: -1241313908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 502
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db906cdb13ee4a49996a03c6fa3dc37
+      internalID: 1963488357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 451
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0562fb52864744affe53cb3d4d61b
+      internalID: 315266444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 448
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd33ca4db36646009fe4ef66f3479fa
+      internalID: 620760582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 446
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c7960a03a384ca49ee2a4d993b1b43
+      internalID: -1428619168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 447
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842cb5343bec74a84b5fbce716d58ed8
+      internalID: 2025242510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 448
+        width: 45
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc0d3b1534714017bdc1908d4b7cb12
+      internalID: -148480598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 445
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bc65e0778ed4b3394fb1de94571d29
+      internalID: 1428397345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 440
+        width: 40
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93cd7384052940cdbcf37afdcdf5bf3
+      internalID: 1635236662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 440
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4274ce472b1354c63a0cc45df880b7b3
+      internalID: -2078543066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 437
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f44ff322104a4389820a9c87e7ca3
+      internalID: 62606395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 437
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8f98cad3a3f4df39030a5f9e98d043
+      internalID: -658996953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 434
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c70a5b3b97c4a73aa4a557d10b5569
+      internalID: -1091898570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 391
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031b90f996926483db5fa3ea22619a66
+      internalID: -1010468550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 394
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1fe4b0a98d041f9a31d9f7b51fd9b5
+      internalID: 1057965434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 388
+        width: 35
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ee34c00fc240679826d6a102199bc
+      internalID: -984431578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 393
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a5109a4e2294334a34da3cd736dd2e
+      internalID: 2084652674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 388
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea3a9ce03154a5a9e1318047e1b2b4
+      internalID: -301042544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 387
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206250894b834ef386cc199fa0a15ba
+      internalID: 255059997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 390
+        width: 41
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157b9be510644fbeb6c237c2d1227ba
+      internalID: -363890266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 384
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43760d160038348a3a9c6fc2ccdf5a07
+      internalID: -2133614649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 376
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e699a44f3db47f0933297bae4f00e9
+      internalID: 732113798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 377
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abbaaeca2f8242f9ac34e6388537d86
+      internalID: 637801265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 347
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989b434a3eec4a5fb80bbccebf348b2
+      internalID: -750843951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 347
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af303b701bf4f75b8381286475f5fd
+      internalID: -1504973024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 336
+        width: 47
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3196c25f43495986cb764a3cdc936
+      internalID: 1991799940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 334
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c76384e7d0e742ceb7a679cdf5bdd58
+      internalID: 1680841885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 339
+        width: 61
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d054e749f477d422aabdfecd3459791a
+      internalID: -2000673033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 335
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9849ba89d1e4e47eca335a9ff742daa0
+      internalID: 130243051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 331
+        width: 44
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c5ae42bd6f4d708d6bf2f699e8f34
+      internalID: -862837170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 338
+        width: 77
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1937d6dbc7e470dac230ec6e351ca5
+      internalID: -1773219311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 321
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2226f02f94a474f950670ed49f8fce
+      internalID: -917348906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 325
+        width: 74
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41342c584f6504f5a85df2d068d027dd
+      internalID: -1683705612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 294
+        width: 48
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a650e5798a04d35ab7ee1245b12fc8
+      internalID: -1020350679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 290
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8633cf5d954c0f9ada151d5fea500
+      internalID: -311695917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 282
+        width: 47
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d21dc59cad04f04b40a75d171e2da9
+      internalID: -326567226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 283
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc336504e2aa4f27a33f4c453849ca9
+      internalID: -2089351490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 289
+        width: 61
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f40661e8aed4be388e87bb7723cd67
+      internalID: -1706017833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 282
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47454c56492d4ffa9a991c16bd2a46e
+      internalID: -4853292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 279
+        width: 44
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c0c674fc5c7461e82c161ae6f66a97
+      internalID: 1303402716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 290
+        width: 77
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a949edb91a074928b1fa2ba0c875d0c
+      internalID: 1749433132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 263
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099706a6c3ea84ab0a210159b47f1d39
+      internalID: 255066983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 271
+        width: 74
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba364ae0b4a4f95aee31917f80a9bf
+      internalID: 71429540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 235
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eb96d59f0bd4ba7af00fd89aba5ee7
+      internalID: 1656083053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 234
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d71e4340300456ba1aa21baef64733
+      internalID: 97147882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 234
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c708fd39bef9747298eeb2b6cbde0436
+      internalID: -1821064586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 233
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4020f7704bd40ab9257672868eb8fe
+      internalID: -464336531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 233
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe329a7330f438b904f841ddc29e91
+      internalID: -182969837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 231
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6810d8cf4d174a4dbe2a950428c7fd7
+      internalID: 277259571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 229
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f9c9325908482fbb7c66da0ab0374
+      internalID: -468240498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 230
+        width: 64
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353d1d428ac54653bfb3c2d0ffa57e7
+      internalID: -449327086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 207
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1e09f23b0d40b78093f7b6b648594
+      internalID: 615580882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 210
+        width: 57
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4f436ad6c74ae1918b295646dcf03
+      internalID: -843691916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 182
+        width: 51
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa2362002ea4b66834cae3ce3a55ed
+      internalID: -2147026809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 183
+        width: 51
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276503c39a73c49fdb382c498b289486
+      internalID: -798773174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 183
+        width: 46
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99fe0e915aa4c9dbe49bede50c047a
+      internalID: 1424338987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 183
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579662f960bc040549cce2b49ffa87ae
+      internalID: 1918225130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 179
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90d4a348bb2d4da98b1681be8ca1c0e
+      internalID: 163426017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 182
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770c41785725f47498dad9435f0c299f
+      internalID: 302070486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 179
+        width: 47
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c940d61c854302b76ed0e1ab4a67f
+      internalID: 731557585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 178
+        width: 64
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c2fff895732485b8bf2384c913d3a6
+      internalID: -1778381828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 148
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af840defdb2ae46b8aa22d71a260d9ca
+      internalID: 954129477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 153
+        width: 57
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bda0ba5350d4520babd5149357ef29
+      internalID: 945830525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 113
+        width: 42
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3a50ef1ac1d4158891e149c7038d87
+      internalID: 321478316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 116
+        width: 42
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe1ec43d07140468b2534b84039dd8
+      internalID: 1901564143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 125
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03895a3ba6844bf592d4c9343c2f4fc
+      internalID: 1645850440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 127
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaaf369aae5a4b9996d680eea0348c2
+      internalID: -1257295645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 121
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5e7389da8a749f1890704d488526b9
+      internalID: 1015618103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 128
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c5fe8673bd4c6fa41683bc6d54a73
+      internalID: -1950379420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 123
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0c381f1c754479a6c3ce0c345ebfb
+      internalID: 2008666067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 121
+        width: 68
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d836e48d71743498175a633912c54a
+      internalID: -966324193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 81
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfe3ff111fb64cc18b1b1676c8de211
+      internalID: -1547869182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 88
+        width: 58
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82935669f3804b378b6057a1b4be5bb
+      internalID: -420065772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 67
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964fd59426d584e918287c51cad6b109
+      internalID: 1183688558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 70
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bd3f142558c4a9e87b9705c74502c0
+      internalID: 1054201750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 63
+        width: 51
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc723fef72b46c59945abbc608e4c7
+      internalID: -213511152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 72
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0348e87b434b4f84900b1aa93e49a8c
+      internalID: 1706586832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 67
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996c4135dce04b178a8abf03c50aeef
+      internalID: 1302778976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 63
+        width: 68
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618e7ed2477b4440bc3b1081d8b395c
+      internalID: 81370959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 21
+        width: 58
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03d7c82efeb9485b9d20274a900c0df
+      internalID: 674687914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: milobellus-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 689
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a212719848e67423ba24d3eba5bc65cb
+      internalID: 8311771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4e6ff3b2edc4e42a19ff4f924a6c5236
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      milobellus-spritesheet_0: 2014912338526599019
+      milobellus-spritesheet_1: 56170539
+      milobellus-spritesheet_10: 1870144814
+      milobellus-spritesheet_11: 390934349
+      milobellus-spritesheet_12: 339461339
+      milobellus-spritesheet_13: 1242830465
+      milobellus-spritesheet_14: -1241313908
+      milobellus-spritesheet_15: 1963488357
+      milobellus-spritesheet_16: 315266444
+      milobellus-spritesheet_17: 620760582
+      milobellus-spritesheet_18: -1428619168
+      milobellus-spritesheet_19: 2025242510
+      milobellus-spritesheet_2: -1298982174
+      milobellus-spritesheet_20: -148480598
+      milobellus-spritesheet_21: 1428397345
+      milobellus-spritesheet_22: 1635236662
+      milobellus-spritesheet_23: -2078543066
+      milobellus-spritesheet_24: 62606395
+      milobellus-spritesheet_25: -658996953
+      milobellus-spritesheet_26: -1091898570
+      milobellus-spritesheet_27: -1010468550
+      milobellus-spritesheet_28: 1057965434
+      milobellus-spritesheet_29: -984431578
+      milobellus-spritesheet_3: -261210697
+      milobellus-spritesheet_30: 2084652674
+      milobellus-spritesheet_31: -301042544
+      milobellus-spritesheet_32: 255059997
+      milobellus-spritesheet_33: -363890266
+      milobellus-spritesheet_34: -2133614649
+      milobellus-spritesheet_35: 732113798
+      milobellus-spritesheet_36: 637801265
+      milobellus-spritesheet_37: -750843951
+      milobellus-spritesheet_38: -1504973024
+      milobellus-spritesheet_39: 1991799940
+      milobellus-spritesheet_4: -95010727
+      milobellus-spritesheet_40: 1680841885
+      milobellus-spritesheet_41: -2000673033
+      milobellus-spritesheet_42: 130243051
+      milobellus-spritesheet_43: -862837170
+      milobellus-spritesheet_44: -1773219311
+      milobellus-spritesheet_45: -917348906
+      milobellus-spritesheet_46: -1683705612
+      milobellus-spritesheet_47: -1020350679
+      milobellus-spritesheet_48: -311695917
+      milobellus-spritesheet_49: -326567226
+      milobellus-spritesheet_5: 1945690842
+      milobellus-spritesheet_50: -2089351490
+      milobellus-spritesheet_51: -1706017833
+      milobellus-spritesheet_52: -4853292
+      milobellus-spritesheet_53: 1303402716
+      milobellus-spritesheet_54: 1749433132
+      milobellus-spritesheet_55: 255066983
+      milobellus-spritesheet_56: 71429540
+      milobellus-spritesheet_57: 1656083053
+      milobellus-spritesheet_58: 97147882
+      milobellus-spritesheet_59: -1821064586
+      milobellus-spritesheet_6: -1807954824
+      milobellus-spritesheet_60: -464336531
+      milobellus-spritesheet_61: -182969837
+      milobellus-spritesheet_62: 277259571
+      milobellus-spritesheet_63: -468240498
+      milobellus-spritesheet_64: -449327086
+      milobellus-spritesheet_65: 615580882
+      milobellus-spritesheet_66: -843691916
+      milobellus-spritesheet_67: -2147026809
+      milobellus-spritesheet_68: -798773174
+      milobellus-spritesheet_69: 1424338987
+      milobellus-spritesheet_7: -1520105014
+      milobellus-spritesheet_70: 1918225130
+      milobellus-spritesheet_71: 163426017
+      milobellus-spritesheet_72: 302070486
+      milobellus-spritesheet_73: 731557585
+      milobellus-spritesheet_74: -1778381828
+      milobellus-spritesheet_75: 954129477
+      milobellus-spritesheet_76: 945830525
+      milobellus-spritesheet_77: 321478316
+      milobellus-spritesheet_78: 1901564143
+      milobellus-spritesheet_79: 1645850440
+      milobellus-spritesheet_8: 756234051
+      milobellus-spritesheet_80: -1257295645
+      milobellus-spritesheet_81: 1015618103
+      milobellus-spritesheet_82: -1950379420
+      milobellus-spritesheet_83: 2008666067
+      milobellus-spritesheet_84: -966324193
+      milobellus-spritesheet_85: -1547869182
+      milobellus-spritesheet_86: -420065772
+      milobellus-spritesheet_87: 1183688558
+      milobellus-spritesheet_88: 1054201750
+      milobellus-spritesheet_89: -213511152
+      milobellus-spritesheet_9: -1281081020
+      milobellus-spritesheet_90: 1706586832
+      milobellus-spritesheet_91: 1302778976
+      milobellus-spritesheet_92: 81370959
+      milobellus-spritesheet_93: 674687914
+      milobellus-spritesheet_94: 8311771
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

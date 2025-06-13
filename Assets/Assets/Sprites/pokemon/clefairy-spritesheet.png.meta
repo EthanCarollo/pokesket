@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: c9e336356722041b7a7b8907cc51029f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6071122818572167747
+    second: clefairy-spritesheet_0
+  - first:
+      213: 4134229226588387909
+    second: clefairy-spritesheet_1
+  - first:
+      213: 8730765070725635004
+    second: clefairy-spritesheet_2
+  - first:
+      213: -1299901609742457773
+    second: clefairy-spritesheet_3
+  - first:
+      213: 5698590911788941547
+    second: clefairy-spritesheet_4
+  - first:
+      213: 1284287623490083994
+    second: clefairy-spritesheet_5
+  - first:
+      213: 648773082258653872
+    second: clefairy-spritesheet_6
+  - first:
+      213: 528999509163287391
+    second: clefairy-spritesheet_7
+  - first:
+      213: 5565743197007679197
+    second: clefairy-spritesheet_8
+  - first:
+      213: -5324975250792465602
+    second: clefairy-spritesheet_9
+  - first:
+      213: -6725998066389890499
+    second: clefairy-spritesheet_10
+  - first:
+      213: 1718803489225685179
+    second: clefairy-spritesheet_11
+  - first:
+      213: 3002072019754874239
+    second: clefairy-spritesheet_12
+  - first:
+      213: -2316862089708581963
+    second: clefairy-spritesheet_13
+  - first:
+      213: -5056136954826060241
+    second: clefairy-spritesheet_14
+  - first:
+      213: 8597455726936809895
+    second: clefairy-spritesheet_15
+  - first:
+      213: 3455863647801942791
+    second: clefairy-spritesheet_16
+  - first:
+      213: 1263216465682815511
+    second: clefairy-spritesheet_17
+  - first:
+      213: -5544363183534043534
+    second: clefairy-spritesheet_18
+  - first:
+      213: -4624310468831340234
+    second: clefairy-spritesheet_19
+  - first:
+      213: -2229389568969022258
+    second: clefairy-spritesheet_20
+  - first:
+      213: 5095753012350274262
+    second: clefairy-spritesheet_21
+  - first:
+      213: -7500923797789673505
+    second: clefairy-spritesheet_22
+  - first:
+      213: -8221297818758799062
+    second: clefairy-spritesheet_23
+  - first:
+      213: 3148720360293386734
+    second: clefairy-spritesheet_24
+  - first:
+      213: 7698179484160812271
+    second: clefairy-spritesheet_25
+  - first:
+      213: 2925206124153132376
+    second: clefairy-spritesheet_26
+  - first:
+      213: 4971722855911677504
+    second: clefairy-spritesheet_27
+  - first:
+      213: -3789128590514136609
+    second: clefairy-spritesheet_28
+  - first:
+      213: 8866868960716619042
+    second: clefairy-spritesheet_29
+  - first:
+      213: -5442619353657229038
+    second: clefairy-spritesheet_30
+  - first:
+      213: -8863023086727821035
+    second: clefairy-spritesheet_31
+  - first:
+      213: -4778379671232011968
+    second: clefairy-spritesheet_32
+  - first:
+      213: -2910644157959498061
+    second: clefairy-spritesheet_33
+  - first:
+      213: -8548755044514714436
+    second: clefairy-spritesheet_34
+  - first:
+      213: 5845710930185475272
+    second: clefairy-spritesheet_35
+  - first:
+      213: 6557851026723084479
+    second: clefairy-spritesheet_36
+  - first:
+      213: -4144476879633120390
+    second: clefairy-spritesheet_37
+  - first:
+      213: 6242741961174376818
+    second: clefairy-spritesheet_38
+  - first:
+      213: 591279710766744564
+    second: clefairy-spritesheet_39
+  - first:
+      213: -7100559221195181554
+    second: clefairy-spritesheet_40
+  - first:
+      213: 6302307128089630527
+    second: clefairy-spritesheet_41
+  - first:
+      213: -7669935251923918171
+    second: clefairy-spritesheet_42
+  - first:
+      213: -6850398730987097851
+    second: clefairy-spritesheet_43
+  - first:
+      213: -8466612948620831586
+    second: clefairy-spritesheet_44
+  - first:
+      213: 838661738921204961
+    second: clefairy-spritesheet_45
+  - first:
+      213: -1681889297892352278
+    second: clefairy-spritesheet_46
+  - first:
+      213: 6802161927403941424
+    second: clefairy-spritesheet_47
+  - first:
+      213: 7847835099179193541
+    second: clefairy-spritesheet_48
+  - first:
+      213: -5367911916088033582
+    second: clefairy-spritesheet_49
+  - first:
+      213: 6778498360423226932
+    second: clefairy-spritesheet_50
+  - first:
+      213: -6055394785948871083
+    second: clefairy-spritesheet_51
+  - first:
+      213: 2538614584929908469
+    second: clefairy-spritesheet_52
+  - first:
+      213: -4052979466856541877
+    second: clefairy-spritesheet_53
+  - first:
+      213: 579223217363135835
+    second: clefairy-spritesheet_54
+  - first:
+      213: -5735106010920611385
+    second: clefairy-spritesheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: clefairy-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 235
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a23cc8906f04450800000000000000
+      internalID: 6071122818572167747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 236
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab6d6d39bbf5930800000000000000
+      internalID: 4134229226588387909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 231
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb5df10398e92970800000000000000
+      internalID: 8730765070725635004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 230
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354a7548f52d5fde0800000000000000
+      internalID: -1299901609742457773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 231
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be00379ed36751f40800000000000000
+      internalID: 5698590911788941547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c9e830ac4b2d110800000000000000
+      internalID: 1284287623490083994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2ccd35ea7e00900800000000000000
+      internalID: 648773082258653872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a8063042675700800000000000000
+      internalID: 528999509163287391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 205
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde80b8f2fd7d3d40800000000000000
+      internalID: 5565743197007679197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 198
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bb4cae833e916b0800000000000000
+      internalID: -5324975250792465602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 199
+        width: 26
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3acddcf46478a2a0800000000000000
+      internalID: -6725998066389890499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 197
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8bff5baaa6ad710800000000000000
+      internalID: 1718803489225685179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 197
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75f0a7a89089a920800000000000000
+      internalID: 3002072019754874239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 196
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbc955643ad8dfd0800000000000000
+      internalID: -2316862089708581963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 172
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e0ed76a3ef4d9b0800000000000000
+      internalID: -5056136954826060241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 175
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a16730be6c405770800000000000000
+      internalID: 8597455726936809895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 164
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703ab6f7da1b5ff20800000000000000
+      internalID: 3455863647801942791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 164
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad277cea8d78110800000000000000
+      internalID: 1263216465682815511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 165
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e03b35f077e03b0800000000000000
+      internalID: -5544363183534043534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 163
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6391036112623dfb0800000000000000
+      internalID: -4624310468831340234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 162
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e3a3bffd9f01e0800000000000000
+      internalID: -2229389568969022258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 140
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dac344cd50c7b640800000000000000
+      internalID: 5095753012350274262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 142
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f8792c8d57e790800000000000000
+      internalID: -7500923797789673505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 135
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212030313518ed80800000000000000
+      internalID: -8221297818758799062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 134
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c35c2c7082bb20800000000000000
+      internalID: 3148720360293386734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 134
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4ea92447d65da60800000000000000
+      internalID: 7698179484160812271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 134
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d1f4b87b689820800000000000000
+      internalID: 2925206124153132376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e5e4c989b1ff440800000000000000
+      internalID: 4971722855911677504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 110
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9d0226f9f4a6bc0800000000000000
+      internalID: -3789128590514136609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 112
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d737157527d0b70800000000000000
+      internalID: 8866868960716619042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 100
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2114899b88ee774b0800000000000000
+      internalID: -5442619353657229038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 100
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519808ff577300580800000000000000
+      internalID: -8863023086727821035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 101
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041a4468109cfadb0800000000000000
+      internalID: -4778379671232011968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 105
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b612414f805b97d0800000000000000
+      internalID: -2910644157959498061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 100
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc2fdb8498bc5980800000000000000
+      internalID: -8548755044514714436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 78
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4d25d7e13202150800000000000000
+      internalID: 5845710930185475272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 83
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb892c983ca220b50800000000000000
+      internalID: 6557851026723084479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 67
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7306a18c3cdb76c0800000000000000
+      internalID: -4144476879633120390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 67
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271693cfcbca2a650800000000000000
+      internalID: 6242741961174376818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 70
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c523a3c5a43800800000000000000
+      internalID: 591279710766744564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 74
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02790a320fb57d90800000000000000
+      internalID: -7100559221195181554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d13321fa467750800000000000000
+      internalID: 6302307128089630527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a224d2868aee8590800000000000000
+      internalID: -7669935251923918171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5013abd26ae7ee0a0800000000000000
+      internalID: -6850398730987097851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 34
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e949bba916c808a80800000000000000
+      internalID: -8466612948620831586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 35
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec1c1b786683ab00800000000000000
+      internalID: 838661738921204961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 37
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee5897389ab8a8e0800000000000000
+      internalID: -1681889297892352278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 39
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e299bcb32266e50800000000000000
+      internalID: 6802161927403941424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 37
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c41b6e617c19ec60800000000000000
+      internalID: 7847835099179193541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 18
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7cff7d885185b0800000000000000
+      internalID: -5367911916088033582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e18934850121e50800000000000000
+      internalID: 6778498360423226932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556d3c8668ae6fba0800000000000000
+      internalID: -6055394785948871083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f67f5cc388fa3320800000000000000
+      internalID: 2538614584929908469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41501406ace0c7c0800000000000000
+      internalID: -4052979466856541877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5da6948270d90800800000000000000
+      internalID: 579223217363135835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clefairy-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c19edd087fc860b0800000000000000
+      internalID: -5735106010920611385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d66ab63a4db4f424191dda737ca3b583
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clefairy-spritesheet_0: 6071122818572167747
+      clefairy-spritesheet_1: 4134229226588387909
+      clefairy-spritesheet_10: -6725998066389890499
+      clefairy-spritesheet_11: 1718803489225685179
+      clefairy-spritesheet_12: 3002072019754874239
+      clefairy-spritesheet_13: -2316862089708581963
+      clefairy-spritesheet_14: -5056136954826060241
+      clefairy-spritesheet_15: 8597455726936809895
+      clefairy-spritesheet_16: 3455863647801942791
+      clefairy-spritesheet_17: 1263216465682815511
+      clefairy-spritesheet_18: -5544363183534043534
+      clefairy-spritesheet_19: -4624310468831340234
+      clefairy-spritesheet_2: 8730765070725635004
+      clefairy-spritesheet_20: -2229389568969022258
+      clefairy-spritesheet_21: 5095753012350274262
+      clefairy-spritesheet_22: -7500923797789673505
+      clefairy-spritesheet_23: -8221297818758799062
+      clefairy-spritesheet_24: 3148720360293386734
+      clefairy-spritesheet_25: 7698179484160812271
+      clefairy-spritesheet_26: 2925206124153132376
+      clefairy-spritesheet_27: 4971722855911677504
+      clefairy-spritesheet_28: -3789128590514136609
+      clefairy-spritesheet_29: 8866868960716619042
+      clefairy-spritesheet_3: -1299901609742457773
+      clefairy-spritesheet_30: -5442619353657229038
+      clefairy-spritesheet_31: -8863023086727821035
+      clefairy-spritesheet_32: -4778379671232011968
+      clefairy-spritesheet_33: -2910644157959498061
+      clefairy-spritesheet_34: -8548755044514714436
+      clefairy-spritesheet_35: 5845710930185475272
+      clefairy-spritesheet_36: 6557851026723084479
+      clefairy-spritesheet_37: -4144476879633120390
+      clefairy-spritesheet_38: 6242741961174376818
+      clefairy-spritesheet_39: 591279710766744564
+      clefairy-spritesheet_4: 5698590911788941547
+      clefairy-spritesheet_40: -7100559221195181554
+      clefairy-spritesheet_41: 6302307128089630527
+      clefairy-spritesheet_42: -7669935251923918171
+      clefairy-spritesheet_43: -6850398730987097851
+      clefairy-spritesheet_44: -8466612948620831586
+      clefairy-spritesheet_45: 838661738921204961
+      clefairy-spritesheet_46: -1681889297892352278
+      clefairy-spritesheet_47: 6802161927403941424
+      clefairy-spritesheet_48: 7847835099179193541
+      clefairy-spritesheet_49: -5367911916088033582
+      clefairy-spritesheet_5: 1284287623490083994
+      clefairy-spritesheet_50: 6778498360423226932
+      clefairy-spritesheet_51: -6055394785948871083
+      clefairy-spritesheet_52: 2538614584929908469
+      clefairy-spritesheet_53: -4052979466856541877
+      clefairy-spritesheet_54: 579223217363135835
+      clefairy-spritesheet_55: -5735106010920611385
+      clefairy-spritesheet_6: 648773082258653872
+      clefairy-spritesheet_7: 528999509163287391
+      clefairy-spritesheet_8: 5565743197007679197
+      clefairy-spritesheet_9: -5324975250792465602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
