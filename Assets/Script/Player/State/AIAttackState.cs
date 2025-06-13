@@ -4,7 +4,7 @@ using UnityEngine;
 public class AIAttackState : IPokemonPlayerState
 {
     private PokemonPlayer _pokemonPlayer;
-    private float speed = 5f;
+    private float speed { get { return _pokemonPlayer.speed; }}
 
     public AIAttackState(PokemonPlayer pokemonPlayer)
     {
@@ -15,6 +15,9 @@ public class AIAttackState : IPokemonPlayerState
         _pokemonPlayer.blockShoot.enabled = false;
         _pokemonPlayer.blockPass.enabled = false;
     }
+
+    private Vector3 nextPosition;
+    private Vector3 movement;
 
     public void Update()
     {
@@ -29,10 +32,17 @@ public class AIAttackState : IPokemonPlayerState
             _pokemonPlayer.UpdateState(new AIDefenseState(_pokemonPlayer));
             return;
         }
+        AIMovement();
+    }
+
+    public void AIMovement()
+    {
+        
     }
 
     public void HandleMovement()
     {
-        
+        Vector3 move = new Vector3(0, 0, 0);
+        _pokemonPlayer.ApplyMovement(move);
     }
 }

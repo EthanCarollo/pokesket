@@ -16,6 +16,10 @@ public class BasketTeam : MonoBehaviour
     public TeamName opponentTeamName => teamName == TeamName.Blue ? TeamName.Red : TeamName.Blue;
     [NonSerialized] public PokemonPlayer controlledPlayer;
 
+    public GameObject TopZone;
+    public GameObject FrontZone;
+    public GameObject BottomZone;
+
     public void StartMatch()
     {
         SetControlledPlayer(pokeTeam[0]);
@@ -23,6 +27,9 @@ public class BasketTeam : MonoBehaviour
         {
             pokemonImages[i].sprite = pokeTeam[i].actualPokemon.pokemonPortrait;
         }
+        pokeTeam[0].role = PokemonRole.Front;
+        pokeTeam[1].role = PokemonRole.Top;
+        pokeTeam[2].role = PokemonRole.Bottom;
     }
 
     void Update()

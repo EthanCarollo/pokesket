@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections;
-using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class PokemonPlayer : MonoBehaviour
 {
@@ -52,6 +50,9 @@ public class PokemonPlayer : MonoBehaviour
     [SerializeField]
     public PokemonPlayerAnimator pokemonPlayerAnimator;
 
+    [SerializeField]
+    public PokemonRole role;
+
     public void Setup(Pokemon pokemon)
     {
         actualPokemon = pokemon;
@@ -69,7 +70,7 @@ public class PokemonPlayer : MonoBehaviour
 
         currentState?.Update();
         currentState?.HandleMovement();
-        
+
         indicator.gameObject.SetActive(IsControlled);
     }
 
@@ -79,7 +80,7 @@ public class PokemonPlayer : MonoBehaviour
             lastMoveDirection = move.normalized;
 
         transform.Translate(move * speed * Time.deltaTime);
-        
+
         try
         {
             pokemonPlayerAnimator.HandleAnimation(move, actualPokemon);
@@ -173,4 +174,12 @@ public class PokemonPlayer : MonoBehaviour
         UnityEditor.Handles.Label(labelPosition, currentState.ToString(), style);
 #endif
     }
+}
+
+[Serializable]
+public enum PokemonRole
+{
+    Top,
+    Front,
+    Bottom
 }
