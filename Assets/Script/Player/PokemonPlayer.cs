@@ -11,6 +11,7 @@ public class PokemonPlayer : MonoBehaviour
     public bool TeamHasBall => BasketBallManager.Instance.IsTeamHoldingBall(Team);
 
     [Header("Stats")]
+    [NonSerialized] public float initialSpeed;
     public float speed = 5f;
 
     [NonSerialized]
@@ -28,30 +29,23 @@ public class PokemonPlayer : MonoBehaviour
     }
     [SerializeField] private SpriteRenderer indicator;
     [SerializeField] private SpriteRenderer pokemonSpriteRenderer;
+    [SerializeField] public ShootPlayer shootPlayer;
+    [SerializeField] public PassPlayer passPlayer;
 
     [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
     public Vector3 Direction => lastMoveDirection;
     private bool _canHold = true;
 
     private IPokemonPlayerState currentState;
-    
-    public GameObject shootingUi;
-    public Slider shootingSlider;
-    public Image shootingSliderFill;
-    public TextMeshProUGUI feedbackShootingText;
 
     [SerializeField]
     public PokemonPlayerAnimator pokemonPlayerAnimator;
-
-    public void Start()
-    {
-        shootingUi.gameObject.SetActive(false);
-    }
 
     public void Setup(Pokemon pokemon)
     {
         actualPokemon = pokemon;
         pokemonSpriteRenderer.sprite = pokemon.pokemonSprite;
+        initialSpeed = pokemon.speed;
         speed = pokemon.speed;
         currentState = new AIDefenseState(this);
         indicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;

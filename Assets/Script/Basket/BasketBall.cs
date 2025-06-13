@@ -63,17 +63,16 @@ public class BasketBall : MonoBehaviour
             StartEmitTrail();
             LeanTween.delayedCall(2.5f, () => StopEmitTrail());
         }
-        
+
         float distance = Vector3.Distance(start, target);
-        float effectivePrecision = precision * shootingQuality / 100;
+        float effectivePrecision = precision * shootingQuality / 100f;
         bool isSuccessful = Random.value <= Mathf.Clamp01(effectivePrecision);
 
-        Debug.LogWarning("Is shoot successfull" + isSuccessful);
+        Debug.LogWarning("Is shoot successful: " + isSuccessful);
 
         if (!isSuccessful)
         {
             // Tir raté complet → grosse déviation
-            // Plus le timing est mauvais, plus la déviation est grande
             float missRadius = 1.0f * (1f - effectivePrecision) * (2f - shootingQuality);
             Vector2 offset2D = Random.insideUnitCircle.normalized * Random.Range(0.2f, missRadius);
             Vector3 offset = new Vector3(offset2D.x, 0, offset2D.y);
@@ -87,21 +86,14 @@ public class BasketBall : MonoBehaviour
 
             if (distancePenalty > 0.01f)
             {
-                // Ajoute une déviation mineure malgré réussite
                 Vector2 microOffset2D = Random.insideUnitCircle.normalized * Random.Range(0f, distancePenalty);
                 Vector3 microOffset = new Vector3(microOffset2D.x, 0, microOffset2D.y);
                 target += microOffset;
             }
         }
 
-        // Bonus de force pour les tirs parfaits
-        float velocityMultiplier = 1f;
-        if (shootingQuality >= 1.2f)
-        {
-            velocityMultiplier = 1.05f; // 5% de force en plus pour les tirs parfaits
-        }
-
-        Vector3 velocity = CalculateArcVelocity(start, target) * velocityMultiplier;
+        // NE PAS multiplier la vitesse — cela casse la trajectoire !
+        Vector3 velocity = CalculateArcVelocity(start, target);
         rb.linearVelocity = velocity;
     }
 

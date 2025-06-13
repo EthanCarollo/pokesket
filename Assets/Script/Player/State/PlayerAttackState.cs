@@ -10,6 +10,8 @@ public class PlayerAttackState : IPokemonPlayerState
     {
         _pokemonPlayer = pokemonPlayer;
         _pokemonPlayer.speed = speed;
+        _pokemonPlayer.shootPlayer.enabled = false;
+        _pokemonPlayer.passPlayer.enabled = false;
     }
 
     public void Update()

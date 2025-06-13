@@ -33,7 +33,7 @@ public class BasketTeam : MonoBehaviour
     {
         if (controlledPlayer != null)
         {
-            if (Input.GetKeyDown(controlledPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button7 : KeyCode.Joystick2Button7)) // RB on Xbox
+            if (Input.GetKeyDown(controlledPlayer.ControlledByPlayer1 ? XboxInput.RB1 : XboxInput.RB2))
             {
                 if (!controlledPlayer?.HasBall ?? false)
                 {
