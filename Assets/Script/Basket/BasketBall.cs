@@ -10,8 +10,9 @@ public class BasketBall : MonoBehaviour
 
     public ParticleSystem particle;
     public TrailRenderer trailRenderer;
-    [NonSerialized] public bool inZoneAtShoot = false;
-    private bool inZone = false;
+    [NonSerialized] public int points = 3;
+    private int _collidersInZone = 0;
+    private TeamName? teamZone = null;
 
     public Rigidbody rb => GetComponent<Rigidbody>();
 
@@ -57,7 +58,12 @@ public class BasketBall : MonoBehaviour
     {
         if (other.gameObject.CompareTag("2pts"))
         {
-            inZone = true;
+            _collidersInZone++;
+
+            if (_collidersInZone == 1)
+            {
+                teamZone = other.gameObject.transform.parent.name.Contains("Red") ? TeamName.Red : TeamName.Blue;
+            }
         }
     }
 
@@ -65,13 +71,18 @@ public class BasketBall : MonoBehaviour
     {
         if (other.gameObject.CompareTag("2pts"))
         {
-            inZone = false;
+            _collidersInZone = Mathf.Max(0, _collidersInZone - 1);
+
+            if (_collidersInZone == 0)
+            {
+                teamZone = null;
+            }
         }
     }
 
     public void ShootTowardsBasket(Vector3 target, bool isSuccessful, float force)
     {
-        inZoneAtShoot = inZone;
+        points = teamZone == BasketBallManager.Instance.lastTeamHolder.teamName || teamZone == null ? 3 : 2;
         rb.useGravity = true;
         rb.isKinematic = false;
 

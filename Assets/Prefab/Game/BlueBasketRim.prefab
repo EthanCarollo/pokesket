@@ -41,7 +41,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7784659976677803360}
   m_Layer: 0
-  m_Name: 2ptsZone
+  m_Name: Blue2ptsZone
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -144,7 +144,7 @@ GameObject:
   - component: {fileID: 3340442634065416156}
   m_Layer: 0
   m_Name: Box
-  m_TagString: Untagged
+  m_TagString: 2pts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -197,7 +197,7 @@ GameObject:
   - component: {fileID: 4075228504598984140}
   m_Layer: 0
   m_Name: Circle
-  m_TagString: Untagged
+  m_TagString: 2pts
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

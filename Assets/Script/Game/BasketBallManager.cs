@@ -9,7 +9,7 @@ public class BasketBallManager : MonoBehaviour
     [SerializeField] private Transform ballSpawnPoint;
     [SerializeField] private float timeBeforeReset = 3f;
     public BasketBall basketBall;
-    private BasketTeam lastTeamHolder = null;
+    [NonSerialized] public BasketTeam lastTeamHolder = null;
     private PokemonPlayer ballHolder = null;
     public PokemonPlayer BallHolder => ballHolder;
     private float lastTimeBlocked = -1f;
