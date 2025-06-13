@@ -56,7 +56,7 @@ public class AIDefenseState : IPokemonPlayerState
 
         Vector3 randomPosition = new Vector3(
             Random.Range(bounds.min.x, bounds.max.x),
-            Random.Range(bounds.min.y, bounds.max.y),
+            _pokemonPlayer.gameObject.transform.position.y,
             Random.Range(bounds.min.z, bounds.max.z)
         );
 
@@ -79,7 +79,21 @@ public class AIDefenseState : IPokemonPlayerState
     
     public void HandleMovement()
     {
-        Vector3 move = new Vector3(0, 0, 0);
+        if (nextPosition == UnsetVector3)
+        {
+            nextPosition = SetupNextPosition();
+        }
+
+        Vector3 direction = nextPosition - _pokemonPlayer.transform.position;
+        direction.y = 0f; // Si tu veux ignorer le mouvement vertical (souvent le cas dans un jeu 2D/3D avec déplacement au sol)
+
+        if (direction.magnitude < 0.1f) // Arrivé à destination
+        {
+            nextPosition = UnsetVector3; // On force le recalcul d'une nouvelle position
+            return;
+        }
+
+        Vector3 move = direction.normalized;
         _pokemonPlayer.ApplyMovement(move);
     }
 }
