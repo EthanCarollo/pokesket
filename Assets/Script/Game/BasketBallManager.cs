@@ -61,6 +61,24 @@ public class BasketBallManager : MonoBehaviour
         if (holder != null)
         {
             lastBallHolder = holder;
+            if (holder.Team.teamName == TeamName.Blue)
+            {
+                GameManager.Instance.CameraManager.SetNewLookAtTransform(
+                    GameManager.Instance.CameraManager.blueCameraTarget.transform,
+                    new Vector3(0f, 9f, -19f)
+                    );
+            }
+            else
+            {
+                GameManager.Instance.CameraManager.SetNewLookAtTransform(
+                    GameManager.Instance.CameraManager.redCameraTarget.transform,
+                    new Vector3(0f, 9f, -19f)
+                    );
+            }
+        }
+        else
+        {
+            GameManager.Instance.CameraManager.ResetPositionAndLookAt();
         }
     }
 

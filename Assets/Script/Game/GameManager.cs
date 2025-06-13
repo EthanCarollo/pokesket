@@ -7,6 +7,8 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
     [SerializeField] private BasketTeam[] teams;
     public bool matchPlaying = false;
+    [SerializeField]
+    public CameraManager CameraManager;
 
     void Awake()
     {
@@ -20,6 +22,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+        CameraManager.Start();
 #if UNITY_EDITOR
         if (IsLaunchedDirectly())
         {
@@ -27,9 +30,9 @@ public class GameManager : MonoBehaviour
             StartMatch(
                 new List<Pokemon>()
                 {
-                    PokemonDatabase.Instance.pokemons[10],
-                    PokemonDatabase.Instance.pokemons[1],
-                    PokemonDatabase.Instance.pokemons[0],
+                    PokemonDatabase.Instance.pokemons[2],
+                    PokemonDatabase.Instance.pokemons[3],
+                    PokemonDatabase.Instance.pokemons[7],
                 },
                 new List<Pokemon>()
                 {

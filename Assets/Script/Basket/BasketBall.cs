@@ -98,7 +98,11 @@ public class BasketBall : MonoBehaviour
         if (force >= 0.95f)
         {
             StartEmitTrail(shooter.pokemonType);
-            LeanTween.delayedCall(2.5f, () => StopEmitTrail());
+            GameManager.Instance.CameraManager.SetNewLookAtTransform(this.transform);
+            LeanTween.delayedCall(2.5f, () =>
+            {
+                StopEmitTrail();
+            });
         }
 
         Debug.LogWarning("Is shoot successful: " + isSuccessful);
