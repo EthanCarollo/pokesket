@@ -4,6 +4,7 @@ Shader "MoveToTrailUV/Add"
     {
         _BaseMap("Base Map", 2D) = "white" {}
         _Multiplier("Multiplier", Float) = 1
+        _TintColor("Tint Color", Color) = (1,1,1,1)
     }
     SubShader
     {
@@ -36,6 +37,7 @@ Shader "MoveToTrailUV/Add"
             CBUFFER_START(UnityPerMaterial)
                 float4 _BaseMap_ST;
                 half _Multiplier;
+                float4 _TintColor;
             CBUFFER_END
 
             Varyings vert(Attributes IN)
@@ -49,9 +51,10 @@ Shader "MoveToTrailUV/Add"
             half4 frag(Varyings IN) : SV_Target
             {
                 half4 color = SAMPLE_TEXTURE2D(_BaseMap, sampler_BaseMap, IN.uv);
-                color.rgb *= _Multiplier; // Add 계열의 셰이더는 증폭 기능이 유용하다.
-                color.rgb *= color.a; // 알파채널정보가 있는 텍스쳐를 위한 안전장치.
-                color.a = 1; // Additive 블랜딩은 알파와 무관함.
+                color.rgb *= _Multiplier;
+                color.rgb *= _TintColor.rgb; // Apply tint
+                color.rgb *= color.a;
+                color.a = 1;
                 return color;
             }
             ENDHLSL

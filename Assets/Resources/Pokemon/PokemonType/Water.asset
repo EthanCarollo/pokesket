@@ -15,4 +15,6 @@ MonoBehaviour:
   typeName: Water
   particlePointPrefab: {fileID: 1892333751805388, guid: 452f8c6f5b6d23b4e966a40a9e4720c1, type: 3}
   typeIcon: {fileID: -1930651006, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
-  typeColor: {r: 6.462745, g: 9.035295, b: 15.058824, a: 0}
+  typeColor: {r: 5.143269, g: 7.19059, b: 11.984316, a: 0}
+  noHdrTypeColor: {r: 0.40784317, g: 0.5647059, b: 0.94117653, a: 0}
+  trailTexture: {fileID: 2800000, guid: af987e10ca3f0924488070b1a9d5c330, type: 3}

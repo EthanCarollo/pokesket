@@ -15,4 +15,6 @@ MonoBehaviour:
   typeName: Combat
   particlePointPrefab: {fileID: 131758, guid: 22a3c27ab34258343b98aa08ed0f7835, type: 3}
   typeIcon: {fileID: -328685886, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
-  typeColor: {r: 15.058824, g: 8.031373, b: 3.0117648, a: 0}
+  typeColor: {r: 11.984316, g: 6.3916354, b: 2.3968632, a: 0}
+  noHdrTypeColor: {r: 0.94117653, g: 0.5019608, b: 0.18823531, a: 0}
+  trailTexture: {fileID: 2800000, guid: ae09abbcb3af9f148bfc2c4cc3504a0c, type: 3}

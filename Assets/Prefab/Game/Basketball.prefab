@@ -105,6 +105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   particle: {fileID: 5014406825545776226}
   trailRenderer: {fileID: 4120987142645440089}
+  ballLight: {fileID: 9056599937750444924}
 --- !u!54 &5689174674081526526
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -162,8 +163,12 @@ PrefabInstance:
     m_TransformParent: {fileID: 6647604534393514830}
     m_Modifications:
     - target: {fileID: 160484399314501631, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
+      propertyPath: m_shaderPropertyID
+      value: 1424
+      objectReference: {fileID: 0}
+    - target: {fileID: 160484399314501631, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
       propertyPath: m_materialData.Array.data[0].m_move
-      value: 0.09984
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1893065722960749156, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
       propertyPath: m_Emitting
@@ -256,13 +261,44 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4418970382018424771, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5314734174163836526}
   m_SourcePrefab: {fileID: 100100000, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
 --- !u!4 &1601730658677076315 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3841384982787575142, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
   m_PrefabInstance: {fileID: 2554995394180185149}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2172561173880263678 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4418970382018424771, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
+  m_PrefabInstance: {fileID: 2554995394180185149}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5314734174163836526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2172561173880263678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!96 &4120987142645440089 stripped
 TrailRenderer:
   m_CorrespondingSourceObject: {fileID: 1893065722960749156, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
@@ -271,5 +307,10 @@ TrailRenderer:
 --- !u!198 &5014406825545776226 stripped
 ParticleSystem:
   m_CorrespondingSourceObject: {fileID: 7414027481456132191, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
+  m_PrefabInstance: {fileID: 2554995394180185149}
+  m_PrefabAsset: {fileID: 0}
+--- !u!108 &9056599937750444924 stripped
+Light:
+  m_CorrespondingSourceObject: {fileID: 6834963877628663617, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
   m_PrefabInstance: {fileID: 2554995394180185149}
   m_PrefabAsset: {fileID: 0}

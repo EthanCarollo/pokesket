@@ -10,6 +10,7 @@ public class BasketBall : MonoBehaviour
 
     public ParticleSystem particle;
     public TrailRenderer trailRenderer;
+    public Light ballLight;
     [NonSerialized] public int points = 3;
     private int _collidersInZone = 0;
     private TeamName? teamZone = null;
@@ -25,12 +26,18 @@ public class BasketBall : MonoBehaviour
     {
         particle.emissionRate = 0;
         trailRenderer.emitting = false;
+        ballLight.intensity = 0;
     }
 
-    public void StartEmitTrail()
+    public void StartEmitTrail(PokemonType pokemonType)
     {
         particle.emissionRate = 12;
+        particle.gameObject.GetComponent<ParticleSystemRenderer>().material.SetColor("_TintColor", pokemonType.noHdrTypeColor);
+        trailRenderer.material.SetTexture("_TintTex", pokemonType.trailTexture);
+        // .SetTexture("_TintTex", pokemonType.trailTexture);
         trailRenderer.emitting = true;
+        ballLight.color = pokemonType.noHdrTypeColor;
+        ballLight.intensity = 7.7f;
     }
 
     public void Update()
@@ -80,7 +87,7 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    public void ShootTowardsBasket(Vector3 target, bool isSuccessful, float force)
+    public void ShootTowardsBasket(Vector3 target, bool isSuccessful, float force, Pokemon shooter)
     {
         points = teamZone == BasketBallManager.Instance.lastTeamHolder.teamName || teamZone == null ? 3 : 2;
         rb.useGravity = true;
@@ -90,7 +97,7 @@ public class BasketBall : MonoBehaviour
 
         if (force >= 0.95f)
         {
-            StartEmitTrail();
+            StartEmitTrail(shooter.pokemonType);
             LeanTween.delayedCall(2.5f, () => StopEmitTrail());
         }
 

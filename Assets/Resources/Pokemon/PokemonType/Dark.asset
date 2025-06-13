@@ -15,4 +15,6 @@ MonoBehaviour:
   typeName: Dark
   particlePointPrefab: {fileID: 133642, guid: 721ed883392764d42a3957861e7752c0, type: 3}
   typeIcon: {fileID: -724797458, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
-  typeColor: {r: 7.027451, g: 5.521569, b: 4.5176473, a: 0}
+  typeColor: {r: 11.984313, g: 9.416246, b: 7.7042017, a: 0}
+  noHdrTypeColor: {r: 0.43921572, g: 0.34509805, b: 0.28235295, a: 0}
+  trailTexture: {fileID: 2800000, guid: f1475e4ab9f36c54eb3fb41ff54d01ef, type: 3}

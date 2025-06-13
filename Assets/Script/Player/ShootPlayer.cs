@@ -166,7 +166,7 @@ public class ShootPlayer : MonoBehaviour
             force = Mathf.Lerp(1.1f, 1.5f, Mathf.Clamp((_currentCursorPosition - 1f), 0f, 1f)); // Trop fort
         }
 
-        BasketBallManager.Instance.ShootTo(rim, guaranteedHit, force);
+        BasketBallManager.Instance.ShootTo(rim, guaranteedHit, force, _pokemonPlayer.actualPokemon);
 
         ShowShotFeedback(shootingQuality, _currentCursorPosition);
         StartCoroutine(ShakeAndFadeOut(shootingQuality));

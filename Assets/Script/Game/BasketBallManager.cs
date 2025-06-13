@@ -89,10 +89,10 @@ public class BasketBallManager : MonoBehaviour
         return ballHolder == player;
     }
 
-    public void ShootTo(Transform target, bool isSuccessful, float force)
+    public void ShootTo(Transform target, bool isSuccessful, float force, Pokemon shooter)
     {
         SetBallHolder(null);
-        basketBall.ShootTowardsBasket(target.position, isSuccessful, force);
+        basketBall.ShootTowardsBasket(target.position, isSuccessful, force, shooter);
     }
 
     public void PassTo(Transform target)

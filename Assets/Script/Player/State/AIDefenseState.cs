@@ -60,7 +60,6 @@ public class AIDefenseState : IPokemonPlayerState
             Random.Range(bounds.min.z, bounds.max.z)
         );
 
-        Debug.Log("Position aléatoire : " + randomPosition);
         return randomPosition;
     }
 

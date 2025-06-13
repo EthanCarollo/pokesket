@@ -15,4 +15,6 @@ MonoBehaviour:
   typeName: Electric
   particlePointPrefab: {fileID: 134696, guid: b7e5be8cde65c7c42915ee6e2273d19b, type: 3}
   typeIcon: {fileID: -179637647, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
-  typeColor: {r: 15.560784, g: 13.050981, b: 3.0117648, a: 0}
+  typeColor: {r: 11.984312, g: 10.051359, b: 2.3195443, a: 0}
+  noHdrTypeColor: {r: 0.9725491, g: 0.81568635, b: 0.18823531, a: 0}
+  trailTexture: {fileID: 2800000, guid: 2743db1324a4b664fa9c9c2465c3a3a9, type: 3}

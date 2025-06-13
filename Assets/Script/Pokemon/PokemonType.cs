@@ -9,4 +9,7 @@ public class PokemonType : ScriptableObject
     // For HDR color
     [ColorUsage(true, true)]
     public Color typeColor;
+    public Color noHdrTypeColor;
+
+    public Texture trailTexture;
 }

@@ -15,4 +15,6 @@ MonoBehaviour:
   typeName: Ghost
   particlePointPrefab: {fileID: 1631042304284920, guid: 94c74d51bcada5249a6520831c0f6e9b, type: 3}
   typeIcon: {fileID: -9211045673505915523, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
-  typeColor: {r: 7.027451, g: 5.521569, b: 9.537255, a: 0}
+  typeColor: {r: 8.830546, g: 6.9382863, b: 11.984313, a: 0}
+  noHdrTypeColor: {r: 0.43921572, g: 0.34509805, b: 0.59607846, a: 0}
+  trailTexture: {fileID: 2800000, guid: 7e9023264b9f7864396b26898957695f, type: 3}
