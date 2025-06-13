@@ -8,7 +8,7 @@ public class BasketBallManager : MonoBehaviour
     [SerializeField] private GameObject ballPrefab;
     [SerializeField] private Transform ballSpawnPoint;
     [SerializeField] private float timeBeforeReset = 3f;
-    private BasketBall basketBall;
+    public BasketBall basketBall;
     private BasketTeam lastTeamHolder = null;
     private PokemonPlayer ballHolder = null;
     public PokemonPlayer BallHolder => ballHolder;

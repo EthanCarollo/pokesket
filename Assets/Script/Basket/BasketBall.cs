@@ -10,6 +10,8 @@ public class BasketBall : MonoBehaviour
 
     public ParticleSystem particle;
     public TrailRenderer trailRenderer;
+    [NonSerialized] public bool inZoneAtShoot = false;
+    private bool inZone = false;
 
     public Rigidbody rb => GetComponent<Rigidbody>();
 
@@ -51,8 +53,25 @@ public class BasketBall : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("2pts"))
+        {
+            inZone = true;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.CompareTag("2pts"))
+        {
+            inZone = false;
+        }
+    }
+
     public void ShootTowardsBasket(Vector3 target, bool isSuccessful, float force)
     {
+        inZoneAtShoot = inZone;
         rb.useGravity = true;
         rb.isKinematic = false;
 

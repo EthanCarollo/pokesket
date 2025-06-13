@@ -45,8 +45,11 @@ public class BasketRim : MonoBehaviour
 
     private void Goal()
     {
+        BasketBall ball = BasketBallManager.Instance.basketBall;
+        int points = ball.inZoneAtShoot ? 2 : 3;
+        ball.inZoneAtShoot = false;
         int current = int.Parse(opponentScore.text);
-        opponentScore.text = (current + 2).ToString();
+        opponentScore.text = (current + points).ToString();
         Debug.Log("PANIER !");
     }
 }
