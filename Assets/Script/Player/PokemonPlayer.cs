@@ -28,6 +28,7 @@ public class PokemonPlayer : MonoBehaviour
         get { return Team.teamName == TeamName.Blue; }
     }
     [SerializeField] private SpriteRenderer indicator;
+    [SerializeField] private SpriteRenderer teamIndicator;
     [SerializeField] private SpriteRenderer pokemonSpriteRenderer;
     [SerializeField] public ShootPlayer shootPlayer;
     [SerializeField] public PassPlayer passPlayer;
@@ -49,6 +50,7 @@ public class PokemonPlayer : MonoBehaviour
         speed = pokemon.speed;
         currentState = new AIDefenseState(this);
         indicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;
+        teamIndicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;
     }
 
     void Update()
