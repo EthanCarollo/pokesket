@@ -6,7 +6,7 @@ using UnityEngine.EventSystems;
 public class SelectablePokemonPrefab : MonoBehaviour
 {
     public Image pokemonImage;
-    private Pokemon pokemon;
+    public Pokemon pokemon;
     SelectablePokemonPanel _selectablePokemonPanel;
     
     public void Setup(Pokemon pokemon, SelectablePokemonPanel selectablePokemonPanel)
