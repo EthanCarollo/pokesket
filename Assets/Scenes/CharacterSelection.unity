@@ -814,6 +814,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1031419836}
   - component: {fileID: 1031419837}
+  - component: {fileID: 1031419838}
   m_Layer: 0
   m_Name: Character3
   m_TagString: Untagged
@@ -859,7 +860,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d60cc1e7c012d46389e472ad80163389, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -891,6 +892,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1031419838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1031419835}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2667fd2287c0c491ab5915ce31f64a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 1031419837}
+  fadeSpeed: 5
 --- !u!1 &1048839641
 GameObject:
   m_ObjectHideFlags: 0
@@ -901,6 +916,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1048839642}
   - component: {fileID: 1048839643}
+  - component: {fileID: 1048839644}
   m_Layer: 0
   m_Name: Character3
   m_TagString: Untagged
@@ -946,7 +962,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d60cc1e7c012d46389e472ad80163389, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -978,6 +994,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1048839644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1048839641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2667fd2287c0c491ab5915ce31f64a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 1048839643}
+  fadeSpeed: 5
 --- !u!1 &1081618847
 GameObject:
   m_ObjectHideFlags: 0
@@ -1424,6 +1454,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1244422480}
   - component: {fileID: 1244422481}
+  - component: {fileID: 1244422482}
   m_Layer: 0
   m_Name: Character1
   m_TagString: Untagged
@@ -1469,7 +1500,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d60cc1e7c012d46389e472ad80163389, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1501,6 +1532,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1244422482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1244422479}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2667fd2287c0c491ab5915ce31f64a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 1244422481}
+  fadeSpeed: 5
 --- !u!1 &1279915178
 GameObject:
   m_ObjectHideFlags: 0
@@ -1647,6 +1692,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1376967709}
   - component: {fileID: 1376967710}
+  - component: {fileID: 1376967711}
   m_Layer: 0
   m_Name: Character2
   m_TagString: Untagged
@@ -1692,7 +1738,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d60cc1e7c012d46389e472ad80163389, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1724,6 +1770,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1376967711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376967708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2667fd2287c0c491ab5915ce31f64a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 1376967710}
+  fadeSpeed: 5
 --- !u!1 &1387210712
 GameObject:
   m_ObjectHideFlags: 0
@@ -1799,6 +1859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1396571194}
   - component: {fileID: 1396571195}
+  - component: {fileID: 1396571196}
   m_Layer: 0
   m_Name: Character1
   m_TagString: Untagged
@@ -1844,7 +1905,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d60cc1e7c012d46389e472ad80163389, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1876,6 +1937,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1396571196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396571193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2667fd2287c0c491ab5915ce31f64a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 1396571195}
+  fadeSpeed: 5
 --- !u!1 &1490496701
 GameObject:
   m_ObjectHideFlags: 0
@@ -2440,6 +2515,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2050153514}
   - component: {fileID: 2050153515}
+  - component: {fileID: 2050153516}
   m_Layer: 0
   m_Name: Character2
   m_TagString: Untagged
@@ -2485,7 +2561,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d60cc1e7c012d46389e472ad80163389, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2517,6 +2593,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2050153516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050153513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2667fd2287c0c491ab5915ce31f64a5b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: 2050153515}
+  fadeSpeed: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

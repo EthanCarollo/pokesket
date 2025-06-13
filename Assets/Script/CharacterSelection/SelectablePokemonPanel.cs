@@ -40,6 +40,29 @@ public class SelectablePokemonPanel : MonoBehaviour
     private void Update()
     {
         RefreshPreviews();
+        
+        if (Input.GetKeyUp(XboxInput.B1))
+        {
+            RemoveLastSelectedPokemon(selectedPlayer1Characters);
+        }
+
+        if (Input.GetKeyUp(XboxInput.B2))
+        {
+            RemoveLastSelectedPokemon(selectedPlayer2Characters);
+        }
+    }
+
+    private void RemoveLastSelectedPokemon(Pokemon[] selectedCharacters)
+    {
+        for (int i = selectedCharacters.Length - 1; i >= 0; i--)
+        {
+            if (selectedCharacters[i] != null)
+            {
+                selectedCharacters[i] = null;
+                break;
+            }
+        }
+        RefreshPreviews();
     }
 
     private void UpdateCharacterPreviews()
@@ -60,13 +83,19 @@ public class SelectablePokemonPanel : MonoBehaviour
                 {
                     if (i < selectedCharacters.Length && selectedCharacters[i] != null)
                     {
-                        spriteRenderer.sprite = selectedCharacters[i].pokemonSprite;
-                        spriteRenderer.enabled = true;
+                        FadeSprite fadeSprite = previewObjects[i].GetComponent<FadeSprite>();
+                        if (fadeSprite != null)
+                        {
+                            fadeSprite.Show(selectedCharacters[i].pokemonSprite);
+                        }
                     }
                     else
                     {
-                        spriteRenderer.sprite = null;
-                        spriteRenderer.enabled = false;
+                        FadeSprite fadeSprite = previewObjects[i].GetComponent<FadeSprite>();
+                        if (fadeSprite != null)
+                        {
+                            fadeSprite.Hide();
+                        }
                     }
                 }
             }

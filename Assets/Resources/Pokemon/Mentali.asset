@@ -21,11 +21,31 @@ MonoBehaviour:
   defence: 80
   shootPrecision: 80
   passPrecision: 80
-  bottomRightAnimation: []
-  bottomLeftAnimation: []
-  topRightAnimation: []
-  topLeftAnimation: []
-  shootTopLeftAnimation: []
-  shootTopRightAnimation: []
-  shootBottomRightAnimation: []
-  shootBottomLeftAnimation: []
+  bottomRightAnimation:
+  - {fileID: 1240201879436190269, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 2520277827621793795, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: -6559276725216007273, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 5659305125007012430, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 7610921964829119792, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 7272840762684185823, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  topRightAnimation:
+  - {fileID: -335563790070406235, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: -3105646732087667485, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 6854882720833911568, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  topLeftAnimation:
+  - {fileID: 7886842873716359118, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 1866943708671240261, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 6889786765394113344, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  shootTopLeftAnimation:
+  - {fileID: 7610921964829119792, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 7206747650775562605, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  shootTopRightAnimation:
+  - {fileID: -437620218759008058, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 5001628008864089214, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  shootBottomRightAnimation:
+  - {fileID: -437620218759008058, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 5001628008864089214, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  shootBottomLeftAnimation:
+  - {fileID: 7610921964829119792, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
+  - {fileID: 7206747650775562605, guid: e8572bd7bcebae84eb5a04ba5c166d5f, type: 3}
