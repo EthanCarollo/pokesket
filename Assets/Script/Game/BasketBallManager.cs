@@ -9,13 +9,13 @@ public class BasketBallManager : MonoBehaviour
     [SerializeField] private Transform ballSpawnPoint;
     [SerializeField] private float timeBeforeReset = 3f;
     public BasketBall basketBall;
-    [NonSerialized] public BasketTeam lastTeamHolder = null;
+    private PokemonPlayer lastBallHolder = null;
     private PokemonPlayer ballHolder = null;
     public PokemonPlayer BallHolder => ballHolder;
     private float lastTimeBlocked = -1f;
     
-    [NonSerialized]
-    public PokemonType lastPokemonTypeHolder;
+    public BasketTeam lastTeamHolder => lastBallHolder?.Team;
+    public PokemonType lastPokemonTypeHolder => lastBallHolder?.actualPokemon.pokemonType;
 
     void Awake()
     {
@@ -60,22 +60,26 @@ public class BasketBallManager : MonoBehaviour
         ballHolder = holder;
         if (holder != null)
         {
-            lastPokemonTypeHolder = holder.actualPokemon.pokemonType; 
-            lastTeamHolder = holder.Team;
+            lastBallHolder = holder;
         }
     }
 
-    public void ResetTeamHolder()
+    public void ResetHolder()
     {
-        lastTeamHolder = null;
+        lastBallHolder = null;
     }
 
-    public bool IsBallHolded()
+    public bool IsBallHolding()
     {
         return ballHolder != null;
     }
 
-    public bool IsTeamHoldingBall(BasketTeam team)
+    public bool IsBallHolded()
+    {
+        return lastBallHolder != null;
+    }
+
+    public bool IsTeamHoldedBall(BasketTeam team)
     {
         return lastTeamHolder == team;
     }

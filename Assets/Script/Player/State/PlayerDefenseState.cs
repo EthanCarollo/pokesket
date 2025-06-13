@@ -11,6 +11,8 @@ public class PlayerDefenseState : IPokemonPlayerState
         _pokemonPlayer.speed = speed;
         _pokemonPlayer.shootPlayer.enabled = false;
         _pokemonPlayer.passPlayer.enabled = false;
+        _pokemonPlayer.blockShoot.enabled = true;
+        _pokemonPlayer.blockPass.enabled = true;
     }
 
     public void Update()

@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - Ball
   - 2pts
+  - Pokemon
   layers:
   - Default
   - TransparentFX

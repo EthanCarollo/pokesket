@@ -48,7 +48,7 @@ public class BasketBall : MonoBehaviour
         {
             if (currentHolder == null)
             {
-                BasketBallManager.Instance.ResetTeamHolder();
+                BasketBallManager.Instance.ResetHolder();
                 StopEmitTrail();
             }
         }

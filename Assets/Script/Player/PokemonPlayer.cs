@@ -8,7 +8,7 @@ public class PokemonPlayer : MonoBehaviour
 {
     public bool IsControlled => Team.IsControlled(this);
     public bool HasBall => BasketBallManager.Instance.IsPlayerHoldingBall(this);
-    public bool TeamHasBall => BasketBallManager.Instance.IsTeamHoldingBall(Team);
+    public bool TeamHasBall => BasketBallManager.Instance.IsTeamHoldedBall(Team);
 
     [Header("Stats")]
     [NonSerialized] public float initialSpeed;
@@ -32,9 +32,19 @@ public class PokemonPlayer : MonoBehaviour
     [SerializeField] private SpriteRenderer pokemonSpriteRenderer;
     [SerializeField] public ShootPlayer shootPlayer;
     [SerializeField] public PassPlayer passPlayer;
+    [SerializeField] public BlockShoot blockShoot;
+    [SerializeField] public BlockPass blockPass;
 
     [NonSerialized] Vector3 lastMoveDirection = Vector3.up;
     public Vector3 Direction => lastMoveDirection;
+    // BOOLEANS
+    [NonSerialized] public bool canPass = true;
+    [NonSerialized] public bool canShoot = true;
+    [NonSerialized] public bool isShooting = false;
+    [NonSerialized] public bool isPassing = false;
+    [NonSerialized] public bool canBlock = true;
+    [NonSerialized] public bool isBlockingShoot = false;
+    [NonSerialized] public bool isBlockingPass = false;
     private bool _canHold = true;
 
     private IPokemonPlayerState currentState;
@@ -87,16 +97,43 @@ public class PokemonPlayer : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        bool isHolded = BasketBallManager.Instance.IsBallHolded();
+        bool isHolded = BasketBallManager.Instance.IsBallHolding();
         if (!HasBall && !isHolded && _canHold)
         {
             BasketBall ball = other.GetComponent<BasketBall>();
             if (ball != null)
             {
+                StartCoroutine(DisableAction());
                 BasketBallManager.Instance.SetBallHolder(this);
                 Team.SetControlledPlayer(this);
             }
         }
+    }
+
+    public void ShootBall()
+    {
+        LoseBall();
+        StartCoroutine(ShootBallCoroutine());
+    }
+
+    IEnumerator ShootBallCoroutine()
+    {
+        isShooting = true;
+        yield return new WaitForSeconds(0.1f);
+        isShooting = false;
+    }
+
+    public void PassBall()
+    {
+        LoseBall();
+        StartCoroutine(PassBallCoroutine());
+    }
+
+    IEnumerator PassBallCoroutine()
+    {
+        isPassing = true;
+        yield return new WaitForSeconds(0.1f);
+        isPassing = false;
     }
 
     public void LoseBall()
@@ -109,6 +146,15 @@ public class PokemonPlayer : MonoBehaviour
         _canHold = false;
         yield return new WaitForSeconds(0.5f);
         _canHold = true;
+    }
+
+    IEnumerator DisableAction()
+    {
+        canPass = false;
+        canShoot = false;
+        yield return new WaitForSeconds(0.5f);
+        canPass = true;
+        canShoot = true;
     }
     
     void OnDrawGizmos()

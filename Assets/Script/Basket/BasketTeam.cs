@@ -1,24 +1,20 @@
 using System;
 using System.Collections.Generic;
-using Unity.VisualScripting;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
 public enum TeamName { Blue, Red }
-[Serializable]
-public class TeamRim
-{
-    public TeamName teamName;
-    public Transform ownerRim;
-}
 
 public class BasketTeam : MonoBehaviour
 {
     [SerializeField] public TeamName teamName;
+    [SerializeField] public Transform rim;
 
     public List<PokemonPlayer> pokeTeam;
     public Image[] pokemonImages;
-    private PokemonPlayer controlledPlayer;
+    public TeamName opponentTeamName => teamName == TeamName.Blue ? TeamName.Red : TeamName.Blue;
+    [NonSerialized] public PokemonPlayer controlledPlayer;
 
     public void StartMatch()
     {
@@ -33,7 +29,7 @@ public class BasketTeam : MonoBehaviour
     {
         if (controlledPlayer != null)
         {
-            if (Input.GetKeyDown(controlledPlayer.ControlledByPlayer1 ? XboxInput.RB1 : XboxInput.RB2))
+            if (Input.GetKeyDown(controlledPlayer.ControlledByPlayer1 ? KeyCode.Joystick1Button7 : KeyCode.Joystick2Button7)) // RB on Xbox
             {
                 if (!controlledPlayer?.HasBall ?? false)
                 {
@@ -45,8 +41,17 @@ public class BasketTeam : MonoBehaviour
 
     void SwitchControlledPlayer()
     {
-        int currentIndex = pokeTeam.IndexOf(controlledPlayer);
-        int nextIndex = (currentIndex + 1) % pokeTeam.Count;
+        // Cherche le Pokémon (autre que le contrôlé) le plus proche de la balle
+        PokemonPlayer nearestPokemon = pokeTeam
+            .Where(p => p != controlledPlayer)
+            .OrderBy(p => Vector3.Distance(p.transform.position, BasketBallManager.Instance.basketBall.transform.position))
+            .FirstOrDefault();
+
+        // Si aucun trouvé (rare), on passe au suivant dans la liste
+        int nextIndex = (nearestPokemon != null)
+            ? pokeTeam.IndexOf(nearestPokemon)
+            : (pokeTeam.IndexOf(controlledPlayer) + 1) % pokeTeam.Count;
+
         SetControlledPlayer(pokeTeam[nextIndex]);
     }
 
@@ -60,9 +65,13 @@ public class BasketTeam : MonoBehaviour
         return player == controlledPlayer;
     }
 
-    public Transform GetTargetRim()
+    public BasketTeam GetOpponentTeam()
     {
-        TeamName opponentName = teamName == TeamName.Blue ? TeamName.Red : TeamName.Blue;
-        return GameManager.Instance.GetTeamRim(opponentName).ownerRim;
+        return GameManager.Instance.GetTeam(opponentTeamName);
+    }
+
+    public Transform GetOpponentRim()
+    {
+        return GetOpponentTeam().rim;
     }
 }

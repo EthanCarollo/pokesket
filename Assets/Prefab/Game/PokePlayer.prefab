@@ -13,11 +13,13 @@ GameObject:
   - component: {fileID: 633635538767368209}
   - component: {fileID: 4549863095120532458}
   - component: {fileID: 8872840438879938650}
+  - component: {fileID: 6923693000151304036}
+  - component: {fileID: 4293674903761840781}
   - component: {fileID: 1908281221417520592}
   - component: {fileID: 8119068700215885861}
   m_Layer: 0
   m_Name: PokePlayer
-  m_TagString: Untagged
+  m_TagString: Pokemon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115,6 +117,8 @@ MonoBehaviour:
   pokemonSpriteRenderer: {fileID: 1204358011298399045}
   shootPlayer: {fileID: 4549863095120532458}
   passPlayer: {fileID: 8872840438879938650}
+  blockShoot: {fileID: 6923693000151304036}
+  blockPass: {fileID: 4293674903761840781}
   pokemonPlayerAnimator:
     pokemonSpriteRenderer: {fileID: 1204358011298399045}
     animationSpeed: 0.1
@@ -145,6 +149,31 @@ MonoBehaviour:
   m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ceb6374d9e7c64fe0a9be1e1a260b465, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6923693000151304036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 125487268693408016}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a3935e14b6884aaba47b9307a2b10c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blockDistance: 2
+--- !u!114 &4293674903761840781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 125487268693408016}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22a6654170ac40eab5e0d235d5f0e61, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!54 &1908281221417520592

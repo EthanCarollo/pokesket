@@ -21,6 +21,8 @@ public class PassPlayer : MonoBehaviour
 
     public void PassBall()
     {
+        if (!_pokemonPlayer.canPass) return;
+        
         PokemonPlayer target = GetTargetAllie();
         if (target == null)
         {
@@ -29,7 +31,7 @@ public class PassPlayer : MonoBehaviour
         }
 
         _pokemonPlayer.Team.SetControlledPlayer(target);
-        _pokemonPlayer.LoseBall();
+        _pokemonPlayer.PassBall();
         BasketBallManager.Instance.PassTo(target.transform);
     }
 

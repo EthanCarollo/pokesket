@@ -6,7 +6,6 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
     [SerializeField] private BasketTeam[] teams;
-    [SerializeField] private TeamRim[] teamRims;
     public bool matchPlaying = false;
 
     void Awake()
@@ -28,9 +27,9 @@ public class GameManager : MonoBehaviour
             StartMatch(
                 new List<Pokemon>()
                 {
-                    PokemonDatabase.Instance.pokemons[9],
                     PokemonDatabase.Instance.pokemons[10],
-                    PokemonDatabase.Instance.pokemons[11],
+                    PokemonDatabase.Instance.pokemons[1],
+                    PokemonDatabase.Instance.pokemons[0],
                 },
                 new List<Pokemon>()
                 {
@@ -38,11 +37,11 @@ public class GameManager : MonoBehaviour
                     PokemonDatabase.Instance.pokemons[4],
                     PokemonDatabase.Instance.pokemons[5],
                 }
-            );
+                );
         }
 #endif
     }
-    
+
 #if UNITY_EDITOR
     private bool IsLaunchedDirectly()
     {
@@ -52,7 +51,6 @@ public class GameManager : MonoBehaviour
 
     public void StartMatch(List<Pokemon> pokeTeamBlue, List<Pokemon> pokeTeamRed)
     {
-        if (matchPlaying == true) return;
         BasketBallManager.Instance.StartMatch();
         for (int i = 0; i < pokeTeamBlue.Count; i++)
         {
@@ -75,8 +73,8 @@ public class GameManager : MonoBehaviour
         matchPlaying = true;
     }
 
-    public TeamRim GetTeamRim(TeamName teamName)
+    public BasketTeam GetTeam(TeamName teamName)
     {
-        return teamRims[(int)teamName];
+        return teams[(int)teamName];
     }
 }

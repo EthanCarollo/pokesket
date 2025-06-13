@@ -1343,11 +1343,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1810cdc8ab5a407a9addc2668cd5e2a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!4 &414602395 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5699013232136588161, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
-  m_PrefabInstance: {fileID: 3096541357858344940}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &422616806
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1405,6 +1400,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2041b869486df4928b754844c90bdbde, type: 3}
+--- !u!4 &452575573 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9072295360440714813, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
+  m_PrefabInstance: {fileID: 3096541357858344940}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &460533995
 GameObject:
   m_ObjectHideFlags: 0
@@ -5315,14 +5315,6 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7804232433423258776, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
-      propertyPath: m_ShadowMesh.m_Mesh
-      value: 
-      objectReference: {fileID: 124579977}
-    - target: {fileID: 7804232433423258776, guid: 738ce78c4c3948f4296ebcd0032557a6, type: 3}
-      propertyPath: m_ShadowMesh.m_InitialTrim
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7377,6 +7369,10 @@ PrefabInstance:
       value: BlueTeam
       objectReference: {fileID: 0}
     - target: {fileID: 8255989763308329774, guid: f0f89523a595443b18b8819a0f4d28df, type: 3}
+      propertyPath: rim
+      value: 
+      objectReference: {fileID: 37672099}
+    - target: {fileID: 8255989763308329774, guid: f0f89523a595443b18b8819a0f4d28df, type: 3}
       propertyPath: pokeTeam.Array.size
       value: 3
       objectReference: {fileID: 0}
@@ -7446,6 +7442,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1150549136}
     m_Modifications:
+    - target: {fileID: 2570891387323671005, guid: 1e0985764fb5a440daf712f6107dee03, type: 3}
+      propertyPath: rim
+      value: 
+      objectReference: {fileID: 452575573}
     - target: {fileID: 2570891387323671005, guid: 1e0985764fb5a440daf712f6107dee03, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -7633,6 +7633,10 @@ PrefabInstance:
       propertyPath: opponentScore
       value: 
       objectReference: {fileID: 249834539}
+    - target: {fileID: 8551372780754312327, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
+      propertyPath: m_Name
+      value: RedRing
+      objectReference: {fileID: 0}
     - target: {fileID: 8648234138827481550, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.667235
@@ -7674,7 +7678,8 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 7026515331193836192, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
@@ -7923,7 +7928,7 @@ PrefabInstance:
     - target: {fileID: 8711475477852889686, guid: b57e07296f1f1d54bad265808db3052b, type: 3}
       propertyPath: teamRims.Array.data[1].ownerRim
       value: 
-      objectReference: {fileID: 414602395}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

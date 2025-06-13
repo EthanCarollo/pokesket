@@ -40,6 +40,8 @@ public class ShootPlayer : MonoBehaviour
 
     void Update()
     {
+        if (_pokemonPlayer.isBlockingPass || _pokemonPlayer.isBlockingShoot) return;
+
         if (Input.GetKey(_pokemonPlayer.ControlledByPlayer1 ? XboxInput.B1 : XboxInput.B2))
         {
             if (!isShootingMode)
@@ -67,12 +69,14 @@ public class ShootPlayer : MonoBehaviour
 
     private void StartShootingMode()
     {
+        if (!_pokemonPlayer.canShoot) return;
+        
         isShootingMode = true;
         shootingTimer = 0f;
         _timeAt100Percent = 0f;
 
         float precisionFactor = _pokemonPlayer.shootPrecision / 100f;
-        float distance = Vector3.Distance(_pokemonPlayer.transform.position, _pokemonPlayer.Team.GetTargetRim().position);
+        float distance = Vector3.Distance(_pokemonPlayer.transform.position, _pokemonPlayer.Team.GetOpponentRim().position);
 
         currentShootingWindow = Mathf.Lerp(0.6f, 1.5f, precisionFactor);
         currentShootingWindow /= Mathf.Clamp(distance / 5f, 1f, 2f);
@@ -141,8 +145,8 @@ public class ShootPlayer : MonoBehaviour
         if (_timeAt100Percent >= MAX_TIME_AT_100)
             shootingQuality = 0f;
 
-        var rim = _pokemonPlayer.Team.GetTargetRim();
-        _pokemonPlayer.LoseBall();
+        var rim = _pokemonPlayer.Team.GetOpponentRim();
+        _pokemonPlayer.ShootBall();
 
         PlayShootAnimation();
 
