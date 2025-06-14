@@ -60,7 +60,7 @@ public class ShootPlayer : MonoBehaviour
     {
         if (_pokemonPlayer.isBlockingPass || _pokemonPlayer.isBlockingShoot) return;
 
-        if (Input.GetKey(_pokemonPlayer.ControlledByPlayer1 ? XboxInput.B1 : XboxInput.B2))
+        if (Input.GetKey(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.B1 : RemoteInput.B2))
         {
             if (!isShootingMode)
             {
@@ -71,12 +71,12 @@ public class ShootPlayer : MonoBehaviour
                 UpdateShootingMode();
             }
         }
-        else if (isShootingMode && Input.GetKeyUp(_pokemonPlayer.ControlledByPlayer1 ? XboxInput.B1 : XboxInput.B2))
+        else if (isShootingMode && Input.GetKeyUp(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.B1 : RemoteInput.B2))
         {
             ExecuteShot();
         }
 
-        if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? XboxInput.X1 : XboxInput.X2))
+        if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.A1 : RemoteInput.A2))
         {
             if (isShootingMode)
             {

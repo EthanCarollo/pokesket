@@ -17,7 +17,7 @@ public class BlockPass : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? XboxInput.X1 : XboxInput.X2))
+        if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.A1 : RemoteInput.A2))
         {
             if (_pokemonPlayer.canBlock && BasketBallManager.Instance.IsBallHolded())
             {

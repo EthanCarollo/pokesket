@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public static class XboxInput
+public static class RemoteInput
 {
     public static KeyCode A1 => KeyCode.Joystick1Button0;
     public static KeyCode A2 => KeyCode.Joystick2Button0;

@@ -41,12 +41,12 @@ public class SelectablePokemonPanel : MonoBehaviour
     {
         RefreshPreviews();
         
-        if (Input.GetKeyUp(XboxInput.B1))
+        if (Input.GetKeyUp(RemoteInput.B1))
         {
             RemoveLastSelectedPokemon(selectedPlayer1Characters);
         }
 
-        if (Input.GetKeyUp(XboxInput.B2))
+        if (Input.GetKeyUp(RemoteInput.B2))
         {
             RemoveLastSelectedPokemon(selectedPlayer2Characters);
         }
