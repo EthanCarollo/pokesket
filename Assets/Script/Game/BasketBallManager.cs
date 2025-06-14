@@ -78,7 +78,8 @@ public class BasketBallManager : MonoBehaviour
         }
         else
         {
-            GameManager.Instance.CameraManager.ResetPositionAndLookAt();
+            // To avoid "The gerbe" for the User
+            // GameManager.Instance.CameraManager.ResetPositionAndLookAt();
         }
     }
 

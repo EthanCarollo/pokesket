@@ -172,11 +172,11 @@ public class VirtualCursor : MonoBehaviour
         {
             if (currentHoveredObject.GetComponent<SelectablePokemonPrefab>() != null)
             {
-                hoverCharacterPreview.Show(currentHoveredObject.GetComponent<SelectablePokemonPrefab>().pokemon);
+                if(hoverCharacterPreview != null) hoverCharacterPreview.Show(currentHoveredObject.GetComponent<SelectablePokemonPrefab>().pokemon);
             }
             else
             {
-                hoverCharacterPreview.Hide();   
+                if(hoverCharacterPreview != null) hoverCharacterPreview.Hide();   
             }
             image.sprite = hoverSprite;
             outlineImage.sprite = outlineHoverSprite;
