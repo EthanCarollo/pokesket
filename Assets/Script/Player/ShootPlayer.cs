@@ -24,10 +24,28 @@ public class ShootPlayer : MonoBehaviour
     private float _timeAt100Percent = 0f;
     private const float MAX_TIME_AT_100 = 0.2f;
 
-    private float perfectThreshold => Mathf.Lerp(0.90f, 0.70f, _pokemonPlayer.shootPrecision / 100f);
-    float goodThreshold => perfectThreshold - 0.10f; // -10% en dessous du perfect
-    float okThreshold => goodThreshold - 0.10f; // -10% en dessous du good
+    private float DistanceFactor()
+    {
+        float distance = Vector3.Distance(_pokemonPlayer.transform.position, _pokemonPlayer.Team.GetOpponentRim().position);
 
+        float minDistance = 3f;
+        float maxDistance = 15f;
+        distance = Mathf.Clamp(distance, minDistance, maxDistance);
+
+        // Logarithmique de base
+        float logMin = Mathf.Log(minDistance);
+        float logMax = Mathf.Log(maxDistance);
+        float currentLog = Mathf.Log(distance);
+
+        float baseFactor = Mathf.InverseLerp(logMin, logMax, currentLog);
+
+        // Accentuer la courbe (exponentielle inverse)
+        return Mathf.Pow(baseFactor, 2f);
+    }
+
+    private float perfectThreshold => Mathf.Lerp(0.80f, 0.95f, DistanceFactor());
+    private float goodThreshold => perfectThreshold - 0.10f;
+    private float okThreshold => goodThreshold - 0.10f;
 
     private Vector3 _originalSliderPosition;
     private CanvasGroup _sliderCanvasGroup;
@@ -70,16 +88,12 @@ public class ShootPlayer : MonoBehaviour
     private void StartShootingMode()
     {
         if (!_pokemonPlayer.canShoot) return;
-        
+
         isShootingMode = true;
         shootingTimer = 0f;
         _timeAt100Percent = 0f;
 
-        float precisionFactor = _pokemonPlayer.shootPrecision / 100f;
-        float distance = Vector3.Distance(_pokemonPlayer.transform.position, _pokemonPlayer.Team.GetOpponentRim().position);
-
-        currentShootingWindow = Mathf.Lerp(0.6f, 1.5f, precisionFactor);
-        currentShootingWindow /= Mathf.Clamp(distance / 5f, 1f, 2f);
+        currentShootingWindow = Mathf.Lerp(1.3f, 0.6f, _pokemonPlayer.shootPrecision / 100f);
 
         SetupJuiceEffects();
 
@@ -114,26 +128,25 @@ public class ShootPlayer : MonoBehaviour
         shootingSlider.value = Mathf.Min(1f, cursorPosition);
         overLoadSlider.value = Mathf.Max(0f, cursorPosition - 1f);
 
-        // Détermination de la couleur du curseur selon les seuils dynamiques
         if (cursorPosition > 1f)
         {
-            shootingSliderFill.color = Color.red; // Trop fort
+            shootingSliderFill.color = Color.red;
         }
         else if (cursorPosition >= perfectThreshold && cursorPosition <= 1f)
         {
-            shootingSliderFill.color = Color.green; // Parfait
+            shootingSliderFill.color = Color.green;
         }
         else if (cursorPosition >= goodThreshold)
         {
-            shootingSliderFill.color = Color.yellow; // Bon
+            shootingSliderFill.color = Color.yellow;
         }
         else if (cursorPosition >= okThreshold)
         {
-            shootingSliderFill.color = new Color(1f, 0.5f, 0f); // OK (orange)
+            shootingSliderFill.color = new Color(1f, 0.5f, 0f);
         }
         else
         {
-            shootingSliderFill.color = Color.red; // Mauvais
+            shootingSliderFill.color = Color.red;
         }
 
         _currentCursorPosition = cursorPosition;
@@ -155,15 +168,15 @@ public class ShootPlayer : MonoBehaviour
         float force;
         if (guaranteedHit)
         {
-            force = 1f; // Parfait, force exacte
+            force = 1f;
         }
         else if (_currentCursorPosition < perfectThreshold)
         {
-            force = Mathf.Lerp(0.5f, 0.9f, _currentCursorPosition / perfectThreshold); // Pas assez fort
+            force = Mathf.Lerp(0.5f, 0.9f, _currentCursorPosition / perfectThreshold);
         }
-        else // cursor > 1f (trop fort)
+        else
         {
-            force = Mathf.Lerp(1.1f, 1.5f, Mathf.Clamp((_currentCursorPosition - 1f), 0f, 1f)); // Trop fort
+            force = Mathf.Lerp(1.1f, 1.5f, Mathf.Clamp((_currentCursorPosition - 1f), 0f, 1f));
         }
 
         BasketBallManager.Instance.ShootTo(rim, guaranteedHit, force, _pokemonPlayer.actualPokemon);

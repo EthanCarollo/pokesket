@@ -153,7 +153,7 @@ public class PokemonPlayer : MonoBehaviour
     {
         canPass = false;
         canShoot = false;
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0.05f);
         canPass = true;
         canShoot = true;
     }
