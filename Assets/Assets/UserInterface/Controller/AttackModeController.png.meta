@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 9953add41ab77b94a9a5f63d04cd88c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1251986286759248148
+    second: AttackModeController_0
+  - first:
+      213: 2888684938487345788
+    second: AttackModeController_1
+  - first:
+      213: 4328084182605748197
+    second: AttackModeController_2
+  - first:
+      213: 1881659023898720273
+    second: AttackModeController_3
+  - first:
+      213: -1810617891727694262
+    second: AttackModeController_4
+  - first:
+      213: 7902936089340194683
+    second: AttackModeController_5
+  - first:
+      213: 2551820139787499904
+    second: AttackModeController_6
+  - first:
+      213: 5517236356833672173
+    second: AttackModeController_7
+  - first:
+      213: -2965368406328902194
+    second: AttackModeController_8
+  - first:
+      213: -6586138316043217046
+    second: AttackModeController_9
+  - first:
+      213: 5187389680090831549
+    second: AttackModeController_10
+  - first:
+      213: 4325713390462480029
+    second: AttackModeController_11
+  - first:
+      213: 695800516166175976
+    second: AttackModeController_12
+  - first:
+      213: -7977985318969330848
+    second: AttackModeController_13
+  - first:
+      213: 4641990404139788982
+    second: AttackModeController_14
+  - first:
+      213: -6683803861645646696
+    second: AttackModeController_15
+  - first:
+      213: 2100444012071289879
+    second: AttackModeController_16
+  - first:
+      213: 3468898192192102322
+    second: AttackModeController_17
+  - first:
+      213: 290212334953274282
+    second: AttackModeController_18
+  - first:
+      213: 1130126392425130717
+    second: AttackModeController_19
+  - first:
+      213: 6927057073047447338
+    second: AttackModeController_20
+  - first:
+      213: 5340008272566073662
+    second: AttackModeController_21
+  - first:
+      213: -3272242125752172900
+    second: AttackModeController_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackModeController_0
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 667
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41102fdf4e2ff5110800000000000000
+      internalID: 1251986286759248148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 667
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c723f8a85aba61820800000000000000
+      internalID: 2888684938487345788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 667
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7d33602a1701c30800000000000000
+      internalID: 4328084182605748197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 667
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11834eba9eefc1a10800000000000000
+      internalID: 1881659023898720273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_4
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 667
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46aa9bde946fd6e0800000000000000
+      internalID: -1810617891727694262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 667
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7facbf608edcad60800000000000000
+      internalID: 7902936089340194683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 667
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089b8b2a5e2e96320800000000000000
+      internalID: 2551820139787499904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 667
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf0f62c39219c40800000000000000
+      internalID: 5517236356833672173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_8
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 667
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd79984525e8d6d0800000000000000
+      internalID: -2965368406328902194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_9
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 667
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6797aea8165994a0800000000000000
+      internalID: -6586138316043217046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 365
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba57591e6f4df740800000000000000
+      internalID: 5187389680090831549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 365
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eaaa6f865080c30800000000000000
+      internalID: 4325713390462480029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 365
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec4e9802eaf7a900800000000000000
+      internalID: 695800516166175976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 365
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0633d8f1f90884190800000000000000
+      internalID: -7977985318969330848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 254
+        width: 856
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba2681ada9ab6040800000000000000
+      internalID: 4641990404139788982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_15
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 377
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8942a36dccb5e33a0800000000000000
+      internalID: -6683803861645646696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_16
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 377
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7140b1a43b6462d10800000000000000
+      internalID: 2100444012071289879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_17
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 377
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfda9bd680042030800000000000000
+      internalID: 3468898192192102322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_18
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 377
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab935eb49a070400800000000000000
+      internalID: 290212334953274282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_19
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 377
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda2bcb57f30faf00800000000000000
+      internalID: 1130126392425130717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_20
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 270
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27a9d1f4b9d12060800000000000000
+      internalID: 6927057073047447338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_21
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 270
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39b2f73b358b1a40800000000000000
+      internalID: 5340008272566073662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackModeController_22
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 270
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ef87baf19a692d0800000000000000
+      internalID: -3272242125752172900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AttackModeController_0: 1251986286759248148
+      AttackModeController_1: 2888684938487345788
+      AttackModeController_10: 5187389680090831549
+      AttackModeController_11: 4325713390462480029
+      AttackModeController_12: 695800516166175976
+      AttackModeController_13: -7977985318969330848
+      AttackModeController_14: 4641990404139788982
+      AttackModeController_15: -6683803861645646696
+      AttackModeController_16: 2100444012071289879
+      AttackModeController_17: 3468898192192102322
+      AttackModeController_18: 290212334953274282
+      AttackModeController_19: 1130126392425130717
+      AttackModeController_2: 4328084182605748197
+      AttackModeController_20: 6927057073047447338
+      AttackModeController_21: 5340008272566073662
+      AttackModeController_22: -3272242125752172900
+      AttackModeController_3: 1881659023898720273
+      AttackModeController_4: -1810617891727694262
+      AttackModeController_5: 7902936089340194683
+      AttackModeController_6: 2551820139787499904
+      AttackModeController_7: 5517236356833672173
+      AttackModeController_8: -2965368406328902194
+      AttackModeController_9: -6586138316043217046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
