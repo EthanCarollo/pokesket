@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 
@@ -30,7 +31,20 @@ public class BasketRim : MonoBehaviour
                 Debug.LogWarning(BasketBallManager.Instance.lastPokemonTypeHolder);
                 try
                 {
-                    Instantiate(BasketBallManager.Instance.lastPokemonTypeHolder.particlePointPrefab, particleParent.transform);
+                    var _isntanciedParticles = Instantiate(BasketBallManager.Instance.lastPokemonTypeHolder.particlePointPrefab, particleParent.transform);
+                    ParticleSystem[] particleSystems = _isntanciedParticles.GetComponentsInChildren<ParticleSystem>(true);
+                    var listParticles = particleSystems.ToList();
+                    listParticles.Add(_isntanciedParticles.GetComponent<ParticleSystem>());
+                    
+                    foreach (var ps in listParticles)
+                    {
+                        if (ps == null) continue;
+                        var renderer = ps.GetComponent<Renderer>();
+                        if (renderer != null)
+                        {
+                            renderer.sortingOrder = 9000;
+                        }
+                    }
                 }
                 catch (Exception e)
                 {
