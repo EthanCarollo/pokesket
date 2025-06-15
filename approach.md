@@ -35,7 +35,7 @@ L’objectif : créer **un petit jeu compétitif, rapide et accessible entre ami
   - Jamais fermés à une nouvelle idée, on a toujours dit "oui" aux propositions (oui vraiment, sauf à la fin, c'était chaud un peu).  
   - Le processus a été un **cycle constant : idée → concrétisation → test → nouvelle idée**, pour qu'on puisse passer à autre chose et avoir un rendu présentable.
 
-- Grâce à cette méthode de production, nous n'avons jamais arreté de communiqué ce qui a grandement augmenté notre productivité, on est toujours resté motivé par l'idée de créer un jeu et la concrétisation rapide de nos idées nous tenait en haleine.
+- Grâce à cette méthode de production, nous n'avons jamais arrêté de communiquer, ce qui a grandement augmenté notre productivité. On est toujours resté motivé par l'idée de créer un jeu, et la concrétisation rapide de nos idées nous tenait en haleine.
 
 ## Construction du Prototype
 - Création d'un **prototype jouable et fonctionnel en local 3V3.**
@@ -43,7 +43,24 @@ L’objectif : créer **un petit jeu compétitif, rapide et accessible entre ami
   - **Gameplay arcade inspiré de NBA 2K street et Dunk City.**
   - **Sélection des personnages type Smash Bros.**
   - **Ambiance fun et compétitive**, proche de Mario Strikers.
-  
+
 - Le prototype offre une base solide avec des fonctionnalités clés pour pouvoir itérer par la suite.
+
+## Idées de Fonctionnalités Futures
+Voici une sélection de fonctionnalités non prioritaires mais intéressantes que nous avons envisagées pour prolonger l’expérience :
+
+- **Faire évoluer les personnages** au cours des matchs ou sur plusieurs parties.
+- **Ajouter une animation de danse pour le MVP** en fin de match.
+- **Repositionner les personnages** automatiquement en début d’action ou après certains événements.
+- **Juice et feedback visuel/textuel lors du scoring**, plus satisfaisant et expressif.
+- **Ajout de QTE** pour ajouter du skill pour les dunk.
+- **Différents modes de jeu** pour ajouter de la diversité et de la rejouabilité.
+- **Pouvoir jouer seul ou jusqu'à 4 joueurs** pour ajouter du challenge entre amis et la possibilité de s'entraîner avant.
+- **Ajouter des versions différentes de pokémon**, qui posséderait des statistiques différentes.
+- **Faire fonctionner correctement la version web**, afin de faire profiter les gens du monde entier.
+
+Ces idées restent ouvertes pour de futures itérations et seraient de belles opportunités d'amélioration du projet si on poursuit le développement.
+
+---
 
 Bref, en somme on a vraiment kiffé produire ce projet.
