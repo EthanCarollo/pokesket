@@ -17,10 +17,9 @@ MonoBehaviour:
   pokemonPortrait: {fileID: -1503668245, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -2589741847442276077, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
   pokemonType: {fileID: 11400000, guid: 7d2bc8b13260c124a8db305eb2ea681a, type: 2}
-  speed: 5
-  defence: 80
-  shootPrecision: 80
-  passPrecision: 80
+  speed: 7
+  defence: 50
+  shootPrecision: 50
   bottomRightAnimation:
   - {fileID: 2506085784430085275, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
   - {fileID: -560623428432428433, guid: d9dd43cfa5ba23b42b7486fc688226c3, type: 3}
