@@ -11,7 +11,13 @@ public class ShootPlayer : MonoBehaviour
     public Slider shootingSlider;
     public Image shootingSliderFill;
     public Slider overLoadSlider;
-    public TextMeshProUGUI feedbackShootingText;
+
+    [Header("Feedback UI")]
+    [SerializeField] private GameObject feedbackTooEarly;
+    [SerializeField] private GameObject feedbackGreat;
+    [SerializeField] private GameObject feedbackGood;
+    [SerializeField] private GameObject feedbackPerfect;
+    [SerializeField] private GameObject feedbackTooLate;
 
     private PokemonPlayer _pokemonPlayer;
 
@@ -180,7 +186,7 @@ public class ShootPlayer : MonoBehaviour
 
         BasketBallManager.Instance.ShootTo(rim, guaranteedHit, force, _pokemonPlayer.actualPokemon);
 
-        ShowShotFeedback(shootingQuality, _currentCursorPosition);
+        ShowShotFeedback(_currentCursorPosition);
         StartCoroutine(ShakeAndFadeOut(shootingQuality));
     }
 
@@ -224,23 +230,36 @@ public class ShootPlayer : MonoBehaviour
         }
     }
 
-    private void ShowShotFeedback(float quality, float cursorPosition)
+    private void ShowShotFeedback(float cursorPosition)
     {
         string feedbackText;
-        if (_timeAt100Percent >= MAX_TIME_AT_100)
+        if (cursorPosition > 1f)
+        {
             feedbackText = "TOO LATE!";
-        else if (quality >= 1.2f)
+            StartCoroutine(ShowJuicyFeedback(feedbackTooLate));
+        }
+        else if (cursorPosition >= perfectThreshold && cursorPosition <= 1f)
+        {
             feedbackText = "PERFECT SHOT!";
-        else if (quality >= 1.0f)
-            feedbackText = "EXCELLENT!";
-        else if (quality >= 0.7f)
+            StartCoroutine(ShowJuicyFeedback(feedbackPerfect));
+        }
+        else if (cursorPosition >= goodThreshold)
+        {
+            feedbackText = "GREAT SHOT!";
+            StartCoroutine(ShowJuicyFeedback(feedbackGreat));
+        }
+        else if (cursorPosition >= okThreshold)
+        {
             feedbackText = "Good Shot";
-        else if (quality >= 0.4f)
-            feedbackText = "Off Target";
+            StartCoroutine(ShowJuicyFeedback(feedbackGood));
+        }
         else
-            feedbackText = "Brick...";
+        {
+            feedbackText = "Off Target";
+            StartCoroutine(ShowJuicyFeedback(feedbackTooEarly));
+        }
 
-        Debug.Log($"Shot Result: {feedbackText} | Quality: {quality:F2} | Cursor Position: {cursorPosition:P1} | Final Precision: {_pokemonPlayer.shootPrecision * quality:F1}");
+        Debug.Log($"Shot Result: {feedbackText} | Cursor Position: {cursorPosition:P1}");
     }
 
     private void CancelShootingMode()
@@ -337,5 +356,47 @@ public class ShootPlayer : MonoBehaviour
         shootingUi.transform.localPosition = _originalSliderPosition;
         shootingUi.transform.localScale = Vector3.one;
         if (_sliderCanvasGroup != null) _sliderCanvasGroup.alpha = 1f;
+    }
+
+    private IEnumerator ShowJuicyFeedback(GameObject feedbackGO)
+    {
+        CanvasGroup canvas = feedbackGO.GetComponent<CanvasGroup>();
+        if (canvas == null)
+            canvas = feedbackGO.AddComponent<CanvasGroup>();
+
+        feedbackGO.SetActive(true);
+        canvas.alpha = 0f;
+        feedbackGO.transform.localScale = Vector3.one * 0.3f;
+
+        // Fade in + scale
+        float durationIn = 0.25f;
+        float elapsed = 0f;
+        while (elapsed < durationIn)
+        {
+            elapsed += Time.deltaTime;
+            float t = elapsed / durationIn;
+            canvas.alpha = t;
+            feedbackGO.transform.localScale = Vector3.Lerp(Vector3.one * 0.3f, Vector3.one * 1.2f, t);
+            yield return null;
+        }
+
+        // Squeeze
+        feedbackGO.transform.localScale = Vector3.one;
+
+        yield return new WaitForSeconds(0.7f);
+
+        // Fade out
+        float durationOut = 0.25f;
+        elapsed = 0f;
+        while (elapsed < durationOut)
+        {
+            elapsed += Time.deltaTime;
+            float t = elapsed / durationOut;
+            canvas.alpha = 1f - t;
+            feedbackGO.transform.localScale = Vector3.Lerp(Vector3.one, Vector3.one * 0.3f, t);
+            yield return null;
+        }
+
+        feedbackGO.SetActive(false);
     }
 }

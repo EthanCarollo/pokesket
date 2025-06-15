@@ -1,0 +1,6192 @@
+fileFormatVersion: 2
+guid: 5f64748f9b0c84a62a00ad89e13f0032
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4942202387569414042
+    second: timing_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: timing_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27acee610cff43b6b0abee0ec2322cb
+      internalID: 317907315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb4dbcabc524b74bd89701515a7349
+      internalID: 759919503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_2
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b24294d995f426f9b8c63134414e03
+      internalID: 884168751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_3
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206920519feff47e59c73665a75aeacd
+      internalID: 2112438288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_4
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4ae93d1429f4ada9b18d310193b18d
+      internalID: -565540281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_5
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19f9a233b9f242b2b109cd858d4c85e
+      internalID: 514252527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_6
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61415b32624fa4ad2957f06346aa5d9a
+      internalID: 1454721446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_7
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f3bfa8c50649a2bf4adda877d2e66
+      internalID: 2126925419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0f99751a6194ed898e18f3d1ee1c0a
+      internalID: -841928921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a523213ef244b47a67ef0cd0ff30b3
+      internalID: -838230889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_10
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c272fd6a3814c058807b0ad789ee6b
+      internalID: 42770138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_11
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef1d4ac954fe4679bf520f4a41f1ebf
+      internalID: 1632144301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_12
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf465604360984d5d842cdee12ac8fab
+      internalID: -1968445385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_13
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808622c2d0d40416d80c19f0d763034a
+      internalID: 2014627649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_14
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf9a82b3a8f64c9c836d7b320094546
+      internalID: -1637329638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_15
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0857bf4a1ad0b47319a6aa99423d30e9
+      internalID: -1038191192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f77b6220724c490f9767620d94c852a
+      internalID: -1026374153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc752710c1c84bab89058bff779bbc5
+      internalID: 2076953011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_18
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994741f0cd1b47f78f1ce1ddb0263b0
+      internalID: -1084198181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_19
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a68b611e594efbae72ce507f6f488
+      internalID: 2022949354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_20
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e0f07027f74fb2b12a3f5e5f30ee1
+      internalID: 625056507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_21
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f7259235134ca79b2d654d22f85a8
+      internalID: 232818721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_22
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e229b83d012044239c942d64e486468
+      internalID: 547651769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_23
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b63f38cae544100a736ba72415deb7
+      internalID: 1811642874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580a793b9860493eb7fc8d0dfca6bd6
+      internalID: -2043948288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_25
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d096060f7bd48456abe60f01960359b0
+      internalID: -550523163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_26
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addcf4987fb0144fb94d3d22301679de
+      internalID: 1596955249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_27
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b355a51698e6483b96ab4a51e41bf76
+      internalID: 764687510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_28
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5828ddc6f8984acaa8ecb9612ec490a
+      internalID: -1049582482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_29
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1295a841afc574651b6a80813c00a7c6
+      internalID: 1908862417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_30
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ac0e3775b2416ca2add2d969c4704
+      internalID: -551438371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_31
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b4f833456f4253b318c49c249be2e
+      internalID: -726538341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a884614a77b14457bba59a0631b281c9
+      internalID: -1425408431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d375c1e2302a742038f3c8feaebff92e
+      internalID: 1594788983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_34
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93688808e94447a781c622224c0b090
+      internalID: 409142579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_35
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c7cadeeef04d6f996ed1e3969afe6
+      internalID: 1408356234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_36
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63daa109e0a054e399d0f9d599cfd205
+      internalID: -272263860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_37
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd59a232b464d519935c5dcf783758
+      internalID: -1874315493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_38
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad80b2f32c14996b9fb104a614726d
+      internalID: 1228719854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_39
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01eff501a26c4380b0cdc2d3f67bbdd
+      internalID: 1209941496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9a3d333f1746d2a697baaacd8c9af
+      internalID: -1298663847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad9378176334921a23ef9562d3ef11
+      internalID: -1750630005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_42
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac00fa6cfd64290b18049ae6ac3dd7
+      internalID: -1353912191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_43
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aa86d4010ac4d94937499d813e7df4
+      internalID: 418886141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_44
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8835bc63ad4644841ab37b55f052a70d
+      internalID: -1994789216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_45
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469a6851e66a4feeab54865e29c2376
+      internalID: 152413809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_46
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155b35f71a46549269ce1a82531e3adb
+      internalID: 528032999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_47
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefd2e0c3981e4130a56080057981a82
+      internalID: -1646596852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506581778e4e4437f85c733c35ae00b0
+      internalID: 2145810177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168bf04d6b5bc44eb9b661e1bd9f538b
+      internalID: -681102609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_50
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec9ba0bba78d4e3bb014a6418547c9c
+      internalID: 1812451429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_51
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0597f3735b9e467caf228745035c9d0
+      internalID: -17858045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_52
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c53c2e142c54c86a772ad40815588e
+      internalID: -1058939259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_53
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371bd767f65944860a556f84a0ce1695
+      internalID: 1255923474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_54
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fad4c50ece949cf9f1fe2675d7b76b
+      internalID: 614930561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_55
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e585a63b9965486bb62d8730ea4cc14
+      internalID: -525381547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb968c472211c44208a80d8e0505f70d
+      internalID: 667357929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9b88bed4cc4188a49b148ecf5e0e5
+      internalID: -1240082211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_58
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a04faee11341818da480af76aeca0
+      internalID: -1625543392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_59
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31871921bc5846718c4ef8abd003bb8
+      internalID: 825176053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_60
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd82a3518b849dc8552684ebc4a9a0
+      internalID: 1004212682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_61
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b76f5c6a4c5e44c68e1f6622cf72b74
+      internalID: 914089037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_62
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e959dab50f24af28811b31992839c3
+      internalID: -440642124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_63
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2045
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046b0d164f62c44dfb0585f54ddc0111
+      internalID: 742221707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23f32caefc64909b5046b27cfd8c8a
+      internalID: -912274180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7472a3d55d544cabc383d98ddfb6f8
+      internalID: 620037791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_66
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12702d99f2be94919b21e639091e8c8d
+      internalID: -1175889065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_67
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca17b39a504284051b539619f1aeb702
+      internalID: 697317467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_68
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f040609777b40cfa662d800a27eec8
+      internalID: -1658158759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_69
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4f03a0b7c3143e9b40d6f4160e60cc
+      internalID: 1995247808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_70
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c421e5e897f904a4abe7ff1f18eef6f7
+      internalID: 1256535198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_71
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1965
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f45fa85e13c42b08aaaa5ec0c8c82e
+      internalID: -2092689777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b903e4a620e4d5390a1dbc5a357586
+      internalID: 285710125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da0b58288c234faa9f303e37df1f8fb
+      internalID: 684137410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_74
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ded27d2efe945608ac8eb2a2698b66
+      internalID: 1312577907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_75
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624ae7f9516a4f1d8886aeb7f3a5653
+      internalID: 919726347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_76
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9dffa3b669b4324b318c5c9af9f517
+      internalID: -419726910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_77
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726b592258dba40268d725b0b555e02d
+      internalID: -1169568581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_78
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd65c18d448e643fba416f698a43a9a2
+      internalID: 1554804520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_79
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1885
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2467c26cf524a4e89933f60df6e5fe
+      internalID: -1585311603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b798196e1c4073a1a72a136f9c3bc
+      internalID: -912850405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_81
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1233c260dc6864a368e8d6b907ea3aaa
+      internalID: -1978964002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_82
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf3c474b040343ba8477aeaf34c72ef
+      internalID: -1034056462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_83
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1655eac8e09a44bb7bc2fb4dfdc0af09
+      internalID: 589405615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_84
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc3e71acf614a57ad97d6d8d0e76d6
+      internalID: -2095471534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_85
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e351e09eba884ba5958af6f65e83e12
+      internalID: -1649289631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_86
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6759fe7e960c4b7c84ebb4f01b35777
+      internalID: 199018987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_87
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1805
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ecf128c848c4647baf2ca89da8d523
+      internalID: 730726940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410e96f3f82bb420587b3232d8fa002e
+      internalID: 234763535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca84a24a52663427097187ea2bda7f26
+      internalID: -411101725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_90
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22996a5f6293a427d8bea7a618dfd5a2
+      internalID: -1509141012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_91
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8497e9469547f0b236122978c6ed7
+      internalID: 81551368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_92
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb6e29eeb2c4f41a50009a70eb53ee
+      internalID: -1878836186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_93
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e161c7e4d0d47248e1fa92db3f4616
+      internalID: -645444203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_94
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23024da807b674a4aac0ba985b181e46
+      internalID: 1134681997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_95
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1725
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee2f99057964942bbf8231cbf3131a
+      internalID: -1937758043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5efff4e7a2834a868f461dbd4ac5508
+      internalID: 1614294733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_97
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2193253c5ac4c7db0cc2c69705689f
+      internalID: 643433277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_98
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35d4fe24b12f4010a7f4a0cb95278ae
+      internalID: -484665928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_99
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62a602283b34e058cefab31e1b7306
+      internalID: 1489184546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_100
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e174c1839f3c74232ae9d3c540e04a3b
+      internalID: 1240923033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_101
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacbb3c024c6e422b98ee26c8331c8fd
+      internalID: -328471583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_102
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db6ae2cb77743b6be91141b8aca027
+      internalID: 974827185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_103
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1645
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8202357d8d147f6bfdf577d6d4ae33
+      internalID: -1887580401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25d7f0ab17d74f68aa75f65f3b6d897
+      internalID: 1423634390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_105
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b1e6132d74144a4828e13667f515d5
+      internalID: -834330562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_106
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c530c75f08d743eba9151c7444d9896
+      internalID: -1276291773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_107
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2473882654434f7480f3d506ee57c1e
+      internalID: -223130805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_108
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e55983911b0e4835b6be553c4680310
+      internalID: 9779364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_109
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221a351ec16594dda9865e3156934f29
+      internalID: 1722283777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_110
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a318cd9d59824fc7a3c0b995cdfedc0
+      internalID: 2029836713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_111
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1565
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0dd239a8c454512ad44c989e7cc060
+      internalID: 2009552663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f40afccd00424540af4eba05a46ce1b
+      internalID: -254171948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_113
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dabc359050694fabb28b78dc99ccf54
+      internalID: -1538122961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_114
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e3178877bbc4e21b92bab3fd249d4f
+      internalID: 666814101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_115
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173c28b3ab81416ca0b1ffbc8627f0f
+      internalID: -1120290499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_116
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9438c3deca4f1187eb5f2cf0d71bb
+      internalID: -1271085892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_117
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2c79eaddd54416aef8aea63d9de7e
+      internalID: -977484556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_118
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df74c4d90c4df459b949313e7f2c4a79
+      internalID: -1108240719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_119
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1485
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccf8436666ef4819a842108064abf9b
+      internalID: -185675730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10ac2af39b3c4eeca73dcbdad24fb2e
+      internalID: -442524442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_121
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd97a301dab346b38f497ffe48c6e85
+      internalID: -1323167511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_122
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0b60a3c10e246fdbac0c5f02e3757d
+      internalID: 2032387961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_123
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116b56d45bcc48e2811a1c0b8507968
+      internalID: -2111770087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_124
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9da3d08094a44d808aa5c1f63f95d14
+      internalID: -1027772851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_125
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4451b9fdd6d5346cc9d760d2377e73c5
+      internalID: -994848394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_126
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee04d3ebda6e54689aa92d04e423a469
+      internalID: -818343664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_127
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1405
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1041ad0cd01e425881f01be2bccf764
+      internalID: -181982444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d9bfe9254448baab8e1cc648f02cb
+      internalID: 1822733751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_129
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974374a66f43243cdae3ca9a004f9e00
+      internalID: 660877650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_130
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f309c5534769e458b9e1e9d0940c7f2c
+      internalID: 658881865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_131
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b4a6daf35842ed9531d80cf6c1901
+      internalID: -1582126774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_132
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c243d43c61cd456e8b4495d8cfb6ad1
+      internalID: -1539014713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_133
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0c50b7608f346ba853e409e4cfcbbe
+      internalID: -857566145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_134
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b45da3536da74ac8abdcb60214dcc1b
+      internalID: -2033115583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_135
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1325
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5c0f66cd06402a86406823dde34ba
+      internalID: 556595244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924738a1a28ce40a797997b69b7c0638
+      internalID: -272942611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_137
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b3032d7dd94b1ba2afb91ab05ddeb
+      internalID: 1736329379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_138
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cae6a0eb9a0413b8bf712b095a9a79
+      internalID: -699635949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_139
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480dc8cfd53274f3b845a759d109bb8b
+      internalID: -2022027173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_140
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707b097d81e04fc3ab1573cecac2e5e
+      internalID: -344327376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_141
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a57c70b91243cab8ca4751971b440
+      internalID: -1202207195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_142
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06449cb6340bd4e50b6cfabf453c0b24
+      internalID: -273751585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_143
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1245
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92785a3917bd74b5299792b02b292e0f
+      internalID: 705586940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_144
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31f4d82538a47ec82146aed1effa09
+      internalID: -2074287950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_145
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d6f900989aa4849897e0b96b6514f4
+      internalID: -643449174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_146
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26c12c127cd472baebd3ace33498a1
+      internalID: -758121122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_147
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f66f268a8474122b530780f8d7ec31
+      internalID: 552431247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_148
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3bfcd4eae4b4d6ab5a553899197941
+      internalID: -1055975636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_149
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b47c7bfcaee4cf187743f9f1817228
+      internalID: 1630194288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_150
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52e80ab96d224e5ea6575a11960f79c
+      internalID: -222267060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_151
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1165
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc420584400454f55926dd07a84098db
+      internalID: -926437096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed39090f0cfa344fc8fd0eeab9cb7174
+      internalID: -588174655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_153
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0288d3a8bd4c30aba5be8b66a444b
+      internalID: 1040593760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_154
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d5019e41814409b8558431a608502
+      internalID: 968968445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_155
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7c149f197c9416b8647578395d88b4
+      internalID: 1056432818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_156
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56116e036361c45a3a5362a7171ec144
+      internalID: 2075642777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_157
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef2bb4724ef149d682ba4a9b130064e
+      internalID: 1757137345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_158
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619558b90781145dfa6c8c3f5492262c
+      internalID: 1187946016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_159
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1085
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9029eccfc35643188c1b8f2e1ba700a
+      internalID: 2072380874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e28b24ed6a84990934b5cadf51c55a
+      internalID: 1949380789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_161
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb6e22915034aeea6ae413e9a4c7e7
+      internalID: 1477947806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_162
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5647a073911b48c0bd1aae413a35324
+      internalID: -973888883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_163
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf179c8e8ffc48d5945af0f1db5855a
+      internalID: 1831240370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_164
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3d5e8bdc9a4153bf1f24d673d3960
+      internalID: 2124726945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_165
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4308b959d14cea97751c07f252b7b
+      internalID: -168183964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_166
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c46bd15a36449549bc8a41c79a8ab4
+      internalID: -1246511992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_167
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1005
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbedd49722a943dfb11b24e2001648b
+      internalID: 1977314181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289729bf24ed477e8706ef4987c89d0
+      internalID: -316357664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_169
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590574aab5fee4951883f96d36af1ad4
+      internalID: 1202858884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_170
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee414b8f282194f2f93a9bfbb780cdd0
+      internalID: 1365825700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_171
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1475d323f842ec9b768b25c7aa1e8
+      internalID: 424484628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_172
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b06bbf5ce234decac140a03e0988a3
+      internalID: 470122390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_173
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827cff821f5954df4b188069a7bd5fb3
+      internalID: 1602906279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_174
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d6cb36b3d84ba9a2e2e39c18c5b70
+      internalID: 759104386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_175
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 925
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9232a4f21549e6960a2d499feaa5e
+      internalID: 1279609052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72ca07c1d5db4bee9feb01df8b3c0e1
+      internalID: 1888191582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_177
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a3664447514555a9e69b7105c4334
+      internalID: 922669436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_178
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfed49b401ae34f81beaf5ffb606ff10
+      internalID: -409592814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_179
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a073fb0f41944b69acf49a962cf628b
+      internalID: 1859953444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_180
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92341e5c09f2e41228a54f64d7440f30
+      internalID: 1003065754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_181
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ecb6f8fe45344eabeef331e0b8c09e
+      internalID: 1652335554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_182
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5b0b3453ee454b89ffabdc55124ae
+      internalID: 1180129240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_183
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 845
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5742f791775e24241aeaa8ead0ed12c5
+      internalID: 1122238382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63631dcc6afa6468e9c87e49d97bb576
+      internalID: 508996595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_185
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d3885f25354b1986968e4fe25b9b3
+      internalID: -1207201774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_186
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c976bdabc80b24ce9890239bf7d0e6ea
+      internalID: 540514986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_187
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d3172253c3495d896ca6fe2cafb13
+      internalID: -1022775454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_188
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95960d1736f4853b99b301d6b9bbd0
+      internalID: -2018022326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_189
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a63042bb1c47c69a8ce10b3ea8f2e
+      internalID: 976930083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_190
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb66b031262e48f9b07122bcfb1bd3b
+      internalID: -912030851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_191
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 765
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8ccc7ce4174518a42d54e01fd978a
+      internalID: -868301998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_192
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf6d002f25db4f39a1040c7e10535db
+      internalID: 1805564842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_193
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0c19b2952c450c862a0cc46ba8722
+      internalID: -40105678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_194
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f763669ebe48809677d874c0fb047
+      internalID: -885813558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_195
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9248ac8d8627a44f18a6644b62404e56
+      internalID: 2041562590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_196
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf575230e4b09448fa3e42444700f26c
+      internalID: -1854713570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_197
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b7d1168b3bd488688fbea049358089
+      internalID: -996827705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_198
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ee6ad3a25443e3b0f54713d1b25c9
+      internalID: -1763208663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_199
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 685
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c5d2a3a02748bb8358e8252db1514
+      internalID: 695654021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148f2c14eb9074fdeb8aeaf54db66c56
+      internalID: -378072191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_201
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039882562030b41debe119a17b5c8a50
+      internalID: 1389602899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_202
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99abe13b7f6942349d8dfcc2d080957
+      internalID: 1347544978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_203
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2959d515bc9a43ccb3f63d4b5baade4
+      internalID: 311869005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_204
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b8f3f0d4c94c1c8c9baba57639c64
+      internalID: -1019095440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_205
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a55d2a12f94434fbd7a6918fc0d811
+      internalID: -702051618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_206
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d86dd051104f1390d4714d5b1107a
+      internalID: 9527082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_207
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 605
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280987b60305048e99acc9e00ff4da34
+      internalID: 1500944015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_208
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e057625f6b04a978cbf773d4aa092a
+      internalID: 664257193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_209
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a572c72aed77b481dbf53600bf09b0cc
+      internalID: -1420193898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_210
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbb40b9963294ad784e7bc29cad725d
+      internalID: 65439513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_211
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97c6699c4746488e899fb57cd2bb46b
+      internalID: 932010752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_212
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c475f20bbc7924185a624ec892ff9dc9
+      internalID: -464878945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_213
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb28060d92449419b22d8e1af5fab4
+      internalID: 980960765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_214
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ea02acc57a14133a64821a80b9953a
+      internalID: 653638407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_215
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 525
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a939431a053b148fcaca7956d165391f
+      internalID: -486493021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548c769e75e84685bb441f0178889a0
+      internalID: 454853994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_217
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b32cb5c8594a7faf3972eda526e9c
+      internalID: -797386819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_218
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49131d21130934ebfb55dccb877526e3
+      internalID: -960251954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_219
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53d3dd7349d439f8d88797b14acd38
+      internalID: -1611570875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_220
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fbdf466d210496082a340b2122c11a
+      internalID: -1416629824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_221
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b7a0ea7d9e4495acfb7b61dd7c460
+      internalID: 170625053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_222
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec73520f56734eafadaa00958b4ff1f
+      internalID: -1123363858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_223
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 445
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23201f9dc0d145c280c003fe9b7361b
+      internalID: 1091771782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_224
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c6e9c0caa543118c41b9314c1b5e9
+      internalID: -288511979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_225
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66ace8ab133343b6a2acdaba125aa78
+      internalID: 896046169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_226
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7787662b194c0d8ff96fcc217faa6
+      internalID: 425959519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_227
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd5dd71d1fdb4cb3b33d84ef403b7be
+      internalID: 304440913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_228
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7572fd3ea479b4961be8ee04f7b61853
+      internalID: -1755997421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_229
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f25702b15bd14e3ca288b708eea5767
+      internalID: -510192987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_230
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b459169ecb4a6bb31b6b10e8af5a2
+      internalID: -902971434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_231
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 365
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82341d4600d5b4121a482dd0c5bbbead
+      internalID: -40309527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_232
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4eb9c3ebfd4584a4d8823eb976da0
+      internalID: 389612141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_233
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b05e334b56d4117b8a436f50e5b945
+      internalID: -1095751906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_234
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79689311ee634b45a3f0cc8266bd985
+      internalID: -1421312543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_235
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016cad6aa75004bc786c9c930566a6ac
+      internalID: -155564239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_236
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e103b915c0b4a36a47f9cd96d911ff
+      internalID: 1822395642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_237
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4e6fd07f99a48fdae45cd7f4150542
+      internalID: -532743003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_238
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d4567e39f84219b231f534a5e8024
+      internalID: -276866273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_239
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 285
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff44b233b3a4ee6ad20e7584916f62
+      internalID: -262579276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed20932c6031045bf94a7a960fe2ea31
+      internalID: 813634339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_241
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff02584d543344a0b157e6144ee1622
+      internalID: 1441446585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_242
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851a18d2be2e43d2b54da7c89f909d5
+      internalID: -1095028424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_243
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9cc163639554649a703ec6b2ad8cdc
+      internalID: 1521688240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_244
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d4407c6336f4abf971ac9b4ad182ca
+      internalID: 326625624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_245
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f20469273ac473ca326b344d1c640d
+      internalID: 591873270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_246
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d37da96aea44d27a2d52420c6d3d5a
+      internalID: -1982050906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_247
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 205
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b682391fbb848b3a81ede488e3efb0
+      internalID: -1949215904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_248
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fad4a287ce494f8cc331816ed3943
+      internalID: -1651385307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_249
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e5bff00f4543dba1b6eee1380725a
+      internalID: 1623619258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_250
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6898ff83c14f1a99f12a259bf81dc
+      internalID: -1657676898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_251
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cbc6fd0293742d7a1be09603643097
+      internalID: 2025215070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_252
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c71d95009a4d37a949400a45f3455
+      internalID: 1786582909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_253
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aae60102a5642368827bc9dd442e4c
+      internalID: -2072302680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_254
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f336674f6349d8855b98e2f9170e4
+      internalID: 1926474757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_255
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 125
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9881cbefae4ed09bb5466fed585bd
+      internalID: -1501088147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_256
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c6ba837d0a94dc49c35af166031ce1
+      internalID: -2096819779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_257
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904fc10e3680455a925bcb5ae1265de
+      internalID: -50022204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_258
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85931041e865e4f149d947aa3503edc8
+      internalID: 915564465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_259
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f988ee1947fb4505afb5ffd683c7aae
+      internalID: 781473525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_260
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f539ee5a7f9b462b8386465cbd0ea2d
+      internalID: 817391468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_261
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617476080a7914b5aa70ecbd366ee3af
+      internalID: -1837501441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_262
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2869dcdff56440a1b3f1a227074cc23
+      internalID: -553209174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: timing_263
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 45
+        width: 340
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3af722d4d44a79b57a15e8afb770f
+      internalID: 1379625739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a42e3474800434d2b9a2a29388e69b35
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      timing_0: 317907315
+      timing_1: 759919503
+      timing_10: 42770138
+      timing_100: 1240923033
+      timing_101: -328471583
+      timing_102: 974827185
+      timing_103: -1887580401
+      timing_104: 1423634390
+      timing_105: -834330562
+      timing_106: -1276291773
+      timing_107: -223130805
+      timing_108: 9779364
+      timing_109: 1722283777
+      timing_11: 1632144301
+      timing_110: 2029836713
+      timing_111: 2009552663
+      timing_112: -254171948
+      timing_113: -1538122961
+      timing_114: 666814101
+      timing_115: -1120290499
+      timing_116: -1271085892
+      timing_117: -977484556
+      timing_118: -1108240719
+      timing_119: -185675730
+      timing_12: -1968445385
+      timing_120: -442524442
+      timing_121: -1323167511
+      timing_122: 2032387961
+      timing_123: -2111770087
+      timing_124: -1027772851
+      timing_125: -994848394
+      timing_126: -818343664
+      timing_127: -181982444
+      timing_128: 1822733751
+      timing_129: 660877650
+      timing_13: 2014627649
+      timing_130: 658881865
+      timing_131: -1582126774
+      timing_132: -1539014713
+      timing_133: -857566145
+      timing_134: -2033115583
+      timing_135: 556595244
+      timing_136: -272942611
+      timing_137: 1736329379
+      timing_138: -699635949
+      timing_139: -2022027173
+      timing_14: -1637329638
+      timing_140: -344327376
+      timing_141: -1202207195
+      timing_142: -273751585
+      timing_143: 705586940
+      timing_144: -2074287950
+      timing_145: -643449174
+      timing_146: -758121122
+      timing_147: 552431247
+      timing_148: -1055975636
+      timing_149: 1630194288
+      timing_15: -1038191192
+      timing_150: -222267060
+      timing_151: -926437096
+      timing_152: -588174655
+      timing_153: 1040593760
+      timing_154: 968968445
+      timing_155: 1056432818
+      timing_156: 2075642777
+      timing_157: 1757137345
+      timing_158: 1187946016
+      timing_159: 2072380874
+      timing_16: -1026374153
+      timing_160: 1949380789
+      timing_161: 1477947806
+      timing_162: -973888883
+      timing_163: 1831240370
+      timing_164: 2124726945
+      timing_165: -168183964
+      timing_166: -1246511992
+      timing_167: 1977314181
+      timing_168: -316357664
+      timing_169: 1202858884
+      timing_17: 2076953011
+      timing_170: 1365825700
+      timing_171: 424484628
+      timing_172: 470122390
+      timing_173: 1602906279
+      timing_174: 759104386
+      timing_175: 1279609052
+      timing_176: 1888191582
+      timing_177: 922669436
+      timing_178: -409592814
+      timing_179: 1859953444
+      timing_18: -1084198181
+      timing_180: 1003065754
+      timing_181: 1652335554
+      timing_182: 1180129240
+      timing_183: 1122238382
+      timing_184: 508996595
+      timing_185: -1207201774
+      timing_186: 540514986
+      timing_187: -1022775454
+      timing_188: -2018022326
+      timing_189: 976930083
+      timing_19: 2022949354
+      timing_190: -912030851
+      timing_191: -868301998
+      timing_192: 1805564842
+      timing_193: -40105678
+      timing_194: -885813558
+      timing_195: 2041562590
+      timing_196: -1854713570
+      timing_197: -996827705
+      timing_198: -1763208663
+      timing_199: 695654021
+      timing_2: 884168751
+      timing_20: 625056507
+      timing_200: -378072191
+      timing_201: 1389602899
+      timing_202: 1347544978
+      timing_203: 311869005
+      timing_204: -1019095440
+      timing_205: -702051618
+      timing_206: 9527082
+      timing_207: 1500944015
+      timing_208: 664257193
+      timing_209: -1420193898
+      timing_21: 232818721
+      timing_210: 65439513
+      timing_211: 932010752
+      timing_212: -464878945
+      timing_213: 980960765
+      timing_214: 653638407
+      timing_215: -486493021
+      timing_216: 454853994
+      timing_217: -797386819
+      timing_218: -960251954
+      timing_219: -1611570875
+      timing_22: 547651769
+      timing_220: -1416629824
+      timing_221: 170625053
+      timing_222: -1123363858
+      timing_223: 1091771782
+      timing_224: -288511979
+      timing_225: 896046169
+      timing_226: 425959519
+      timing_227: 304440913
+      timing_228: -1755997421
+      timing_229: -510192987
+      timing_23: 1811642874
+      timing_230: -902971434
+      timing_231: -40309527
+      timing_232: 389612141
+      timing_233: -1095751906
+      timing_234: -1421312543
+      timing_235: -155564239
+      timing_236: 1822395642
+      timing_237: -532743003
+      timing_238: -276866273
+      timing_239: -262579276
+      timing_24: -2043948288
+      timing_240: 813634339
+      timing_241: 1441446585
+      timing_242: -1095028424
+      timing_243: 1521688240
+      timing_244: 326625624
+      timing_245: 591873270
+      timing_246: -1982050906
+      timing_247: -1949215904
+      timing_248: -1651385307
+      timing_249: 1623619258
+      timing_25: -550523163
+      timing_250: -1657676898
+      timing_251: 2025215070
+      timing_252: 1786582909
+      timing_253: -2072302680
+      timing_254: 1926474757
+      timing_255: -1501088147
+      timing_256: -2096819779
+      timing_257: -50022204
+      timing_258: 915564465
+      timing_259: 781473525
+      timing_26: 1596955249
+      timing_260: 817391468
+      timing_261: -1837501441
+      timing_262: -553209174
+      timing_263: 1379625739
+      timing_27: 764687510
+      timing_28: -1049582482
+      timing_29: 1908862417
+      timing_3: 2112438288
+      timing_30: -551438371
+      timing_31: -726538341
+      timing_32: -1425408431
+      timing_33: 1594788983
+      timing_34: 409142579
+      timing_35: 1408356234
+      timing_36: -272263860
+      timing_37: -1874315493
+      timing_38: 1228719854
+      timing_39: 1209941496
+      timing_4: -565540281
+      timing_40: -1298663847
+      timing_41: -1750630005
+      timing_42: -1353912191
+      timing_43: 418886141
+      timing_44: -1994789216
+      timing_45: 152413809
+      timing_46: 528032999
+      timing_47: -1646596852
+      timing_48: 2145810177
+      timing_49: -681102609
+      timing_5: 514252527
+      timing_50: 1812451429
+      timing_51: -17858045
+      timing_52: -1058939259
+      timing_53: 1255923474
+      timing_54: 614930561
+      timing_55: -525381547
+      timing_56: 667357929
+      timing_57: -1240082211
+      timing_58: -1625543392
+      timing_59: 825176053
+      timing_6: 1454721446
+      timing_60: 1004212682
+      timing_61: 914089037
+      timing_62: -440642124
+      timing_63: 742221707
+      timing_64: -912274180
+      timing_65: 620037791
+      timing_66: -1175889065
+      timing_67: 697317467
+      timing_68: -1658158759
+      timing_69: 1995247808
+      timing_7: 2126925419
+      timing_70: 1256535198
+      timing_71: -2092689777
+      timing_72: 285710125
+      timing_73: 684137410
+      timing_74: 1312577907
+      timing_75: 919726347
+      timing_76: -419726910
+      timing_77: -1169568581
+      timing_78: 1554804520
+      timing_79: -1585311603
+      timing_8: -841928921
+      timing_80: -912850405
+      timing_81: -1978964002
+      timing_82: -1034056462
+      timing_83: 589405615
+      timing_84: -2095471534
+      timing_85: -1649289631
+      timing_86: 199018987
+      timing_87: 730726940
+      timing_88: 234763535
+      timing_89: -411101725
+      timing_9: -838230889
+      timing_90: -1509141012
+      timing_91: 81551368
+      timing_92: -1878836186
+      timing_93: -645444203
+      timing_94: 1134681997
+      timing_95: -1937758043
+      timing_96: 1614294733
+      timing_97: 643433277
+      timing_98: -484665928
+      timing_99: 1489184546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
