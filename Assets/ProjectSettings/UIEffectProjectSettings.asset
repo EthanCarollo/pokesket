@@ -19,7 +19,13 @@ ShaderVariantCollection:
         passType: 0
       - keywords: EDGE_PLAIN
         passType: 0
+      - keywords: EDGE_SHINY
+        passType: 0
+      - keywords: GRADATION_GRADIENT
+        passType: 0
       - keywords: TRANSITION_BLAZE
+        passType: 0
+      - keywords: TRANSITION_DISSOLVE
         passType: 0
       - keywords: TRANSITION_PATTERN
         passType: 0

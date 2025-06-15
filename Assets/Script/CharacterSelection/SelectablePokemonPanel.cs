@@ -157,7 +157,8 @@ public class SelectablePokemonPanel : MonoBehaviour
                         PokemonDatabase.Instance.pokemons[3],
                         PokemonDatabase.Instance.pokemons[4],
                         PokemonDatabase.Instance.pokemons[5],
-                    }
+                    },
+                2
                 );
             });
     }
@@ -174,7 +175,8 @@ public class SelectablePokemonPanel : MonoBehaviour
                 {
                     gameManager.StartMatch(
                         selectedPlayer1Characters.ToList(),
-                        selectedPlayer2Characters.ToList()
+                        selectedPlayer2Characters.ToList(),
+                        21
                     );
                 }
                 else

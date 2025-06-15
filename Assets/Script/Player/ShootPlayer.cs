@@ -18,7 +18,6 @@ public class ShootPlayer : MonoBehaviour
     private float speedNerf = 0.3f;
     private bool isShootingMode = false;
     private float shootingTimer = 0f;
-    private float baseShootingWindow = 2f;
     private float currentShootingWindow;
     private float _currentCursorPosition = 0f;
     private float _timeAt100Percent = 0f;

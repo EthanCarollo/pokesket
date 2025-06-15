@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
@@ -15,7 +16,10 @@ public class GameManager : MonoBehaviour
         {
             foreach (BasketTeam team in teams)
             {
-                
+                if (team.teamScore >= maxPoint)
+                {
+                    return true;
+                }
             }
             return false;
         }
@@ -59,6 +63,14 @@ public class GameManager : MonoBehaviour
 #endif
     }
 
+    void Update()
+    {
+        if (IsMatchEnd)
+        {
+            EndMatch();
+        }
+    }
+
 #if UNITY_EDITOR
     private bool IsLaunchedDirectly()
     {
@@ -66,7 +78,7 @@ public class GameManager : MonoBehaviour
     }
 #endif
 
-    public void StartMatch(List<Pokemon> pokeTeamBlue, List<Pokemon> pokeTeamRed, int _maxPoint = 21)
+    public void StartMatch(List<Pokemon> pokeTeamBlue, List<Pokemon> pokeTeamRed, int _maxPoint = 2)
     {
         BasketBallManager.Instance.StartMatch();
         for (int i = 0; i < pokeTeamBlue.Count; i++)
@@ -98,6 +110,7 @@ public class GameManager : MonoBehaviour
 
     public void EndMatch()
     {
-        
+        matchPlaying = false;
+        EndPanel.Instance.ShowWin(teams.ToList().Find(team => team.teamScore >= maxPoint));
     }
 }

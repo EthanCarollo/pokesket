@@ -47,9 +47,19 @@ public class BasketRim : MonoBehaviour
     private void Goal()
     {
         BasketBall ball = BasketBallManager.Instance.basketBall;
+        if (BasketBallManager.Instance.lastBallHolder != null)
+        {
+            BasketBallManager.Instance.lastBallHolder.pointScored += ball.points;
+        }
+        else
+        {
+            Debug.LogWarning("Cannot set last ball holder ball points");
+        }
+        
         var opponentTeam =
             GameManager.Instance.GetTeam(rimTeam.teamName == TeamName.Blue ? TeamName.Red : TeamName.Blue);
         opponentTeam.teamScore += ball.points;
+        
         Debug.Log("PANIER !");
     }
 }

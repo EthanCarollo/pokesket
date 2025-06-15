@@ -21,7 +21,7 @@ public class PauseMenu : MonoBehaviour
 
         public void Update()
         {
-                if (Input.GetKeyDown(RemoteInput.START1) || Input.GetKeyDown(RemoteInput.START2))
+                if ((Input.GetKeyDown(RemoteInput.START1) || Input.GetKeyDown(RemoteInput.START2)) && GameManager.Instance.IsMatchEnd == false)
                 {
                         if (Input.GetButton("PauseMenu") && !IsPauseMenuOpen)
                         {

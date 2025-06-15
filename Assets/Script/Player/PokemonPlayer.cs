@@ -44,6 +44,8 @@ public class PokemonPlayer : MonoBehaviour
     [NonSerialized] public bool isBlockingShoot = false;
     [NonSerialized] public bool isBlockingPass = false;
     private bool _canHold = true;
+    
+    [NonSerialized] public int pointScored;
 
     private IPokemonPlayerState currentState;
 

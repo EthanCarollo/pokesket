@@ -7,6 +7,7 @@ public class CameraManager
 {
         public CinemachineCamera cinemachineCamera;
         public CinemachineFollow cinemachineFollow;
+        public CinemachineRotationComposer cinemachineRotationComposer;
 
         private Transform baseLookAtTransform;
         private Vector3 baseFollowOffsetPosition;
@@ -36,5 +37,12 @@ public class CameraManager
         {
                 this.cinemachineCamera.LookAt = newLookAtTransform;
                 this.cinemachineFollow.FollowOffset = newFollowOffsetPosition;
+        }
+
+        public void SetNewLookAtTransform(Transform newLookAtTransform, Vector3 newFollowOffsetPosition, Vector2 screenPositionRotationComposer)
+        {
+                this.cinemachineCamera.LookAt = newLookAtTransform;
+                this.cinemachineFollow.FollowOffset = newFollowOffsetPosition;
+                this.cinemachineRotationComposer.Composition.ScreenPosition = screenPositionRotationComposer;
         }
 }
