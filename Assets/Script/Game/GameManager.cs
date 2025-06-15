@@ -32,6 +32,7 @@ public class GameManager : MonoBehaviour
     {
         if (Instance != null && Instance != this)
         {
+            Debug.Log("Destroying GameManager, instance already exists.");
             Destroy(gameObject);
             return;
         }
@@ -41,27 +42,6 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         CameraManager.Start();
-#if UNITY_EDITOR
-        if (IsLaunchedDirectly())
-        {
-            Debug.Log("==== Scène lancée directement depuis l'éditeur ! Lancement du match avec des paramètres prédéfinis.");
-            StartMatch(
-                new List<Pokemon>()
-                {
-                    PokemonDatabase.Instance.pokemons[2],
-                    PokemonDatabase.Instance.pokemons[3],
-                    PokemonDatabase.Instance.pokemons[7],
-                },
-                new List<Pokemon>()
-                {
-                    PokemonDatabase.Instance.pokemons[1],
-                    PokemonDatabase.Instance.pokemons[4],
-                    PokemonDatabase.Instance.pokemons[5],
-                },
-                210
-                );
-        }
-#endif
     }
 
     void Update()

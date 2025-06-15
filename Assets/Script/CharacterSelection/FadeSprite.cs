@@ -5,6 +5,7 @@ public class FadeSprite : MonoBehaviour
 {
     public SpriteRenderer spriteRenderer;
     public Image typeImage;
+    public Image pokemonPosition;
     public float fadeSpeed = 5f;
 
     private float targetFade = 1f;
@@ -41,6 +42,7 @@ public class FadeSprite : MonoBehaviour
     public void Show(Pokemon pokemon)
     {
         _pokemon = pokemon;
+        pokemonPosition.gameObject.SetActive(true);
         spriteRenderer.sprite = pokemon.pokemonSprite;
         spriteRenderer.material.SetColor("_GlowColor" ,pokemon.pokemonType.typeColor);
         typeImage.sprite = pokemon.pokemonType.typeIcon;
@@ -52,6 +54,7 @@ public class FadeSprite : MonoBehaviour
     public void Hide()
     {
         _pokemon = null;
+        pokemonPosition.gameObject.SetActive(false);
         typeImage.sprite = null;
         typeImage.color = new Color(1f, 1f, 1f, 0f);
         targetFade = 0f;

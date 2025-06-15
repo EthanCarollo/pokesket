@@ -13,17 +13,17 @@ public class LoadingScreenManager : MonoBehaviour
     private bool _sceneIsSwapping;
 
     public void StartToLoadScene(int sceneToLoad){
-        StartToLoadScene(sceneToLoad, () => {});
+        StartToLoadScene(sceneToLoad, (gameManager) => {});
     }
 
-    public void StartToLoadScene(int sceneToLoad, Action onEndCallback){
+    public void StartToLoadScene(int sceneToLoad, Action<GameManager> onEndCallback){
         if(_sceneIsSwapping == true)
             return;
         DontDestroyOnLoad(this.gameObject);
         StartCoroutine(LoadScene(sceneToLoad, onEndCallback));
     }
 
-    private IEnumerator LoadScene(int sceneToLoad, Action onEndCallback){
+    private IEnumerator LoadScene(int sceneToLoad, Action<GameManager> onEndCallback){
         _sceneIsSwapping = true;
         float startPosition = loadingScreenImage.rectTransform.position.y;
         LeanTween.moveY(loadingScreenImage.rectTransform, 0, 1f)
@@ -43,7 +43,9 @@ public class LoadingScreenManager : MonoBehaviour
         asyncSceneToLoad.allowSceneActivation = true; // this will enter the level now
         yield return new WaitForEndOfFrame();
         yield return new WaitForFixedUpdate();
-        onEndCallback.Invoke();
+        yield return new WaitForSecondsRealtime(0.2f);
+        yield return new WaitForSeconds(0.2f);
+        onEndCallback.Invoke(GameManager.Instance);
         yield return new WaitForSeconds(0.2f);
         LeanTween.moveY(loadingScreenImage.rectTransform, -startPosition, 1f)
             .setEase( LeanTweenType.easeInQuart )

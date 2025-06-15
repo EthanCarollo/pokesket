@@ -22,7 +22,7 @@ public class SceneTransitor : MonoBehaviour
         loadingScreenPrefab.GetComponent<LoadingScreenManager>().StartToLoadScene(sceneToLoad);
     }
     
-    public void LoadScene(int sceneToLoad, Action onEndCallback){
+    public void LoadScene(int sceneToLoad, Action<GameManager> onEndCallback){
         var loadingScreenPrefab = GameObject.Instantiate(loadingScreen);
         loadingScreenPrefab.GetComponent<LoadingScreenManager>().StartToLoadScene(sceneToLoad, onEndCallback);
     }

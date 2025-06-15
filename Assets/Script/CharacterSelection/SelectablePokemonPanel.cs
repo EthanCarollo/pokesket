@@ -138,38 +138,13 @@ public class SelectablePokemonPanel : MonoBehaviour
         UpdateCharacterPreviews();
         CheckButtonState();
     }
-    
-    public void LaunchGameTest()
-    {
-        SceneTransitor.Instance.LoadScene(gameSceneIndex, () =>
-            {
-                GameManager gameManager = GameManager.Instance;
-                if (gameManager == null) Debug.LogWarning("Error getting game manager");
-                gameManager.StartMatch(
-                    new List<Pokemon>()
-                    {
-                        PokemonDatabase.Instance.pokemons[0],
-                        PokemonDatabase.Instance.pokemons[1],
-                        PokemonDatabase.Instance.pokemons[2],
-                    },
-                    new List<Pokemon>()
-                    {
-                        PokemonDatabase.Instance.pokemons[3],
-                        PokemonDatabase.Instance.pokemons[4],
-                        PokemonDatabase.Instance.pokemons[5],
-                    },
-                2
-                );
-            });
-    }
 
     public void LaunchGame()
     {
         if (EveryoneSelected())
         {
-            SceneTransitor.Instance.LoadScene(gameSceneIndex, () =>
+            SceneTransitor.Instance.LoadScene(gameSceneIndex, (gameManager) =>
             {
-                GameManager gameManager = GameManager.Instance;
                 if (gameManager == null) Debug.LogWarning("Error getting game manager");
                 if (selectedPlayer1Characters.Length == 3 && selectedPlayer2Characters.Length == 3)
                 {
