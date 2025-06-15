@@ -29,23 +29,24 @@ public class BlockShoot : MonoBehaviour
     private void TryBlock()
     {
         PokemonPlayer target = BasketBallManager.Instance.BallHolder;
-
+        var dashPower = _pokemonPlayer.actualPokemon.defence / 100 + 0.5f;
+        
         if (target != null && target != _pokemonPlayer)
         {
             Vector3 directionToTarget = (target.transform.position - transform.position).normalized;
             Vector3 dashTarget = transform.position + directionToTarget * maxDashDistance;
-            StartCoroutine(DashTowards(dashTarget, success: true));
+            StartCoroutine(DashTowards(dashTarget, success: true, dashPower));
         }
         else
         {
             // Dash dans la direction actuelle du joueur (pénalité si raté)
             Vector3 fallbackDir = _pokemonPlayer.Direction.normalized;
             Vector3 dashTarget = transform.position + fallbackDir * maxDashDistance;
-            StartCoroutine(DashTowards(dashTarget, success: false));
+            StartCoroutine(DashTowards(dashTarget, success: false, dashPower));
         }
     }
 
-    private IEnumerator DashTowards(Vector3 dashTarget, bool success)
+    private IEnumerator DashTowards(Vector3 dashTarget, bool success, float dashLengthMultiplier)
     {
         _pokemonPlayer.isBlockingShoot = true;
         _pokemonPlayer.canBlock = false;
@@ -53,11 +54,16 @@ public class BlockShoot : MonoBehaviour
         float elapsed = 0f;
         Vector3 startPos = transform.position;
 
+        Vector3 direction = (dashTarget - startPos).normalized;
+        float baseDistance = Vector3.Distance(startPos, dashTarget);
+        float finalDistance = baseDistance * dashLengthMultiplier;
+        Vector3 finalTarget = startPos + direction * finalDistance;
+
         while (elapsed < dashDuration)
         {
             elapsed += Time.deltaTime;
             float t = elapsed / dashDuration;
-            transform.position = Vector3.Lerp(startPos, dashTarget, t);
+            transform.position = Vector3.Lerp(startPos, finalTarget, t);
             yield return null;
         }
 
