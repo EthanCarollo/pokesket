@@ -59,6 +59,7 @@ Voici une sélection de fonctionnalités non prioritaires mais intéressantes qu
 - **Faire fonctionner correctement la version web**, afin de faire profiter les gens du monde entier.
 - **Pouvoir modifier le nombre de points à gagner pour remporter le match**, permet la personnalisation indirect du temps de jeu.
 - **Mettre l'entièreté du pokédex dans le jeu**, pour faire plaisir aux fans de Pokémon.
+- **Ajout de particules quand un pokémon court ou qu'il fait un dash défensif** pour encore plus de Juice et de satisfaction visuel.
 
 Ces idées restent ouvertes pour de futures itérations et seraient de belles opportunités d'amélioration du projet si on poursuit le développement.
 
