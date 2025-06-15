@@ -59,11 +59,10 @@ public class BasketBallManager : MonoBehaviour
 
     public void SetBallHolder(PokemonPlayer holder)
     {
-        if (canBeHoldByTeam != null && holder.Team.teamName != canBeHoldByTeam) return;
-        
         ballHolder = holder;
         if (holder != null)
         {
+            if (canBeHoldByTeam != null && holder.Team.teamName != canBeHoldByTeam) return;
             // Reset the rotation when we have a new holder
             lastBallHolder = holder;
             if (holder.Team.teamName == TeamName.Blue)
@@ -80,11 +79,6 @@ public class BasketBallManager : MonoBehaviour
                     new Vector3(0f, 9f, -19f)
                     );
             }
-        }
-        else
-        {
-            // To avoid "The gerbe" for the User
-            // GameManager.Instance.CameraManager.ResetPositionAndLookAt();
         }
     }
 
