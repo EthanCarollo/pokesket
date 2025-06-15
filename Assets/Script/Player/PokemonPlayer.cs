@@ -72,6 +72,9 @@ public class PokemonPlayer : MonoBehaviour
 
         currentState?.Update();
         currentState?.HandleMovement();
+        
+        // Limit position in the terrain, without using collider
+        LimitPosition();
 
         indicator.gameObject.SetActive(IsControlled);
     }
@@ -91,6 +94,17 @@ public class PokemonPlayer : MonoBehaviour
         {
             Debug.LogWarning("Error animating pokemon : " + actualPokemon.pokemonName + " : " + e);
         }
+    }
+
+    public void LimitPosition()
+    {
+        if(this.transform.position.x < -11f) this.transform.position = new Vector3(-10.99f, this.transform.position.y, this.transform.position.z);
+        if(this.transform.position.x > 11f) this.transform.position = new Vector3(10.99f, this.transform.position.y, this.transform.position.z);
+        
+        if(this.transform.position.z < -10.5f) this.transform.position = 
+            new Vector3(this.transform.position.x, this.transform.position.y, -10.49f);
+        if(this.transform.position.z > 9.5f) this.transform.position = 
+            new Vector3(this.transform.position.x, this.transform.position.y, 9.49f);
     }
 
     public void UpdateState(IPokemonPlayerState newState)
