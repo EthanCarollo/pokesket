@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
@@ -100,6 +101,10 @@ public class GameManager : MonoBehaviour
         foreach (BasketTeam team in teams)
         {
             team.StartMatch();
+            team.rim.parent.GetComponent<BasketRim>().netRimCloth.sphereColliders = new[]
+            {
+                new ClothSphereColliderPair(BasketBallManager.Instance.basketBall.GetComponent<SphereCollider>())
+            };
         }
         maxPoint = _maxPoint;
         matchPlaying = true;
