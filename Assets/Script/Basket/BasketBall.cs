@@ -78,6 +78,10 @@ public class BasketBall : MonoBehaviour
         rb.useGravity = true;
         rb.isKinematic = false;
 
+        // Assure la bonne taille et masse du ballon
+        transform.localScale = Vector3.one;
+        rb.mass = 0.62f;
+
         Vector3 start = transform.position;
 
         if (force >= 0.95f)
@@ -97,8 +101,12 @@ public class BasketBall : MonoBehaviour
             target += offset;
         }
 
-        Vector3 velocity = CalculateArcVelocity(start, target, force);
+        // Correction cible : centre du panier avec élévation
+        target += Vector3.up * 0.5f;
+
+        Vector3 velocity = CalculateArcVelocity(start, target, force, guaranteedPerfect: isSuccessful);
         rb.linearVelocity = velocity;
+
         if (shooter.Team.teamName == TeamName.Red)
         {
             rb.angularVelocity = new Vector3(rb.angularVelocity.x, rb.angularVelocity.y, -2f);
@@ -109,7 +117,7 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    private Vector3 CalculateArcVelocity(Vector3 start, Vector3 end, float force)
+    private Vector3 CalculateArcVelocity(Vector3 start, Vector3 end, float force, bool guaranteedPerfect = false)
     {
         float gravity = Mathf.Abs(Physics.gravity.y);
 
@@ -125,7 +133,10 @@ public class BasketBall : MonoBehaviour
 
         float timeToApex = Mathf.Sqrt(2 * (apexHeight - start.y) / gravity);
         float timeFromApex = Mathf.Sqrt(2 * (apexHeight - end.y) / gravity);
-        float totalTime = (timeToApex + timeFromApex) / Mathf.Clamp(force, 0.1f, 2f);
+        float totalTime = timeToApex + timeFromApex;
+
+        if (!guaranteedPerfect)
+            totalTime /= Mathf.Clamp(force, 0.1f, 2f);
 
         Vector3 velocityXZ = displacementXZ / totalTime;
         float velocityY = Mathf.Sqrt(2 * gravity * (apexHeight - start.y));
