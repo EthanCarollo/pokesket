@@ -62,7 +62,7 @@ public class PokemonPlayer : MonoBehaviour
         initialSpeed = pokemon.speed;
         speed = pokemon.speed;
         currentState = new AIDefenseState(this);
-        indicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;
+        indicator.color = Team.teamName == TeamName.Red ? new Color(1f, 0.3f, 0.3f) : new Color(0.3f, 0.3f, 1f);
         teamIndicator.color = Team.teamName == TeamName.Red ? Color.red : Color.blue;
     }
 
