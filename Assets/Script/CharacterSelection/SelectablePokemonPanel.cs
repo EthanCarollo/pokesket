@@ -16,6 +16,7 @@ public class SelectablePokemonPanel : MonoBehaviour
     
     public Button startButton;
     private int gameSceneIndex = 2;
+    [NonSerialized] public int maxPoint = 21;
 
     public void Start()
     {
@@ -151,7 +152,7 @@ public class SelectablePokemonPanel : MonoBehaviour
                     gameManager.StartMatch(
                         selectedPlayer1Characters.ToList(),
                         selectedPlayer2Characters.ToList(),
-                        21
+                        maxPoint
                     );
                 }
                 else
