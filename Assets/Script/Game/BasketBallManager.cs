@@ -64,7 +64,7 @@ public class BasketBallManager : MonoBehaviour
         Debug.LogWarning("SetBallHolder has been called. ======= canBeHoldByTeam is : " + canBeHoldByTeam);
         if (holder != null)
         {
-            if (canBeHoldByTeam != null && holder.Team.teamName != canBeHoldByTeam) return;
+            // if (canBeHoldByTeam != null && holder.Team.teamName != canBeHoldByTeam) return;
             
             ballHolder = holder;
             // Reset the rotation when we have a new holder

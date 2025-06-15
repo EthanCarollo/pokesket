@@ -24,15 +24,13 @@ public class DunkPlayer : MonoBehaviour
 
         if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.Y1 : RemoteInput.Y2))
         {
-            Debug.LogWarning("Trying to do a dunk, IDK");
             TryDunk();
         }
     }
 
     void TryDunk()
     {
-        if (!_pokemonPlayer.canDunk) return;
-        Debug.LogWarning("CAN DUNK LETS GO, IDK");
+        if (!_pokemonPlayer.canDunk || !_pokemonPlayer.Team.canDunk) return;
 
         Transform rim = _pokemonPlayer.Team.GetOpponentRim();
         Vector3 rimPosition = rim.position;
@@ -55,6 +53,7 @@ public class DunkPlayer : MonoBehaviour
     void ExecuteDunk(Transform rim)
     {
         StartCoroutine(PlayDunkAnimation(rim));
+        _pokemonPlayer.Team.ResetDunkBar();
         Debug.Log("🔥 DUNK lancé !");
     }
 

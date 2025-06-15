@@ -24,20 +24,26 @@ public class BasketTeam : MonoBehaviour
     public GameObject TopZone;
     public GameObject FrontZone;
     public GameObject BottomZone;
-    
+
     // Score part
     [SerializeField] private TextMeshProUGUI teamScoreText;
     private int _teamScore = 0;
     public int teamScore
     {
         get => _teamScore;
-        set 
+        set
         {
             // Whenever we set team score, it update the TextMeshPro for the score
             teamScoreText.text = value.ToString();
             _teamScore = value;
         }
     }
+
+    // Dunk part
+    private int _dunkBar = 0;
+    [SerializeField] private Slider dunkBarSlider;
+    [SerializeField] private Image dunkButtonImage;
+    public bool canDunk => _dunkBar == 100;
 
     public void StartMatch()
     {
@@ -63,6 +69,9 @@ public class BasketTeam : MonoBehaviour
                 }
             }
         }
+
+        dunkBarSlider.value = _dunkBar / 100f;
+        dunkButtonImage.enabled = _dunkBar == 100;
     }
 
     void SwitchControlledPlayer()
@@ -84,7 +93,7 @@ public class BasketTeam : MonoBehaviour
     public void SetControlledPlayer(PokemonPlayer newControlled)
     {
         controlledPlayer = newControlled;
-        
+
         Image image = UISelectedCharacter.GetComponentInChildren<Image>();
         TextMeshProUGUI text = UISelectedCharacter.GetComponentInChildren<TextMeshProUGUI>();
         image.sprite = newControlled.actualPokemon.pokemonPortrait;
@@ -104,5 +113,16 @@ public class BasketTeam : MonoBehaviour
     public Transform GetOpponentRim()
     {
         return GetOpponentTeam().rim;
+    }
+
+    public void ResetDunkBar()
+    {
+        _dunkBar = 0;
+    }
+
+    public void IncreaseDunkBar(int amount)
+    {
+        _dunkBar += amount;
+        _dunkBar = Mathf.Max(Mathf.Min(_dunkBar, 100), 0);
     }
 }

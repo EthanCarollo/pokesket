@@ -55,6 +55,10 @@ public class ShootPlayer : MonoBehaviour
     private Vector3 _originalSliderPosition;
     private CanvasGroup _sliderCanvasGroup;
 
+    private int perfectDunkPoints = 30;
+    private int goodDunkPoints = 15;
+    private int okDunkPoints = 5;
+
     void Awake()
     {
         _pokemonPlayer = GetComponent<PokemonPlayer>();
@@ -186,6 +190,8 @@ public class ShootPlayer : MonoBehaviour
 
         BasketBallManager.Instance.ShootTo(rim, guaranteedHit, force, _pokemonPlayer);
 
+        IncreaseDunkBar(_currentCursorPosition);
+
         ShowShotFeedback(_currentCursorPosition);
         StartCoroutine(ShakeAndFadeOut(shootingQuality));
     }
@@ -260,6 +266,30 @@ public class ShootPlayer : MonoBehaviour
         }
 
         Debug.Log($"Shot Result: {feedbackText} | Cursor Position: {cursorPosition:P1}");
+    }
+
+    private void IncreaseDunkBar(float cursorPosition)
+    {
+        if (cursorPosition > 1f)
+        {
+            _pokemonPlayer.Team.IncreaseDunkBar(0);
+        }
+        if (cursorPosition >= perfectThreshold && cursorPosition <= 1f)
+        {
+            _pokemonPlayer.Team.IncreaseDunkBar(perfectDunkPoints);
+        }
+        else if (cursorPosition >= goodThreshold)
+        {
+            _pokemonPlayer.Team.IncreaseDunkBar(goodDunkPoints);
+        }
+        else if (cursorPosition >= okThreshold)
+        {
+            _pokemonPlayer.Team.IncreaseDunkBar(okDunkPoints);
+        }
+        else
+        {
+            _pokemonPlayer.Team.IncreaseDunkBar(0);
+        }
     }
 
     private void CancelShootingMode()
