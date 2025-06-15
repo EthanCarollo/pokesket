@@ -59,6 +59,8 @@ public class BasketRim : MonoBehaviour
         var opponentTeam =
             GameManager.Instance.GetTeam(rimTeam.teamName == TeamName.Blue ? TeamName.Red : TeamName.Blue);
         opponentTeam.teamScore += ball.points;
+
+        BasketBallManager.Instance.canBeHoldByTeam = rimTeam.teamName;
         
         Debug.Log("PANIER !");
     }

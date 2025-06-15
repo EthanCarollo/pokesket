@@ -9,6 +9,7 @@ public class BasketBallManager : MonoBehaviour
     [SerializeField] private Transform ballSpawnPoint;
     [SerializeField] private float timeBeforeReset = 3f;
     public BasketBall basketBall;
+    [NonSerialized] public TeamName? canBeHoldByTeam = null;
     [NonSerialized] public PokemonPlayer lastBallHolder = null;
     private PokemonPlayer ballHolder = null;
     public PokemonPlayer BallHolder => ballHolder;
@@ -57,6 +58,8 @@ public class BasketBallManager : MonoBehaviour
 
     public void SetBallHolder(PokemonPlayer holder)
     {
+        if (canBeHoldByTeam != null && holder.Team.teamName != canBeHoldByTeam) return;
+        
         ballHolder = holder;
         if (holder != null)
         {
