@@ -1,0 +1,4004 @@
+fileFormatVersion: 2
+guid: 095437fe7f5b29b43850f622141e0d98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4630415425129731546
+    second: bulbizarre-spritesheet_0
+  - first:
+      213: -5397179399334953508
+    second: bulbizarre-spritesheet_1
+  - first:
+      213: 2099652443801262714
+    second: bulbizarre-spritesheet_2
+  - first:
+      213: -2676913961868052568
+    second: bulbizarre-spritesheet_3
+  - first:
+      213: -8847319894980660111
+    second: bulbizarre-spritesheet_4
+  - first:
+      213: 6770864841327002867
+    second: bulbizarre-spritesheet_5
+  - first:
+      213: -3844325731011067041
+    second: bulbizarre-spritesheet_6
+  - first:
+      213: -1438968910211907215
+    second: bulbizarre-spritesheet_7
+  - first:
+      213: -4394484623911233756
+    second: bulbizarre-spritesheet_8
+  - first:
+      213: -3194822774805560378
+    second: bulbizarre-spritesheet_9
+  - first:
+      213: -8123333343919795684
+    second: bulbizarre-spritesheet_10
+  - first:
+      213: -3816303955099933621
+    second: bulbizarre-spritesheet_11
+  - first:
+      213: 8088658384088980955
+    second: bulbizarre-spritesheet_12
+  - first:
+      213: 1302878684864947033
+    second: bulbizarre-spritesheet_13
+  - first:
+      213: -6537378339346857039
+    second: bulbizarre-spritesheet_14
+  - first:
+      213: 2315856811393238438
+    second: bulbizarre-spritesheet_15
+  - first:
+      213: -4214230023189863728
+    second: bulbizarre-spritesheet_16
+  - first:
+      213: 7715563631721061744
+    second: bulbizarre-spritesheet_17
+  - first:
+      213: 497001463225276428
+    second: bulbizarre-spritesheet_18
+  - first:
+      213: -1203929801183973014
+    second: bulbizarre-spritesheet_19
+  - first:
+      213: -8662994662227766250
+    second: bulbizarre-spritesheet_20
+  - first:
+      213: 2779157074286044460
+    second: bulbizarre-spritesheet_21
+  - first:
+      213: -8974619932158426518
+    second: bulbizarre-spritesheet_22
+  - first:
+      213: 6157691759996105075
+    second: bulbizarre-spritesheet_23
+  - first:
+      213: 245320343749746352
+    second: bulbizarre-spritesheet_24
+  - first:
+      213: 3021351884561669400
+    second: bulbizarre-spritesheet_25
+  - first:
+      213: -4935116601220722422
+    second: bulbizarre-spritesheet_26
+  - first:
+      213: -3210701266138629007
+    second: bulbizarre-spritesheet_27
+  - first:
+      213: -7442826581872026249
+    second: bulbizarre-spritesheet_28
+  - first:
+      213: -2691869856663139313
+    second: bulbizarre-spritesheet_29
+  - first:
+      213: 7366826830852122273
+    second: bulbizarre-spritesheet_30
+  - first:
+      213: 7823399765553755627
+    second: bulbizarre-spritesheet_31
+  - first:
+      213: 6683975037114020420
+    second: bulbizarre-spritesheet_32
+  - first:
+      213: 6845072761605361905
+    second: bulbizarre-spritesheet_33
+  - first:
+      213: -5319561108106825824
+    second: bulbizarre-spritesheet_34
+  - first:
+      213: 8815051245300353671
+    second: bulbizarre-spritesheet_35
+  - first:
+      213: -4012800457431292956
+    second: bulbizarre-spritesheet_36
+  - first:
+      213: -2889136179587932873
+    second: bulbizarre-spritesheet_37
+  - first:
+      213: 1842358926098899704
+    second: bulbizarre-spritesheet_38
+  - first:
+      213: 4156888401420749641
+    second: bulbizarre-spritesheet_39
+  - first:
+      213: 7466725019846229915
+    second: bulbizarre-spritesheet_40
+  - first:
+      213: -6818320071856316685
+    second: bulbizarre-spritesheet_41
+  - first:
+      213: -2835704216813913413
+    second: bulbizarre-spritesheet_42
+  - first:
+      213: -6036716166983694663
+    second: bulbizarre-spritesheet_43
+  - first:
+      213: 1829494932863015172
+    second: bulbizarre-spritesheet_44
+  - first:
+      213: -5346999910878527525
+    second: bulbizarre-spritesheet_45
+  - first:
+      213: -4782969242552701874
+    second: bulbizarre-spritesheet_46
+  - first:
+      213: -691796027935550648
+    second: bulbizarre-spritesheet_47
+  - first:
+      213: 3363210702195262702
+    second: bulbizarre-spritesheet_48
+  - first:
+      213: -3573893126535069960
+    second: bulbizarre-spritesheet_49
+  - first:
+      213: -2513681642441633198
+    second: bulbizarre-spritesheet_50
+  - first:
+      213: -8191596004421908844
+    second: bulbizarre-spritesheet_51
+  - first:
+      213: -1206789439014249539
+    second: bulbizarre-spritesheet_52
+  - first:
+      213: 1270518402735309622
+    second: bulbizarre-spritesheet_53
+  - first:
+      213: 1814621829722413343
+    second: bulbizarre-spritesheet_54
+  - first:
+      213: 6814029731411773247
+    second: bulbizarre-spritesheet_55
+  - first:
+      213: -223412181654066481
+    second: bulbizarre-spritesheet_56
+  - first:
+      213: -1450902796401493074
+    second: bulbizarre-spritesheet_57
+  - first:
+      213: -798333474880353679
+    second: bulbizarre-spritesheet_58
+  - first:
+      213: -4375531748513889147
+    second: bulbizarre-spritesheet_59
+  - first:
+      213: 2789979600940173395
+    second: bulbizarre-spritesheet_60
+  - first:
+      213: -4879008142937876698
+    second: bulbizarre-spritesheet_61
+  - first:
+      213: -1255084836632036340
+    second: bulbizarre-spritesheet_62
+  - first:
+      213: 7895622170036293603
+    second: bulbizarre-spritesheet_63
+  - first:
+      213: 4729701984270760624
+    second: bulbizarre-spritesheet_64
+  - first:
+      213: 2609721205209830373
+    second: bulbizarre-spritesheet_65
+  - first:
+      213: 7494415473519558437
+    second: bulbizarre-spritesheet_66
+  - first:
+      213: -8663629716635430793
+    second: bulbizarre-spritesheet_67
+  - first:
+      213: 6598677279688598576
+    second: bulbizarre-spritesheet_68
+  - first:
+      213: -855018893807009003
+    second: bulbizarre-spritesheet_69
+  - first:
+      213: 3041276947098597064
+    second: bulbizarre-spritesheet_70
+  - first:
+      213: -2824010792250408072
+    second: bulbizarre-spritesheet_71
+  - first:
+      213: -3297873192580009114
+    second: bulbizarre-spritesheet_72
+  - first:
+      213: -7356205506339285996
+    second: bulbizarre-spritesheet_73
+  - first:
+      213: 4322874531346220562
+    second: bulbizarre-spritesheet_74
+  - first:
+      213: 7605971675900662514
+    second: bulbizarre-spritesheet_75
+  - first:
+      213: 6726334136260301485
+    second: bulbizarre-spritesheet_76
+  - first:
+      213: -5553503344992310889
+    second: bulbizarre-spritesheet_77
+  - first:
+      213: 5129391330619726135
+    second: bulbizarre-spritesheet_78
+  - first:
+      213: -3710818023394117666
+    second: bulbizarre-spritesheet_79
+  - first:
+      213: -8456385394972711155
+    second: bulbizarre-spritesheet_80
+  - first:
+      213: 3764831145685063509
+    second: bulbizarre-spritesheet_81
+  - first:
+      213: -681928065117998295
+    second: bulbizarre-spritesheet_82
+  - first:
+      213: -318008496443948469
+    second: bulbizarre-spritesheet_83
+  - first:
+      213: 4802860706799473571
+    second: bulbizarre-spritesheet_84
+  - first:
+      213: -6824452707901636790
+    second: bulbizarre-spritesheet_85
+  - first:
+      213: 7645417434052093203
+    second: bulbizarre-spritesheet_86
+  - first:
+      213: 4045188819947236157
+    second: bulbizarre-spritesheet_87
+  - first:
+      213: 5107736280759214702
+    second: bulbizarre-spritesheet_88
+  - first:
+      213: -839077283844027558
+    second: bulbizarre-spritesheet_89
+  - first:
+      213: -1671101090132691892
+    second: bulbizarre-spritesheet_90
+  - first:
+      213: -8788694601249780963
+    second: bulbizarre-spritesheet_91
+  - first:
+      213: 8249998514246079377
+    second: bulbizarre-spritesheet_92
+  - first:
+      213: -8762450165911849265
+    second: bulbizarre-spritesheet_93
+  - first:
+      213: 43715114897010425
+    second: bulbizarre-spritesheet_94
+  - first:
+      213: -561629388757541759
+    second: bulbizarre-spritesheet_95
+  - first:
+      213: 2324149974523115003
+    second: bulbizarre-spritesheet_96
+  - first:
+      213: 5331757104817474234
+    second: bulbizarre-spritesheet_97
+  - first:
+      213: -5598731532834421388
+    second: bulbizarre-spritesheet_98
+  - first:
+      213: -3082312084024656191
+    second: bulbizarre-spritesheet_99
+  - first:
+      213: 5788745591614185708
+    second: bulbizarre-spritesheet_100
+  - first:
+      213: -7804170353970534078
+    second: bulbizarre-spritesheet_101
+  - first:
+      213: -1856958355390536747
+    second: bulbizarre-spritesheet_102
+  - first:
+      213: 1843249949971933421
+    second: bulbizarre-spritesheet_103
+  - first:
+      213: 2295002231980936708
+    second: bulbizarre-spritesheet_104
+  - first:
+      213: 4896340758401538246
+    second: bulbizarre-spritesheet_105
+  - first:
+      213: -492881603055602006
+    second: bulbizarre-spritesheet_106
+  - first:
+      213: -713920386385097183
+    second: bulbizarre-spritesheet_107
+  - first:
+      213: 844529179895267989
+    second: bulbizarre-spritesheet_108
+  - first:
+      213: -5426083935293650610
+    second: bulbizarre-spritesheet_109
+  - first:
+      213: 9034373908353169158
+    second: bulbizarre-spritesheet_110
+  - first:
+      213: 2784857596110408394
+    second: bulbizarre-spritesheet_111
+  - first:
+      213: -2770494353753411621
+    second: bulbizarre-spritesheet_112
+  - first:
+      213: 2309705278533661304
+    second: bulbizarre-spritesheet_113
+  - first:
+      213: 934095700447402695
+    second: bulbizarre-spritesheet_114
+  - first:
+      213: 5585376342665203540
+    second: bulbizarre-spritesheet_115
+  - first:
+      213: 5594960332546392966
+    second: bulbizarre-spritesheet_116
+  - first:
+      213: 5320110846401145430
+    second: bulbizarre-spritesheet_117
+  - first:
+      213: 6537258020531328859
+    second: bulbizarre-spritesheet_118
+  - first:
+      213: -6182944883641257893
+    second: bulbizarre-spritesheet_119
+  - first:
+      213: 5849344431703972167
+    second: bulbizarre-spritesheet_120
+  - first:
+      213: 6068389472388580713
+    second: bulbizarre-spritesheet_121
+  - first:
+      213: -2835921087077017388
+    second: bulbizarre-spritesheet_122
+  - first:
+      213: -6130444478090774421
+    second: bulbizarre-spritesheet_123
+  - first:
+      213: -4119686819667329658
+    second: bulbizarre-spritesheet_124
+  - first:
+      213: -8112475596134561183
+    second: bulbizarre-spritesheet_125
+  - first:
+      213: 2444448399641453230
+    second: bulbizarre-spritesheet_126
+  - first:
+      213: 511118734940328502
+    second: bulbizarre-spritesheet_127
+  - first:
+      213: -5464337433443780175
+    second: bulbizarre-spritesheet_128
+  - first:
+      213: 5854963003815780585
+    second: bulbizarre-spritesheet_129
+  - first:
+      213: -2567653954573574987
+    second: bulbizarre-spritesheet_130
+  - first:
+      213: 8235320522178034936
+    second: bulbizarre-spritesheet_131
+  - first:
+      213: 8593929246588528189
+    second: bulbizarre-spritesheet_132
+  - first:
+      213: 496817785160865926
+    second: bulbizarre-spritesheet_133
+  - first:
+      213: -3203926190323633222
+    second: bulbizarre-spritesheet_134
+  - first:
+      213: 1181915500856187612
+    second: bulbizarre-spritesheet_135
+  - first:
+      213: 6489717891975245951
+    second: bulbizarre-spritesheet_136
+  - first:
+      213: 6362427035494756474
+    second: bulbizarre-spritesheet_137
+  - first:
+      213: -5320538471461697842
+    second: bulbizarre-spritesheet_138
+  - first:
+      213: -4210458914978952326
+    second: bulbizarre-spritesheet_139
+  - first:
+      213: -6407236061842631721
+    second: bulbizarre-spritesheet_140
+  - first:
+      213: -8633091095483497133
+    second: bulbizarre-spritesheet_141
+  - first:
+      213: 6136678472135731342
+    second: bulbizarre-spritesheet_142
+  - first:
+      213: 4381531793837561160
+    second: bulbizarre-spritesheet_143
+  - first:
+      213: 3363776846725505656
+    second: bulbizarre-spritesheet_144
+  - first:
+      213: 1935080988877258946
+    second: bulbizarre-spritesheet_145
+  - first:
+      213: 7227218062877453436
+    second: bulbizarre-spritesheet_146
+  - first:
+      213: -3028533206683907207
+    second: bulbizarre-spritesheet_147
+  - first:
+      213: 8404774110275505508
+    second: bulbizarre-spritesheet_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 271
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a27ae24b57dbfb0800000000000000
+      internalID: -4630415425129731546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 271
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd75998eed5915b0800000000000000
+      internalID: -5397179399334953508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 271
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a1e80f5c6732d10800000000000000
+      internalID: 2099652443801262714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a732904fe0b9dad0800000000000000
+      internalID: -2676913961868052568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 271
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1747e6d3e61083580800000000000000
+      internalID: -8847319894980660111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 271
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f44a7913b1f6fd50800000000000000
+      internalID: 6770864841327002867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 271
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f530132ad1636aac0800000000000000
+      internalID: -3844325731011067041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 268
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1710dff6661c70ce0800000000000000
+      internalID: -1438968910211907215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 271
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427dadc7487a303c0800000000000000
+      internalID: -4394484623911233756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 271
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3036bfc95b9a3d0800000000000000
+      internalID: -3194822774805560378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 271
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12139bec5f144f80800000000000000
+      internalID: -8123333343919795684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 271
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44a951c5c3c90bc0800000000000000
+      internalID: -3816303955099933621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 271
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdddb1dd1ffa04070800000000000000
+      internalID: 8088658384088980955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 271
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953adccc241c41210800000000000000
+      internalID: 1302878684864947033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 242
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3c5e079019645a0800000000000000
+      internalID: -6537378339346857039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 244
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a543c10083932020800000000000000
+      internalID: 2315856811393238438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 241
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d26bf13f1c0485c0800000000000000
+      internalID: -4214230023189863728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 241
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d18a68e30331b60800000000000000
+      internalID: 7715563631721061744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0854649234b5e600800000000000000
+      internalID: 497001463225276428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 242
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613ce97938ca4fe0800000000000000
+      internalID: -1203929801183973014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 242
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6141fc2d04cd6c780800000000000000
+      internalID: -8662994662227766250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 235
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2565db62ac819620800000000000000
+      internalID: 2779157074286044460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 259
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a628e85a8beb37380800000000000000
+      internalID: -8974619932158426518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 243
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371fae6e704847550800000000000000
+      internalID: 6157691759996105075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 243
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be51698d8d876300800000000000000
+      internalID: 245320343749746352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 245
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d51ccf78ffde920800000000000000
+      internalID: 3021351884561669400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 245
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011b1b3991f28bb0800000000000000
+      internalID: -4935116601220722422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 243
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf8ef953c4173d0800000000000000
+      internalID: -3210701266138629007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 243
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ddea658a4c5b890800000000000000
+      internalID: -7442826581872026249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 243
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0304a0ae84aad0800000000000000
+      internalID: -2691869856663139313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 212
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6e1c6b8f93c3660800000000000000
+      internalID: 7366826830852122273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 214
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b4b9f2ac429c60800000000000000
+      internalID: 7823399765553755627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 209
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44272ce02ef32cc50800000000000000
+      internalID: 6683975037114020420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 210
+        width: 18
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f09031f8659efe50800000000000000
+      internalID: 6845072761605361905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 210
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af2f4e3b5f1d26b0800000000000000
+      internalID: -5319561108106825824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 210
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0ef8476a555a70800000000000000
+      internalID: 8815051245300353671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 210
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e36844ae3baf48c0800000000000000
+      internalID: -4012800457431292956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 227
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d9ee3b3f9b7e7d0800000000000000
+      internalID: -2889136179587932873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 226
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f225ea9eaf519910800000000000000
+      internalID: 1842358926098899704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 221
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b00a91afb30b930800000000000000
+      internalID: 4156888401420749641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 221
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fb47b58d22f9760800000000000000
+      internalID: 7466725019846229915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 221
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe961805067061a0800000000000000
+      internalID: -6818320071856316685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 221
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbababcf90e85a8d0800000000000000
+      internalID: -2835704216813913413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 218
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6441941a6493ca0800000000000000
+      internalID: -6036716166983694663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 210
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4095da7c2fba36910800000000000000
+      internalID: 1829494932863015172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 210
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf3a0229e3abc5b0800000000000000
+      internalID: -5346999910878527525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 210
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ce60ea0da7f9db0800000000000000
+      internalID: -4782969242552701874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 212
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84310e98d2f3666f0800000000000000
+      internalID: -691796027935550648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 211
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4042980568cae20800000000000000
+      internalID: 3363210702195262702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 211
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8febaaff22bf66ec0800000000000000
+      internalID: -3573893126535069960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 211
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25298df3ddb9d1dd0800000000000000
+      internalID: -2513681642441633198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 203
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4964cecb5da915e80800000000000000
+      internalID: -8191596004421908844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 189
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbdcd8266f904fe0800000000000000
+      internalID: -1206789439014249539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 188
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63382ab71c9c1a110800000000000000
+      internalID: 1270518402735309622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 177
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19164a90f4de2910800000000000000
+      internalID: 1814621829722413343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 178
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37cfbd30fb409e50800000000000000
+      internalID: 6814029731411773247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 175
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa302fdc746ecf0800000000000000
+      internalID: -223412181654066481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 177
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab3ed8089b5ddbe0800000000000000
+      internalID: -1450902796401493074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 177
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a04713fefbbe4f0800000000000000
+      internalID: -798333474880353679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584c26aae0df643c0800000000000000
+      internalID: -4375531748513889147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 194
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35800a44aaff7b620800000000000000
+      internalID: 2789979600940173395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 193
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62713ffa1f74a4cb0800000000000000
+      internalID: -4879008142937876698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 173
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c7195adfa059ee0800000000000000
+      internalID: -1255084836632036340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 175
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef46b5e782e29d60800000000000000
+      internalID: 7895622170036293603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 176
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba3be945e643a140800000000000000
+      internalID: 4729701984270760624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 175
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e31657fb97973420800000000000000
+      internalID: 2609721205209830373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 193
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ff2528a23810860800000000000000
+      internalID: 7494415473519558437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 188
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7705d62bcaa94c780800000000000000
+      internalID: -8663629716635430793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 177
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034a74b4606339b50800000000000000
+      internalID: 6598677279688598576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 169
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513c26e98dc5224f0800000000000000
+      internalID: -855018893807009003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 172
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6756f1549c43a20800000000000000
+      internalID: 3041276947098597064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 172
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8738b0e85291fc8d0800000000000000
+      internalID: -2824010792250408072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 187
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6633cf1edc99b32d0800000000000000
+      internalID: -3297873192580009114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414dfdb111289e990800000000000000
+      internalID: -7356205506339285996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 144
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21689719b7fedfb30800000000000000
+      internalID: 4322874531346220562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 147
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2ddb9e0f6dd8960800000000000000
+      internalID: 7605971675900662514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 142
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21160624db85d50800000000000000
+      internalID: 6726334136260301485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 142
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7992ac6a12efde2b0800000000000000
+      internalID: -5553503344992310889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 143
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7399e8f0d324f2740800000000000000
+      internalID: 5129391330619726135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 143
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7f9712ba6808cc0800000000000000
+      internalID: -3710818023394117666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 139
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a9d08942e4aa80800000000000000
+      internalID: -8456385394972711155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 160
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55792e5eafd5f3430800000000000000
+      internalID: 3764831145685063509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 158
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923b54ca90e4986f0800000000000000
+      internalID: -681928065117998295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 157
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4207e515f4369bf0800000000000000
+      internalID: -318008496443948469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 141
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3d67ebd5037a240800000000000000
+      internalID: 4802860706799473571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 142
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ff11f6b6caa41a0800000000000000
+      internalID: -6824452707901636790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 141
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315e04c26aaf91a60800000000000000
+      internalID: 7645417434052093203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 146
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2656acc5632830800000000000000
+      internalID: 4045188819947236157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 125
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62270dd51352e640800000000000000
+      internalID: 5107736280759214702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 125
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b806de7affa54f0800000000000000
+      internalID: -839077283844027558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 141
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c447fd2996e0fc8e0800000000000000
+      internalID: -1671101090132691892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 138
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b0d1d13d8480680800000000000000
+      internalID: -8788694601249780963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 140
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193532730f1ed7270800000000000000
+      internalID: 8249998514246079377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 110
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6f2c2eff5856680800000000000000
+      internalID: -8762450165911849265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 111
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe60c65aae4b9000800000000000000
+      internalID: 43715114897010425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 114
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cdfabeb01b438f0800000000000000
+      internalID: -561629388757541759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 113
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5fe24861a014020800000000000000
+      internalID: 2324149974523115003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 112
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8f4586d43ef940800000000000000
+      internalID: 5331757104817474234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47540a0955f4d42b0800000000000000
+      internalID: -5598731532834421388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 110
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cef0d88d7d6935d0800000000000000
+      internalID: -3082312084024656191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 105
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0a54b0271c55050800000000000000
+      internalID: 5788745591614185708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 125
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249a3fc496402b390800000000000000
+      internalID: -7804170353970534078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 105
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3e040e632ca36e0800000000000000
+      internalID: -1856958355390536747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 110
+        width: 17
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de86554401a849910800000000000000
+      internalID: 1843249949971933421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 109
+        width: 17
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec3fbde5c79df10800000000000000
+      internalID: 2295002231980936708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 111
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c85ac35afb43f340800000000000000
+      internalID: 4896340758401538246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 111
+        width: 25
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6bb8d1bcee829f0800000000000000
+      internalID: -492881603055602006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 112
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e4b9be035a716f0800000000000000
+      internalID: -713920386385097183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 92
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5920c1a80de58bb00800000000000000
+      internalID: 844529179895267989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 92
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e494e53d86da2b4b0800000000000000
+      internalID: -5426083935293650610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 104
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607b277143b806d70800000000000000
+      internalID: 9034373908353169158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 77
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca85369a3dc5a620800000000000000
+      internalID: 2784857596110408394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 78
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf6d40601a3d89d0800000000000000
+      internalID: -2770494353753411621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 81
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872f7d6a6b8bd0020800000000000000
+      internalID: 2309705278533661304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 76
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca136b271396fc00800000000000000
+      internalID: 934095700447402695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 76
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f0e69e03e338d40800000000000000
+      internalID: 5585376342665203540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 77
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68344d177ca45ad40800000000000000
+      internalID: 5594960332546392966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 77
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a617da0a4d4d940800000000000000
+      internalID: 5320110846401145430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 73
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d7d6a88109ba50800000000000000
+      internalID: 6537258020531328859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 94
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b507eb01364c13aa0800000000000000
+      internalID: -6182944883641257893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 80
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749df9cf4cb0d2150800000000000000
+      internalID: 5849344431703972167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 81
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965017cc210473450800000000000000
+      internalID: 6068389472388580713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 81
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d81cb1fbc8c4a8d0800000000000000
+      internalID: -2835921087077017388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 74
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f4284a394ceaa0800000000000000
+      internalID: -6130444478090774421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 78
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dbedf1aaee3d6c0800000000000000
+      internalID: -4119686819667329658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 78
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16acf535d62ba6f80800000000000000
+      internalID: -8112475596134561183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 80
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2a6644edc6ce120800000000000000
+      internalID: 2444448399641453230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325a2a08cbd71700800000000000000
+      internalID: 511118734940328502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 46
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9b6ba3e06ca24b0800000000000000
+      internalID: -5464337433443780175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 43
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e06e7fb4d1014150800000000000000
+      internalID: 5854963003815780585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 45
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd383155cdd5cd0800000000000000
+      internalID: -2567653954573574987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 45
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcf7efd16cb94270800000000000000
+      internalID: 8235320522178034936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 45
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36efbffd15c34770800000000000000
+      internalID: 8593929246588528189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 61
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6881c92b42d05e600800000000000000
+      internalID: 496817785160865926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 62
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab37033ea1e5983d0800000000000000
+      internalID: -3203926190323633222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 58
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda9f0fc2e1076010800000000000000
+      internalID: 1181915500856187612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 57
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f707eabe90c101a50800000000000000
+      internalID: 6489717891975245951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 45
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b100eda1eb4850800000000000000
+      internalID: 6362427035494756474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 37
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c9ba1376a926b0800000000000000
+      internalID: -5320538471461697842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b8d4fbce17195c0800000000000000
+      internalID: -4210458914978952326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 16
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d31ccdafbce417a0800000000000000
+      internalID: -6407236061842631721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 11
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3554e148369113880800000000000000
+      internalID: -8633091095483497133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12
+        width: 18
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88ef609e8cd92550800000000000000
+      internalID: 6136678472135731342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 12
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84594cfb3f35ecc30800000000000000
+      internalID: 4381531793837561160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e1c458398eae20800000000000000
+      internalID: 3363776846725505656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 12
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c004a928e9cada10800000000000000
+      internalID: 1935080988877258946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 28
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ce818698c3c4460800000000000000
+      internalID: 7227218062877453436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 29
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b8129281d78f5d0800000000000000
+      internalID: -3028533206683907207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbizarre-spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 5
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0f5cd581c3a470800000000000000
+      internalID: 8404774110275505508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a398c5a8f214c2a45a5e11608d029c6b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bulbizarre-spritesheet_0: -4630415425129731546
+      bulbizarre-spritesheet_1: -5397179399334953508
+      bulbizarre-spritesheet_10: -8123333343919795684
+      bulbizarre-spritesheet_100: 5788745591614185708
+      bulbizarre-spritesheet_101: -7804170353970534078
+      bulbizarre-spritesheet_102: -1856958355390536747
+      bulbizarre-spritesheet_103: 1843249949971933421
+      bulbizarre-spritesheet_104: 2295002231980936708
+      bulbizarre-spritesheet_105: 4896340758401538246
+      bulbizarre-spritesheet_106: -492881603055602006
+      bulbizarre-spritesheet_107: -713920386385097183
+      bulbizarre-spritesheet_108: 844529179895267989
+      bulbizarre-spritesheet_109: -5426083935293650610
+      bulbizarre-spritesheet_11: -3816303955099933621
+      bulbizarre-spritesheet_110: 9034373908353169158
+      bulbizarre-spritesheet_111: 2784857596110408394
+      bulbizarre-spritesheet_112: -2770494353753411621
+      bulbizarre-spritesheet_113: 2309705278533661304
+      bulbizarre-spritesheet_114: 934095700447402695
+      bulbizarre-spritesheet_115: 5585376342665203540
+      bulbizarre-spritesheet_116: 5594960332546392966
+      bulbizarre-spritesheet_117: 5320110846401145430
+      bulbizarre-spritesheet_118: 6537258020531328859
+      bulbizarre-spritesheet_119: -6182944883641257893
+      bulbizarre-spritesheet_12: 8088658384088980955
+      bulbizarre-spritesheet_120: 5849344431703972167
+      bulbizarre-spritesheet_121: 6068389472388580713
+      bulbizarre-spritesheet_122: -2835921087077017388
+      bulbizarre-spritesheet_123: -6130444478090774421
+      bulbizarre-spritesheet_124: -4119686819667329658
+      bulbizarre-spritesheet_125: -8112475596134561183
+      bulbizarre-spritesheet_126: 2444448399641453230
+      bulbizarre-spritesheet_127: 511118734940328502
+      bulbizarre-spritesheet_128: -5464337433443780175
+      bulbizarre-spritesheet_129: 5854963003815780585
+      bulbizarre-spritesheet_13: 1302878684864947033
+      bulbizarre-spritesheet_130: -2567653954573574987
+      bulbizarre-spritesheet_131: 8235320522178034936
+      bulbizarre-spritesheet_132: 8593929246588528189
+      bulbizarre-spritesheet_133: 496817785160865926
+      bulbizarre-spritesheet_134: -3203926190323633222
+      bulbizarre-spritesheet_135: 1181915500856187612
+      bulbizarre-spritesheet_136: 6489717891975245951
+      bulbizarre-spritesheet_137: 6362427035494756474
+      bulbizarre-spritesheet_138: -5320538471461697842
+      bulbizarre-spritesheet_139: -4210458914978952326
+      bulbizarre-spritesheet_14: -6537378339346857039
+      bulbizarre-spritesheet_140: -6407236061842631721
+      bulbizarre-spritesheet_141: -8633091095483497133
+      bulbizarre-spritesheet_142: 6136678472135731342
+      bulbizarre-spritesheet_143: 4381531793837561160
+      bulbizarre-spritesheet_144: 3363776846725505656
+      bulbizarre-spritesheet_145: 1935080988877258946
+      bulbizarre-spritesheet_146: 7227218062877453436
+      bulbizarre-spritesheet_147: -3028533206683907207
+      bulbizarre-spritesheet_148: 8404774110275505508
+      bulbizarre-spritesheet_15: 2315856811393238438
+      bulbizarre-spritesheet_16: -4214230023189863728
+      bulbizarre-spritesheet_17: 7715563631721061744
+      bulbizarre-spritesheet_18: 497001463225276428
+      bulbizarre-spritesheet_19: -1203929801183973014
+      bulbizarre-spritesheet_2: 2099652443801262714
+      bulbizarre-spritesheet_20: -8662994662227766250
+      bulbizarre-spritesheet_21: 2779157074286044460
+      bulbizarre-spritesheet_22: -8974619932158426518
+      bulbizarre-spritesheet_23: 6157691759996105075
+      bulbizarre-spritesheet_24: 245320343749746352
+      bulbizarre-spritesheet_25: 3021351884561669400
+      bulbizarre-spritesheet_26: -4935116601220722422
+      bulbizarre-spritesheet_27: -3210701266138629007
+      bulbizarre-spritesheet_28: -7442826581872026249
+      bulbizarre-spritesheet_29: -2691869856663139313
+      bulbizarre-spritesheet_3: -2676913961868052568
+      bulbizarre-spritesheet_30: 7366826830852122273
+      bulbizarre-spritesheet_31: 7823399765553755627
+      bulbizarre-spritesheet_32: 6683975037114020420
+      bulbizarre-spritesheet_33: 6845072761605361905
+      bulbizarre-spritesheet_34: -5319561108106825824
+      bulbizarre-spritesheet_35: 8815051245300353671
+      bulbizarre-spritesheet_36: -4012800457431292956
+      bulbizarre-spritesheet_37: -2889136179587932873
+      bulbizarre-spritesheet_38: 1842358926098899704
+      bulbizarre-spritesheet_39: 4156888401420749641
+      bulbizarre-spritesheet_4: -8847319894980660111
+      bulbizarre-spritesheet_40: 7466725019846229915
+      bulbizarre-spritesheet_41: -6818320071856316685
+      bulbizarre-spritesheet_42: -2835704216813913413
+      bulbizarre-spritesheet_43: -6036716166983694663
+      bulbizarre-spritesheet_44: 1829494932863015172
+      bulbizarre-spritesheet_45: -5346999910878527525
+      bulbizarre-spritesheet_46: -4782969242552701874
+      bulbizarre-spritesheet_47: -691796027935550648
+      bulbizarre-spritesheet_48: 3363210702195262702
+      bulbizarre-spritesheet_49: -3573893126535069960
+      bulbizarre-spritesheet_5: 6770864841327002867
+      bulbizarre-spritesheet_50: -2513681642441633198
+      bulbizarre-spritesheet_51: -8191596004421908844
+      bulbizarre-spritesheet_52: -1206789439014249539
+      bulbizarre-spritesheet_53: 1270518402735309622
+      bulbizarre-spritesheet_54: 1814621829722413343
+      bulbizarre-spritesheet_55: 6814029731411773247
+      bulbizarre-spritesheet_56: -223412181654066481
+      bulbizarre-spritesheet_57: -1450902796401493074
+      bulbizarre-spritesheet_58: -798333474880353679
+      bulbizarre-spritesheet_59: -4375531748513889147
+      bulbizarre-spritesheet_6: -3844325731011067041
+      bulbizarre-spritesheet_60: 2789979600940173395
+      bulbizarre-spritesheet_61: -4879008142937876698
+      bulbizarre-spritesheet_62: -1255084836632036340
+      bulbizarre-spritesheet_63: 7895622170036293603
+      bulbizarre-spritesheet_64: 4729701984270760624
+      bulbizarre-spritesheet_65: 2609721205209830373
+      bulbizarre-spritesheet_66: 7494415473519558437
+      bulbizarre-spritesheet_67: -8663629716635430793
+      bulbizarre-spritesheet_68: 6598677279688598576
+      bulbizarre-spritesheet_69: -855018893807009003
+      bulbizarre-spritesheet_7: -1438968910211907215
+      bulbizarre-spritesheet_70: 3041276947098597064
+      bulbizarre-spritesheet_71: -2824010792250408072
+      bulbizarre-spritesheet_72: -3297873192580009114
+      bulbizarre-spritesheet_73: -7356205506339285996
+      bulbizarre-spritesheet_74: 4322874531346220562
+      bulbizarre-spritesheet_75: 7605971675900662514
+      bulbizarre-spritesheet_76: 6726334136260301485
+      bulbizarre-spritesheet_77: -5553503344992310889
+      bulbizarre-spritesheet_78: 5129391330619726135
+      bulbizarre-spritesheet_79: -3710818023394117666
+      bulbizarre-spritesheet_8: -4394484623911233756
+      bulbizarre-spritesheet_80: -8456385394972711155
+      bulbizarre-spritesheet_81: 3764831145685063509
+      bulbizarre-spritesheet_82: -681928065117998295
+      bulbizarre-spritesheet_83: -318008496443948469
+      bulbizarre-spritesheet_84: 4802860706799473571
+      bulbizarre-spritesheet_85: -6824452707901636790
+      bulbizarre-spritesheet_86: 7645417434052093203
+      bulbizarre-spritesheet_87: 4045188819947236157
+      bulbizarre-spritesheet_88: 5107736280759214702
+      bulbizarre-spritesheet_89: -839077283844027558
+      bulbizarre-spritesheet_9: -3194822774805560378
+      bulbizarre-spritesheet_90: -1671101090132691892
+      bulbizarre-spritesheet_91: -8788694601249780963
+      bulbizarre-spritesheet_92: 8249998514246079377
+      bulbizarre-spritesheet_93: -8762450165911849265
+      bulbizarre-spritesheet_94: 43715114897010425
+      bulbizarre-spritesheet_95: -561629388757541759
+      bulbizarre-spritesheet_96: 2324149974523115003
+      bulbizarre-spritesheet_97: 5331757104817474234
+      bulbizarre-spritesheet_98: -5598731532834421388
+      bulbizarre-spritesheet_99: -3082312084024656191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

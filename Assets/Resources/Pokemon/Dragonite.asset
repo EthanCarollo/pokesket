@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Dragonite
+  m_EditorClassIdentifier: 
+  id: 2
+  pokemonName: Dragonite
+  pokemonPortrait: {fileID: 1225217232, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: -1614053013, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  pokemonType: {fileID: 11400000, guid: 69c8b8425a4f36b42944803fed3bad60, type: 2}
+  speed: 3
+  defence: 70
+  shootPrecision: 70
+  bottomRightAnimation:
+  - {fileID: 1567022651, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: 1950864074, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: -490294193, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 1304551182, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: 1122620480, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: 1406317251, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  topRightAnimation:
+  - {fileID: -877572908, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: -1223924477, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: -1884007935, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  topLeftAnimation:
+  - {fileID: -2131733299, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: -28123564, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  - {fileID: -1165036024, guid: b03bbe8d335a1de40886c49373b3cade, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

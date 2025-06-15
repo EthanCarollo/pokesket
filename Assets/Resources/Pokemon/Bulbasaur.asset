@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Bulbasaur
+  m_EditorClassIdentifier: 
+  id: 1
+  pokemonName: Bulbasaur
+  pokemonPortrait: {fileID: -3168194, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: 497001463225276428, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  pokemonType: {fileID: 11400000, guid: 260ccf4b331fde64c9f638ba6136fc60, type: 2}
+  speed: 6
+  defence: 50
+  shootPrecision: 40
+  bottomRightAnimation:
+  - {fileID: -8633091095483497133, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: 6136678472135731342, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: 4381531793837561160, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 6683975037114020420, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: 6845072761605361905, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: -5319561108106825824, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  topRightAnimation:
+  - {fileID: -2770494353753411621, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: 934095700447402695, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: 5585376342665203540, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  topLeftAnimation:
+  - {fileID: -7356205506339285996, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: 4322874531346220562, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  - {fileID: 7605971675900662514, guid: 095437fe7f5b29b43850f622141e0d98, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

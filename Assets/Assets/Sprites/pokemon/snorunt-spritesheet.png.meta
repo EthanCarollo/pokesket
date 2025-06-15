@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 94587fd201318454dbce3549f0fd4662
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2697731186863019275
+    second: snorunt-spritesheet_0
+  - first:
+      213: -25962683169976704
+    second: snorunt-spritesheet_1
+  - first:
+      213: -6103447477024029827
+    second: snorunt-spritesheet_2
+  - first:
+      213: 3075469769858934150
+    second: snorunt-spritesheet_3
+  - first:
+      213: -8424876895558764906
+    second: snorunt-spritesheet_4
+  - first:
+      213: -5292599673683763569
+    second: snorunt-spritesheet_5
+  - first:
+      213: 598377614276551999
+    second: snorunt-spritesheet_6
+  - first:
+      213: 6987326654122687848
+    second: snorunt-spritesheet_7
+  - first:
+      213: -9004269823881243785
+    second: snorunt-spritesheet_8
+  - first:
+      213: -4962737552660764912
+    second: snorunt-spritesheet_9
+  - first:
+      213: -5697946482273321856
+    second: snorunt-spritesheet_10
+  - first:
+      213: -3557660909773141577
+    second: snorunt-spritesheet_11
+  - first:
+      213: -7290833679509537968
+    second: snorunt-spritesheet_12
+  - first:
+      213: -5893944396625873145
+    second: snorunt-spritesheet_13
+  - first:
+      213: -670540666914304547
+    second: snorunt-spritesheet_14
+  - first:
+      213: -7733523744464180104
+    second: snorunt-spritesheet_15
+  - first:
+      213: -5479138671297297681
+    second: snorunt-spritesheet_16
+  - first:
+      213: 1688671047251898144
+    second: snorunt-spritesheet_17
+  - first:
+      213: 1788409760988031425
+    second: snorunt-spritesheet_18
+  - first:
+      213: 4209472324324181280
+    second: snorunt-spritesheet_19
+  - first:
+      213: 4214115282486784655
+    second: snorunt-spritesheet_20
+  - first:
+      213: -1322560698357068663
+    second: snorunt-spritesheet_21
+  - first:
+      213: -7308517723540443120
+    second: snorunt-spritesheet_22
+  - first:
+      213: 6326023668454028435
+    second: snorunt-spritesheet_23
+  - first:
+      213: -5272105209233340737
+    second: snorunt-spritesheet_24
+  - first:
+      213: 5201500212538622689
+    second: snorunt-spritesheet_25
+  - first:
+      213: 5829926500323996293
+    second: snorunt-spritesheet_26
+  - first:
+      213: 2467970182896790097
+    second: snorunt-spritesheet_27
+  - first:
+      213: -2626934021091015146
+    second: snorunt-spritesheet_28
+  - first:
+      213: -1425455624734832976
+    second: snorunt-spritesheet_29
+  - first:
+      213: -2763971267557110547
+    second: snorunt-spritesheet_30
+  - first:
+      213: 4073344061368042633
+    second: snorunt-spritesheet_31
+  - first:
+      213: -2590333735799631208
+    second: snorunt-spritesheet_32
+  - first:
+      213: 2224580895936196738
+    second: snorunt-spritesheet_33
+  - first:
+      213: 6688904322302847164
+    second: snorunt-spritesheet_34
+  - first:
+      213: -3788389121970051411
+    second: snorunt-spritesheet_35
+  - first:
+      213: -6145757166759847470
+    second: snorunt-spritesheet_36
+  - first:
+      213: 8971873559385809711
+    second: snorunt-spritesheet_37
+  - first:
+      213: -3957031664816587896
+    second: snorunt-spritesheet_38
+  - first:
+      213: 8053501391943739517
+    second: snorunt-spritesheet_39
+  - first:
+      213: 6225654316153704920
+    second: snorunt-spritesheet_40
+  - first:
+      213: 7015483266943277833
+    second: snorunt-spritesheet_41
+  - first:
+      213: -1615298053516640025
+    second: snorunt-spritesheet_42
+  - first:
+      213: 1681757406986505187
+    second: snorunt-spritesheet_43
+  - first:
+      213: 2734950577570743710
+    second: snorunt-spritesheet_44
+  - first:
+      213: -2205875715157784171
+    second: snorunt-spritesheet_45
+  - first:
+      213: 3972082243142940040
+    second: snorunt-spritesheet_46
+  - first:
+      213: 3795317812911032098
+    second: snorunt-spritesheet_47
+  - first:
+      213: -5053458398689111808
+    second: snorunt-spritesheet_48
+  - first:
+      213: 1574633529651831119
+    second: snorunt-spritesheet_49
+  - first:
+      213: -5803341868641608848
+    second: snorunt-spritesheet_50
+  - first:
+      213: 6991956220701976377
+    second: snorunt-spritesheet_51
+  - first:
+      213: 1004799628443221881
+    second: snorunt-spritesheet_52
+  - first:
+      213: 4719184227387712915
+    second: snorunt-spritesheet_53
+  - first:
+      213: 5896490586128952035
+    second: snorunt-spritesheet_54
+  - first:
+      213: -3322367310765213253
+    second: snorunt-spritesheet_55
+  - first:
+      213: 912352945371283817
+    second: snorunt-spritesheet_56
+  - first:
+      213: -1879510749518745623
+    second: snorunt-spritesheet_57
+  - first:
+      213: -4075938154165925975
+    second: snorunt-spritesheet_58
+  - first:
+      213: -6919017339196890898
+    second: snorunt-spritesheet_59
+  - first:
+      213: -236213145497798750
+    second: snorunt-spritesheet_60
+  - first:
+      213: -2104641454452670402
+    second: snorunt-spritesheet_61
+  - first:
+      213: -5597700266884242458
+    second: snorunt-spritesheet_62
+  - first:
+      213: -942358089739531754
+    second: snorunt-spritesheet_63
+  - first:
+      213: -2940023632497449973
+    second: snorunt-spritesheet_64
+  - first:
+      213: 3497103816676639234
+    second: snorunt-spritesheet_65
+  - first:
+      213: -5951949448085724198
+    second: snorunt-spritesheet_66
+  - first:
+      213: 4784958064109770715
+    second: snorunt-spritesheet_67
+  - first:
+      213: 7899832206250340615
+    second: snorunt-spritesheet_68
+  - first:
+      213: 5783285881554137960
+    second: snorunt-spritesheet_69
+  - first:
+      213: 1458839093922674291
+    second: snorunt-spritesheet_70
+  - first:
+      213: -7312611078049838196
+    second: snorunt-spritesheet_71
+  - first:
+      213: 4599953208111312315
+    second: snorunt-spritesheet_72
+  - first:
+      213: 4103283228277824579
+    second: snorunt-spritesheet_73
+  - first:
+      213: 1168422828742795603
+    second: snorunt-spritesheet_74
+  - first:
+      213: 3883664581161365554
+    second: snorunt-spritesheet_75
+  - first:
+      213: 3568751076729347926
+    second: snorunt-spritesheet_76
+  - first:
+      213: -4804918692093212306
+    second: snorunt-spritesheet_77
+  - first:
+      213: -7139414773275644069
+    second: snorunt-spritesheet_78
+  - first:
+      213: -1538775918603770922
+    second: snorunt-spritesheet_79
+  - first:
+      213: -1923199869594424487
+    second: snorunt-spritesheet_80
+  - first:
+      213: -5592904729571580486
+    second: snorunt-spritesheet_81
+  - first:
+      213: -2938762617360511358
+    second: snorunt-spritesheet_82
+  - first:
+      213: -574923993671586796
+    second: snorunt-spritesheet_83
+  - first:
+      213: -1556214377965854179
+    second: snorunt-spritesheet_84
+  - first:
+      213: -6303284580924181198
+    second: snorunt-spritesheet_85
+  - first:
+      213: -8929672445478345587
+    second: snorunt-spritesheet_86
+  - first:
+      213: 5953684937148465433
+    second: snorunt-spritesheet_87
+  - first:
+      213: 2833768268810855662
+    second: snorunt-spritesheet_88
+  - first:
+      213: -1912335788058918234
+    second: snorunt-spritesheet_89
+  - first:
+      213: 686732541282283124
+    second: snorunt-spritesheet_90
+  - first:
+      213: 4046894009872118302
+    second: snorunt-spritesheet_91
+  - first:
+      213: -5238409889427490355
+    second: snorunt-spritesheet_92
+  - first:
+      213: 3246441256776650679
+    second: snorunt-spritesheet_93
+  - first:
+      213: -1202468043915416045
+    second: snorunt-spritesheet_94
+  - first:
+      213: -4330166076321026783
+    second: snorunt-spritesheet_95
+  - first:
+      213: -6675631836589859558
+    second: snorunt-spritesheet_96
+  - first:
+      213: -74173843776968065
+    second: snorunt-spritesheet_97
+  - first:
+      213: -1434110568455529282
+    second: snorunt-spritesheet_98
+  - first:
+      213: 3122706002365263501
+    second: snorunt-spritesheet_99
+  - first:
+      213: -1817117689385678395
+    second: snorunt-spritesheet_100
+  - first:
+      213: 302817107917164966
+    second: snorunt-spritesheet_101
+  - first:
+      213: 6692175878180544689
+    second: snorunt-spritesheet_102
+  - first:
+      213: 2012707174406498900
+    second: snorunt-spritesheet_103
+  - first:
+      213: 4161333618188081545
+    second: snorunt-spritesheet_104
+  - first:
+      213: -2616486529189127023
+    second: snorunt-spritesheet_105
+  - first:
+      213: -5829499613123310172
+    second: snorunt-spritesheet_106
+  - first:
+      213: -1419182726433470255
+    second: snorunt-spritesheet_107
+  - first:
+      213: 6884792224838559207
+    second: snorunt-spritesheet_108
+  - first:
+      213: -7607688938141238088
+    second: snorunt-spritesheet_109
+  - first:
+      213: 2107556908883838960
+    second: snorunt-spritesheet_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snorunt-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 237
+        width: 27
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa698b57cbbf8ad0800000000000000
+      internalID: -2697731186863019275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 237
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ecc34c313c3aff0800000000000000
+      internalID: -25962683169976704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 237
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d738aba6bd23c4ba0800000000000000
+      internalID: -6103447477024029827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 237
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685e4ed06734eaa20800000000000000
+      internalID: 3075469769858934150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 209
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696f2d3b913d41b80800000000000000
+      internalID: -8424876895558764906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 208
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e1bbf53a8ec86b0800000000000000
+      internalID: -5292599673683763569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 208
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ef74154ddd4800800000000000000
+      internalID: 598377614276551999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 205
+        width: 19
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df99c4298f7f060800000000000000
+      internalID: 6987326654122687848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 180
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7731ac54d486a0380800000000000000
+      internalID: -9004269823881243785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 179
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017e9245d70d02bb0800000000000000
+      internalID: -4962737552660764912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 176
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c79e60dd3dce0b0800000000000000
+      internalID: -5697946482273321856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9cda97046a0aec0800000000000000
+      internalID: -3557660909773141577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 149
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3160a561c1da90800000000000000
+      internalID: -7290833679509537968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 148
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707f5397cc0843ea0800000000000000
+      internalID: -5893944396625873145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 123
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd8e1de0d2c1b6f0800000000000000
+      internalID: -670540666914304547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 122
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce92dd0210da490800000000000000
+      internalID: -7733523744464180104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 121
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2083e786036f3b0800000000000000
+      internalID: -5479138671297297681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 92
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fafe9de5d5f6710800000000000000
+      internalID: 1688671047251898144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 91
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c96884c335b1d810800000000000000
+      internalID: 1788409760988031425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 91
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0254e27b6cc0b6a30800000000000000
+      internalID: 4209472324324181280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 65
+        width: 18
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827b27a58b8b7a30800000000000000
+      internalID: 4214115282486784655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cc8845d0255ade0800000000000000
+      internalID: -1322560698357068663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010b9b54adde29a90800000000000000
+      internalID: -7308517723540443120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 37
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3947aee720d8ac750800000000000000
+      internalID: 6326023668454028435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb60929be38b5d6b0800000000000000
+      internalID: -5272105209233340737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 35
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2cb7372e07f2840800000000000000
+      internalID: 5201500212538622689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 10
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b276834f08e050800000000000000
+      internalID: 5829926500323996293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 8
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aa1d33ecdff3220800000000000000
+      internalID: 2467970182896790097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snorunt-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6164b780d614b8bd0800000000000000
+      internalID: -2626934021091015146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ebe9c9b354e25344fa79a2a8d189f43f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snorunt-spritesheet_0: -2697731186863019275
+      snorunt-spritesheet_1: -25962683169976704
+      snorunt-spritesheet_10: -5697946482273321856
+      snorunt-spritesheet_11: -3557660909773141577
+      snorunt-spritesheet_12: -7290833679509537968
+      snorunt-spritesheet_13: -5893944396625873145
+      snorunt-spritesheet_14: -670540666914304547
+      snorunt-spritesheet_15: -7733523744464180104
+      snorunt-spritesheet_16: -5479138671297297681
+      snorunt-spritesheet_17: 1688671047251898144
+      snorunt-spritesheet_18: 1788409760988031425
+      snorunt-spritesheet_19: 4209472324324181280
+      snorunt-spritesheet_2: -6103447477024029827
+      snorunt-spritesheet_20: 4214115282486784655
+      snorunt-spritesheet_21: -1322560698357068663
+      snorunt-spritesheet_22: -7308517723540443120
+      snorunt-spritesheet_23: 6326023668454028435
+      snorunt-spritesheet_24: -5272105209233340737
+      snorunt-spritesheet_25: 5201500212538622689
+      snorunt-spritesheet_26: 5829926500323996293
+      snorunt-spritesheet_27: 2467970182896790097
+      snorunt-spritesheet_28: -2626934021091015146
+      snorunt-spritesheet_3: 3075469769858934150
+      snorunt-spritesheet_4: -8424876895558764906
+      snorunt-spritesheet_5: -5292599673683763569
+      snorunt-spritesheet_6: 598377614276551999
+      snorunt-spritesheet_7: 6987326654122687848
+      snorunt-spritesheet_8: -9004269823881243785
+      snorunt-spritesheet_9: -4962737552660764912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

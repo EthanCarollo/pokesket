@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: e1d20ab146376e84e8b9454607402624
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3668982610227951714
+    second: arbok-spritesheet_0
+  - first:
+      213: -3475409813789522576
+    second: arbok-spritesheet_1
+  - first:
+      213: 1432982012098314728
+    second: arbok-spritesheet_2
+  - first:
+      213: 5966090965883097993
+    second: arbok-spritesheet_3
+  - first:
+      213: 2260060001554947343
+    second: arbok-spritesheet_4
+  - first:
+      213: -6354895109164281035
+    second: arbok-spritesheet_5
+  - first:
+      213: 370017122335772933
+    second: arbok-spritesheet_6
+  - first:
+      213: 7434229280608656704
+    second: arbok-spritesheet_7
+  - first:
+      213: -1045024409929847466
+    second: arbok-spritesheet_8
+  - first:
+      213: -7159053171276726709
+    second: arbok-spritesheet_9
+  - first:
+      213: 4773973736616499669
+    second: arbok-spritesheet_10
+  - first:
+      213: 7067462963171706697
+    second: arbok-spritesheet_11
+  - first:
+      213: 930530858343720889
+    second: arbok-spritesheet_12
+  - first:
+      213: -9030607092088581518
+    second: arbok-spritesheet_13
+  - first:
+      213: -5486207199884491594
+    second: arbok-spritesheet_14
+  - first:
+      213: 3294596705094760897
+    second: arbok-spritesheet_15
+  - first:
+      213: 2138344214815197913
+    second: arbok-spritesheet_16
+  - first:
+      213: -5897373109115414650
+    second: arbok-spritesheet_17
+  - first:
+      213: -3774469910567967777
+    second: arbok-spritesheet_18
+  - first:
+      213: 6703083614010066630
+    second: arbok-spritesheet_19
+  - first:
+      213: 1320260230659776472
+    second: arbok-spritesheet_20
+  - first:
+      213: 2124518670912370738
+    second: arbok-spritesheet_21
+  - first:
+      213: -5885896438179931557
+    second: arbok-spritesheet_22
+  - first:
+      213: 5401434753702085265
+    second: arbok-spritesheet_23
+  - first:
+      213: -5581790068154290485
+    second: arbok-spritesheet_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbok-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 260
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97074e41c7251dc0800000000000000
+      internalID: -3668982610227951714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 259
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0754b28103dd4cfc0800000000000000
+      internalID: -3475409813789522576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 259
+        width: 29
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e105a83c89f2e310800000000000000
+      internalID: 1432982012098314728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 259
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983112faf10dbc250800000000000000
+      internalID: 5966090965883097993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 225
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d50cbd8985d5f10800000000000000
+      internalID: 2260060001554947343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53355616190eec7a0800000000000000
+      internalID: -6354895109164281035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 225
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d2a1cc90922500800000000000000
+      internalID: 370017122335772933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 191
+        width: 29
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d9c797420bb2760800000000000000
+      internalID: 7434229280608656704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 191
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65de48006d35f71f0800000000000000
+      internalID: -1045024409929847466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 191
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ebaed221fe5ac90800000000000000
+      internalID: -7159053171276726709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 158
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d91212e1df804240800000000000000
+      internalID: 4773973736616499669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 158
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474417be1ca41260800000000000000
+      internalID: 7067462963171706697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 158
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7ed10b2e8e9ec00800000000000000
+      internalID: 930530858343720889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 123
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272dfe922b6dca280800000000000000
+      internalID: -9030607092088581518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 123
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c1be6e931dd3b0800000000000000
+      internalID: -5486207199884491594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 123
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9785d6f32c8bd20800000000000000
+      internalID: 3294596705094760897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 90
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4293ebbcecad10800000000000000
+      internalID: 2138344214815197913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 90
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6871c332762582ea0800000000000000
+      internalID: -5897373109115414650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 90
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd322354d936e9bc0800000000000000
+      internalID: -3774469910567967777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 53
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6cfc05803260d50800000000000000
+      internalID: 6703083614010066630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 53
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df1d8b4fa1825210800000000000000
+      internalID: 1320260230659776472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 53
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ba6a997ecb7d10800000000000000
+      internalID: 2124518670912370738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5c81df58115ea0800000000000000
+      internalID: -5885896438179931557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 15
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192ccdb5a40c5fa40800000000000000
+      internalID: 5401434753702085265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbok-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce2cd0b18f7982b0800000000000000
+      internalID: -5581790068154290485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40bd9ab1a73ad734ab54968cc5453bb1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arbok-spritesheet_0: -3668982610227951714
+      arbok-spritesheet_1: -3475409813789522576
+      arbok-spritesheet_10: 4773973736616499669
+      arbok-spritesheet_11: 7067462963171706697
+      arbok-spritesheet_12: 930530858343720889
+      arbok-spritesheet_13: -9030607092088581518
+      arbok-spritesheet_14: -5486207199884491594
+      arbok-spritesheet_15: 3294596705094760897
+      arbok-spritesheet_16: 2138344214815197913
+      arbok-spritesheet_17: -5897373109115414650
+      arbok-spritesheet_18: -3774469910567967777
+      arbok-spritesheet_19: 6703083614010066630
+      arbok-spritesheet_2: 1432982012098314728
+      arbok-spritesheet_20: 1320260230659776472
+      arbok-spritesheet_21: 2124518670912370738
+      arbok-spritesheet_22: -5885896438179931557
+      arbok-spritesheet_23: 5401434753702085265
+      arbok-spritesheet_24: -5581790068154290485
+      arbok-spritesheet_3: 5966090965883097993
+      arbok-spritesheet_4: 2260060001554947343
+      arbok-spritesheet_5: -6354895109164281035
+      arbok-spritesheet_6: 370017122335772933
+      arbok-spritesheet_7: 7434229280608656704
+      arbok-spritesheet_8: -1045024409929847466
+      arbok-spritesheet_9: -7159053171276726709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

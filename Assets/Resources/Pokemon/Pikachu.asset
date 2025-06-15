@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Pikachu
+  m_EditorClassIdentifier: 
+  id: 12
+  pokemonName: Pikachu
+  pokemonPortrait: {fileID: -935958148, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: 5115059994175205338, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  pokemonType: {fileID: 11400000, guid: f4f2b8beaff9b51429896ab14b5c21f5, type: 2}
+  speed: 10
+  defence: 40
+  shootPrecision: 40
+  bottomRightAnimation:
+  - {fileID: 3365522553707697977, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: -7370784205864522702, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: -6611774338356660372, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 4858581057941272878, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: 4544142218055383194, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: 1805300982576926405, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  topRightAnimation:
+  - {fileID: 8729595300350865261, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: -4297593768240173134, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: -3141422117146988960, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  topLeftAnimation:
+  - {fileID: -3872758030782666663, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: 1245189718935166999, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  - {fileID: -1367524946021513301, guid: f624cd0c67c3d1045aa9b175b0c925cd, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

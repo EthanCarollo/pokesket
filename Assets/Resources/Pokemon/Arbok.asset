@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Arbok
+  m_EditorClassIdentifier: 
+  id: 1
+  pokemonName: Arbok
+  pokemonPortrait: {fileID: -2071729440, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: -3668982610227951714, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  pokemonType: {fileID: 11400000, guid: d0ad620f51392a84ebca649fa21811a7, type: 2}
+  speed: 8
+  defence: 80
+  shootPrecision: 10
+  bottomRightAnimation:
+  - {fileID: 2138344214815197913, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: -5897373109115414650, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: -3774469910567967777, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  bottomLeftAnimation:
+  - {fileID: -9030607092088581518, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: -5486207199884491594, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: 3294596705094760897, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  topRightAnimation:
+  - {fileID: -5885896438179931557, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: 5401434753702085265, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: -5581790068154290485, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  topLeftAnimation:
+  - {fileID: 6703083614010066630, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: 1320260230659776472, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  - {fileID: 2124518670912370738, guid: e1d20ab146376e84e8b9454607402624, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

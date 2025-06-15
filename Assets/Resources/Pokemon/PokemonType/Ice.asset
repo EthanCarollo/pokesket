@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 769c3b922c90f43d58507607682d1f53, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  typeName: Ice
+  particlePointPrefab: {fileID: 1128922939517096, guid: 13bf80939900a2a4c8d5a6ac51f555d5, type: 3}
+  typeIcon: {fileID: 4116156858981629978, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 9.537255, g: 13.552942, b: 13.552942, a: 1}
+  noHdrTypeColor: {r: 0.59607846, g: 0.8470589, b: 0.8470589, a: 0}
+  trailTexture: {fileID: 2800000, guid: af987e10ca3f0924488070b1a9d5c330, type: 3}

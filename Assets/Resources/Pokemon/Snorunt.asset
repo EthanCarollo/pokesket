@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Snorunt
+  m_EditorClassIdentifier: 
+  id: 15
+  pokemonName: Snorunt
+  pokemonPortrait: {fileID: -230679098, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: -8424876895558764906, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  pokemonType: {fileID: 11400000, guid: a9094c94efd2ddf4b9680c25826277d1, type: 2}
+  speed: 1
+  defence: 90
+  shootPrecision: 90
+  bottomRightAnimation:
+  - {fileID: 4214115282486784655, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: -1322560698357068663, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: -7308517723540443120, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 1688671047251898144, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: 1788409760988031425, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: 4209472324324181280, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  topRightAnimation:
+  - {fileID: 5829926500323996293, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: 2467970182896790097, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: -2626934021091015146, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  topLeftAnimation:
+  - {fileID: 6326023668454028435, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: -5272105209233340737, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  - {fileID: 5201500212538622689, guid: 94587fd201318454dbce3549f0fd4662, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  id: 2
+  pokemonName: Charmander
+  pokemonPortrait: {fileID: 1600313896, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: -4930838973629886759, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  pokemonType: {fileID: 11400000, guid: 1be430351cc21434d8d651b6144a547a, type: 2}
+  speed: 7
+  defence: 10
+  shootPrecision: 90
+  bottomRightAnimation:
+  - {fileID: 2058068937787731354, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: -6958012642287858234, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: -1140255867764907914, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  bottomLeftAnimation:
+  - {fileID: -5383971486924233803, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: -7416825054546678434, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: 3407203311939169796, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  topRightAnimation:
+  - {fileID: 403468887, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: -617926513, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: -1994959277, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  topLeftAnimation:
+  - {fileID: -5551713583350686820, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: -4720226041784631486, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  - {fileID: -4104085410831975426, guid: 0d7b46316e8d85548a0ed4b004c0ed1b, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

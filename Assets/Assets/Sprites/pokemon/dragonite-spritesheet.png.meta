@@ -1,0 +1,2019 @@
+fileFormatVersion: 2
+guid: b03bbe8d335a1de40886c49373b3cade
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4010366931136866352
+    second: dracolosse-spritesheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragonite-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 256
+        width: 19
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927fd612573011845af6ce6ca79268a2
+      internalID: 908955131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 258
+        width: 27
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744f5de5cf088a4abc45fdd3356e357
+      internalID: -789298725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 258
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e823f0b3fbfe4bb1d61589be4026f
+      internalID: -2043451785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 258
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b054917dba58de4c9f13ef9ae6de155
+      internalID: -767163572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 258
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a1cdaaf3bfce4db015916e5fbc4ad
+      internalID: 715652247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52d75bbef2856b468abc5fa4428889c
+      internalID: 893648967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 256
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5e11f44e6a9a49a79ffd81d10f0be
+      internalID: -344376828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31318376118b37448b4778ea53c7d73a
+      internalID: -2006793557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 253
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba902047a9dc2468b205c0ae6c0dc1
+      internalID: -565901538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 256
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64321d9af8017a543a7b5278680dbc76
+      internalID: 739109584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 256
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb961b1c59cdbc40b5ff6407ec72265
+      internalID: 2003370853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 256
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68391e187a40cc429be24b4dc857363
+      internalID: -1803650898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 256
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680fdddf24c780b4791d2715c388dfa3
+      internalID: -1754628941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 256
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d419a8358fcd4dbe16e446b769fb3
+      internalID: 301252106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 214
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd0bb4e0754e2942aee6f75dc55f57f
+      internalID: -859274029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 214
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742df671d5c9e1b46989cc5a7d6df3ca
+      internalID: 1537125359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 219
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c8cbad0fe77e439c299d6dfdffc52
+      internalID: -1614053013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 219
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f14d215eb26b04e96e023577131a0e
+      internalID: 2137812714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 219
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bd9846c4e39ac42a25c0c636425d82
+      internalID: -1034627933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 221
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39201c4ac815d35429a00ab0ab0bde4e
+      internalID: -1505999501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 221
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eef7893fece7c409bfa2a23f83baf4
+      internalID: 1259497615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 221
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8419821eb020498e7e154a326df50
+      internalID: 1881570298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 220
+        width: 25
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b5e0ef1fce7f41b048ff713ae60e4
+      internalID: -927248763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 220
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8a0fd2f85177f4db7c3ff80b459121
+      internalID: 592062953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 220
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6521658c47f3e3a4990e9cc68516aaf5
+      internalID: -556597337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 222
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b4e3ef6c74d043bf8219ffe84a255
+      internalID: 1183663670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 222
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6b26871811dc847b47e58f6e4ae556
+      internalID: 583513680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 211
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1087d0c1c02d1f4c9e954ec81d144bb
+      internalID: 316806729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 185
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c31bb409596ca4096812b643d25771
+      internalID: 2097402361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 185
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d9b8c24e101fd4793c3c702808aa55
+      internalID: 393669633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 185
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363edc8026dd884aa117ef3777dc4fc
+      internalID: 1098379383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 187
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3dc69a088a61b41be07598d779db74
+      internalID: 149836016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 187
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99eb486c7bd8349bb422521bda1cb6
+      internalID: 1223181560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 187
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ca0d5ee76bf2e458912e6da68594f6
+      internalID: 1570316461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 187
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc0ac0be1be0d4daeab79c83239716
+      internalID: -48829189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 187
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc7e53566066e45a82a587efac2f69
+      internalID: 1430582334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 187
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbabcf5a5bf24241b9ed6355b744252
+      internalID: 753005694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 190
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52829759d1ea55040b8642a8dd5cd9c3
+      internalID: 1019105297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cbb972765fb604caad0c3c1904c6bd
+      internalID: 2001392565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 179
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a68f7b52744e64f9dd775f8f41fc82
+      internalID: -488400315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 148
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b65b7c46e772448bd2b4868796f4fa
+      internalID: -982293845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 148
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b650afa192109b947a9b7c3aede6fe56
+      internalID: -1796694069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 148
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c39ff8c560174f8a6f1c8918be88e
+      internalID: 137884509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 150
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9742dd7e3a40e6844b88de9d31061064
+      internalID: -193711199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4115d6df16c12e64dbb46ca81a1dd908
+      internalID: -1940068403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 150
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5829d1d403cc0f4cb88df7ad7180315
+      internalID: 847578518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 152
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b702f2fb9721746a3283ce4f50237d
+      internalID: 1031213094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 152
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763486e2d4fbec34ab334be2d09ca42f
+      internalID: 891192825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 152
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c03e32ed2c9341991220eea5eb9a8
+      internalID: 880604978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 158
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e40bb8b6e4647841b06ef4ed4fbd5f5
+      internalID: 2078684641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 156
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d16a30c960594a95205683c6a5697
+      internalID: 156696690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 156
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60621154c7c6b3b4e970049e449479db
+      internalID: 76678976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 125
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9581ba945a5ad74785a2c4b3b61e37b
+      internalID: 1290839387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 113
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187bbe7db34e9504bafac02b44145d98
+      internalID: 244325589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 113
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ec55d4f6d94514b9fd42ab808b4c93
+      internalID: 1426354791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32fa8fb5d3b8b47b2714ed763ed9d9
+      internalID: -700716846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 111
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69591e454cc8c4582b2792ea3ac91c
+      internalID: 1006487388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 111
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dbca8845477314cb7c3e16dbd576f5
+      internalID: -151889762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 113
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18984fd1098a126429dd564216e239db
+      internalID: 1304551182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 113
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed4691e9f14096479467eb8d749bc8d
+      internalID: 1122620480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 113
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07340d617a8202458593131a96db603
+      internalID: 1406317251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 117
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77e47d9ef69b1c4c914026831cf87b2
+      internalID: -1389205363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 117
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a29361437b89349aeec19912aa35bb
+      internalID: 1755646500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 117
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf47552d0c21204f953f9049f89930c
+      internalID: 283255950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 78
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e457dd886ccbe4cb821b54f30a3c90
+      internalID: -2029598981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 76
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57b1cea5c5b1e4bb01735964c6065d
+      internalID: 1910594347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 76
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100553a42e66b6942b6471112cade0fa
+      internalID: -1286682849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 76
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e354ec022d6d448b316899370199bf
+      internalID: 1667499392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b717cec268d3747b480190c87e3a4b
+      internalID: -2131733299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 78
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870857f6b7c1a343aae956d0a5c6e18
+      internalID: -28123564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 78
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c92679fb29519741b478a32f75c53ee
+      internalID: -1165036024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 83
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1838673fa4fae2b40920f041947e2b0b
+      internalID: 140145862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 83
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a045ff686b0134d83290e4655bb0e5
+      internalID: -1944114421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 83
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d55c79bd147f449a8b73bad51ed7f
+      internalID: 420142145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 54
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e0687ffed3564c820d90d783166e2
+      internalID: 1567022651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 54
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170175a612d4da4bbcfdb90ef0b75eb
+      internalID: -490294193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 54
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec57e2def86d014cb0f2906e296bd10
+      internalID: 1950864074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 40
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ff75b186c0c749875fa108687bcd7
+      internalID: 960597833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 19
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990d51d38b178b4d812f1093fc39df0
+      internalID: -877572908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 19
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e2d6ea855a28d43bfdf0d30c3c42f2
+      internalID: -1884007935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 19
+        width: 25
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df569182afd4b2d43a4ec9ec71a9e731
+      internalID: -1223924477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragonite-spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 9
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca028381ab1614645b20b87978ed3ce7
+      internalID: 1672366520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4355fede796f6824f8f5740dd5a88b83
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragonite-spritesheet_0: 908955131
+      dragonite-spritesheet_1: -789298725
+      dragonite-spritesheet_10: 2003370853
+      dragonite-spritesheet_11: -1803650898
+      dragonite-spritesheet_12: -1754628941
+      dragonite-spritesheet_13: 301252106
+      dragonite-spritesheet_14: -859274029
+      dragonite-spritesheet_15: 1537125359
+      dragonite-spritesheet_16: -1614053013
+      dragonite-spritesheet_17: 2137812714
+      dragonite-spritesheet_18: -1034627933
+      dragonite-spritesheet_19: -1505999501
+      dragonite-spritesheet_2: -2043451785
+      dragonite-spritesheet_20: 1259497615
+      dragonite-spritesheet_21: 1881570298
+      dragonite-spritesheet_22: -927248763
+      dragonite-spritesheet_23: 592062953
+      dragonite-spritesheet_24: -556597337
+      dragonite-spritesheet_25: 1183663670
+      dragonite-spritesheet_26: 583513680
+      dragonite-spritesheet_27: 316806729
+      dragonite-spritesheet_28: 2097402361
+      dragonite-spritesheet_29: 393669633
+      dragonite-spritesheet_3: -767163572
+      dragonite-spritesheet_30: 1098379383
+      dragonite-spritesheet_31: 149836016
+      dragonite-spritesheet_32: 1223181560
+      dragonite-spritesheet_33: 1570316461
+      dragonite-spritesheet_34: -48829189
+      dragonite-spritesheet_35: 1430582334
+      dragonite-spritesheet_36: 753005694
+      dragonite-spritesheet_37: 1019105297
+      dragonite-spritesheet_38: 2001392565
+      dragonite-spritesheet_39: -488400315
+      dragonite-spritesheet_4: 715652247
+      dragonite-spritesheet_40: -982293845
+      dragonite-spritesheet_41: -1796694069
+      dragonite-spritesheet_42: 137884509
+      dragonite-spritesheet_43: -193711199
+      dragonite-spritesheet_44: -1940068403
+      dragonite-spritesheet_45: 847578518
+      dragonite-spritesheet_46: 1031213094
+      dragonite-spritesheet_47: 891192825
+      dragonite-spritesheet_48: 880604978
+      dragonite-spritesheet_49: 2078684641
+      dragonite-spritesheet_5: 893648967
+      dragonite-spritesheet_50: 156696690
+      dragonite-spritesheet_51: 76678976
+      dragonite-spritesheet_52: 1290839387
+      dragonite-spritesheet_53: 244325589
+      dragonite-spritesheet_54: 1426354791
+      dragonite-spritesheet_55: -700716846
+      dragonite-spritesheet_56: 1006487388
+      dragonite-spritesheet_57: -151889762
+      dragonite-spritesheet_58: 1304551182
+      dragonite-spritesheet_59: 1122620480
+      dragonite-spritesheet_6: -344376828
+      dragonite-spritesheet_60: 1406317251
+      dragonite-spritesheet_61: -1389205363
+      dragonite-spritesheet_62: 1755646500
+      dragonite-spritesheet_63: 283255950
+      dragonite-spritesheet_64: -2029598981
+      dragonite-spritesheet_65: 1910594347
+      dragonite-spritesheet_66: -1286682849
+      dragonite-spritesheet_67: 1667499392
+      dragonite-spritesheet_68: -2131733299
+      dragonite-spritesheet_69: -28123564
+      dragonite-spritesheet_7: -2006793557
+      dragonite-spritesheet_70: -1165036024
+      dragonite-spritesheet_71: 140145862
+      dragonite-spritesheet_72: -1944114421
+      dragonite-spritesheet_73: 420142145
+      dragonite-spritesheet_74: 1567022651
+      dragonite-spritesheet_75: -490294193
+      dragonite-spritesheet_76: 1950864074
+      dragonite-spritesheet_77: 960597833
+      dragonite-spritesheet_78: -877572908
+      dragonite-spritesheet_79: -1884007935
+      dragonite-spritesheet_8: -565901538
+      dragonite-spritesheet_80: -1223924477
+      dragonite-spritesheet_81: 1672366520
+      dragonite-spritesheet_9: 739109584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

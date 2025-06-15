@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 769c3b922c90f43d58507607682d1f53, type: 3}
+  m_Name: Poison
+  m_EditorClassIdentifier: 
+  typeName: Poison
+  particlePointPrefab: {fileID: 160890, guid: 81a6215dbf618d84cae2c6907f947094, type: 3}
+  typeIcon: {fileID: 2148241310390276108, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 10.039216, g: 4.0156865, b: 10.039216, a: 1}
+  noHdrTypeColor: {r: 0.65882355, g: 0.5647059, b: 0.94117653, a: 1}
+  trailTexture: {fileID: 2800000, guid: 7e9023264b9f7864396b26898957695f, type: 3}

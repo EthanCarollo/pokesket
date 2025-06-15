@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
-  m_Name: Carapuce
+  m_Name: Squirtle
   m_EditorClassIdentifier: 
   id: 1
-  pokemonName: Carapuce
+  pokemonName: Squirtle
   pokemonPortrait: {fileID: -2044125791, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
   pokemonSprite: {fileID: -5310250308866746023, guid: 1416712d0c4ad3d47a972c81e7f94fd2, type: 3}
   pokemonType: {fileID: 11400000, guid: bbfa48c4f64b21644b3a4fc69bfa5bd0, type: 2}

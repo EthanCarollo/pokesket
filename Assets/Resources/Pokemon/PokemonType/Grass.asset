@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 769c3b922c90f43d58507607682d1f53, type: 3}
+  m_Name: Grass
+  m_EditorClassIdentifier: 
+  typeName: Grass
+  particlePointPrefab: {fileID: 104006, guid: a801d5bc64b7dc44e964c45bd6709a7e, type: 3}
+  typeIcon: {fileID: 684453951, guid: 0e43c3e7945d240cb9cf92bd35bc259e, type: 3}
+  typeColor: {r: 7.5294123, g: 12.549021, b: 5.019608, a: 0}
+  noHdrTypeColor: {r: 0.47058827, g: 0.7843138, b: 0.3137255, a: 0}
+  trailTexture: {fileID: 2800000, guid: 6215030dc82e19a43a97e96a3d734bd5, type: 3}
