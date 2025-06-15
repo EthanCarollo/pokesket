@@ -9,6 +9,8 @@ public class BasketBallManager : MonoBehaviour
     [SerializeField] private Transform ballSpawnPoint;
     [SerializeField] private float timeBeforeReset = 3f;
     public BasketBall basketBall;
+    // If can be hold by team is null, everyone can get the ball,
+    // if it's to a team, the ball is deserved to a team
     [NonSerialized] public TeamName? canBeHoldByTeam = null;
     [NonSerialized] public PokemonPlayer lastBallHolder = null;
     private PokemonPlayer ballHolder = null;
@@ -59,12 +61,16 @@ public class BasketBallManager : MonoBehaviour
 
     public void SetBallHolder(PokemonPlayer holder)
     {
-        ballHolder = holder;
+        Debug.LogWarning("SetBallHolder has been called. ======= canBeHoldByTeam is : " + canBeHoldByTeam);
         if (holder != null)
         {
             if (canBeHoldByTeam != null && holder.Team.teamName != canBeHoldByTeam) return;
+            
+            ballHolder = holder;
             // Reset the rotation when we have a new holder
+            canBeHoldByTeam = null;
             lastBallHolder = holder;
+            
             if (holder.Team.teamName == TeamName.Blue)
             {
                 GameManager.Instance.CameraManager.SetNewLookAtTransform(
@@ -79,6 +85,10 @@ public class BasketBallManager : MonoBehaviour
                     new Vector3(0f, 9f, -19f)
                     );
             }
+        }
+        else
+        {
+            ballHolder = holder;
         }
     }
 

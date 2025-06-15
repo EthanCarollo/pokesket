@@ -58,6 +58,7 @@ public class BlockShoot : MonoBehaviour
         float baseDistance = Vector3.Distance(startPos, dashTarget);
         float finalDistance = baseDistance * dashLengthMultiplier;
         Vector3 finalTarget = startPos + direction * finalDistance;
+        finalTarget.y = startPos.y;
 
         while (elapsed < dashDuration)
         {
