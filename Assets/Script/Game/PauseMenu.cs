@@ -23,8 +23,9 @@ public class PauseMenu : MonoBehaviour
         {
                 if ((Input.GetKeyDown(RemoteInput.START1) || Input.GetKeyDown(RemoteInput.START2)) && GameManager.Instance.IsMatchEnd == false)
                 {
-                        if (Input.GetButton("PauseMenu") && !IsPauseMenuOpen)
+                        if (!IsPauseMenuOpen)
                         {
+                                Debug.Log("Kill me");
                                 if (IsPauseMenuOpen)
                                 {
                                         CloseMenu();
@@ -32,7 +33,7 @@ public class PauseMenu : MonoBehaviour
                                 else
                                 {
                                         OpenMenu();
-                                
+
                                 }
                         }
                 }
