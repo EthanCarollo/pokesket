@@ -30,12 +30,11 @@ L’objectif : créer **un petit jeu compétitif, rapide et accessible entre ami
 
 - Notre objectif était de **rendre le prototype riche et vivant**, en ajoutant de nombreux détails pour une expérience déjà complète dès cette première version.
 
-## Processus de Conception Ludique et Flexible
-- Nous avons souhaité **nous amuser pendant la conception** :  
-  - Jamais fermés à une nouvelle idée, on a toujours dit "oui" aux propositions (oui vraiment, sauf à la fin, c'était chaud un peu).  
-  - Le processus a été un **cycle constant : idée → concrétisation → test → nouvelle idée**, pour qu'on puisse passer à autre chose et avoir un rendu présentable.
-
-- Grâce à cette méthode de production, nous n'avons jamais arrêté de communiquer, ce qui a grandement augmenté notre productivité. On est toujours resté motivé par l'idée de créer un jeu, et la concrétisation rapide de nos idées nous tenait en haleine.
+## Logiciels Utilisés
+- **Unity** pour la création du jeu vidéo.
+- **Photoshop** pour le redesign des assets récupérés sur les sites cités précédemment.
+- **Aseprite** pour la création d'UI avec un aspect pixelisé.
+- Tentative d'utilisation de **FairyGUI**, qui théoriquement permet de designer un canvas plus facilement et importable directement dans Unity.
 
 ## Construction du Prototype
 - Création d'un **prototype jouable et fonctionnel en local 3V3.**
@@ -56,11 +55,33 @@ Voici une sélection de fonctionnalités non prioritaires mais intéressantes qu
 - **Ajout de QTE** pour ajouter du skill pour les dunk.
 - **Différents modes de jeu** pour ajouter de la diversité et de la rejouabilité.
 - **Pouvoir jouer seul ou jusqu'à 4 joueurs** pour ajouter du challenge entre amis et la possibilité de s'entraîner avant.
-- **Ajouter des versions différentes de pokémon**, qui posséderait des statistiques différentes.
+- **Ajouter des versions différentes de pokémon**, qui posséderaient des statistiques différentes.
 - **Faire fonctionner correctement la version web**, afin de faire profiter les gens du monde entier.
+- **Pouvoir modifier le nombre de points à gagner pour remporter le match**, permet la personnalisation indirect du temps de jeu.
+- **Mettre l'entièreté du pokédex dans le jeu**, pour faire plaisir aux fans de Pokémon.
 
 Ces idées restent ouvertes pour de futures itérations et seraient de belles opportunités d'amélioration du projet si on poursuit le développement.
 
----
+## Approche Technique avec Unity
+En tant que développeurs, nous avons pris le temps de structurer notre projet Unity de manière claire et modulaire :
+
+- **Nous avons également adopté une approche orientée `ScriptableObject` pour mieux organiser les données de gameplay**, en séparant clairement la logique du code et les contenus comme les types de Pokémon, leurs statistiques, ou encore la base de données utilisée pour la sélection des personnages.
+- Utilisation d’un **système d’animation basé sur les directions**, permettant de déclencher différentes animations de shoot selon l’angle d’attaque du joueur.
+- Création d’un **système de shoot dynamique**, avec barre de timing, calculs physiques, et ajustement automatique de la trajectoire vers l’arceau.
+- Organisation rigoureuse avec **des composants séparés par rôle** (gestion de l’entrée, animation, physique du ballon, feedback UI...).
+- Gestion du changement de scène avec une **instance centralisée de `SceneTransitor`**, évitant les références rigides à des GameObjects.
+- Mise en place d’un système de **detection de zone 2 pts / 3 pts** pour un scoring plus stratégique.
+- Utilisation du **`RequireComponent`** pour assurer la robustesse des composants critiques comme les contrôles ou la physique.
+- Tests réguliers sur différents supports (WebGL, desktop) pour garantir la stabilité du gameplay.
+- Et bien sûr… quelques `Debug.Log("c'est censé marcher là")` stratégiques par ci par là.
+
+On a pris du plaisir à réfléchir à des solutions efficaces, à se challenger pour rendre le jeu stable et à tirer parti de tout ce que Unity pouvait nous offrir en peu de temps.
+
+## Processus de Conception Ludique et Flexible
+- Nous avons souhaité **nous amuser pendant la conception** :  
+  - Jamais fermés à une nouvelle idée, on a toujours dit "oui" aux propositions (oui vraiment, sauf à la fin, c'était chaud un peu).  
+  - Le processus a été un **cycle constant : idée → concrétisation → test → nouvelle idée**, pour qu'on puisse passer à autre chose et avoir un rendu présentable.
+
+- Grâce à cette méthode de production, nous n'avons jamais arrêté de communiquer, ce qui a grandement augmenté notre productivité. On est toujours resté motivé par l'idée de créer un jeu, et la concrétisation rapide de nos idées nous tenait en haleine.
 
 Bref, en somme on a vraiment kiffé produire ce projet.
