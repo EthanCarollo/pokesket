@@ -13073,6 +13073,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4748979406030987384, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
+      propertyPath: m_SortingOrder
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 5397702945868071698, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
       propertyPath: rimTeam
       value: 
@@ -13104,6 +13108,10 @@ PrefabInstance:
     - target: {fileID: 825086758326940677, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: m_Name
       value: RedBasketballRim
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348254852891159658, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
+      propertyPath: m_SortingOrder
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7531721002477398295, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: rimTeam
