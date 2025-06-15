@@ -11,8 +11,7 @@ public class HoverCharacterPreview : MonoBehaviour
     public Slider speedSlider;
     public Slider defenceSlider;
     public Slider shootSlider;
-    public Slider passSlider;
-
+    
     public void Start()
     {
         Hide();
@@ -24,16 +23,13 @@ public class HoverCharacterPreview : MonoBehaviour
         pokemonPortrait.sprite = pokemon.pokemonPortrait;
         pokemonName.text = pokemon.pokemonName;
         speedSlider.value = pokemon.speed;
-        speedSlider.maxValue = 15;
+        speedSlider.maxValue = 10;
 
         defenceSlider.value = pokemon.defence;
         defenceSlider.maxValue = 100;
 
         shootSlider.value = pokemon.shootPrecision;
         shootSlider.maxValue = 100;
-
-        passSlider.value = pokemon.passPrecision;
-        passSlider.maxValue = 100;
 
         pokemonTypeImage.sprite = pokemon.pokemonType.typeIcon;
     }

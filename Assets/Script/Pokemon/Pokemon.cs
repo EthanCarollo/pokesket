@@ -9,14 +9,12 @@ public class Pokemon : ScriptableObject
     public Sprite pokemonSprite;
     public PokemonType pokemonType;
     
-    [Range(0, 15f)]
+    [Range(0, 10f)]
     public float speed;
     [Range(0, 100f)]
     public float defence;
     [Range(0, 100f)]
     public float shootPrecision;
-    [Range(0, 100f)]
-    public float passPrecision;
 
     [Header("Movement")]
     public Sprite[] bottomRightAnimation;
