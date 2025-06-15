@@ -12,6 +12,7 @@ public class BasketTeam : MonoBehaviour
     // Base info
     [SerializeField] public TeamName teamName;
     [SerializeField] public Transform rim;
+    [SerializeField] private GameObject UISelectedCharacter;
 
     // Player pokemon part
     public List<PokemonPlayer> pokeTeam;
@@ -83,6 +84,11 @@ public class BasketTeam : MonoBehaviour
     public void SetControlledPlayer(PokemonPlayer newControlled)
     {
         controlledPlayer = newControlled;
+        
+        Image image = UISelectedCharacter.GetComponentInChildren<Image>();
+        TextMeshProUGUI text = UISelectedCharacter.GetComponentInChildren<TextMeshProUGUI>();
+        image.sprite = newControlled.actualPokemon.pokemonPortrait;
+        text.text = newControlled.actualPokemon.pokemonName;
     }
 
     public bool IsControlled(PokemonPlayer player)
