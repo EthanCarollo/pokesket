@@ -10,10 +10,13 @@ public class PauseMenu : MonoBehaviour
         public Sprite defenseControlSprite;
         public Sprite attackControlSprite;
         public Image controlImage;
+        private bool _showDefense;
         
         public void Start()
         {
-                CloseMenu();
+                pauseMenu.SetActive(false);
+                controlImage.sprite = defenseControlSprite;
+                _showDefense = true;
         }
 
         public void Update()
@@ -37,23 +40,28 @@ public class PauseMenu : MonoBehaviour
 
         public void OpenMenu()
         {
+                GameManager.Instance.matchPlaying = false;
                 pauseMenu.SetActive(true);
         }
 
         public void CloseMenu()
         {
+                GameManager.Instance.matchPlaying = true;
                 pauseMenu.SetActive(false);
         }
 
         public void SwapControl()
         {
-                if (controlImage.sprite == defenseControlSprite)
+                Debug.Log("SwapControl");
+                if (_showDefense == true)
                 {
                         controlImage.sprite = attackControlSprite;
+                        _showDefense = false;
                 }
                 else
                 {
                         controlImage.sprite = defenseControlSprite;
+                        _showDefense = true;
                 }
         }
 }

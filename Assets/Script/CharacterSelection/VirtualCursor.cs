@@ -206,9 +206,8 @@ public class VirtualCursor : MonoBehaviour
             }
             else
             {
-                ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.pointerDownHandler);
+                Debug.LogWarning("Perform click.");
                 ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.pointerClickHandler);
-                ExecuteEvents.Execute(currentHoveredObject, pointerData, ExecuteEvents.submitHandler);
             }
         }
     }
