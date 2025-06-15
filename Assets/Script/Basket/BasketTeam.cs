@@ -43,12 +43,16 @@ public class BasketTeam : MonoBehaviour
 
     // Dunk part
     private int _dunkBar = 0;
+    [SerializeField] private LayoutGroup dunkLayout;
     [SerializeField] private Slider dunkBarSlider;
     [SerializeField] private Image dunkButtonImage;
     public bool canDunk => _dunkBar == 100;
 
     public void StartMatch()
     {
+        LayoutRebuilder.ForceRebuildLayoutImmediate(dunkLayout.transform as RectTransform);
+        LayoutRebuilder.ForceRebuildLayoutImmediate(dunkLayout.transform.GetChild(0).transform as RectTransform);
+        LayoutRebuilder.ForceRebuildLayoutImmediate(dunkLayout.transform as RectTransform);
         SetControlledPlayer(pokeTeam[0]);
         for (int i = 0; i < pokeTeam.Count; i++)
         {
