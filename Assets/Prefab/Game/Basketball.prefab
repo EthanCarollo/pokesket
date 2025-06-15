@@ -119,6 +119,9 @@ MonoBehaviour:
   particle: {fileID: 5014406825545776226}
   trailRenderer: {fileID: 4120987142645440089}
   ballLight: {fileID: 9056599937750444924}
+  rimLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!54 &5689174674081526526
 Rigidbody:
   m_ObjectHideFlags: 0

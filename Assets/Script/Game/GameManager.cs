@@ -58,7 +58,7 @@ public class GameManager : MonoBehaviour
                     PokemonDatabase.Instance.pokemons[4],
                     PokemonDatabase.Instance.pokemons[5],
                 },
-                21
+                210
                 );
         }
 #endif

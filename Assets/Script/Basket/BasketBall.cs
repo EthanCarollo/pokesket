@@ -11,6 +11,7 @@ public class BasketBall : MonoBehaviour
     public ParticleSystem particle;
     public TrailRenderer trailRenderer;
     public Light ballLight;
+    public LayerMask rimLayer;
 
     [NonSerialized] public int points = 3;
 
@@ -159,25 +160,47 @@ public class BasketBall : MonoBehaviour
 
     public void DunkInto(Vector3 target)
     {
-        // Désactivation du suivi auto
         rb.isKinematic = false;
         rb.useGravity = true;
 
-        // Calcul d'une trajectoire directe
+        // Désactiver temporairement les collisions avec le rim
+        StartCoroutine(TemporarilyIgnoreRimCollisions());
+
         Vector3 direction = (target - transform.position).normalized;
+        float speed = 12f;
 
-        float speed = 12f; // ajustable : vitesse de la balle pendant un dunk
-
-        // Appliquer une vélocité directe
         rb.linearVelocity = direction * speed;
 
-        // Optionnel : effets visuels
-        // StartEmitTrail(PokemonType.Neutral); // tu peux remplacer par le type du dunker si tu l’as encore
-
-        // Optionnel : placer la caméra sur la balle
         GameManager.Instance.CameraManager.SetNewLookAtTransform(this.transform);
-
-        // Points : c’est un dunk = réussite garantie
         points = 2;
+    }
+
+    private IEnumerator TemporarilyIgnoreRimCollisions()
+    {
+        // Obtenir tous les colliders avec la Layer "Rim"
+        int rimLayerIndex = Mathf.RoundToInt(Mathf.Log(rimLayer.value, 2));
+
+        Collider[] rimColliders = FindObjectsOfType<Collider>();
+        Collider ballCollider = GetComponent<Collider>();
+
+        foreach (var c in rimColliders)
+        {
+            if (c.gameObject.layer == rimLayerIndex)
+            {
+                Physics.IgnoreCollision(ballCollider, c, true);
+            }
+        }
+
+        // Laisser le ballon traverser pendant un court instant
+        yield return new WaitForSeconds(0.3f);
+
+        // Réactiver les collisions
+        foreach (var c in rimColliders)
+        {
+            if (c.gameObject.layer == rimLayerIndex)
+            {
+                Physics.IgnoreCollision(ballCollider, c, false);
+            }
+        }
     }
 }

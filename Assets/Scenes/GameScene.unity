@@ -13616,6 +13616,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 924083911}
     m_Modifications:
+    - target: {fileID: 441240723795242617, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 454956420337040986, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.332765
@@ -13693,6 +13697,10 @@ PrefabInstance:
       propertyPath: opponentScore
       value: 
       objectReference: {fileID: 249834539}
+    - target: {fileID: 8551372780754312327, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 8648234138827481550, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.667235

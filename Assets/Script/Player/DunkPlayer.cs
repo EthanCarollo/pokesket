@@ -66,7 +66,8 @@ public class DunkPlayer : MonoBehaviour
         // Pas besoin de manipuler transform.position de la balle
 
         Vector3 start = _pokemonPlayer.transform.position;
-        Vector3 target = rim.position + Vector3.back * 0.3f + Vector3.up * 1.2f;
+        Vector3 towardRim = (rim.position - _pokemonPlayer.transform.position).normalized;
+        Vector3 target = rim.position - towardRim * 0.4f + Vector3.up * 0.7f;
 
         float duration = 0.4f;
         float elapsed = 0f;
