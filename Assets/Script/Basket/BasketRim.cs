@@ -1,4 +1,5 @@
-﻿using TMPro;
+﻿using System;
+using TMPro;
 using UnityEngine;
 
 public class BasketRim : MonoBehaviour
@@ -27,7 +28,14 @@ public class BasketRim : MonoBehaviour
                 // if(particleParent.)
                 Debug.LogWarning("Ball entered top");
                 Debug.LogWarning(BasketBallManager.Instance.lastPokemonTypeHolder);
-                Instantiate(BasketBallManager.Instance.lastPokemonTypeHolder.particlePointPrefab, particleParent.transform);
+                try
+                {
+                    Instantiate(BasketBallManager.Instance.lastPokemonTypeHolder.particlePointPrefab, particleParent.transform);
+                }
+                catch (Exception e)
+                {
+                    Debug.LogWarning("Error occured while trying to spawn particle of last pokemon holder");
+                }
                 Goal();
                 hasScored = true; // Évite les scores multiples
             }

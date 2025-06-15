@@ -43,7 +43,9 @@ public class BasketBall : MonoBehaviour
     {
         if (currentHolder != null)
         {
+            this.transform.rotation = Quaternion.identity;
             Vector3 offset = currentHolder.Direction * 0.5f;
+            this.GetComponent<Rigidbody>().angularVelocity = new Vector3(rb.angularVelocity.x, rb.angularVelocity.y, 0f);
             transform.position = currentHolder.transform.position + offset;
         }
     }
@@ -60,7 +62,7 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    public void ShootTowardsBasket(Vector3 target, bool isSuccessful, float force, Pokemon shooter)
+    public void ShootTowardsBasket(Vector3 target, bool isSuccessful, float force, PokemonPlayer shooter)
     {
         points = 3;
 
@@ -80,7 +82,7 @@ public class BasketBall : MonoBehaviour
 
         if (force >= 0.95f)
         {
-            StartEmitTrail(shooter.pokemonType);
+            StartEmitTrail(shooter.actualPokemon.pokemonType);
             GameManager.Instance.CameraManager.SetNewLookAtTransform(this.transform);
             LeanTween.delayedCall(2.5f, StopEmitTrail);
         }
@@ -97,6 +99,14 @@ public class BasketBall : MonoBehaviour
 
         Vector3 velocity = CalculateArcVelocity(start, target, force);
         rb.linearVelocity = velocity;
+        if (shooter.Team.teamName == TeamName.Red)
+        {
+            rb.angularVelocity = new Vector3(rb.angularVelocity.x, rb.angularVelocity.y, -2f);
+        }
+        else
+        {
+            rb.angularVelocity = new Vector3(rb.angularVelocity.x, rb.angularVelocity.y, 3f);
+        }
     }
 
     private Vector3 CalculateArcVelocity(Vector3 start, Vector3 end, float force)

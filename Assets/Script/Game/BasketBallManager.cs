@@ -31,7 +31,7 @@ public class BasketBallManager : MonoBehaviour
     void Update()
     {
         if (GameManager.Instance.matchPlaying == false) return;
-        if (basketBall.rb.linearVelocity == Vector3.zero && basketBall.transform.position.y > 0.1f)
+        if (basketBall.rb.linearVelocity == Vector3.zero && basketBall.transform.position.y > 1f)
         {
             if (lastTimeBlocked == -1f)
             {
@@ -47,6 +47,7 @@ public class BasketBallManager : MonoBehaviour
 
     public void ResetBasketBall()
     {
+        Debug.LogWarning("ResetBasketBall has been called.");
         Destroy(basketBall.gameObject);
         StartMatch();
     }
@@ -63,6 +64,7 @@ public class BasketBallManager : MonoBehaviour
         ballHolder = holder;
         if (holder != null)
         {
+            // Reset the rotation when we have a new holder
             lastBallHolder = holder;
             if (holder.Team.teamName == TeamName.Blue)
             {
@@ -111,7 +113,7 @@ public class BasketBallManager : MonoBehaviour
         return ballHolder == player;
     }
 
-    public void ShootTo(Transform target, bool isSuccessful, float force, Pokemon shooter)
+    public void ShootTo(Transform target, bool isSuccessful, float force, PokemonPlayer shooter)
     {
         SetBallHolder(null);
         basketBall.ShootTowardsBasket(target.position, isSuccessful, force, shooter);
