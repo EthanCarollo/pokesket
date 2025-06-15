@@ -12,7 +12,9 @@ public class BasketTeam : MonoBehaviour
     // Base info
     [SerializeField] public TeamName teamName;
     [SerializeField] public Transform rim;
-    [SerializeField] private GameObject UISelectedCharacter;
+    [SerializeField] private Image uiSelectedImage;
+    [SerializeField] private TextMeshProUGUI uiSelectedText;
+    [SerializeField] private LayoutGroup uiSelectedLayout;
 
     // Player pokemon part
     public List<PokemonPlayer> pokeTeam;
@@ -93,11 +95,14 @@ public class BasketTeam : MonoBehaviour
     public void SetControlledPlayer(PokemonPlayer newControlled)
     {
         controlledPlayer = newControlled;
-
-        Image image = UISelectedCharacter.GetComponentInChildren<Image>();
-        TextMeshProUGUI text = UISelectedCharacter.GetComponentInChildren<TextMeshProUGUI>();
+        Image image = uiSelectedImage;
+        TextMeshProUGUI text = uiSelectedText;
         image.sprite = newControlled.actualPokemon.pokemonPortrait;
         text.text = newControlled.actualPokemon.pokemonName;
+        LayoutRebuilder.ForceRebuildLayoutImmediate(uiSelectedLayout.GetComponent<RectTransform>());
+        LayoutRebuilder.ForceRebuildLayoutImmediate(uiSelectedLayout.transform.GetChild(1).GetChild(0).GetComponent<RectTransform>());
+        LayoutRebuilder.ForceRebuildLayoutImmediate(uiSelectedLayout.transform.GetChild(0).GetComponent<RectTransform>());
+        LayoutRebuilder.ForceRebuildLayoutImmediate(uiSelectedLayout.GetComponent<RectTransform>());
     }
 
     public bool IsControlled(PokemonPlayer player)
