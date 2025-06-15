@@ -50,6 +50,11 @@ public class PauseMenu : MonoBehaviour
                 pauseMenu.SetActive(false);
         }
 
+        public void ReturnToCharacterSelection()
+        {
+                SceneTransitor.Instance.LoadScene(1);
+        }
+
         public void SwapControl()
         {
                 Debug.Log("SwapControl");
