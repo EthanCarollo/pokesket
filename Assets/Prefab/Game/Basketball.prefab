@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6647604534393514830}
   - component: {fileID: 7786903749670199884}
+  - component: {fileID: 2198811487297731596}
   - component: {fileID: 5126532842409893792}
   - component: {fileID: 5689174674081526526}
   - component: {fileID: 3742742272518819067}
@@ -91,6 +92,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 1
+--- !u!114 &2198811487297731596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3676091004353209454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 198e92158eeac42cca67de123d40dc2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &5126532842409893792
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -164,11 +177,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 160484399314501631, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
       propertyPath: m_shaderPropertyID
-      value: 1424
+      value: 1185
       objectReference: {fileID: 0}
     - target: {fileID: 160484399314501631, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
       propertyPath: m_materialData.Array.data[0].m_move
-      value: 0
+      value: 0.02058
       objectReference: {fileID: 0}
     - target: {fileID: 1893065722960749156, guid: 8ca2cdb55dfa370408d80107d6193f08, type: 3}
       propertyPath: m_Emitting

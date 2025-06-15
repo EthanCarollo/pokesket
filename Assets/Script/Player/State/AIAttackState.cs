@@ -12,6 +12,7 @@ public class AIAttackState : IPokemonPlayerState
         _pokemonPlayer.speed = speed;
         _pokemonPlayer.shootPlayer.enabled = false;
         _pokemonPlayer.passPlayer.enabled = false;
+        _pokemonPlayer.dunkPlayer.enabled = false;
         _pokemonPlayer.blockShoot.enabled = false;
         _pokemonPlayer.blockPass.enabled = false;
     }

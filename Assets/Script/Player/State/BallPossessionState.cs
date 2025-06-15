@@ -12,6 +12,7 @@ public class BallPossessionState : IPokemonPlayerState
         _pokemonPlayer.speed = speed;
         _pokemonPlayer.shootPlayer.enabled = true;
         _pokemonPlayer.passPlayer.enabled = true;
+        _pokemonPlayer.dunkPlayer.enabled = true;
         _pokemonPlayer.blockShoot.enabled = false;
         _pokemonPlayer.blockPass.enabled = false;
     }

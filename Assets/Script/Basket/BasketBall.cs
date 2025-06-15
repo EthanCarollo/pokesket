@@ -11,9 +11,8 @@ public class BasketBall : MonoBehaviour
     public ParticleSystem particle;
     public TrailRenderer trailRenderer;
     public Light ballLight;
+
     [NonSerialized] public int points = 3;
-    private int _collidersInZone = 0;
-    private TeamName? teamZone = null;
 
     public Rigidbody rb => GetComponent<Rigidbody>();
 
@@ -34,7 +33,6 @@ public class BasketBall : MonoBehaviour
         particle.emissionRate = 12;
         particle.gameObject.GetComponent<ParticleSystemRenderer>().material.SetColor("_TintColor", pokemonType.noHdrTypeColor);
         trailRenderer.material.SetTexture("_TintTex", pokemonType.trailTexture);
-        // .SetTexture("_TintTex", pokemonType.trailTexture);
         trailRenderer.emitting = true;
         ballLight.color = pokemonType.noHdrTypeColor;
         ballLight.intensity = 7.7f;
@@ -61,35 +59,19 @@ public class BasketBall : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.CompareTag("2pts"))
-        {
-            _collidersInZone++;
-
-            if (_collidersInZone == 1)
-            {
-                teamZone = other.gameObject.transform.parent.name.Contains("Red") ? TeamName.Red : TeamName.Blue;
-            }
-        }
-    }
-
-    private void OnTriggerExit(Collider other)
-    {
-        if (other.gameObject.CompareTag("2pts"))
-        {
-            _collidersInZone = Mathf.Max(0, _collidersInZone - 1);
-
-            if (_collidersInZone == 0)
-            {
-                teamZone = null;
-            }
-        }
-    }
-
     public void ShootTowardsBasket(Vector3 target, bool isSuccessful, float force, Pokemon shooter)
     {
-        points = teamZone == BasketBallManager.Instance.lastTeamHolder.teamName || teamZone == null ? 3 : 2;
+        points = 3;
+
+        if (shooter != null)
+        {
+            var zoneDetector = gameObject.GetComponent<Zone2PtsDetector>();
+            if (zoneDetector != null && zoneDetector.IsInOpponent2PtsZone(BasketBallManager.Instance.lastTeamHolder.teamName))
+            {
+                points = 2;
+            }
+        }
+
         rb.useGravity = true;
         rb.isKinematic = false;
 
@@ -99,18 +81,15 @@ public class BasketBall : MonoBehaviour
         {
             StartEmitTrail(shooter.pokemonType);
             GameManager.Instance.CameraManager.SetNewLookAtTransform(this.transform);
-            LeanTween.delayedCall(2.5f, () =>
-            {
-                StopEmitTrail();
-            });
+            LeanTween.delayedCall(2.5f, StopEmitTrail);
         }
 
         Debug.LogWarning("Is shoot successful: " + isSuccessful);
 
         if (!isSuccessful)
         {
-            float missRadius = 1.0f * (1f - Random.value);
-            Vector2 offset2D = Random.insideUnitCircle.normalized * Random.Range(0.2f, missRadius);
+            float missRadius = 1.0f * (1f - UnityEngine.Random.value);
+            Vector2 offset2D = UnityEngine.Random.insideUnitCircle.normalized * UnityEngine.Random.Range(0.2f, missRadius);
             Vector3 offset = new Vector3(offset2D.x, 0, offset2D.y);
             target += offset;
         }
@@ -176,5 +155,29 @@ public class BasketBall : MonoBehaviour
         float velocityY = Mathf.Sqrt(2 * gravity * (apexHeight - start.y));
 
         return velocityXZ + Vector3.up * velocityY;
+    }
+
+    public void DunkInto(Vector3 target)
+    {
+        // Désactivation du suivi auto
+        rb.isKinematic = false;
+        rb.useGravity = true;
+
+        // Calcul d'une trajectoire directe
+        Vector3 direction = (target - transform.position).normalized;
+
+        float speed = 12f; // ajustable : vitesse de la balle pendant un dunk
+
+        // Appliquer une vélocité directe
+        rb.linearVelocity = direction * speed;
+
+        // Optionnel : effets visuels
+        // StartEmitTrail(PokemonType.Neutral); // tu peux remplacer par le type du dunker si tu l’as encore
+
+        // Optionnel : placer la caméra sur la balle
+        GameManager.Instance.CameraManager.SetNewLookAtTransform(this.transform);
+
+        // Points : c’est un dunk = réussite garantie
+        points = 2;
     }
 }

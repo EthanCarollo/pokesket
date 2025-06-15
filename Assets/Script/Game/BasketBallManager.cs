@@ -13,7 +13,7 @@ public class BasketBallManager : MonoBehaviour
     private PokemonPlayer ballHolder = null;
     public PokemonPlayer BallHolder => ballHolder;
     private float lastTimeBlocked = -1f;
-    
+
     public BasketTeam lastTeamHolder => lastBallHolder?.Team;
     public PokemonType lastPokemonTypeHolder => lastBallHolder?.actualPokemon.pokemonType;
 
@@ -118,5 +118,11 @@ public class BasketBallManager : MonoBehaviour
     {
         SetBallHolder(null);
         basketBall.PassTo(target.position);
+    }
+    
+    public void DunkTo(Transform target)
+    {
+        SetBallHolder(null);
+        basketBall.DunkInto(target.position);
     }
 }

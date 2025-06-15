@@ -28,8 +28,10 @@ public class PokemonPlayer : MonoBehaviour
     [SerializeField] private SpriteRenderer indicator;
     [SerializeField] private SpriteRenderer teamIndicator;
     [SerializeField] private SpriteRenderer pokemonSpriteRenderer;
+    [Header("Scripts")]
     [SerializeField] public ShootPlayer shootPlayer;
     [SerializeField] public PassPlayer passPlayer;
+    [SerializeField] public DunkPlayer dunkPlayer;
     [SerializeField] public BlockShoot blockShoot;
     [SerializeField] public BlockPass blockPass;
 
@@ -38,6 +40,7 @@ public class PokemonPlayer : MonoBehaviour
     // BOOLEANS
     [NonSerialized] public bool canPass = true;
     [NonSerialized] public bool canShoot = true;
+    [NonSerialized] public bool canDunk = true;
     [NonSerialized] public bool isShooting = false;
     [NonSerialized] public bool isPassing = false;
     [NonSerialized] public bool canBlock = true;
@@ -153,6 +156,18 @@ public class PokemonPlayer : MonoBehaviour
         isPassing = false;
     }
 
+    public void DunkBall()
+    {
+        _canHold = false;
+        StartCoroutine(DunkBallCoroutine());
+    }
+
+    IEnumerator DunkBallCoroutine()
+    {
+        yield return new WaitForSeconds(1.3f);
+        _canHold = true;
+    }
+
     public void LoseBall()
     {
         StartCoroutine(LoseBallCoroutine());
@@ -169,9 +184,11 @@ public class PokemonPlayer : MonoBehaviour
     {
         canPass = false;
         canShoot = false;
+        canDunk = false;
         yield return new WaitForSeconds(0.05f);
         canPass = true;
         canShoot = true;
+        canDunk = true;
     }
     
     void OnDrawGizmos()
