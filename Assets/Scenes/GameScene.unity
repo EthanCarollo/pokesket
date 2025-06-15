@@ -7799,10 +7799,10 @@ RectTransform:
   - {fileID: 280224019}
   m_Father: {fileID: 437901376}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 100}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 270, y: -410}
+  m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1261604373
 MonoBehaviour:
@@ -9753,10 +9753,10 @@ RectTransform:
   - {fileID: 1789238442}
   m_Father: {fileID: 437901376}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 100}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 270, y: -290}
+  m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1679837996
 MonoBehaviour:
@@ -11633,7 +11633,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1969135448
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12822,6 +12822,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1913429053}
     - target: {fileID: 8255989763308329774, guid: f0f89523a595443b18b8819a0f4d28df, type: 3}
+      propertyPath: teamScoreText
+      value: 
+      objectReference: {fileID: 249834539}
+    - target: {fileID: 8255989763308329774, guid: f0f89523a595443b18b8819a0f4d28df, type: 3}
       propertyPath: pokeTeam.Array.size
       value: 3
       objectReference: {fileID: 0}
@@ -12911,6 +12915,10 @@ PrefabInstance:
       propertyPath: BottomZone
       value: 
       objectReference: {fileID: 331743853}
+    - target: {fileID: 2570891387323671005, guid: 1e0985764fb5a440daf712f6107dee03, type: 3}
+      propertyPath: teamScoreText
+      value: 
+      objectReference: {fileID: 536848395}
     - target: {fileID: 2570891387323671005, guid: 1e0985764fb5a440daf712f6107dee03, type: 3}
       propertyPath: pokeTeam.Array.size
       value: 3
@@ -13066,6 +13074,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5397702945868071698, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
+      propertyPath: rimTeam
+      value: 
+      objectReference: {fileID: 1308429235}
+    - target: {fileID: 5397702945868071698, guid: 2c2a5d90a76364e67aacb62791abecad, type: 3}
       propertyPath: opponentScore
       value: 
       objectReference: {fileID: 536848395}
@@ -13093,6 +13105,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedBasketballRim
       objectReference: {fileID: 0}
+    - target: {fileID: 7531721002477398295, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
+      propertyPath: rimTeam
+      value: 
+      objectReference: {fileID: 1535679439}
     - target: {fileID: 7531721002477398295, guid: a23109b9d2739fe428b20250fd3db898, type: 3}
       propertyPath: opponentScore
       value: 

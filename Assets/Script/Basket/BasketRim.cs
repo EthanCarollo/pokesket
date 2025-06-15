@@ -4,6 +4,7 @@ using UnityEngine;
 public class BasketRim : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI opponentScore;
+    [SerializeField] private BasketTeam rimTeam;
 
     private bool hasEnteredFromTop = false;
     private bool hasScored = false;
@@ -46,8 +47,9 @@ public class BasketRim : MonoBehaviour
     private void Goal()
     {
         BasketBall ball = BasketBallManager.Instance.basketBall;
-        int current = int.Parse(opponentScore.text);
-        opponentScore.text = (current + ball.points).ToString();
+        var opponentTeam =
+            GameManager.Instance.GetTeam(rimTeam.teamName == TeamName.Blue ? TeamName.Red : TeamName.Blue);
+        opponentTeam.teamScore += ball.points;
         Debug.Log("PANIER !");
     }
 }

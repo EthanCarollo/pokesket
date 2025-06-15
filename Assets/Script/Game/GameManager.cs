@@ -7,6 +7,20 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
     [SerializeField] private BasketTeam[] teams;
     public bool matchPlaying = false;
+
+    public int maxPoint = 21;
+    public bool IsMatchEnd
+    {
+        get
+        {
+            foreach (BasketTeam team in teams)
+            {
+                
+            }
+            return false;
+        }
+    }
+    
     [SerializeField]
     public CameraManager CameraManager;
 
@@ -52,7 +66,7 @@ public class GameManager : MonoBehaviour
     }
 #endif
 
-    public void StartMatch(List<Pokemon> pokeTeamBlue, List<Pokemon> pokeTeamRed)
+    public void StartMatch(List<Pokemon> pokeTeamBlue, List<Pokemon> pokeTeamRed, int _maxPoint = 21)
     {
         BasketBallManager.Instance.StartMatch();
         for (int i = 0; i < pokeTeamBlue.Count; i++)
@@ -73,11 +87,17 @@ public class GameManager : MonoBehaviour
         {
             team.StartMatch();
         }
+        maxPoint = _maxPoint;
         matchPlaying = true;
     }
 
     public BasketTeam GetTeam(TeamName teamName)
     {
         return teams[(int)teamName];
+    }
+
+    public void EndMatch()
+    {
+        
     }
 }

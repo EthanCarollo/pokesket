@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,17 +9,34 @@ public enum TeamName { Blue, Red }
 
 public class BasketTeam : MonoBehaviour
 {
+    // Base info
     [SerializeField] public TeamName teamName;
     [SerializeField] public Transform rim;
 
+    // Player pokemon part
     public List<PokemonPlayer> pokeTeam;
     public Image[] pokemonImages;
     public TeamName opponentTeamName => teamName == TeamName.Blue ? TeamName.Red : TeamName.Blue;
     [NonSerialized] public PokemonPlayer controlledPlayer;
 
+    // Tactic part
     public GameObject TopZone;
     public GameObject FrontZone;
     public GameObject BottomZone;
+    
+    // Score part
+    [SerializeField] private TextMeshProUGUI teamScoreText;
+    private int _teamScore = 0;
+    public int teamScore
+    {
+        get => _teamScore;
+        set 
+        {
+            // Whenever we set team score, it update the TextMeshPro for the score
+            teamScoreText.text = value.ToString();
+            _teamScore = value;
+        }
+    }
 
     public void StartMatch()
     {
