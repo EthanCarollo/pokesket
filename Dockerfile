@@ -1,4 +1,4 @@
-FROM unityci/editor:ubuntu-6000.0.50f1-webgl-3.1.0 as builder
+FROM unityci/editor:ubuntu-6000.2.2f1-webgl-3.1.0 as builder
 
 WORKDIR /project
 
