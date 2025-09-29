@@ -31,17 +31,17 @@ public class SceneTransitor : MonoBehaviour
 
     public void LoadCharacterSelection2Players()
     {
-        this.LoadScene(1, (GameManager gm, SelectablePokemonPanel spp) =>
+        this.LoadScene(1, (gm, spp) =>
         { 
-            
+            spp.SetupCharacterSelectableFor2Players();
         });
     }
 
     public void LoadCharacterSelection1Player()
     {
-        this.LoadScene(1, (GameManager gm, SelectablePokemonPanel spp) =>
+        this.LoadScene(1, (gm, spp) =>
         {
-            
+            spp.SetupCharacterSelectableFor1Player();
         });
     }
 }

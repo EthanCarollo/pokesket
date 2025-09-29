@@ -196,4 +196,9 @@ public class SelectablePokemonPanel : MonoBehaviour
             CheckButtonState();
         }
     }
+
+    public void ReturnFirstScene()
+    {
+        SceneTransitor.Instance.LoadScene(0);
+    }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using UnityEngine;
+using Object = System.Object;
 using Random = UnityEngine.Random;
 
 [RequireComponent(typeof(Rigidbody))]
@@ -201,7 +202,7 @@ public class BasketBall : MonoBehaviour
         // Obtenir tous les colliders avec la Layer "Rim"
         int rimLayerIndex = Mathf.RoundToInt(Mathf.Log(rimLayer.value, 2));
 
-        Collider[] rimColliders = FindObjectsOfType<Collider>();
+        Collider[] rimColliders = FindObjectsByType<Collider>(FindObjectsSortMode.None);
         Collider ballCollider = GetComponent<Collider>();
 
         foreach (var c in rimColliders)

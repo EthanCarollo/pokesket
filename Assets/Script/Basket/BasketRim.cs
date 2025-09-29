@@ -50,6 +50,7 @@ public class BasketRim : MonoBehaviour
                 catch (Exception e)
                 {
                     Debug.LogWarning("Error occured while trying to spawn particle of last pokemon holder");
+                    Debug.LogError(e);
                 }
                 Goal();
                 hasScored = true; // Évite les scores multiples
