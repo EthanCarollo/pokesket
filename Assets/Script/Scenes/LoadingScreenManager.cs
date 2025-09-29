@@ -13,17 +13,17 @@ public class LoadingScreenManager : MonoBehaviour
     private bool _sceneIsSwapping;
 
     public void StartToLoadScene(int sceneToLoad){
-        StartToLoadScene(sceneToLoad, (gameManager) => {});
+        StartToLoadScene(sceneToLoad, (gm, spp) => {});
     }
 
-    public void StartToLoadScene(int sceneToLoad, Action<GameManager> onEndCallback){
+    public void StartToLoadScene(int sceneToLoad, Action<GameManager, SelectablePokemonPanel> onEndCallback){
         if(_sceneIsSwapping == true)
             return;
         DontDestroyOnLoad(this.gameObject);
         StartCoroutine(LoadScene(sceneToLoad, onEndCallback));
     }
 
-    private IEnumerator LoadScene(int sceneToLoad, Action<GameManager> onEndCallback){
+    private IEnumerator LoadScene(int sceneToLoad, Action<GameManager, SelectablePokemonPanel> onEndCallback){
         _sceneIsSwapping = true;
         float startPosition = loadingScreenImage.rectTransform.position.y;
         LeanTween.moveY(loadingScreenImage.rectTransform, 0, 1f)
@@ -45,7 +45,9 @@ public class LoadingScreenManager : MonoBehaviour
         yield return new WaitForFixedUpdate();
         yield return new WaitForSecondsRealtime(0.2f);
         yield return new WaitForSeconds(0.2f);
-        onEndCallback.Invoke(GameManager.Instance);
+        GameManager gm = GameManager.Instance;
+        SelectablePokemonPanel spp = SelectablePokemonPanel.Instance;
+        onEndCallback.Invoke(gm, spp);
         yield return new WaitForSeconds(0.2f);
         LeanTween.moveY(loadingScreenImage.rectTransform, -startPosition, 1f)
             .setEase( LeanTweenType.easeInQuart )

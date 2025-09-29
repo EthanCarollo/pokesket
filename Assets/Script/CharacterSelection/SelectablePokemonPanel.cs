@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class SelectablePokemonPanel : MonoBehaviour
 {
+    public static SelectablePokemonPanel Instance;
     public GameObject selectablePokemonPrefab;
     
     public Pokemon[] selectedPlayer1Characters;
@@ -20,6 +21,8 @@ public class SelectablePokemonPanel : MonoBehaviour
 
     public void Start()
     {
+        Instance = this;
+
         foreach (Transform child in this.transform)
         {
             Destroy(child.gameObject);
@@ -33,7 +36,16 @@ public class SelectablePokemonPanel : MonoBehaviour
             pokePrefab.name = "Selectable pokemon : " + pokemon.name;
             pokePrefab.GetComponentInChildren<SelectablePokemonPrefab>().Setup(pokemon, this);
         }
-        
+    }
+
+    public void SetupCharacterSelectableFor2Players()
+    {
+        UpdateCharacterPreviews();
+        CheckButtonState();
+    }
+
+    public void SetupCharacterSelectableFor1Player()
+    {
         UpdateCharacterPreviews();
         CheckButtonState();
     }
@@ -41,7 +53,7 @@ public class SelectablePokemonPanel : MonoBehaviour
     private void Update()
     {
         RefreshPreviews();
-        
+
         if (Input.GetKeyUp(RemoteInput.B1))
         {
             RemoveLastSelectedPokemon(selectedPlayer1Characters);
@@ -144,12 +156,12 @@ public class SelectablePokemonPanel : MonoBehaviour
     {
         if (EveryoneSelected())
         {
-            SceneTransitor.Instance.LoadScene(gameSceneIndex, (gameManager) =>
+            SceneTransitor.Instance.LoadScene(gameSceneIndex, (gm, spp) =>
             {
-                if (gameManager == null) Debug.LogWarning("Error getting game manager");
+                if (gm == null) Debug.LogWarning("Error getting game manager");
                 if (selectedPlayer1Characters.Length == 3 && selectedPlayer2Characters.Length == 3)
                 {
-                    gameManager.StartMatch(
+                    gm.StartMatch(
                         selectedPlayer1Characters.ToList(),
                         selectedPlayer2Characters.ToList(),
                         maxPoint
