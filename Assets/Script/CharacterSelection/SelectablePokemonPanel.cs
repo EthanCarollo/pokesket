@@ -18,6 +18,11 @@ public class SelectablePokemonPanel : MonoBehaviour
     public Button startButton;
     private int gameSceneIndex = 2;
     [NonSerialized] public int maxPoint = 21;
+    
+    [SerializeField] private GameObject player1Cursor;
+    [SerializeField] private GameObject player2Cursor;
+    
+    public bool is1Player = false;
 
     public void Start()
     {
@@ -36,6 +41,8 @@ public class SelectablePokemonPanel : MonoBehaviour
             pokePrefab.name = "Selectable pokemon : " + pokemon.name;
             pokePrefab.GetComponentInChildren<SelectablePokemonPrefab>().Setup(pokemon, this);
         }
+
+        SetupCharacterSelectableFor1Player();
     }
 
     public void SetupCharacterSelectableFor2Players()
@@ -46,6 +53,8 @@ public class SelectablePokemonPanel : MonoBehaviour
 
     public void SetupCharacterSelectableFor1Player()
     {
+        is1Player = true;
+        player2Cursor.SetActive(false);
         UpdateCharacterPreviews();
         CheckButtonState();
     }
@@ -81,11 +90,28 @@ public class SelectablePokemonPanel : MonoBehaviour
     private void UpdateCharacterPreviews()
     {
         UpdatePlayerPreviews(selectedPlayer1Characters, selectedPlayer1CharactersPreview);
-        UpdatePlayerPreviews(selectedPlayer2Characters, selectedPlayer2CharactersPreview);
+        if (is1Player)
+        {
+            UpdatePlayerPreviews(selectedPlayer2Characters, selectedPlayer2CharactersPreview, true);
+        }
+        else
+        {
+            UpdatePlayerPreviews(selectedPlayer2Characters, selectedPlayer2CharactersPreview);
+        }
     }
     
-    private void UpdatePlayerPreviews(Pokemon[] selectedCharacters, GameObject[] previewObjects)
+    private void UpdatePlayerPreviews(Pokemon[] selectedCharacters, GameObject[] previewObjects, bool randomized = false)
     {
+        if (randomized)
+        {
+            for (int i = 0; i < previewObjects.Length; i++)
+            {
+                previewObjects[i].GetComponent<FadeSprite>().SetRandom();
+            }
+
+            return;
+        }
+        
         for (int i = 0; i < previewObjects.Length; i++)
         {
             if (previewObjects[i] != null)

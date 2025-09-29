@@ -34,3 +34,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4162aa023c961174db1cfe6d03ca2cb7, type: 2}
   - {fileID: 11400000, guid: 1277a995b1e84854d94ebfc875e8c9e6, type: 2}
   - {fileID: 11400000, guid: b668861192c98134e99c5ab74f19b5dd, type: 2}
+  randomPokemonSprite: {fileID: 21300000, guid: 379abb4e35b9a0e4ca3a92b2cd0880f0, type: 3}
+  randomPokemonType: {fileID: 21300000, guid: c35719f2a3cc2f74fb769d45c99ced8e, type: 3}

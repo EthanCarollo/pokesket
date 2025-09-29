@@ -1447,7 +1447,7 @@ GameObject:
   - component: {fileID: 574152406}
   - component: {fileID: 574152405}
   m_Layer: 5
-  m_Name: Image
+  m_Name: MaxGamePointContainer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2332,7 +2332,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.4375, y: 2.3125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3007,7 +3007,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.4375, y: 2.3125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3326,7 +3326,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.4375, y: 2.3125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3850,6 +3850,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1564202719}
   m_CullTransparentMesh: 1
+--- !u!1 &1667279905 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5659176899651188168, guid: 5232a77e45d4dba46ba4299ad37783bb, type: 3}
+  m_PrefabInstance: {fileID: 1193378917}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1674503281
 GameObject:
   m_ObjectHideFlags: 0
@@ -4326,6 +4331,9 @@ MonoBehaviour:
   - {fileID: 1376967708}
   - {fileID: 1031419835}
   startButton: {fileID: 2037199353}
+  player1Cursor: {fileID: 1667279905}
+  player2Cursor: {fileID: 1896442380}
+  is1Player: 0
 --- !u!1 &1828849844
 GameObject:
   m_ObjectHideFlags: 0
@@ -4401,6 +4409,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1828849844}
   m_CullTransparentMesh: 1
+--- !u!1 &1896442380 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5659176899651188168, guid: 5232a77e45d4dba46ba4299ad37783bb, type: 3}
+  m_PrefabInstance: {fileID: 886240988}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1985018834
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5131,7 +5144,7 @@ GameObject:
   - component: {fileID: 2113721731}
   - component: {fileID: 2113721733}
   m_Layer: 5
-  m_Name: Text (TMP) (1)
+  m_Name: InnerGamePointText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

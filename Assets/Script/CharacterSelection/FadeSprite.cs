@@ -14,6 +14,8 @@ public class FadeSprite : MonoBehaviour
     private bool isActive = false;
     private Pokemon _pokemon;
 
+    private bool showRandom = false;
+
     private void Awake()
     {
         if (spriteRenderer == null)
@@ -27,6 +29,14 @@ public class FadeSprite : MonoBehaviour
 
     private void Update()
     {
+        if (showRandom)
+        {
+            spriteRenderer.material.SetFloat("_Fade", 1f);
+            spriteRenderer.sprite = PokemonDatabase.Instance.randomPokemonSprite;
+            typeImage.sprite = PokemonDatabase.Instance.randomPokemonType;
+            return;
+        }
+        
         if (spriteRenderer != null)
         {
             currentFade = Mathf.Lerp(currentFade, targetFade, Time.deltaTime * fadeSpeed);
@@ -59,5 +69,10 @@ public class FadeSprite : MonoBehaviour
         typeImage.color = new Color(1f, 1f, 1f, 0f);
         targetFade = 0f;
         isActive = false;
+    }
+
+    public void SetRandom()
+    {
+        showRandom = true;
     }
 }

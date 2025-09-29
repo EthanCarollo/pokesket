@@ -25,6 +25,9 @@ public class PokemonDatabase : ScriptableObject
     }
 
     public Pokemon[] pokemons;
+    
+    public Sprite randomPokemonSprite;
+    public Sprite randomPokemonType;
 
     private void AssignUniqueIDs()
     {
