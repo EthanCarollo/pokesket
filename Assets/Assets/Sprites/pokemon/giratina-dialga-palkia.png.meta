@@ -1,0 +1,5826 @@
+fileFormatVersion: 2
+guid: 6c58dc0350c4e419fa86231ee78404e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3099408120711015853
+    second: giratina-dialga-palkia_0
+  - first:
+      213: 4448529839693592003
+    second: giratina-dialga-palkia_1
+  - first:
+      213: 7353793202622592493
+    second: giratina-dialga-palkia_2
+  - first:
+      213: 58708542150386769
+    second: giratina-dialga-palkia_3
+  - first:
+      213: -6515252272384128990
+    second: giratina-dialga-palkia_4
+  - first:
+      213: 4560427739498068948
+    second: giratina-dialga-palkia_5
+  - first:
+      213: -5723239335799794282
+    second: giratina-dialga-palkia_6
+  - first:
+      213: -4863270091086542216
+    second: giratina-dialga-palkia_7
+  - first:
+      213: 4753494101548154880
+    second: giratina-dialga-palkia_8
+  - first:
+      213: 7602526283487874481
+    second: giratina-dialga-palkia_9
+  - first:
+      213: 2531257274689056338
+    second: giratina-dialga-palkia_10
+  - first:
+      213: 4879585068500267681
+    second: giratina-dialga-palkia_11
+  - first:
+      213: -2467336154334514460
+    second: giratina-dialga-palkia_12
+  - first:
+      213: -8555179647644234117
+    second: giratina-dialga-palkia_13
+  - first:
+      213: -2704624085388782189
+    second: giratina-dialga-palkia_14
+  - first:
+      213: -1012913188856964003
+    second: giratina-dialga-palkia_15
+  - first:
+      213: 1128136143704807942
+    second: giratina-dialga-palkia_16
+  - first:
+      213: 1808805558760399209
+    second: giratina-dialga-palkia_17
+  - first:
+      213: -367007575438692571
+    second: giratina-dialga-palkia_18
+  - first:
+      213: 2931245480813551168
+    second: giratina-dialga-palkia_19
+  - first:
+      213: 1620682509183861504
+    second: giratina-dialga-palkia_20
+  - first:
+      213: -8448966405954697160
+    second: giratina-dialga-palkia_21
+  - first:
+      213: -4703638495876836653
+    second: giratina-dialga-palkia_22
+  - first:
+      213: -6884987853778732993
+    second: giratina-dialga-palkia_23
+  - first:
+      213: 9197164631448073359
+    second: giratina-dialga-palkia_24
+  - first:
+      213: 4698054462893172139
+    second: giratina-dialga-palkia_25
+  - first:
+      213: -1310197604037650248
+    second: giratina-dialga-palkia_26
+  - first:
+      213: 5304817586117426331
+    second: giratina-dialga-palkia_27
+  - first:
+      213: 310695492969453843
+    second: giratina-dialga-palkia_28
+  - first:
+      213: 8836967750903764125
+    second: giratina-dialga-palkia_29
+  - first:
+      213: 5554113905610068237
+    second: giratina-dialga-palkia_30
+  - first:
+      213: -3119758797302084827
+    second: giratina-dialga-palkia_31
+  - first:
+      213: -1412260548662063385
+    second: giratina-dialga-palkia_32
+  - first:
+      213: 3672808334364727980
+    second: giratina-dialga-palkia_33
+  - first:
+      213: 2248666228624141269
+    second: giratina-dialga-palkia_34
+  - first:
+      213: -5857971991325114774
+    second: giratina-dialga-palkia_35
+  - first:
+      213: -6013456787609278285
+    second: giratina-dialga-palkia_36
+  - first:
+      213: -4592477170124387811
+    second: giratina-dialga-palkia_37
+  - first:
+      213: 6147279822000229537
+    second: giratina-dialga-palkia_38
+  - first:
+      213: 4376056381335616903
+    second: giratina-dialga-palkia_39
+  - first:
+      213: -4125826849229594859
+    second: giratina-dialga-palkia_40
+  - first:
+      213: 5848875147310990406
+    second: giratina-dialga-palkia_41
+  - first:
+      213: -2418192760580041243
+    second: giratina-dialga-palkia_42
+  - first:
+      213: 6073815259520469921
+    second: giratina-dialga-palkia_43
+  - first:
+      213: -734194151236515933
+    second: giratina-dialga-palkia_44
+  - first:
+      213: 889484135547063349
+    second: giratina-dialga-palkia_45
+  - first:
+      213: 2837271606889833995
+    second: giratina-dialga-palkia_46
+  - first:
+      213: -7801859833320703404
+    second: giratina-dialga-palkia_47
+  - first:
+      213: -1633479944344136766
+    second: giratina-dialga-palkia_48
+  - first:
+      213: 1348558506668588215
+    second: giratina-dialga-palkia_49
+  - first:
+      213: 8749430601823660443
+    second: giratina-dialga-palkia_50
+  - first:
+      213: -800284812324916478
+    second: giratina-dialga-palkia_51
+  - first:
+      213: -8504803659984123902
+    second: giratina-dialga-palkia_52
+  - first:
+      213: 6102693786213556529
+    second: giratina-dialga-palkia_53
+  - first:
+      213: 4561763526759808633
+    second: giratina-dialga-palkia_54
+  - first:
+      213: 5880472104713652910
+    second: giratina-dialga-palkia_55
+  - first:
+      213: 872385993006102692
+    second: giratina-dialga-palkia_56
+  - first:
+      213: -3705991183396494801
+    second: giratina-dialga-palkia_57
+  - first:
+      213: 8449637269115181669
+    second: giratina-dialga-palkia_58
+  - first:
+      213: -951646570216566559
+    second: giratina-dialga-palkia_59
+  - first:
+      213: 7887754533534550880
+    second: giratina-dialga-palkia_60
+  - first:
+      213: 8212901375268707347
+    second: giratina-dialga-palkia_61
+  - first:
+      213: -8026238924382258698
+    second: giratina-dialga-palkia_62
+  - first:
+      213: 4710582431346087105
+    second: giratina-dialga-palkia_63
+  - first:
+      213: -6454736956105624986
+    second: giratina-dialga-palkia_64
+  - first:
+      213: 3963579945871651807
+    second: giratina-dialga-palkia_65
+  - first:
+      213: 4453720651971309310
+    second: giratina-dialga-palkia_66
+  - first:
+      213: 6282064538590017586
+    second: giratina-dialga-palkia_67
+  - first:
+      213: 7868777335115413260
+    second: giratina-dialga-palkia_68
+  - first:
+      213: 7875482861806891727
+    second: giratina-dialga-palkia_69
+  - first:
+      213: -9168231954471308740
+    second: giratina-dialga-palkia_70
+  - first:
+      213: -3539963078590196580
+    second: giratina-dialga-palkia_71
+  - first:
+      213: 6665738551269573999
+    second: giratina-dialga-palkia_72
+  - first:
+      213: 8870409118834530652
+    second: giratina-dialga-palkia_73
+  - first:
+      213: 3906487328595646906
+    second: giratina-dialga-palkia_74
+  - first:
+      213: 750763333674295258
+    second: giratina-dialga-palkia_75
+  - first:
+      213: -1063018648451572324
+    second: giratina-dialga-palkia_76
+  - first:
+      213: 8648938072509318511
+    second: giratina-dialga-palkia_77
+  - first:
+      213: -241320876487851506
+    second: giratina-dialga-palkia_78
+  - first:
+      213: 805607348647602866
+    second: giratina-dialga-palkia_79
+  - first:
+      213: -4448313137219862579
+    second: giratina-dialga-palkia_80
+  - first:
+      213: 7941605420839831087
+    second: giratina-dialga-palkia_81
+  - first:
+      213: 7662286842075133838
+    second: giratina-dialga-palkia_82
+  - first:
+      213: -2096404246540273841
+    second: giratina-dialga-palkia_83
+  - first:
+      213: -8127908565389112089
+    second: giratina-dialga-palkia_84
+  - first:
+      213: 2789273087780659801
+    second: giratina-dialga-palkia_85
+  - first:
+      213: 4134079338983873659
+    second: giratina-dialga-palkia_86
+  - first:
+      213: 8258750231928645308
+    second: giratina-dialga-palkia_87
+  - first:
+      213: -7694627173252180777
+    second: giratina-dialga-palkia_88
+  - first:
+      213: -1752901675290062352
+    second: giratina-dialga-palkia_89
+  - first:
+      213: -5396891224928295925
+    second: giratina-dialga-palkia_90
+  - first:
+      213: -7299917577389617161
+    second: giratina-dialga-palkia_91
+  - first:
+      213: 6005141541150827085
+    second: giratina-dialga-palkia_92
+  - first:
+      213: 6906133309306952665
+    second: giratina-dialga-palkia_93
+  - first:
+      213: -783834512865095478
+    second: giratina-dialga-palkia_94
+  - first:
+      213: 9038497758282559046
+    second: giratina-dialga-palkia_95
+  - first:
+      213: 7995759798545792151
+    second: giratina-dialga-palkia_96
+  - first:
+      213: -1362525519345853729
+    second: giratina-dialga-palkia_97
+  - first:
+      213: 3181079846902957866
+    second: giratina-dialga-palkia_98
+  - first:
+      213: 584086221690477285
+    second: giratina-dialga-palkia_99
+  - first:
+      213: -3530028778899311593
+    second: giratina-dialga-palkia_100
+  - first:
+      213: 5545309170678768053
+    second: giratina-dialga-palkia_101
+  - first:
+      213: -5229591000393153546
+    second: giratina-dialga-palkia_102
+  - first:
+      213: 5646444427045009033
+    second: giratina-dialga-palkia_103
+  - first:
+      213: -941105997649535327
+    second: giratina-dialga-palkia_104
+  - first:
+      213: -1662328334374299803
+    second: giratina-dialga-palkia_105
+  - first:
+      213: 5975802410004341729
+    second: giratina-dialga-palkia_106
+  - first:
+      213: -4076355554400500498
+    second: giratina-dialga-palkia_107
+  - first:
+      213: -1941534808877777897
+    second: giratina-dialga-palkia_108
+  - first:
+      213: -1691314645218362052
+    second: giratina-dialga-palkia_109
+  - first:
+      213: 2112738314955532987
+    second: giratina-dialga-palkia_110
+  - first:
+      213: 3964131934174482225
+    second: giratina-dialga-palkia_111
+  - first:
+      213: 2521500571784021814
+    second: giratina-dialga-palkia_112
+  - first:
+      213: 8959369540331968233
+    second: giratina-dialga-palkia_113
+  - first:
+      213: 6700282177310789351
+    second: giratina-dialga-palkia_114
+  - first:
+      213: 2428284524303048988
+    second: giratina-dialga-palkia_115
+  - first:
+      213: -3896085033020383250
+    second: giratina-dialga-palkia_116
+  - first:
+      213: -4083810632323036571
+    second: giratina-dialga-palkia_117
+  - first:
+      213: -2645086463380941320
+    second: giratina-dialga-palkia_118
+  - first:
+      213: -8068839800616419747
+    second: giratina-dialga-palkia_119
+  - first:
+      213: 6986490607014004871
+    second: giratina-dialga-palkia_120
+  - first:
+      213: -8065683229304435791
+    second: giratina-dialga-palkia_121
+  - first:
+      213: -3329311963177256105
+    second: giratina-dialga-palkia_122
+  - first:
+      213: -8838528467946954285
+    second: giratina-dialga-palkia_123
+  - first:
+      213: -3554039380683508402
+    second: giratina-dialga-palkia_124
+  - first:
+      213: 2033988354795074373
+    second: giratina-dialga-palkia_125
+  - first:
+      213: -1126376143294002953
+    second: giratina-dialga-palkia_126
+  - first:
+      213: 619552518409983160
+    second: giratina-dialga-palkia_127
+  - first:
+      213: 2276246969360105929
+    second: giratina-dialga-palkia_128
+  - first:
+      213: -729343321210175705
+    second: giratina-dialga-palkia_129
+  - first:
+      213: -1137845961700209678
+    second: giratina-dialga-palkia_130
+  - first:
+      213: 3629207882582318811
+    second: giratina-dialga-palkia_131
+  - first:
+      213: -1486886353088172179
+    second: giratina-dialga-palkia_132
+  - first:
+      213: 2320772565556270358
+    second: giratina-dialga-palkia_133
+  - first:
+      213: 4082936301756450510
+    second: giratina-dialga-palkia_134
+  - first:
+      213: 8160490297305875097
+    second: giratina-dialga-palkia_135
+  - first:
+      213: 9109621134725608356
+    second: giratina-dialga-palkia_136
+  - first:
+      213: 5485721831577716450
+    second: giratina-dialga-palkia_137
+  - first:
+      213: -468642739436925524
+    second: giratina-dialga-palkia_138
+  - first:
+      213: -7828308434654432030
+    second: giratina-dialga-palkia_139
+  - first:
+      213: 5922951371805961155
+    second: giratina-dialga-palkia_140
+  - first:
+      213: 7893377550112111442
+    second: giratina-dialga-palkia_141
+  - first:
+      213: -2731392641453095077
+    second: giratina-dialga-palkia_142
+  - first:
+      213: -2097229625073028609
+    second: giratina-dialga-palkia_143
+  - first:
+      213: -5943815386174313702
+    second: giratina-dialga-palkia_144
+  - first:
+      213: 9123079117291217024
+    second: giratina-dialga-palkia_145
+  - first:
+      213: -1198663988920049034
+    second: giratina-dialga-palkia_146
+  - first:
+      213: 2732923929949581919
+    second: giratina-dialga-palkia_147
+  - first:
+      213: 9119548590698322717
+    second: giratina-dialga-palkia_148
+  - first:
+      213: 4353126865786817416
+    second: giratina-dialga-palkia_149
+  - first:
+      213: 3129405696416806549
+    second: giratina-dialga-palkia_150
+  - first:
+      213: 2477192509920522109
+    second: giratina-dialga-palkia_151
+  - first:
+      213: -8247128430694492013
+    second: giratina-dialga-palkia_152
+  - first:
+      213: -6183511858481285652
+    second: giratina-dialga-palkia_153
+  - first:
+      213: 3484943418429230724
+    second: giratina-dialga-palkia_154
+  - first:
+      213: 2984413132580906765
+    second: giratina-dialga-palkia_155
+  - first:
+      213: -2472067854399589874
+    second: giratina-dialga-palkia_156
+  - first:
+      213: 7099585151528574538
+    second: giratina-dialga-palkia_157
+  - first:
+      213: -1608335222860107248
+    second: giratina-dialga-palkia_158
+  - first:
+      213: -7311571770410774639
+    second: giratina-dialga-palkia_159
+  - first:
+      213: -2974625735364338141
+    second: giratina-dialga-palkia_160
+  - first:
+      213: -7791295680601360308
+    second: giratina-dialga-palkia_161
+  - first:
+      213: -247922959122731960
+    second: giratina-dialga-palkia_162
+  - first:
+      213: 6172585322186115731
+    second: giratina-dialga-palkia_163
+  - first:
+      213: -6157705193638454763
+    second: giratina-dialga-palkia_164
+  - first:
+      213: -3804317484526542876
+    second: giratina-dialga-palkia_165
+  - first:
+      213: -2626854272296267086
+    second: giratina-dialga-palkia_166
+  - first:
+      213: 3979224979432011935
+    second: giratina-dialga-palkia_167
+  - first:
+      213: 6512600424783379795
+    second: giratina-dialga-palkia_168
+  - first:
+      213: -8273511647485328247
+    second: giratina-dialga-palkia_169
+  - first:
+      213: -4295886491274524113
+    second: giratina-dialga-palkia_170
+  - first:
+      213: -6924331556587840678
+    second: giratina-dialga-palkia_171
+  - first:
+      213: -834814683709472663
+    second: giratina-dialga-palkia_172
+  - first:
+      213: -1236812873771841350
+    second: giratina-dialga-palkia_173
+  - first:
+      213: -4614376656044665291
+    second: giratina-dialga-palkia_174
+  - first:
+      213: -8731264738313763969
+    second: giratina-dialga-palkia_175
+  - first:
+      213: -2737780381487450590
+    second: giratina-dialga-palkia_176
+  - first:
+      213: -636921871366322881
+    second: giratina-dialga-palkia_177
+  - first:
+      213: 5191258740001678733
+    second: giratina-dialga-palkia_178
+  - first:
+      213: -4408481406142245805
+    second: giratina-dialga-palkia_179
+  - first:
+      213: 8237323290451734519
+    second: giratina-dialga-palkia_180
+  - first:
+      213: 3871054563050297469
+    second: giratina-dialga-palkia_181
+  - first:
+      213: -2563750727932597743
+    second: giratina-dialga-palkia_182
+  - first:
+      213: -6715358812639528638
+    second: giratina-dialga-palkia_183
+  - first:
+      213: -706563074841421127
+    second: giratina-dialga-palkia_184
+  - first:
+      213: 7674615404514765226
+    second: giratina-dialga-palkia_185
+  - first:
+      213: 7582369510957311072
+    second: giratina-dialga-palkia_186
+  - first:
+      213: -1077048832759926097
+    second: giratina-dialga-palkia_187
+  - first:
+      213: -281378348309539378
+    second: giratina-dialga-palkia_188
+  - first:
+      213: -4874066754077756372
+    second: giratina-dialga-palkia_189
+  - first:
+      213: 233380689024678570
+    second: giratina-dialga-palkia_190
+  - first:
+      213: 3535262374830780194
+    second: giratina-dialga-palkia_191
+  - first:
+      213: 2311100638762281100
+    second: giratina-dialga-palkia_192
+  - first:
+      213: 6409738275994737226
+    second: giratina-dialga-palkia_193
+  - first:
+      213: 6636802184016774403
+    second: giratina-dialga-palkia_194
+  - first:
+      213: 1395457142954134078
+    second: giratina-dialga-palkia_195
+  - first:
+      213: -8844149551728379322
+    second: giratina-dialga-palkia_196
+  - first:
+      213: -1224105764416033422
+    second: giratina-dialga-palkia_197
+  - first:
+      213: -1763371277187868757
+    second: giratina-dialga-palkia_198
+  - first:
+      213: 197018076342136148
+    second: giratina-dialga-palkia_199
+  - first:
+      213: -9185711529241557668
+    second: giratina-dialga-palkia_200
+  - first:
+      213: 1999313282575693296
+    second: giratina-dialga-palkia_201
+  - first:
+      213: -3687889060692146012
+    second: giratina-dialga-palkia_202
+  - first:
+      213: 2176011263962587036
+    second: giratina-dialga-palkia_203
+  - first:
+      213: -6056758775047096765
+    second: giratina-dialga-palkia_204
+  - first:
+      213: -1028735702078427949
+    second: giratina-dialga-palkia_205
+  - first:
+      213: -2555573030717844489
+    second: giratina-dialga-palkia_206
+  - first:
+      213: -8701617839944966231
+    second: giratina-dialga-palkia_207
+  - first:
+      213: -4163068188141615355
+    second: giratina-dialga-palkia_208
+  - first:
+      213: 1892171792742440569
+    second: giratina-dialga-palkia_209
+  - first:
+      213: 3950261201955764416
+    second: giratina-dialga-palkia_210
+  - first:
+      213: 7976043483153575632
+    second: giratina-dialga-palkia_211
+  - first:
+      213: -7255881068390911060
+    second: giratina-dialga-palkia_212
+  - first:
+      213: -2215315231388319179
+    second: giratina-dialga-palkia_213
+  - first:
+      213: 6516231032935708905
+    second: giratina-dialga-palkia_214
+  - first:
+      213: -8387073913553116126
+    second: giratina-dialga-palkia_215
+  - first:
+      213: -5482478028743305443
+    second: giratina-dialga-palkia_216
+  - first:
+      213: 522369134456279554
+    second: giratina-dialga-palkia_217
+  - first:
+      213: -3347318022863032187
+    second: giratina-dialga-palkia_218
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1274
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3521f0f4cb0bcf4d0800000000000000
+      internalID: -3099408120711015853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1277
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c579a3e15a5cbd30800000000000000
+      internalID: 4448529839693592003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_2
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1278
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5700aa4fbed0660800000000000000
+      internalID: 7353793202622592493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1273
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154a728ab1390d000800000000000000
+      internalID: 58708542150386769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1224
+        width: 55
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228cc7ad39c2595a0800000000000000
+      internalID: -6515252272384128990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1224
+        width: 55
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbbe9cedd4e94f30800000000000000
+      internalID: 4560427739498068948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1222
+        width: 53
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6955c19a528f290b0800000000000000
+      internalID: -5723239335799794282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1224
+        width: 55
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a410e6e91328cb0800000000000000
+      internalID: -4863270091086542216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1223
+        width: 57
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00041b443bdc7f140800000000000000
+      internalID: 4753494101548154880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1224
+        width: 55
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd8ddaff59918960800000000000000
+      internalID: 7602526283487874481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1224
+        width: 55
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ee6f48415d02320800000000000000
+      internalID: 2531257274689056338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1225
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2324344c4c7b340800000000000000
+      internalID: 4879585068500267681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_12
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1223
+        width: 43
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b96317d242cdd0800000000000000
+      internalID: -2467336154334514460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1223
+        width: 43
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e83801075e54980800000000000000
+      internalID: -8555179647644234117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1175
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959f6b59be377ad0800000000000000
+      internalID: -2704624085388782189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1175
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c5fd542d861f1f0800000000000000
+      internalID: -1012913188856964003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1173
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60addc778d1f7af00800000000000000
+      internalID: 1128136143704807942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1172
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9616aad721b2a1910800000000000000
+      internalID: 1808805558760399209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1171
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f691cfd8028eaf0800000000000000
+      internalID: -367007575438692571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1174
+        width: 46
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e5c510c30eda820800000000000000
+      internalID: 2931245480813551168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1172
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003c795c722dd7610800000000000000
+      internalID: 1620682509183861504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1168
+        width: 45
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8388cdd71dd3fba80800000000000000
+      internalID: -8448966405954697160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1217
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2986d75b159beb0800000000000000
+      internalID: -4703638495876836653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1210
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b3a4760c9370a0800000000000000
+      internalID: -6884987853778732993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1176
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84bf3ee084e2af70800000000000000
+      internalID: 9197164631448073359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1199
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5af2484a7d23140800000000000000
+      internalID: 4698054462893172139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1151
+        width: 44
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b894c9883e31dde0800000000000000
+      internalID: -1310197604037650248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_27
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1152
+        width: 43
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c36ca0d7f7e9940800000000000000
+      internalID: 5304817586117426331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1129
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31952cb97efcf4400800000000000000
+      internalID: 310695492969453843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1129
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d949334695733aa70800000000000000
+      internalID: 8836967750903764125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1125
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0112f19b2d241d40800000000000000
+      internalID: 5554113905610068237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1125
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bc8ed27e364b4d0800000000000000
+      internalID: -3119758797302084827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1125
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee03b27384a66ce0800000000000000
+      internalID: -1412260548662063385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_33
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1127
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa57e188bf68f230800000000000000
+      internalID: 3672808334364727980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1126
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2f8f550ed43f10800000000000000
+      internalID: 2248666228624141269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_35
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1159
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef0e0c28d44bea0800000000000000
+      internalID: -5857971991325114774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_36
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1160
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8236e89e8eb8ca0800000000000000
+      internalID: -6013456787609278285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_37
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1150
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a05a3885e3440c0800000000000000
+      internalID: -4592477170124387811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1111
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac004dad668f4550800000000000000
+      internalID: 6147279822000229537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1153
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d379ee710eabc30800000000000000
+      internalID: 4376056381335616903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1078
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f96e6175e1eb6c0800000000000000
+      internalID: -4125826849229594859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_41
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1078
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644051335f06b2150800000000000000
+      internalID: 5848875147310990406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1072
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e594331f7ad07ed0800000000000000
+      internalID: -2418192760580041243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1073
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab801f4cc68a4450800000000000000
+      internalID: 6073815259520469921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_44
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1071
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7c0633f4e9fc5f0800000000000000
+      internalID: -734194151236515933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1075
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc0accb15185c00800000000000000
+      internalID: 889484135547063349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1075
+        width: 39
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0668f37e73006720800000000000000
+      internalID: 2837271606889833995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1102
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45af78f41d93ab390800000000000000
+      internalID: -7801859833320703404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1100
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c394a925a6b459e0800000000000000
+      internalID: -1633479944344136766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_49
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1104
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcffcc11da07b210800000000000000
+      internalID: 1348558506668588215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_50
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1104
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a1a0a6c83c6970800000000000000
+      internalID: 8749430601823660443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_51
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1104
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203bb3a0431d4e4f0800000000000000
+      internalID: -800284812324916478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1023
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2084432b12ed8f980800000000000000
+      internalID: -8504803659984123902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1025
+        width: 55
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1312e344aaf11b450800000000000000
+      internalID: 6102693786213556529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1017
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ef9d122c3ae4f30800000000000000
+      internalID: 4561763526759808633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1015
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa0d012932ab9150800000000000000
+      internalID: 5880472104713652910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1017
+        width: 49
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8b72440765b1c00800000000000000
+      internalID: 872385993006102692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1020
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222ce467aca19cc0800000000000000
+      internalID: -3705991183396494801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_58
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1020
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a13820454234570800000000000000
+      internalID: 8449637269115181669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_59
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1054
+        width: 45
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0d5868c721bc2f0800000000000000
+      internalID: -951646570216566559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_60
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1050
+        width: 41
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bcdc605fee67d60800000000000000
+      internalID: 7887754533534550880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_61
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1052
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c553879461af170800000000000000
+      internalID: 8212901375268707347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_62
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1051
+        width: 39
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f938cd19321d9090800000000000000
+      internalID: -8026238924382258698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_63
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1045
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4549973c95f5140800000000000000
+      internalID: 4710582431346087105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1046
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662fcb4efea2c66a0800000000000000
+      internalID: -6454736956105624986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_65
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 996
+        width: 49
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3ba88f5f6710730800000000000000
+      internalID: 3963579945871651807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_66
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 994
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe229d065bcecd30800000000000000
+      internalID: 4453720651971309310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_67
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 996
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2387cbef9606e2750800000000000000
+      internalID: 6282064538590017586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_68
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1039
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f234bb43833d60800000000000000
+      internalID: 7868777335115413260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_69
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 993
+        width: 45
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc23daccfe55b4d60800000000000000
+      internalID: 7875482861806891727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_70
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1039
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c323a5fdc95e3c080800000000000000
+      internalID: -9168231954471308740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 47
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9412a6e5568fdec0800000000000000
+      internalID: -3539963078590196580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_72
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 885
+        width: 48
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cc0255e5718c50800000000000000
+      internalID: 6665738551269573999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 883
+        width: 47
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59948c98160a1b70800000000000000
+      internalID: 8870409118834530652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 888
+        width: 47
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab912842781a63630800000000000000
+      internalID: 3906487328595646906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_75
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 883
+        width: 48
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf5b06364f3b6a00800000000000000
+      internalID: 750763333674295258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_76
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 866
+        width: 58
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d9d6ddb266f31f0800000000000000
+      internalID: -1063018648451572324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_77
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 857
+        width: 64
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6505485a53370870800000000000000
+      internalID: 8648938072509318511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 862
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e024e0001f7a6acf0800000000000000
+      internalID: -241320876487851506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 862
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baa5948d971e2b00800000000000000
+      internalID: 805607348647602866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 820
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf7e4615ca6442c0800000000000000
+      internalID: -4448313137219862579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 820
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f268977cd00463e60800000000000000
+      internalID: 7941605420839831087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 823
+        width: 62
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87b90d4949e55a60800000000000000
+      internalID: 7662286842075133838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_83
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 819
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b85be17318e2e0800000000000000
+      internalID: -2096404246540273841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_84
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 818
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec8029293ed33f80800000000000000
+      internalID: -8127908565389112089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_85
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 800
+        width: 61
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95229ba581d75b620800000000000000
+      internalID: 2789273087780659801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_86
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 777
+        width: 66
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c5a6961433f5930800000000000000
+      internalID: 4134079338983873659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_87
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 780
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb628c64499fc9270800000000000000
+      internalID: 8258750231928645308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_88
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 780
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d45c339a51373590800000000000000
+      internalID: -7694627173252180777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_89
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 810
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1162ea6317ca7e0800000000000000
+      internalID: -1752901675290062352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_90
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 811
+        width: 55
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04e9be56046a15b0800000000000000
+      internalID: -5396891224928295925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_91
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 815
+        width: 62
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffcf06d3ab71ba90800000000000000
+      internalID: -7299917577389617161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 63
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42ac324a6c865350800000000000000
+      internalID: 6005141541150827085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_93
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 762
+        width: 64
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbdbb097a387df50800000000000000
+      internalID: 6906133309306952665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 758
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac01cf9d9a24f15f0800000000000000
+      internalID: -783834512865095478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_95
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 758
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea899b2d13f6d70800000000000000
+      internalID: 9038497758282559046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_96
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 758
+        width: 64
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cbba56c25a6fe60800000000000000
+      internalID: 7995759798545792151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 737
+        width: 64
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda5cf55246571de0800000000000000
+      internalID: -1362525519345853729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_98
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 698
+        width: 69
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a270ec44447752c20800000000000000
+      internalID: 3181079846902957866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_99
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 750
+        width: 64
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea9f02f2571b1800800000000000000
+      internalID: 584086221690477285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_100
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 750
+        width: 64
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714fcca4781d20fc0800000000000000
+      internalID: -3530028778899311593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_101
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 750
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b126087f45e4fc40800000000000000
+      internalID: 5545309170678768053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38cf451b2cc67b0800000000000000
+      internalID: -5229591000393153546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986700e4a433c5e40800000000000000
+      internalID: 5646444427045009033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 700
+        width: 63
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae1c12d41580f2f0800000000000000
+      internalID: -941105997649535327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 694
+        width: 63
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5679d81ff293ee8e0800000000000000
+      internalID: -1662328334374299803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 696
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e36b3871a05ee250800000000000000
+      internalID: 5975802410004341729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 696
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee484c18830ed67c0800000000000000
+      internalID: -4076355554400500498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_108
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 676
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb8c5c0684e05e0800000000000000
+      internalID: -1941534808877777897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_109
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 698
+        width: 70
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3df7588a4e3788e0800000000000000
+      internalID: -1691314645218362052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_110
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 698
+        width: 70
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba284ebd44f15d10800000000000000
+      internalID: 2112738314955532987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_111
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 688
+        width: 61
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f8043cdfc630730800000000000000
+      internalID: 3964131934174482225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_112
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 688
+        width: 63
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637812a196b2ef220800000000000000
+      internalID: 2521500571784021814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_113
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 686
+        width: 63
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e611fec023165c70800000000000000
+      internalID: 8959369540331968233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 638
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8d71042f2cfc50800000000000000
+      internalID: 6700282177310789351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_115
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 629
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1169a4c8eff2b120800000000000000
+      internalID: 2428284524303048988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_116
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 631
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef9a180e435ee9c0800000000000000
+      internalID: -3896085033020383250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_117
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 629
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a0c6aedd36357c0800000000000000
+      internalID: -4083810632323036571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 622
+        width: 63
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f51cf530e3ca4bd0800000000000000
+      internalID: -2645086463380941320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_119
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 620
+        width: 54
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e79bea3f8b50090800000000000000
+      internalID: -8068839800616419747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_120
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 620
+        width: 62
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7884ca9e03005f060800000000000000
+      internalID: 6986490607014004871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_121
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 620
+        width: 62
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbcb7636dfe01090800000000000000
+      internalID: -8065683229304435791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_122
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 621
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b7c50b868ebc1d0800000000000000
+      internalID: -3329311963177256105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 623
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d128dadf2d375580800000000000000
+      internalID: -8838528467946954285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_124
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 621
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453c9c63048daec0800000000000000
+      internalID: -3554039380683508402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 579
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54377d4d1ad2a3c10800000000000000
+      internalID: 2033988354795074373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 531
+        width: 71
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f88c7f8dde4e50f0800000000000000
+      internalID: -1126376143294002953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_127
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 532
+        width: 52
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b49683abb7199800800000000000000
+      internalID: 619552518409983160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_128
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 532
+        width: 52
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c4cdfe8ad69f10800000000000000
+      internalID: 2276246969360105929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 529
+        width: 69
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb6f31d1ad0e5f0800000000000000
+      internalID: -729343321210175705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_130
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 532
+        width: 63
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb0fbb502f8530f0800000000000000
+      internalID: -1137845961700209678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_131
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 532
+        width: 63
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdedd5147598d5230800000000000000
+      internalID: 3629207882582318811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_132
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 530
+        width: 64
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fadce5db48d5be0800000000000000
+      internalID: -1486886353088172179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_133
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 529
+        width: 64
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61514763a5a053020800000000000000
+      internalID: 2320772565556270358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_134
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 470
+        width: 9
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68db22fe089a830800000000000000
+      internalID: 4082936301756450510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 470
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99240f370b2ef3170800000000000000
+      internalID: 8160490297305875097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_136
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 411
+        width: 49
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f5bd3820eb6e70800000000000000
+      internalID: 9109621134725608356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_137
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 404
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e68bc3f0f2312c40800000000000000
+      internalID: 5485721831577716450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_138
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 404
+        width: 47
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadcb4559eb0f79f0800000000000000
+      internalID: -468642739436925524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_139
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 405
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47a3074f24c5390800000000000000
+      internalID: -7828308434654432030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_140
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 409
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb286a34ec823250800000000000000
+      internalID: 5922951371805961155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_141
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 405
+        width: 48
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bb9789f09ea8d60800000000000000
+      internalID: 7893377550112111442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_142
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 414
+        width: 51
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5782183dd4281ad0800000000000000
+      internalID: -2731392641453095077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_143
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 457
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1b81184c425e2e0800000000000000
+      internalID: -2097229625073028609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_144
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 459
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b2490e563538da0800000000000000
+      internalID: -5943815386174313702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_145
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 459
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0806debfe10bb9e70800000000000000
+      internalID: 9123079117291217024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_146
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 457
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6722e5fe37d7d5fe0800000000000000
+      internalID: -1198663988920049034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_147
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 337
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f523fcaa5db4de520800000000000000
+      internalID: 2732923929949581919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_148
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 337
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bdc7430252f8e70800000000000000
+      internalID: 9119548590698322717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_149
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 334
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bce6112d9696c30800000000000000
+      internalID: 4353126865786817416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_150
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 338
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f10d86e1ed6b20800000000000000
+      internalID: 3129405696416806549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_151
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 342
+        width: 57
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f221a8671c06220800000000000000
+      internalID: 2477192509920522109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_152
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 342
+        width: 56
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3981e6f23605c8d80800000000000000
+      internalID: -8247128430694492013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_153
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 344
+        width: 60
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5bec2f9b0cf2aa0800000000000000
+      internalID: -6183511858481285652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_154
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 398
+        width: 48
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e4fc533910d5030800000000000000
+      internalID: 3484943418429230724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_155
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 388
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ee769ee3ca6920800000000000000
+      internalID: 2984413132580906765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_156
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 387
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02b9dd426371bdd0800000000000000
+      internalID: -2472067854399589874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_157
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 386
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e9f71841bc68260800000000000000
+      internalID: 7099585151528574538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_158
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 274
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012bca9d2ab0ea9e0800000000000000
+      internalID: -1608335222860107248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_159
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 274
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f44e29634188a90800000000000000
+      internalID: -7311571770410774639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_160
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 270
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e9fd767a108b6d0800000000000000
+      internalID: -2974625735364338141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_161
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 271
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4878b9cbd1cfd390800000000000000
+      internalID: -7791295680601360308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_162
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 270
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c63d9d1633f8cf0800000000000000
+      internalID: -247922959122731960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_163
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 271
+        width: 58
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a81b295ad69a550800000000000000
+      internalID: 6172585322186115731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_164
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 271
+        width: 60
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1a9550cf6b8aa0800000000000000
+      internalID: -6157705193638454763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_165
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 328
+        width: 61
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efdcf96769543bc0800000000000000
+      internalID: -3804317484526542876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_166
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 326
+        width: 57
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2501ff4f98b8bd0800000000000000
+      internalID: -2626854272296267086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_167
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 322
+        width: 54
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98f764390c093730800000000000000
+      internalID: 3979224979432011935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_168
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 318
+        width: 54
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d7543c497616a50800000000000000
+      internalID: 6512600424783379795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_169
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 320
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9848496ddf49e2d80800000000000000
+      internalID: -8273511647485328247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_170
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 316
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ace2c2ff1f164c0800000000000000
+      internalID: -4295886491274524113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_171
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 313
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bdd8ec225d7ef90800000000000000
+      internalID: -6924331556587840678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_172
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 254
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960873cd7742a64f0800000000000000
+      internalID: -834814683709472663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_173
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 255
+        width: 62
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab803358e35f5dee0800000000000000
+      internalID: -1236812873771841350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_174
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 254
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5365a9c11e076ffb0800000000000000
+      internalID: -4614376656044665291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_175
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 207
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f730ae01bf054d680800000000000000
+      internalID: -8731264738313763969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_176
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 207
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22638689f33710ad0800000000000000
+      internalID: -2737780381487450590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_177
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 200
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35888bbee23927f0800000000000000
+      internalID: -636921871366322881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_178
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 203
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8521fec15e0b0840800000000000000
+      internalID: 5191258740001678733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_179
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 205
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3541afba48de1d2c0800000000000000
+      internalID: -4408481406142245805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_180
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 198
+        width: 50
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff6d63b3e9d05270800000000000000
+      internalID: 8237323290451734519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_181
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 195
+        width: 53
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7894c88d9fb8b530800000000000000
+      internalID: 3871054563050297469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_182
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 256
+        width: 73
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aade8db4abb6cd0800000000000000
+      internalID: -2563750727932597743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_183
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 249
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249f4594db04ec2a0800000000000000
+      internalID: -6715358812639528638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_184
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 247
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba5ba080a8c136f0800000000000000
+      internalID: -706563074841421127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_185
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 189
+        width: 46
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9e7dd6c06b18a60800000000000000
+      internalID: 7674615404514765226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_186
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 187
+        width: 53
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064ec58a5ecf93960800000000000000
+      internalID: 7582369510957311072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_187
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 184
+        width: 58
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa278950bcd8d01f0800000000000000
+      internalID: -1077048832759926097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_188
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5168d02e7581cf0800000000000000
+      internalID: -281378348309539378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_189
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 144
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2477af6c16db5cb0800000000000000
+      internalID: -4874066754077756372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_190
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 133
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa70ca00822d3300800000000000000
+      internalID: 233380689024678570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_191
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 137
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fa7973666cf0130800000000000000
+      internalID: 3535262374830780194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_192
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 133
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88aa9549cda21020800000000000000
+      internalID: 2311100638762281100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_193
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 121
+        width: 47
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a14e37007f3f850800000000000000
+      internalID: 6409738275994737226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_194
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 186
+        width: 55
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3054bde4c68aa1c50800000000000000
+      internalID: 6636802184016774403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_195
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 116
+        width: 47
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a0019c0e8ad5310800000000000000
+      internalID: 1395457142954134078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_196
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 175
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64abccc47d4434580800000000000000
+      internalID: -8844149551728379322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_197
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 176
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d6978fa4a130fe0800000000000000
+      internalID: -1224105764416033422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_198
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 176
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba717188a2f3787e0800000000000000
+      internalID: -1763371277187868757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_199
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 175
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d24b685e2fbb200800000000000000
+      internalID: 197018076342136148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_200
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 117
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c85a380cc58080800000000000000
+      internalID: -9185711529241557668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_201
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 121
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5f4a276dcfebb10800000000000000
+      internalID: 1999313282575693296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_202
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 117
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a84566407cf1dcc0800000000000000
+      internalID: -3687889060692146012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_203
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 90
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f1dbf27beb23e10800000000000000
+      internalID: 2176011263962587036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_204
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 113
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3467613fbf112fba0800000000000000
+      internalID: -6056758775047096765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_205
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 103
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6ad5545239b1f0800000000000000
+      internalID: -1028735702078427949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_206
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 103
+        width: 12
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f39e7a5ed7c88cd0800000000000000
+      internalID: -2555573030717844489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_207
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 103
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd0ee7da4ad3780800000000000000
+      internalID: -8701617839944966231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_208
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 92
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507071e2a8fc936c0800000000000000
+      internalID: -4163068188141615355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_209
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 92
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5d686838524a10800000000000000
+      internalID: 1892171792742440569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8b49042a522d630800000000000000
+      internalID: 3950261201955764416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_211
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 92
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de207ef94990be60800000000000000
+      internalID: 7976043483153575632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_212
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 90
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3f3129c9eed4b90800000000000000
+      internalID: -7255881068390911060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_213
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 38
+        width: 49
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5324697c88e9141e0800000000000000
+      internalID: -2215315231388319179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_214
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 38
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e87288999d4e6a50800000000000000
+      internalID: 6516231032935708905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_215
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 38
+        width: 49
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224a8b556b02b9b80800000000000000
+      internalID: -8387073913553116126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_216
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 35
+        width: 49
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d171fdfb7435ae3b0800000000000000
+      internalID: -5482478028743305443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_217
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 59
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20215ecc5f3df3700800000000000000
+      internalID: 522369134456279554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giratina-dialga-palkia_218
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 60
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5807cf83effeb81d0800000000000000
+      internalID: -3347318022863032187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41e56ad03b5d04f5693b8378299d29a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      giratina-dialga-palkia_0: -3099408120711015853
+      giratina-dialga-palkia_1: 4448529839693592003
+      giratina-dialga-palkia_10: 2531257274689056338
+      giratina-dialga-palkia_100: -3530028778899311593
+      giratina-dialga-palkia_101: 5545309170678768053
+      giratina-dialga-palkia_102: -5229591000393153546
+      giratina-dialga-palkia_103: 5646444427045009033
+      giratina-dialga-palkia_104: -941105997649535327
+      giratina-dialga-palkia_105: -1662328334374299803
+      giratina-dialga-palkia_106: 5975802410004341729
+      giratina-dialga-palkia_107: -4076355554400500498
+      giratina-dialga-palkia_108: -1941534808877777897
+      giratina-dialga-palkia_109: -1691314645218362052
+      giratina-dialga-palkia_11: 4879585068500267681
+      giratina-dialga-palkia_110: 2112738314955532987
+      giratina-dialga-palkia_111: 3964131934174482225
+      giratina-dialga-palkia_112: 2521500571784021814
+      giratina-dialga-palkia_113: 8959369540331968233
+      giratina-dialga-palkia_114: 6700282177310789351
+      giratina-dialga-palkia_115: 2428284524303048988
+      giratina-dialga-palkia_116: -3896085033020383250
+      giratina-dialga-palkia_117: -4083810632323036571
+      giratina-dialga-palkia_118: -2645086463380941320
+      giratina-dialga-palkia_119: -8068839800616419747
+      giratina-dialga-palkia_12: -2467336154334514460
+      giratina-dialga-palkia_120: 6986490607014004871
+      giratina-dialga-palkia_121: -8065683229304435791
+      giratina-dialga-palkia_122: -3329311963177256105
+      giratina-dialga-palkia_123: -8838528467946954285
+      giratina-dialga-palkia_124: -3554039380683508402
+      giratina-dialga-palkia_125: 2033988354795074373
+      giratina-dialga-palkia_126: -1126376143294002953
+      giratina-dialga-palkia_127: 619552518409983160
+      giratina-dialga-palkia_128: 2276246969360105929
+      giratina-dialga-palkia_129: -729343321210175705
+      giratina-dialga-palkia_13: -8555179647644234117
+      giratina-dialga-palkia_130: -1137845961700209678
+      giratina-dialga-palkia_131: 3629207882582318811
+      giratina-dialga-palkia_132: -1486886353088172179
+      giratina-dialga-palkia_133: 2320772565556270358
+      giratina-dialga-palkia_134: 4082936301756450510
+      giratina-dialga-palkia_135: 8160490297305875097
+      giratina-dialga-palkia_136: 9109621134725608356
+      giratina-dialga-palkia_137: 5485721831577716450
+      giratina-dialga-palkia_138: -468642739436925524
+      giratina-dialga-palkia_139: -7828308434654432030
+      giratina-dialga-palkia_14: -2704624085388782189
+      giratina-dialga-palkia_140: 5922951371805961155
+      giratina-dialga-palkia_141: 7893377550112111442
+      giratina-dialga-palkia_142: -2731392641453095077
+      giratina-dialga-palkia_143: -2097229625073028609
+      giratina-dialga-palkia_144: -5943815386174313702
+      giratina-dialga-palkia_145: 9123079117291217024
+      giratina-dialga-palkia_146: -1198663988920049034
+      giratina-dialga-palkia_147: 2732923929949581919
+      giratina-dialga-palkia_148: 9119548590698322717
+      giratina-dialga-palkia_149: 4353126865786817416
+      giratina-dialga-palkia_15: -1012913188856964003
+      giratina-dialga-palkia_150: 3129405696416806549
+      giratina-dialga-palkia_151: 2477192509920522109
+      giratina-dialga-palkia_152: -8247128430694492013
+      giratina-dialga-palkia_153: -6183511858481285652
+      giratina-dialga-palkia_154: 3484943418429230724
+      giratina-dialga-palkia_155: 2984413132580906765
+      giratina-dialga-palkia_156: -2472067854399589874
+      giratina-dialga-palkia_157: 7099585151528574538
+      giratina-dialga-palkia_158: -1608335222860107248
+      giratina-dialga-palkia_159: -7311571770410774639
+      giratina-dialga-palkia_16: 1128136143704807942
+      giratina-dialga-palkia_160: -2974625735364338141
+      giratina-dialga-palkia_161: -7791295680601360308
+      giratina-dialga-palkia_162: -247922959122731960
+      giratina-dialga-palkia_163: 6172585322186115731
+      giratina-dialga-palkia_164: -6157705193638454763
+      giratina-dialga-palkia_165: -3804317484526542876
+      giratina-dialga-palkia_166: -2626854272296267086
+      giratina-dialga-palkia_167: 3979224979432011935
+      giratina-dialga-palkia_168: 6512600424783379795
+      giratina-dialga-palkia_169: -8273511647485328247
+      giratina-dialga-palkia_17: 1808805558760399209
+      giratina-dialga-palkia_170: -4295886491274524113
+      giratina-dialga-palkia_171: -6924331556587840678
+      giratina-dialga-palkia_172: -834814683709472663
+      giratina-dialga-palkia_173: -1236812873771841350
+      giratina-dialga-palkia_174: -4614376656044665291
+      giratina-dialga-palkia_175: -8731264738313763969
+      giratina-dialga-palkia_176: -2737780381487450590
+      giratina-dialga-palkia_177: -636921871366322881
+      giratina-dialga-palkia_178: 5191258740001678733
+      giratina-dialga-palkia_179: -4408481406142245805
+      giratina-dialga-palkia_18: -367007575438692571
+      giratina-dialga-palkia_180: 8237323290451734519
+      giratina-dialga-palkia_181: 3871054563050297469
+      giratina-dialga-palkia_182: -2563750727932597743
+      giratina-dialga-palkia_183: -6715358812639528638
+      giratina-dialga-palkia_184: -706563074841421127
+      giratina-dialga-palkia_185: 7674615404514765226
+      giratina-dialga-palkia_186: 7582369510957311072
+      giratina-dialga-palkia_187: -1077048832759926097
+      giratina-dialga-palkia_188: -281378348309539378
+      giratina-dialga-palkia_189: -4874066754077756372
+      giratina-dialga-palkia_19: 2931245480813551168
+      giratina-dialga-palkia_190: 233380689024678570
+      giratina-dialga-palkia_191: 3535262374830780194
+      giratina-dialga-palkia_192: 2311100638762281100
+      giratina-dialga-palkia_193: 6409738275994737226
+      giratina-dialga-palkia_194: 6636802184016774403
+      giratina-dialga-palkia_195: 1395457142954134078
+      giratina-dialga-palkia_196: -8844149551728379322
+      giratina-dialga-palkia_197: -1224105764416033422
+      giratina-dialga-palkia_198: -1763371277187868757
+      giratina-dialga-palkia_199: 197018076342136148
+      giratina-dialga-palkia_2: 7353793202622592493
+      giratina-dialga-palkia_20: 1620682509183861504
+      giratina-dialga-palkia_200: -9185711529241557668
+      giratina-dialga-palkia_201: 1999313282575693296
+      giratina-dialga-palkia_202: -3687889060692146012
+      giratina-dialga-palkia_203: 2176011263962587036
+      giratina-dialga-palkia_204: -6056758775047096765
+      giratina-dialga-palkia_205: -1028735702078427949
+      giratina-dialga-palkia_206: -2555573030717844489
+      giratina-dialga-palkia_207: -8701617839944966231
+      giratina-dialga-palkia_208: -4163068188141615355
+      giratina-dialga-palkia_209: 1892171792742440569
+      giratina-dialga-palkia_21: -8448966405954697160
+      giratina-dialga-palkia_210: 3950261201955764416
+      giratina-dialga-palkia_211: 7976043483153575632
+      giratina-dialga-palkia_212: -7255881068390911060
+      giratina-dialga-palkia_213: -2215315231388319179
+      giratina-dialga-palkia_214: 6516231032935708905
+      giratina-dialga-palkia_215: -8387073913553116126
+      giratina-dialga-palkia_216: -5482478028743305443
+      giratina-dialga-palkia_217: 522369134456279554
+      giratina-dialga-palkia_218: -3347318022863032187
+      giratina-dialga-palkia_22: -4703638495876836653
+      giratina-dialga-palkia_23: -6884987853778732993
+      giratina-dialga-palkia_24: 9197164631448073359
+      giratina-dialga-palkia_25: 4698054462893172139
+      giratina-dialga-palkia_26: -1310197604037650248
+      giratina-dialga-palkia_27: 5304817586117426331
+      giratina-dialga-palkia_28: 310695492969453843
+      giratina-dialga-palkia_29: 8836967750903764125
+      giratina-dialga-palkia_3: 58708542150386769
+      giratina-dialga-palkia_30: 5554113905610068237
+      giratina-dialga-palkia_31: -3119758797302084827
+      giratina-dialga-palkia_32: -1412260548662063385
+      giratina-dialga-palkia_33: 3672808334364727980
+      giratina-dialga-palkia_34: 2248666228624141269
+      giratina-dialga-palkia_35: -5857971991325114774
+      giratina-dialga-palkia_36: -6013456787609278285
+      giratina-dialga-palkia_37: -4592477170124387811
+      giratina-dialga-palkia_38: 6147279822000229537
+      giratina-dialga-palkia_39: 4376056381335616903
+      giratina-dialga-palkia_4: -6515252272384128990
+      giratina-dialga-palkia_40: -4125826849229594859
+      giratina-dialga-palkia_41: 5848875147310990406
+      giratina-dialga-palkia_42: -2418192760580041243
+      giratina-dialga-palkia_43: 6073815259520469921
+      giratina-dialga-palkia_44: -734194151236515933
+      giratina-dialga-palkia_45: 889484135547063349
+      giratina-dialga-palkia_46: 2837271606889833995
+      giratina-dialga-palkia_47: -7801859833320703404
+      giratina-dialga-palkia_48: -1633479944344136766
+      giratina-dialga-palkia_49: 1348558506668588215
+      giratina-dialga-palkia_5: 4560427739498068948
+      giratina-dialga-palkia_50: 8749430601823660443
+      giratina-dialga-palkia_51: -800284812324916478
+      giratina-dialga-palkia_52: -8504803659984123902
+      giratina-dialga-palkia_53: 6102693786213556529
+      giratina-dialga-palkia_54: 4561763526759808633
+      giratina-dialga-palkia_55: 5880472104713652910
+      giratina-dialga-palkia_56: 872385993006102692
+      giratina-dialga-palkia_57: -3705991183396494801
+      giratina-dialga-palkia_58: 8449637269115181669
+      giratina-dialga-palkia_59: -951646570216566559
+      giratina-dialga-palkia_6: -5723239335799794282
+      giratina-dialga-palkia_60: 7887754533534550880
+      giratina-dialga-palkia_61: 8212901375268707347
+      giratina-dialga-palkia_62: -8026238924382258698
+      giratina-dialga-palkia_63: 4710582431346087105
+      giratina-dialga-palkia_64: -6454736956105624986
+      giratina-dialga-palkia_65: 3963579945871651807
+      giratina-dialga-palkia_66: 4453720651971309310
+      giratina-dialga-palkia_67: 6282064538590017586
+      giratina-dialga-palkia_68: 7868777335115413260
+      giratina-dialga-palkia_69: 7875482861806891727
+      giratina-dialga-palkia_7: -4863270091086542216
+      giratina-dialga-palkia_70: -9168231954471308740
+      giratina-dialga-palkia_71: -3539963078590196580
+      giratina-dialga-palkia_72: 6665738551269573999
+      giratina-dialga-palkia_73: 8870409118834530652
+      giratina-dialga-palkia_74: 3906487328595646906
+      giratina-dialga-palkia_75: 750763333674295258
+      giratina-dialga-palkia_76: -1063018648451572324
+      giratina-dialga-palkia_77: 8648938072509318511
+      giratina-dialga-palkia_78: -241320876487851506
+      giratina-dialga-palkia_79: 805607348647602866
+      giratina-dialga-palkia_8: 4753494101548154880
+      giratina-dialga-palkia_80: -4448313137219862579
+      giratina-dialga-palkia_81: 7941605420839831087
+      giratina-dialga-palkia_82: 7662286842075133838
+      giratina-dialga-palkia_83: -2096404246540273841
+      giratina-dialga-palkia_84: -8127908565389112089
+      giratina-dialga-palkia_85: 2789273087780659801
+      giratina-dialga-palkia_86: 4134079338983873659
+      giratina-dialga-palkia_87: 8258750231928645308
+      giratina-dialga-palkia_88: -7694627173252180777
+      giratina-dialga-palkia_89: -1752901675290062352
+      giratina-dialga-palkia_9: 7602526283487874481
+      giratina-dialga-palkia_90: -5396891224928295925
+      giratina-dialga-palkia_91: -7299917577389617161
+      giratina-dialga-palkia_92: 6005141541150827085
+      giratina-dialga-palkia_93: 6906133309306952665
+      giratina-dialga-palkia_94: -783834512865095478
+      giratina-dialga-palkia_95: 9038497758282559046
+      giratina-dialga-palkia_96: 7995759798545792151
+      giratina-dialga-palkia_97: -1362525519345853729
+      giratina-dialga-palkia_98: 3181079846902957866
+      giratina-dialga-palkia_99: 584086221690477285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

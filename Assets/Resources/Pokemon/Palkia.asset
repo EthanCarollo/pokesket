@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Palkia
+  m_EditorClassIdentifier: 
+  id: 11
+  pokemonName: Palkia
+  pokemonPortrait: {fileID: 899552773, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: -3539963078590196580, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  pokemonType: {fileID: 11400000, guid: 534bc0d3bf970e84aafacdc26bd02b48, type: 2}
+  speed: 4
+  defence: 30
+  shootPrecision: 45
+  bottomRightAnimation:
+  - {fileID: -1752901675290062352, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: -5396891224928295925, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: -7299917577389617161, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 7662286842075133838, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: -2096404246540273841, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: -8127908565389112089, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  topRightAnimation:
+  - {fileID: 3964131934174482225, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 2521500571784021814, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 8959369540331968233, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  topLeftAnimation:
+  - {fileID: -1662328334374299803, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 5975802410004341729, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: -4076355554400500498, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []

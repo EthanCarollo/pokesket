@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb644445e7104288a315111bbd0a6c5, type: 3}
+  m_Name: Dialga
+  m_EditorClassIdentifier: 
+  id: 11
+  pokemonName: Dialga
+  pokemonPortrait: {fileID: 1854741161, guid: d6643f40406cc0744ac7c95cd61fa2b9, type: 3}
+  pokemonSprite: {fileID: 5485721831577716450, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  pokemonType: {fileID: 11400000, guid: 534bc0d3bf970e84aafacdc26bd02b48, type: 2}
+  speed: 4
+  defence: 30
+  shootPrecision: 45
+  bottomRightAnimation:
+  - {fileID: -2626854272296267086, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 3979224979432011935, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 6512600424783379795, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  bottomLeftAnimation:
+  - {fileID: 4353126865786817416, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 3129405696416806549, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 2477192509920522109, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  topRightAnimation:
+  - {fileID: 7674615404514765226, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 7582369510957311072, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: -1077048832759926097, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  topLeftAnimation:
+  - {fileID: -4408481406142245805, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 8237323290451734519, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  - {fileID: 3871054563050297469, guid: 6c58dc0350c4e419fa86231ee78404e5, type: 3}
+  shootTopLeftAnimation: []
+  shootTopRightAnimation: []
+  shootBottomRightAnimation: []
+  shootBottomLeftAnimation: []
