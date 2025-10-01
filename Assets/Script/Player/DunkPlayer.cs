@@ -20,6 +20,8 @@ public class DunkPlayer : MonoBehaviour
 
     void Update()
     {
+        if (GameManager.Instance.matchPlaying == false) return;
+        
         if (_pokemonPlayer.isBlockingPass || _pokemonPlayer.isBlockingShoot) return;
 
         if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.Y1 : RemoteInput.Y2))

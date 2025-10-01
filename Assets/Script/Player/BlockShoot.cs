@@ -17,6 +17,8 @@ public class BlockShoot : MonoBehaviour
 
     void Update()
     {
+        if (GameManager.Instance.matchPlaying == false) return;
+        
         if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.B1 : RemoteInput.B2))
         {
             if (_pokemonPlayer.canBlock && BasketBallManager.Instance.IsBallHolded())

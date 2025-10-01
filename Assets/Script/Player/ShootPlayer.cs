@@ -67,6 +67,8 @@ public class ShootPlayer : MonoBehaviour
 
     void Update()
     {
+        if (GameManager.Instance.matchPlaying == false) return;
+        
         if (_pokemonPlayer.isBlockingPass || _pokemonPlayer.isBlockingShoot) return;
 
         if (Input.GetKey(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.B1 : RemoteInput.B2))

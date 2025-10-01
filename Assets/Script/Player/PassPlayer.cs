@@ -13,6 +13,8 @@ public class PassPlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (GameManager.Instance.matchPlaying == false) return;
+        
         if (Input.GetKeyDown(_pokemonPlayer.ControlledByPlayer1 ? RemoteInput.A1 : RemoteInput.A2))
         {
             PassBall();
